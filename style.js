@@ -1,4 +1,5 @@
 function Copilot(pass){
+	alert(pass)
  var url;
   var o1 = document.getElementsByClassName("object-attributes")[0];
 
