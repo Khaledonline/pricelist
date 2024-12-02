@@ -1134,7 +1134,7 @@
       "geol3": "Shorouk City",
       "geol4": "El Patio Sola",
       "unit_type": "Penthouse",
-      "lower_limit": "9000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -2222,7 +2222,7 @@
       "geol3": "New Cairo",
       "geol4": "Taj City Compound",
       "unit_type": "Duplex",
-      "lower_limit": "7000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -2230,7 +2230,7 @@
       "geol3": "New Cairo",
       "geol4": "Taj City Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "9000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Villas For Sale",
@@ -2238,7 +2238,7 @@
       "geol3": "New Cairo",
       "geol4": "Taj City Compound",
       "unit_type": "Town House",
-      "lower_limit": "12000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Villas For Sale",
@@ -2254,7 +2254,7 @@
       "geol3": "New Cairo",
       "geol4": "Taj City Compound",
       "unit_type": "Twin House",
-      "lower_limit": "9000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -4022,7 +4022,7 @@
       "geol3": "Shorouk City",
       "geol4": "Al Burouj",
       "unit_type": "Apartment",
-      "lower_limit": "4500000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -4038,7 +4038,7 @@
       "geol3": "Shorouk City",
       "geol4": "Al Burouj",
       "unit_type": "Penthouse",
-      "lower_limit": "7000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Villas For Sale",
@@ -4046,7 +4046,7 @@
       "geol3": "Shorouk City",
       "geol4": "Al Burouj",
       "unit_type": "Town House",
-      "lower_limit": "7000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -4062,7 +4062,7 @@
       "geol3": "Shorouk City",
       "geol4": "Al Burouj",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "7000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Villas For Sale",
@@ -4070,7 +4070,7 @@
       "geol3": "Shorouk City",
       "geol4": "Al Burouj",
       "unit_type": "Twin House",
-      "lower_limit": "7000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -4294,7 +4294,7 @@
       "geol3": "6th of October",
       "geol4": "Al Motamayez District",
       "unit_type": "Apartment",
-      "lower_limit": "1968209"
+      "lower_limit": "1200000"
     },
     {
       "cat": "Apartments for Sale",
@@ -4302,7 +4302,7 @@
       "geol3": "6th of October",
       "geol4": "Al Motamayez District",
       "unit_type": "Duplex",
-      "lower_limit": "4415456"
+      "lower_limit": "3500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -4326,7 +4326,7 @@
       "geol3": "6th of October",
       "geol4": "Al Motamayez District",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "8173827"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -4334,7 +4334,7 @@
       "geol3": "6th of October",
       "geol4": "Al Motamayez District",
       "unit_type": "Twin House",
-      "lower_limit": "10000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -7494,7 +7494,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Belle Vie Compound",
       "unit_type": "Town House",
-      "lower_limit": "10479494"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Villas For Sale",
@@ -7502,7 +7502,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Belle Vie Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "14685605"
+      "lower_limit": "14000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -7606,7 +7606,7 @@
       "geol3": "Hadayek October",
       "geol4": "Beta Greens",
       "unit_type": "Apartment",
-      "lower_limit": "2683208"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -7614,7 +7614,7 @@
       "geol3": "Hadayek October",
       "geol4": "Beta Greens",
       "unit_type": "Penthouse",
-      "lower_limit": "3229406"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -7622,7 +7622,7 @@
       "geol3": "Hadayek October",
       "geol4": "Beta Greens",
       "unit_type": "Town House",
-      "lower_limit": "20350000"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Villas For Sale",
@@ -7630,7 +7630,7 @@
       "geol3": "Mostakbal City",
       "geol4": "Beta Greens",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "3316702"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -7638,7 +7638,7 @@
       "geol3": "Mostakbal City",
       "geol4": "Beta Greens",
       "unit_type": "Studio",
-      "lower_limit": "3432000"
+      "lower_limit": "2500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -7646,7 +7646,7 @@
       "geol3": "Mostakbal City",
       "geol4": "Beta Greens",
       "unit_type": "Apartment",
-      "lower_limit": "3486640"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -7654,7 +7654,7 @@
       "geol3": "Mostakbal City",
       "geol4": "Beta Greens",
       "unit_type": "Penthouse",
-      "lower_limit": "5350000"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -7662,7 +7662,7 @@
       "geol3": "Mostakbal City",
       "geol4": "Beta Greens",
       "unit_type": "Duplex",
-      "lower_limit": "5690651"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Villas For Sale",
@@ -7670,7 +7670,7 @@
       "geol3": "Mostakbal City",
       "geol4": "Beta Greens",
       "unit_type": "Twin House",
-      "lower_limit": "6285722"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Villas For Sale",
@@ -7678,7 +7678,7 @@
       "geol3": "Mostakbal City",
       "geol4": "Beta Greens",
       "unit_type": "Town House",
-      "lower_limit": "7553742"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -7918,7 +7918,7 @@
       "geol3": "Mostakbal City",
       "geol4": "Bloomfields",
       "unit_type": "Studio",
-      "lower_limit": "1500000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Villas For Sale",
@@ -7934,7 +7934,7 @@
       "geol3": "Mostakbal City",
       "geol4": "Bloomfields",
       "unit_type": "Apartment",
-      "lower_limit": "3000000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -8126,7 +8126,7 @@
       "geol3": "New Cairo",
       "geol4": "Blue Tree Compound",
       "unit_type": "Studio",
-      "lower_limit": "2483341"
+      "lower_limit": "2500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -8134,7 +8134,7 @@
       "geol3": "New Cairo",
       "geol4": "Blue Tree Compound",
       "unit_type": "Apartment",
-      "lower_limit": "3135446"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -9830,7 +9830,7 @@
       "geol3": "New Cairo",
       "geol4": "Century City Compound",
       "unit_type": "Apartment",
-      "lower_limit": "3500000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -9838,7 +9838,7 @@
       "geol3": "New Cairo",
       "geol4": "Century City Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "6000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -11446,7 +11446,7 @@
       "geol3": "Shorouk City",
       "geol4": "Divina Gardens",
       "unit_type": "Duplex",
-      "lower_limit": "3700000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Villas For Sale",
@@ -11454,7 +11454,7 @@
       "geol3": "Shorouk City",
       "geol4": "Divina Gardens",
       "unit_type": "Town House",
-      "lower_limit": "5991176"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -11462,7 +11462,7 @@
       "geol3": "Shorouk City",
       "geol4": "Divina Gardens",
       "unit_type": "Twin House",
-      "lower_limit": "14350000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -11470,7 +11470,7 @@
       "geol3": "Shorouk City",
       "geol4": "Divina Gardens",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "15400000"
+      "lower_limit": "14000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -11478,7 +11478,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Dolphin Beach",
       "unit_type": "Chalet",
-      "lower_limit": "826332"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -11510,7 +11510,7 @@
       "geol3": "North Coast",
       "geol4": "Dose",
       "unit_type": "Apartment",
-      "lower_limit": "4316794"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -11518,7 +11518,7 @@
       "geol3": "North Coast",
       "geol4": "Dose",
       "unit_type": "Chalet",
-      "lower_limit": "4908105"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -11526,7 +11526,7 @@
       "geol3": "North Coast",
       "geol4": "Dose",
       "unit_type": "Standalone Villa",
-      "lower_limit": "8315830"
+      "lower_limit": "25000000"
     },
     {
       "cat": "Villas For Sale",
@@ -11542,7 +11542,7 @@
       "geol3": "North Coast",
       "geol4": "Dose",
       "unit_type": "Town House",
-      "lower_limit": "22500800"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -11550,7 +11550,7 @@
       "geol3": "North Coast",
       "geol4": "Dose",
       "unit_type": "Twin house",
-      "lower_limit": "30000000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Villas For Sale",
@@ -11558,7 +11558,7 @@
       "geol3": "North Coast",
       "geol4": "Dose",
       "unit_type": "Twin House",
-      "lower_limit": "30000000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Villas For Sale",
@@ -11566,7 +11566,7 @@
       "geol3": "North Coast",
       "geol4": "Dose",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "37000000"
+      "lower_limit": "25000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -15102,7 +15102,7 @@
       "geol3": "North Coast",
       "geol4": "Gates",
       "unit_type": "Apartment",
-      "lower_limit": "3500000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -15110,7 +15110,7 @@
       "geol3": "North Coast",
       "geol4": "Gates",
       "unit_type": "Chalet",
-      "lower_limit": "3500000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -15118,7 +15118,7 @@
       "geol3": "North Coast",
       "geol4": "Gates",
       "unit_type": "Town House",
-      "lower_limit": "5498148"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -15750,7 +15750,7 @@
       "geol3": "North Coast",
       "geol4": "Golf Porto Marina",
       "unit_type": "Studio",
-      "lower_limit": "748912"
+      "lower_limit": "1200000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -15758,7 +15758,7 @@
       "geol3": "North Coast",
       "geol4": "Golf Porto Marina",
       "unit_type": "Studio",
-      "lower_limit": "1500000"
+      "lower_limit": "1200000"
     },
     {
       "cat": "Apartments for Sale",
@@ -15766,7 +15766,7 @@
       "geol3": "North Coast",
       "geol4": "Golf Porto Marina",
       "unit_type": "Apartment",
-      "lower_limit": "1548537"
+      "lower_limit": "1200000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -15774,7 +15774,7 @@
       "geol3": "North Coast",
       "geol4": "Golf Porto Marina",
       "unit_type": "Chalet",
-      "lower_limit": "1700000"
+      "lower_limit": "1200000"
     },
     {
       "cat": "Villas For Sale",
@@ -15782,7 +15782,7 @@
       "geol3": "North Coast",
       "geol4": "Golf Porto Marina",
       "unit_type": "Twin House",
-      "lower_limit": "1781608"
+      "lower_limit": "3500000"
     },
     {
       "cat": "Villas For Sale",
@@ -15790,7 +15790,7 @@
       "geol3": "North Coast",
       "geol4": "Golf Porto Marina",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "1977773"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -15830,7 +15830,7 @@
       "geol3": "North Coast",
       "geol4": "Golf Porto Marina",
       "unit_type": "Twin house",
-      "lower_limit": "4000000"
+      "lower_limit": "3500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -17054,7 +17054,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Hadayek Al Mohandessin Compound",
       "unit_type": "Retail",
-      "lower_limit": "1126381"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -17062,7 +17062,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Hadayek Al Mohandessin Compound",
       "unit_type": "Clinic",
-      "lower_limit": "1665595"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -17070,7 +17070,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Hadayek Al Mohandessin Compound",
       "unit_type": "Apartment",
-      "lower_limit": "2437784"
+      "lower_limit": "2500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -17078,7 +17078,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Hadayek Al Mohandessin Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "2711447"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -17086,7 +17086,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Hadayek Al Mohandessin Compound",
       "unit_type": "Office Space",
-      "lower_limit": "7540000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Villas For Sale",
@@ -17094,7 +17094,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Hadayek Al Mohandessin Compound",
       "unit_type": "Town House",
-      "lower_limit": "7590126"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -17102,7 +17102,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Hadayek Al Mohandessin Compound",
       "unit_type": "Duplex",
-      "lower_limit": "7666667"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Villas For Sale",
@@ -17110,7 +17110,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Hadayek Al Mohandessin Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "17500000"
+      "lower_limit": "14000000"
     },
     {
       "cat": "Villas For Sale",
@@ -17118,7 +17118,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Hadayek Al Mohandessin Compound",
       "unit_type": "Twin House",
-      "lower_limit": "19470000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -18006,7 +18006,7 @@
       "geol3": "New Capital City",
       "geol4": "IL Bosco",
       "unit_type": "Apartment",
-      "lower_limit": "2000000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -18014,7 +18014,7 @@
       "geol3": "New Capital City",
       "geol4": "IL Bosco",
       "unit_type": "Duplex",
-      "lower_limit": "4000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -18054,7 +18054,7 @@
       "geol3": "Mostakbal City",
       "geol4": "IL Bosco City",
       "unit_type": "Apartment",
-      "lower_limit": "2000000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -18062,7 +18062,7 @@
       "geol3": "Mostakbal City",
       "geol4": "IL Bosco City",
       "unit_type": "Duplex",
-      "lower_limit": "4500000"
+      "lower_limit": "5500000"
     },
     {
       "cat": "Villas For Sale",
@@ -18406,7 +18406,7 @@
       "geol3": "New Cairo",
       "geol4": "Ivoire East Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "2514476"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -18414,7 +18414,7 @@
       "geol3": "New Cairo",
       "geol4": "Ivoire East Compound",
       "unit_type": "Apartment",
-      "lower_limit": "4274327"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -18422,7 +18422,7 @@
       "geol3": "New Cairo",
       "geol4": "Ivoire East Compound",
       "unit_type": "Duplex",
-      "lower_limit": "7611830"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Villas For Sale",
@@ -18430,7 +18430,7 @@
       "geol3": "New Cairo",
       "geol4": "Ivoire East Compound",
       "unit_type": "Town House",
-      "lower_limit": "11187705"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -18438,7 +18438,7 @@
       "geol3": "New Cairo",
       "geol4": "Ivoire East Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "16898802"
+      "lower_limit": "14000000"
     },
     {
       "cat": "Villas For Sale",
@@ -19262,7 +19262,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Kai",
       "unit_type": "Apartment",
-      "lower_limit": "1049737"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -19270,7 +19270,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Kai",
       "unit_type": "Chalet",
-      "lower_limit": "3255883"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -19278,7 +19278,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Kai",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "8350000"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -19286,7 +19286,7 @@
       "geol3": "North Coast",
       "geol4": "Kai",
       "unit_type": "Chalet",
-      "lower_limit": "892806"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -19294,7 +19294,7 @@
       "geol3": "North Coast",
       "geol4": "Kai",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "17000000"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -21766,7 +21766,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Lasirena Sokhna",
       "unit_type": "Apartment",
-      "lower_limit": "922000"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -21774,7 +21774,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Lasirena Sokhna",
       "unit_type": "Studio",
-      "lower_limit": "1050000"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -21782,7 +21782,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Lasirena Sokhna",
       "unit_type": "Chalet",
-      "lower_limit": "2180714"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -21798,7 +21798,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Lasirena Sokhna",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "4250000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -21806,7 +21806,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Lasirena Sokhna",
       "unit_type": "Standalone Villa",
-      "lower_limit": "6300000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Villas For Sale",
@@ -21830,7 +21830,7 @@
       "geol3": "Alamein",
       "geol4": "Latin District",
       "unit_type": "Studio",
-      "lower_limit": "1379674"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -21838,7 +21838,7 @@
       "geol3": "Alamein",
       "geol4": "Latin District",
       "unit_type": "Standalone Villa",
-      "lower_limit": "1786885"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -21846,7 +21846,7 @@
       "geol3": "Alamein",
       "geol4": "Latin District",
       "unit_type": "Chalet",
-      "lower_limit": "1865053"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -21854,7 +21854,7 @@
       "geol3": "Alamein",
       "geol4": "Latin District",
       "unit_type": "Apartment",
-      "lower_limit": "2183271"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -21862,7 +21862,7 @@
       "geol3": "Alamein",
       "geol4": "Latin District",
       "unit_type": "Studio",
-      "lower_limit": "2500000"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -21894,7 +21894,7 @@
       "geol3": "Alamein",
       "geol4": "Latin District",
       "unit_type": "Penthouse",
-      "lower_limit": "11433333"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Villas For Sale",
@@ -21902,7 +21902,7 @@
       "geol3": "Alamein",
       "geol4": "Latin District",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "25000000"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -21910,7 +21910,7 @@
       "geol3": "North Coast",
       "geol4": "Latin District",
       "unit_type": "Standalone Villa",
-      "lower_limit": "1200000"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -21918,7 +21918,7 @@
       "geol3": "North Coast",
       "geol4": "Latin District",
       "unit_type": "Studio",
-      "lower_limit": "1812194"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -21926,7 +21926,7 @@
       "geol3": "North Coast",
       "geol4": "Latin District",
       "unit_type": "Apartment",
-      "lower_limit": "2099157"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -21934,7 +21934,7 @@
       "geol3": "North Coast",
       "geol4": "Latin District",
       "unit_type": "Chalet",
-      "lower_limit": "2528483"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -21942,7 +21942,7 @@
       "geol3": "North Coast",
       "geol4": "Latin District",
       "unit_type": "Studio",
-      "lower_limit": "3821000"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -21958,7 +21958,7 @@
       "geol3": "New Cairo",
       "geol4": "layan Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "2300000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -21974,7 +21974,7 @@
       "geol3": "New Cairo",
       "geol4": "layan Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "6720987"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -21982,7 +21982,7 @@
       "geol3": "New Cairo",
       "geol4": "layan Compound",
       "unit_type": "Apartment",
-      "lower_limit": "8508794"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Villas For Sale",
@@ -21990,7 +21990,7 @@
       "geol3": "New Cairo",
       "geol4": "layan Compound",
       "unit_type": "Town House",
-      "lower_limit": "9042116"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Villas For Sale",
@@ -21998,7 +21998,7 @@
       "geol3": "New Cairo",
       "geol4": "layan Compound",
       "unit_type": "Twin House",
-      "lower_limit": "11051133"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -22382,7 +22382,7 @@
       "geol3": "New Capital City",
       "geol4": "Lumia Residence",
       "unit_type": "Apartment",
-      "lower_limit": "2157576"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -22398,7 +22398,7 @@
       "geol3": "New Capital City",
       "geol4": "Lumia Residence",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "4900000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -22422,7 +22422,7 @@
       "geol3": "North Coast",
       "geol4": "Lyv",
       "unit_type": "Apartment",
-      "lower_limit": "3068442"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -22430,7 +22430,7 @@
       "geol3": "North Coast",
       "geol4": "Lyv",
       "unit_type": "Chalet",
-      "lower_limit": "4056095"
+      "lower_limit": "4500000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -22438,7 +22438,7 @@
       "geol3": "North Coast",
       "geol4": "Lyv",
       "unit_type": "Studio",
-      "lower_limit": "4800000"
+      "lower_limit": "4500000"
     },
     {
       "cat": "Villas For Sale",
@@ -22446,7 +22446,7 @@
       "geol3": "North Coast",
       "geol4": "Lyv",
       "unit_type": "Town House",
-      "lower_limit": "5486219"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -22454,7 +22454,7 @@
       "geol3": "North Coast",
       "geol4": "Lyv",
       "unit_type": "Town House",
-      "lower_limit": "7529419"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Villas For Sale",
@@ -22462,7 +22462,7 @@
       "geol3": "North Coast",
       "geol4": "Lyv",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "8522065"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -22470,7 +22470,7 @@
       "geol3": "North Coast",
       "geol4": "Lyv",
       "unit_type": "Standalone Villa",
-      "lower_limit": "11922659"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -22478,7 +22478,7 @@
       "geol3": "North Coast",
       "geol4": "Lyv",
       "unit_type": "Penthouse",
-      "lower_limit": "13834682"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -22486,7 +22486,7 @@
       "geol3": "North Coast",
       "geol4": "Lyv",
       "unit_type": "Duplex",
-      "lower_limit": "17568000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Villas For Sale",
@@ -22494,7 +22494,7 @@
       "geol3": "North Coast",
       "geol4": "Lyv",
       "unit_type": "Twin House",
-      "lower_limit": "18500000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -22502,7 +22502,7 @@
       "geol3": "North Coast",
       "geol4": "Lyv",
       "unit_type": "Twin house",
-      "lower_limit": "18653429"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -24230,7 +24230,7 @@
       "geol3": "6th of October",
       "geol4": "Mena Garden City Compound",
       "unit_type": "Apartment",
-      "lower_limit": "1950000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Villas For Sale",
@@ -24238,7 +24238,7 @@
       "geol3": "6th of October",
       "geol4": "Mena Garden City Compound",
       "unit_type": "Twin House",
-      "lower_limit": "5187757"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -24246,7 +24246,7 @@
       "geol3": "6th of October",
       "geol4": "Mena Garden City Compound",
       "unit_type": "Town House",
-      "lower_limit": "6874616"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -24254,7 +24254,7 @@
       "geol3": "6th of October",
       "geol4": "Mena Garden City Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "12731226"
+      "lower_limit": "14000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27374,7 +27374,7 @@
       "geol3": "New Cairo",
       "geol4": "North House Compound",
       "unit_type": "Apartment",
-      "lower_limit": "1778645"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27382,7 +27382,7 @@
       "geol3": "New Cairo",
       "geol4": "North Investors",
       "unit_type": "Apartment",
-      "lower_limit": "1549373"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27390,7 +27390,7 @@
       "geol3": "New Cairo",
       "geol4": "North Investors",
       "unit_type": "Duplex",
-      "lower_limit": "2006319"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -27398,7 +27398,7 @@
       "geol3": "New Cairo",
       "geol4": "North Investors",
       "unit_type": "Retail",
-      "lower_limit": "7600000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -27406,7 +27406,7 @@
       "geol3": "New Cairo",
       "geol4": "North Investors",
       "unit_type": "Twin House",
-      "lower_limit": "18400000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -27414,7 +27414,7 @@
       "geol3": "New Cairo",
       "geol4": "North Rehab",
       "unit_type": "Restaurant & Cafe",
-      "lower_limit": "726433"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27486,7 +27486,7 @@
       "geol3": "6th of October",
       "geol4": "Northern Expansions",
       "unit_type": "Clinic",
-      "lower_limit": "944778"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27502,7 +27502,7 @@
       "geol3": "6th of October",
       "geol4": "Northern Expansions",
       "unit_type": "Apartment",
-      "lower_limit": "1296917"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27510,7 +27510,7 @@
       "geol3": "6th of October",
       "geol4": "Northern Expansions",
       "unit_type": "Duplex",
-      "lower_limit": "1325098"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Villas For Sale",
@@ -27518,7 +27518,7 @@
       "geol3": "6th of October",
       "geol4": "Northern Expansions",
       "unit_type": "Twin House",
-      "lower_limit": "2288651"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -27526,7 +27526,7 @@
       "geol3": "6th of October",
       "geol4": "Northern Expansions",
       "unit_type": "Office Space",
-      "lower_limit": "2600000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -27534,7 +27534,7 @@
       "geol3": "6th of October",
       "geol4": "Northern Expansions",
       "unit_type": "Retail",
-      "lower_limit": "2900686"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27542,7 +27542,7 @@
       "geol3": "6th of October",
       "geol4": "Northern Expansions",
       "unit_type": "Penthouse",
-      "lower_limit": "3588452"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Villas For Sale",
@@ -27550,7 +27550,7 @@
       "geol3": "6th of October",
       "geol4": "Northern Expansions",
       "unit_type": "Town House",
-      "lower_limit": "3660216"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Villas For Sale",
@@ -27558,7 +27558,7 @@
       "geol3": "6th of October",
       "geol4": "Northern Expansions",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "5452041"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27566,7 +27566,7 @@
       "geol3": "New Cairo",
       "geol4": "Notion Compound",
       "unit_type": "Studio",
-      "lower_limit": "1544146"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27574,7 +27574,7 @@
       "geol3": "New Cairo",
       "geol4": "Notion Compound",
       "unit_type": "Apartment",
-      "lower_limit": "2693132"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Villas For Sale",
@@ -27582,7 +27582,7 @@
       "geol3": "New Cairo",
       "geol4": "Notion Compound",
       "unit_type": "Town House",
-      "lower_limit": "6257457"
+      "lower_limit": "14000000"
     },
     {
       "cat": "Villas For Sale",
@@ -27590,7 +27590,7 @@
       "geol3": "New Cairo",
       "geol4": "Notion Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "7490140"
+      "lower_limit": "14000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27598,7 +27598,7 @@
       "geol3": "New Cairo",
       "geol4": "Notion Compound",
       "unit_type": "Duplex",
-      "lower_limit": "23205000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27606,7 +27606,7 @@
       "geol3": "Ras Sedr",
       "geol4": "Nozha Beach",
       "unit_type": "Studio",
-      "lower_limit": "670000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27614,7 +27614,7 @@
       "geol3": "Ras Sedr",
       "geol4": "Nozha Beach",
       "unit_type": "Penthouse",
-      "lower_limit": "914416"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -27622,7 +27622,7 @@
       "geol3": "Ras Sedr",
       "geol4": "Nozha Beach",
       "unit_type": "Chalet",
-      "lower_limit": "1143946"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -27630,7 +27630,7 @@
       "geol3": "Ras Sedr",
       "geol4": "Nozha Beach",
       "unit_type": "Duplex",
-      "lower_limit": "2000000"
+      "lower_limit": "3500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27822,7 +27822,7 @@
       "geol3": "6th of October",
       "geol4": "O West Compound",
       "unit_type": "Studio",
-      "lower_limit": "1591224"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27830,7 +27830,7 @@
       "geol3": "6th of October",
       "geol4": "O West Compound",
       "unit_type": "Apartment",
-      "lower_limit": "4268533"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27838,7 +27838,7 @@
       "geol3": "6th of October",
       "geol4": "O West Compound",
       "unit_type": "Duplex",
-      "lower_limit": "4431396"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27846,7 +27846,7 @@
       "geol3": "6th of October",
       "geol4": "O West Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "4936086"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -27854,7 +27854,7 @@
       "geol3": "6th of October",
       "geol4": "O West Compound",
       "unit_type": "Town House",
-      "lower_limit": "6131717"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Villas For Sale",
@@ -27862,7 +27862,7 @@
       "geol3": "6th of October",
       "geol4": "O West Compound",
       "unit_type": "Twin House",
-      "lower_limit": "7863299"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Villas For Sale",
@@ -27870,7 +27870,7 @@
       "geol3": "6th of October",
       "geol4": "O West Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "11034811"
+      "lower_limit": "14000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -27878,7 +27878,7 @@
       "geol3": "6th of October",
       "geol4": "O West Compound",
       "unit_type": "Clinic",
-      "lower_limit": "15103000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -27886,7 +27886,7 @@
       "geol3": "6th of October",
       "geol4": "O West Compound",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "41643351"
+      "lower_limit": "30000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27902,7 +27902,7 @@
       "geol3": "6th of October",
       "geol4": "October Hills 2 Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "12542116"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Villas For Sale",
@@ -27910,7 +27910,7 @@
       "geol3": "6th of October",
       "geol4": "October Hills 2 Compound",
       "unit_type": "Twin House",
-      "lower_limit": "13599917"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -27918,7 +27918,7 @@
       "geol3": "6th of October",
       "geol4": "October Hills 2 Compound",
       "unit_type": "Office Space",
-      "lower_limit": "41540000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -28390,7 +28390,7 @@
       "geol3": "New Capital City",
       "geol4": "ORO",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "14998000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28398,7 +28398,7 @@
       "geol3": "Obour City",
       "geol4": "ORO",
       "unit_type": "Apartment",
-      "lower_limit": "600100"
+      "lower_limit": "3500000"
     },
     {
       "cat": "Villas For Sale",
@@ -28406,7 +28406,7 @@
       "geol3": "Obour City",
       "geol4": "ORO",
       "unit_type": "Town House",
-      "lower_limit": "6360543"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Villas For Sale",
@@ -28414,7 +28414,7 @@
       "geol3": "Obour City",
       "geol4": "ORO",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "9380173"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28486,7 +28486,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Palm Beach",
       "unit_type": "Apartment",
-      "lower_limit": "1062625"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -28494,7 +28494,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Palm Beach",
       "unit_type": "Chalet",
-      "lower_limit": "2260055"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Villas For Sale",
@@ -28502,7 +28502,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Palm Beach",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "12000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28510,7 +28510,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Palm Beach",
       "unit_type": "Duplex",
-      "lower_limit": "13000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Villas For Sale",
@@ -28518,7 +28518,7 @@
       "geol3": "North Coast",
       "geol4": "Palm Beach",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "1741777"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -28526,7 +28526,7 @@
       "geol3": "North Coast",
       "geol4": "Palm Beach",
       "unit_type": "Standalone Villa",
-      "lower_limit": "3201759"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -28534,7 +28534,7 @@
       "geol3": "North Coast",
       "geol4": "Palm Beach",
       "unit_type": "Chalet",
-      "lower_limit": "7000000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -28550,7 +28550,7 @@
       "geol3": "Shorouk City",
       "geol4": "Palm Capital",
       "unit_type": "Apartment",
-      "lower_limit": "4380000"
+      "lower_limit": "2500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28566,7 +28566,7 @@
       "geol3": "Amreya",
       "geol4": "Palm Hills Alexandria",
       "unit_type": "Studio",
-      "lower_limit": "1912312"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -28574,7 +28574,7 @@
       "geol3": "Amreya",
       "geol4": "Palm Hills Alexandria",
       "unit_type": "Chalet",
-      "lower_limit": "2047810"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28582,7 +28582,7 @@
       "geol3": "Amreya",
       "geol4": "Palm Hills Alexandria",
       "unit_type": "Apartment",
-      "lower_limit": "4803284"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Villas For Sale",
@@ -28590,7 +28590,7 @@
       "geol3": "Amreya",
       "geol4": "Palm Hills Alexandria",
       "unit_type": "Town House",
-      "lower_limit": "7963605"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -28598,7 +28598,7 @@
       "geol3": "Amreya",
       "geol4": "Palm Hills Alexandria",
       "unit_type": "Standalone Villa",
-      "lower_limit": "11425129"
+      "lower_limit": "11000000"
     },
     {
       "cat": "Villas For Sale",
@@ -28606,7 +28606,7 @@
       "geol3": "Amreya",
       "geol4": "Palm Hills Alexandria",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "11601712"
+      "lower_limit": "11000000"
     },
     {
       "cat": "Villas For Sale",
@@ -28614,7 +28614,7 @@
       "geol3": "Amreya",
       "geol4": "Palm Hills Alexandria",
       "unit_type": "Twin House",
-      "lower_limit": "15483902"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28622,7 +28622,7 @@
       "geol3": "Amreya",
       "geol4": "Palm Hills Alexandria",
       "unit_type": "Penthouse",
-      "lower_limit": "20000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -28630,7 +28630,7 @@
       "geol3": "Amreya",
       "geol4": "Palm Hills Alexandria",
       "unit_type": "Town House",
-      "lower_limit": "28000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28638,7 +28638,7 @@
       "geol3": "6th of October",
       "geol4": "Palm hills golf extension Compound",
       "unit_type": "Apartment",
-      "lower_limit": "3634442"
+      "lower_limit": "4500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -28646,7 +28646,7 @@
       "geol3": "6th of October",
       "geol4": "Palm hills golf extension Compound",
       "unit_type": "Office Space",
-      "lower_limit": "5662312"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -28654,7 +28654,7 @@
       "geol3": "6th of October",
       "geol4": "Palm hills golf extension Compound",
       "unit_type": "Twin House",
-      "lower_limit": "6388534"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -28662,7 +28662,7 @@
       "geol3": "6th of October",
       "geol4": "Palm hills golf extension Compound",
       "unit_type": "Town House",
-      "lower_limit": "8289436"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -28670,7 +28670,7 @@
       "geol3": "6th of October",
       "geol4": "Palm hills golf extension Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "14185510"
+      "lower_limit": "17000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -28678,7 +28678,7 @@
       "geol3": "6th of October",
       "geol4": "Palm hills golf extension Compound",
       "unit_type": "Restaurant & Cafe",
-      "lower_limit": "39000000"
+      "lower_limit": "35000000"
     },
     {
       "cat": "Villas For Sale",
@@ -28686,7 +28686,7 @@
       "geol3": "6th of October",
       "geol4": "Palm hills golf views Compound",
       "unit_type": "Town House",
-      "lower_limit": "3928029"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28694,7 +28694,7 @@
       "geol3": "6th of October",
       "geol4": "Palm hills golf views Compound",
       "unit_type": "Apartment",
-      "lower_limit": "5998685"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -28702,7 +28702,7 @@
       "geol3": "6th of October",
       "geol4": "Palm hills golf views Compound",
       "unit_type": "Twin House",
-      "lower_limit": "7918176"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Villas For Sale",
@@ -28710,7 +28710,7 @@
       "geol3": "6th of October",
       "geol4": "Palm hills golf views Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "12840040"
+      "lower_limit": "11000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28718,7 +28718,7 @@
       "geol3": "6th of October",
       "geol4": "Palm hills golf views Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "15000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -28742,7 +28742,7 @@
       "geol3": "New Cairo",
       "geol4": "Palm Hills Katameya Compound",
       "unit_type": "Studio",
-      "lower_limit": "3688494"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28750,7 +28750,7 @@
       "geol3": "New Cairo",
       "geol4": "Palm Hills Katameya Compound",
       "unit_type": "Apartment",
-      "lower_limit": "4623128"
+      "lower_limit": "4500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -28766,7 +28766,7 @@
       "geol3": "New Cairo",
       "geol4": "Palm Hills Katameya Compound",
       "unit_type": "Duplex",
-      "lower_limit": "7100000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -28774,7 +28774,7 @@
       "geol3": "New Cairo",
       "geol4": "Palm Hills Katameya Compound",
       "unit_type": "Town House",
-      "lower_limit": "7131652"
+      "lower_limit": "14000000"
     },
     {
       "cat": "Villas For Sale",
@@ -28782,7 +28782,7 @@
       "geol3": "New Cairo",
       "geol4": "Palm Hills Katameya Compound",
       "unit_type": "Twin House",
-      "lower_limit": "18270281"
+      "lower_limit": "14000000"
     },
     {
       "cat": "Villas For Sale",
@@ -28790,7 +28790,7 @@
       "geol3": "New Cairo",
       "geol4": "Palm Hills Katameya Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "26810550"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -30510,7 +30510,7 @@
       "geol3": "6th of October",
       "geol4": "PX Palm Hills",
       "unit_type": "Apartment",
-      "lower_limit": "12000000"
+      "lower_limit": "11000000"
     },
     {
       "cat": "Villas For Sale",
@@ -30534,7 +30534,7 @@
       "geol3": "6th of October",
       "geol4": "PX Palm Hills",
       "unit_type": "Studio",
-      "lower_limit": "9000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Villas For Sale",
@@ -30742,7 +30742,7 @@
       "geol3": "North Coast",
       "geol4": "Q North",
       "unit_type": "Duplex",
-      "lower_limit": "331710"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Villas For Sale",
@@ -30750,7 +30750,7 @@
       "geol3": "North Coast",
       "geol4": "Q North",
       "unit_type": "Twin House",
-      "lower_limit": "603139"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -30758,7 +30758,7 @@
       "geol3": "North Coast",
       "geol4": "Q North",
       "unit_type": "Apartment",
-      "lower_limit": "1237780"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -30766,7 +30766,7 @@
       "geol3": "North Coast",
       "geol4": "Q North",
       "unit_type": "Penthouse",
-      "lower_limit": "2000153"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -30774,7 +30774,7 @@
       "geol3": "North Coast",
       "geol4": "Q North",
       "unit_type": "Chalet",
-      "lower_limit": "2072249"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Villas For Sale",
@@ -30782,7 +30782,7 @@
       "geol3": "North Coast",
       "geol4": "Q North",
       "unit_type": "Town House",
-      "lower_limit": "2230622"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -30790,7 +30790,7 @@
       "geol3": "North Coast",
       "geol4": "Q North",
       "unit_type": "Duplex",
-      "lower_limit": "2811432"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Villas For Sale",
@@ -30798,7 +30798,7 @@
       "geol3": "North Coast",
       "geol4": "Q North",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "3309643"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -30806,7 +30806,7 @@
       "geol3": "North Coast",
       "geol4": "Q North",
       "unit_type": "Studio",
-      "lower_limit": "4542000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -30814,7 +30814,7 @@
       "geol3": "North Coast",
       "geol4": "Q North",
       "unit_type": "Twin house",
-      "lower_limit": "6437135"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -31150,7 +31150,7 @@
       "geol3": "North Coast",
       "geol4": "Ras Al Hekma",
       "unit_type": "Duplex",
-      "lower_limit": "3250673"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -31158,7 +31158,7 @@
       "geol3": "North Coast",
       "geol4": "Ras Al Hekma",
       "unit_type": "Apartment",
-      "lower_limit": "3397058"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -31166,7 +31166,7 @@
       "geol3": "North Coast",
       "geol4": "Ras Al Hekma",
       "unit_type": "Penthouse",
-      "lower_limit": "3442650"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -31190,7 +31190,7 @@
       "geol3": "North Coast",
       "geol4": "Ras Al Hekma",
       "unit_type": "Duplex",
-      "lower_limit": "4523897"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -31198,7 +31198,7 @@
       "geol3": "North Coast",
       "geol4": "Ras Al Hekma",
       "unit_type": "Penthouse",
-      "lower_limit": "5866382"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -31950,7 +31950,7 @@
       "geol3": "New Cairo",
       "geol4": "Rivali Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "1016672"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -31958,7 +31958,7 @@
       "geol3": "New Cairo",
       "geol4": "Rivali Compound",
       "unit_type": "Apartment",
-      "lower_limit": "2648634"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -31966,7 +31966,7 @@
       "geol3": "New Cairo",
       "geol4": "Rivali Compound",
       "unit_type": "Duplex",
-      "lower_limit": "4639318"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -31974,7 +31974,7 @@
       "geol3": "New Cairo",
       "geol4": "Rivali Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "5214716"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -32302,7 +32302,7 @@
       "geol3": "Mostakbal City",
       "geol4": "Rosail City",
       "unit_type": "Apartment",
-      "lower_limit": "2432182"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Villas For Sale",
@@ -32310,7 +32310,7 @@
       "geol3": "Mostakbal City",
       "geol4": "Rosail City",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "2695805"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -32318,7 +32318,7 @@
       "geol3": "Mostakbal City",
       "geol4": "Rosail City",
       "unit_type": "Studio",
-      "lower_limit": "2816000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -32326,7 +32326,7 @@
       "geol3": "Mostakbal City",
       "geol4": "Rosail City",
       "unit_type": "Duplex",
-      "lower_limit": "3757255"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -32334,7 +32334,7 @@
       "geol3": "Mostakbal City",
       "geol4": "Rosail City",
       "unit_type": "Twin House",
-      "lower_limit": "7984935"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Villas For Sale",
@@ -32342,7 +32342,7 @@
       "geol3": "Mostakbal City",
       "geol4": "Rosail City",
       "unit_type": "Town House",
-      "lower_limit": "10493886"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -32382,7 +32382,7 @@
       "geol3": "North Coast",
       "geol4": "Royal Beach",
       "unit_type": "Chalet",
-      "lower_limit": "4600000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Villas For Sale",
@@ -32390,7 +32390,7 @@
       "geol3": "North Coast",
       "geol4": "Royal Beach",
       "unit_type": "Twin House",
-      "lower_limit": "6000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -32398,7 +32398,7 @@
       "geol3": "North Coast",
       "geol4": "Royal Beach",
       "unit_type": "Twin house",
-      "lower_limit": "9000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -32502,7 +32502,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Royal Meadows Compound",
       "unit_type": "Twin House",
-      "lower_limit": "8378665"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Villas For Sale",
@@ -32510,7 +32510,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Royal Meadows Compound",
       "unit_type": "Town House",
-      "lower_limit": "8412051"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Villas For Sale",
@@ -32518,7 +32518,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Royal Meadows Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "10710256"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -32526,7 +32526,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Royal Meadows Compound",
       "unit_type": "Apartment",
-      "lower_limit": "24000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -32638,7 +32638,7 @@
       "geol3": "North Coast",
       "geol4": "Safia",
       "unit_type": "Chalet",
-      "lower_limit": "4264296"
+      "lower_limit": "4500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -32654,7 +32654,7 @@
       "geol3": "North Coast",
       "geol4": "Safia",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "8922924"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -32662,7 +32662,7 @@
       "geol3": "North Coast",
       "geol4": "Safia",
       "unit_type": "Standalone Villa",
-      "lower_limit": "9847411"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -32670,7 +32670,7 @@
       "geol3": "North Coast",
       "geol4": "Safia",
       "unit_type": "Twin house",
-      "lower_limit": "10300503"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Villas For Sale",
@@ -32678,7 +32678,7 @@
       "geol3": "North Coast",
       "geol4": "Safia",
       "unit_type": "Twin House",
-      "lower_limit": "10517588"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -32686,7 +32686,7 @@
       "geol3": "North Coast",
       "geol4": "Safia",
       "unit_type": "Town House",
-      "lower_limit": "10997946"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -32694,7 +32694,7 @@
       "geol3": "North Coast",
       "geol4": "Safia",
       "unit_type": "Apartment",
-      "lower_limit": "14500000"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Villas For Sale",
@@ -32702,7 +32702,7 @@
       "geol3": "North Coast",
       "geol4": "Safia",
       "unit_type": "Town House",
-      "lower_limit": "22000000"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -32926,7 +32926,7 @@
       "geol3": "Mostakbal City",
       "geol4": "Sarai",
       "unit_type": "Apartment",
-      "lower_limit": "3000000"
+      "lower_limit": "2500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -32942,7 +32942,7 @@
       "geol3": "Mostakbal City",
       "geol4": "Sarai",
       "unit_type": "Duplex",
-      "lower_limit": "5000000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -32950,7 +32950,7 @@
       "geol3": "Mostakbal City",
       "geol4": "Sarai",
       "unit_type": "Penthouse",
-      "lower_limit": "6000000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Villas For Sale",
@@ -32958,7 +32958,7 @@
       "geol3": "Mostakbal City",
       "geol4": "Sarai",
       "unit_type": "Town House",
-      "lower_limit": "8000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -32966,7 +32966,7 @@
       "geol3": "Mostakbal City",
       "geol4": "Sarai",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "8000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -33542,7 +33542,7 @@
       "geol3": "New Cairo",
       "geol4": "Sephora Heights",
       "unit_type": "Apartment",
-      "lower_limit": "4077731"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Villas For Sale",
@@ -33582,7 +33582,7 @@
       "geol3": "New Capital City",
       "geol4": "Serrano",
       "unit_type": "Studio",
-      "lower_limit": "2850000"
+      "lower_limit": "1800000"
     },
     {
       "cat": "Apartments for Sale",
@@ -33590,7 +33590,7 @@
       "geol3": "North Coast",
       "geol4": "Shamasy",
       "unit_type": "Apartment",
-      "lower_limit": "2855277"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -33598,7 +33598,7 @@
       "geol3": "North Coast",
       "geol4": "Shamasy",
       "unit_type": "Chalet",
-      "lower_limit": "3447955"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Villas For Sale",
@@ -33606,7 +33606,7 @@
       "geol3": "North Coast",
       "geol4": "Shamasy",
       "unit_type": "Town House",
-      "lower_limit": "6965372"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -33614,7 +33614,7 @@
       "geol3": "North Coast",
       "geol4": "Shamasy",
       "unit_type": "Town House",
-      "lower_limit": "7342229"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -33622,7 +33622,7 @@
       "geol3": "North Coast",
       "geol4": "Shamasy",
       "unit_type": "Standalone Villa",
-      "lower_limit": "13261980"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -33630,7 +33630,7 @@
       "geol3": "North Coast",
       "geol4": "Shamasy",
       "unit_type": "Twin house",
-      "lower_limit": "18725000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -33638,7 +33638,7 @@
       "geol3": "North Coast",
       "geol4": "Shamasy",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "28000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -33702,7 +33702,7 @@
       "geol3": "Shorouk City",
       "geol4": "Shorouk Gardens",
       "unit_type": "Apartment",
-      "lower_limit": "1161716"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -33718,7 +33718,7 @@
       "geol3": "Shorouk City",
       "geol4": "Shorouk Gardens",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "5710553"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Villas For Sale",
@@ -33726,7 +33726,7 @@
       "geol3": "Shorouk City",
       "geol4": "Shorouk Gardens",
       "unit_type": "Twin House",
-      "lower_limit": "9950000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Villas For Sale",
@@ -33734,7 +33734,7 @@
       "geol3": "Shorouk City",
       "geol4": "Shorouk Gardens",
       "unit_type": "Town House",
-      "lower_limit": "11800000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -33742,7 +33742,7 @@
       "geol3": "North Coast",
       "geol4": "Sia Lagoon",
       "unit_type": "Chalet",
-      "lower_limit": "1463992"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -33750,7 +33750,7 @@
       "geol3": "North Coast",
       "geol4": "Sia Lagoon",
       "unit_type": "Studio",
-      "lower_limit": "1945000"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -33758,7 +33758,7 @@
       "geol3": "North Coast",
       "geol4": "Sia Lagoon",
       "unit_type": "Apartment",
-      "lower_limit": "1947106"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -33766,7 +33766,7 @@
       "geol3": "North Coast",
       "geol4": "Sia Lagoon",
       "unit_type": "Town House",
-      "lower_limit": "2926332"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -33774,7 +33774,7 @@
       "geol3": "North Coast",
       "geol4": "Sia Lagoon",
       "unit_type": "Twin house",
-      "lower_limit": "6200000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -33838,7 +33838,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Silva Compound",
       "unit_type": "Apartment",
-      "lower_limit": "1715574"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Villas For Sale",
@@ -33846,7 +33846,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Silva Compound",
       "unit_type": "Twin House",
-      "lower_limit": "3541307"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -33854,7 +33854,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Silva Compound",
       "unit_type": "Town House",
-      "lower_limit": "5217046"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -33862,7 +33862,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Silva Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "8928403"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Villas For Sale",
@@ -34166,7 +34166,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Sky Ramp",
       "unit_type": "Studio",
-      "lower_limit": "1863759"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -34182,7 +34182,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Sky Ramp",
       "unit_type": "Apartment",
-      "lower_limit": "2945612"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -34214,7 +34214,7 @@
       "geol3": "Zahraa Al Maadi",
       "geol4": "Skyline",
       "unit_type": "Studio",
-      "lower_limit": "1407805"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34222,7 +34222,7 @@
       "geol3": "Zahraa Al Maadi",
       "geol4": "Skyline",
       "unit_type": "Apartment",
-      "lower_limit": "1879944"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34230,7 +34230,7 @@
       "geol3": "Zahraa Al Maadi",
       "geol4": "Skyline",
       "unit_type": "Duplex",
-      "lower_limit": "13334760"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Villas For Sale",
@@ -34238,7 +34238,7 @@
       "geol3": "Zahraa Al Maadi",
       "geol4": "Skyline",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "20300000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -34358,7 +34358,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Sodic Westown Compound",
       "unit_type": "Twin House",
-      "lower_limit": "4400000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -34374,7 +34374,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Sodic Westown Compound",
       "unit_type": "Apartment",
-      "lower_limit": "5727576"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Villas For Sale",
@@ -34382,7 +34382,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Sodic Westown Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "6479481"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34390,7 +34390,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Sodic Westown Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "7749506"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34398,7 +34398,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Sodic Westown Compound",
       "unit_type": "Duplex",
-      "lower_limit": "8622610"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Villas For Sale",
@@ -34406,7 +34406,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Sodic Westown Compound",
       "unit_type": "Town House",
-      "lower_limit": "10838843"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -34422,7 +34422,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Sokhna Hills",
       "unit_type": "Apartment",
-      "lower_limit": "2820176"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -34430,7 +34430,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Sokhna Hills",
       "unit_type": "Chalet",
-      "lower_limit": "2867075"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -34438,7 +34438,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Sokhna Hills",
       "unit_type": "Standalone Villa",
-      "lower_limit": "10948022"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -34446,7 +34446,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Sokhna Hills",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "28000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -34462,7 +34462,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Solana",
       "unit_type": "Apartment",
-      "lower_limit": "5330379"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34470,7 +34470,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Solana",
       "unit_type": "Duplex",
-      "lower_limit": "6225240"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -34478,7 +34478,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Solana",
       "unit_type": "Town House",
-      "lower_limit": "7647535"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34486,7 +34486,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Solana",
       "unit_type": "Penthouse",
-      "lower_limit": "9953675"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Villas For Sale",
@@ -34494,7 +34494,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Solana",
       "unit_type": "Twin House",
-      "lower_limit": "10310496"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Villas For Sale",
@@ -34502,7 +34502,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Solana",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "10415725"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34510,7 +34510,7 @@
       "geol3": "New Cairo",
       "geol4": "Solana east",
       "unit_type": "Apartment",
-      "lower_limit": "4908252"
+      "lower_limit": "14000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34518,7 +34518,7 @@
       "geol3": "New Cairo",
       "geol4": "Solana east",
       "unit_type": "Duplex",
-      "lower_limit": "12526426"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34526,7 +34526,7 @@
       "geol3": "New Cairo",
       "geol4": "Solana east",
       "unit_type": "Penthouse",
-      "lower_limit": "16247033"
+      "lower_limit": "25000000"
     },
     {
       "cat": "Villas For Sale",
@@ -34534,7 +34534,7 @@
       "geol3": "New Cairo",
       "geol4": "Solana east",
       "unit_type": "Town House",
-      "lower_limit": "20454441"
+      "lower_limit": "25000000"
     },
     {
       "cat": "Villas For Sale",
@@ -34542,7 +34542,7 @@
       "geol3": "New Cairo",
       "geol4": "Solana east",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "24394485"
+      "lower_limit": "35000000"
     },
     {
       "cat": "Villas For Sale",
@@ -34550,7 +34550,7 @@
       "geol3": "New Cairo",
       "geol4": "Solana east",
       "unit_type": "Twin House",
-      "lower_limit": "25001933"
+      "lower_limit": "25000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -34558,7 +34558,7 @@
       "geol3": "North Coast",
       "geol4": "SOLARE",
       "unit_type": "Studio",
-      "lower_limit": "625000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34566,7 +34566,7 @@
       "geol3": "North Coast",
       "geol4": "SOLARE",
       "unit_type": "Apartment",
-      "lower_limit": "2711613"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -34574,7 +34574,7 @@
       "geol3": "North Coast",
       "geol4": "SOLARE",
       "unit_type": "Chalet",
-      "lower_limit": "4271292"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -34582,7 +34582,7 @@
       "geol3": "North Coast",
       "geol4": "SOLARE",
       "unit_type": "Twin house",
-      "lower_limit": "6314698"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Villas For Sale",
@@ -34590,7 +34590,7 @@
       "geol3": "North Coast",
       "geol4": "SOLARE",
       "unit_type": "Twin House",
-      "lower_limit": "6703524"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Villas For Sale",
@@ -34598,7 +34598,7 @@
       "geol3": "North Coast",
       "geol4": "SOLARE",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "8551912"
+      "lower_limit": "19000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -34606,7 +34606,7 @@
       "geol3": "North Coast",
       "geol4": "SOLARE",
       "unit_type": "Standalone Villa",
-      "lower_limit": "8976371"
+      "lower_limit": "19000000"
     },
     {
       "cat": "Villas For Sale",
@@ -34614,7 +34614,7 @@
       "geol3": "North Coast",
       "geol4": "SOLARE",
       "unit_type": "Town House",
-      "lower_limit": "9215180"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -34622,7 +34622,7 @@
       "geol3": "North Coast",
       "geol4": "SOLARE",
       "unit_type": "Town House",
-      "lower_limit": "9812083"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34630,7 +34630,7 @@
       "geol3": "6th of October",
       "geol4": "Soleya Compound",
       "unit_type": "Apartment",
-      "lower_limit": "3341639"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -34638,7 +34638,7 @@
       "geol3": "6th of October",
       "geol4": "Soleya Compound",
       "unit_type": "Twin House",
-      "lower_limit": "4265568"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -34646,7 +34646,7 @@
       "geol3": "6th of October",
       "geol4": "Soleya Compound",
       "unit_type": "Town House",
-      "lower_limit": "4992394"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -34654,7 +34654,7 @@
       "geol3": "6th of October",
       "geol4": "Soleya Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "6362833"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Villas For Sale",
@@ -34750,7 +34750,7 @@
       "geol3": "North Coast",
       "geol4": "Soul",
       "unit_type": "Chalet",
-      "lower_limit": "2408817"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Villas For Sale",
@@ -34758,7 +34758,7 @@
       "geol3": "North Coast",
       "geol4": "Soul",
       "unit_type": "Town House",
-      "lower_limit": "14949235"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -34766,7 +34766,7 @@
       "geol3": "North Coast",
       "geol4": "Soul",
       "unit_type": "Town House",
-      "lower_limit": "16203543"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -34774,7 +34774,7 @@
       "geol3": "North Coast",
       "geol4": "Soul",
       "unit_type": "Duplex",
-      "lower_limit": "22500000"
+      "lower_limit": "14000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -34782,7 +34782,7 @@
       "geol3": "North Coast",
       "geol4": "Soul",
       "unit_type": "Standalone Villa",
-      "lower_limit": "23586786"
+      "lower_limit": "30000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34790,7 +34790,7 @@
       "geol3": "North Coast",
       "geol4": "Soul",
       "unit_type": "Apartment",
-      "lower_limit": "29179072"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Villas For Sale",
@@ -34806,7 +34806,7 @@
       "geol3": "North Coast",
       "geol4": "Soul",
       "unit_type": "Duplex",
-      "lower_limit": "35341888"
+      "lower_limit": "14000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34814,7 +34814,7 @@
       "geol3": "North Coast",
       "geol4": "Soul",
       "unit_type": "Penthouse",
-      "lower_limit": "35362500"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Villas For Sale",
@@ -34822,7 +34822,7 @@
       "geol3": "North Coast",
       "geol4": "Soul",
       "unit_type": "Twin House",
-      "lower_limit": "38900000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -34926,7 +34926,7 @@
       "geol3": "New Cairo",
       "geol4": "South Investors",
       "unit_type": "Studio",
-      "lower_limit": "1302526"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34934,7 +34934,7 @@
       "geol3": "New Cairo",
       "geol4": "South Investors",
       "unit_type": "Penthouse",
-      "lower_limit": "1800000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34942,7 +34942,7 @@
       "geol3": "New Cairo",
       "geol4": "South Investors",
       "unit_type": "Apartment",
-      "lower_limit": "2109314"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -34950,7 +34950,7 @@
       "geol3": "New Cairo",
       "geol4": "South Investors",
       "unit_type": "Office Space",
-      "lower_limit": "2192221"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34958,7 +34958,7 @@
       "geol3": "New Cairo",
       "geol4": "South Investors",
       "unit_type": "Duplex",
-      "lower_limit": "2999494"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -34966,7 +34966,7 @@
       "geol3": "New Cairo",
       "geol4": "South Investors",
       "unit_type": "Retail",
-      "lower_limit": "4142943"
+      "lower_limit": "3500000"
     },
     {
       "cat": "Villas For Sale",
@@ -34974,7 +34974,7 @@
       "geol3": "New Cairo",
       "geol4": "South Investors",
       "unit_type": "Twin House",
-      "lower_limit": "8258794"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -34982,7 +34982,7 @@
       "geol3": "New Cairo",
       "geol4": "South Investors",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "9505453"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -34990,7 +34990,7 @@
       "geol3": "New Cairo",
       "geol4": "South Investors",
       "unit_type": "Clinic",
-      "lower_limit": "20880000"
+      "lower_limit": "3500000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -35454,7 +35454,7 @@
       "geol3": "North Coast",
       "geol4": "Stella Heights",
       "unit_type": "Apartment",
-      "lower_limit": "2559817"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -35462,7 +35462,7 @@
       "geol3": "North Coast",
       "geol4": "Stella Heights",
       "unit_type": "Chalet",
-      "lower_limit": "2663339"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -35470,7 +35470,7 @@
       "geol3": "North Coast",
       "geol4": "Stella Heights",
       "unit_type": "Penthouse",
-      "lower_limit": "2781828"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -35478,7 +35478,7 @@
       "geol3": "North Coast",
       "geol4": "Stella Heights",
       "unit_type": "Twin house",
-      "lower_limit": "4165997"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -35486,7 +35486,7 @@
       "geol3": "North Coast",
       "geol4": "Stella Heights",
       "unit_type": "Standalone Villa",
-      "lower_limit": "4249034"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Villas For Sale",
@@ -35494,7 +35494,7 @@
       "geol3": "North Coast",
       "geol4": "Stella Heights",
       "unit_type": "Twin House",
-      "lower_limit": "4720415"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -35510,7 +35510,7 @@
       "geol3": "North Coast",
       "geol4": "Stella Heights",
       "unit_type": "Town House",
-      "lower_limit": "11000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Villas For Sale",
@@ -35518,7 +35518,7 @@
       "geol3": "North Coast",
       "geol4": "Stella Heights",
       "unit_type": "Town House",
-      "lower_limit": "12500000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Villas For Sale",
@@ -35526,7 +35526,7 @@
       "geol3": "North Coast",
       "geol4": "Stella Heights",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "15666667"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -35534,7 +35534,7 @@
       "geol3": "North Coast",
       "geol4": "Stella Marina",
       "unit_type": "Chalet",
-      "lower_limit": "1546039"
+      "lower_limit": "2500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -35542,7 +35542,7 @@
       "geol3": "North Coast",
       "geol4": "Stella Marina",
       "unit_type": "Apartment",
-      "lower_limit": "5100000"
+      "lower_limit": "2500000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -35550,7 +35550,7 @@
       "geol3": "North Coast",
       "geol4": "Stella Marina",
       "unit_type": "Penthouse",
-      "lower_limit": "5500000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -35566,7 +35566,7 @@
       "geol3": "North Coast",
       "geol4": "Stella Marina",
       "unit_type": "Standalone Villa",
-      "lower_limit": "14000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -35622,7 +35622,7 @@
       "geol3": "New Capital City",
       "geol4": "Stella Park",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "11950000"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -35630,7 +35630,7 @@
       "geol3": "North Coast",
       "geol4": "Stella Sidi abd elrahman",
       "unit_type": "Apartment",
-      "lower_limit": "1762596"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -35638,7 +35638,7 @@
       "geol3": "North Coast",
       "geol4": "Stella Sidi abd elrahman",
       "unit_type": "Chalet",
-      "lower_limit": "2881611"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -35646,7 +35646,7 @@
       "geol3": "North Coast",
       "geol4": "Stella Sidi abd elrahman",
       "unit_type": "Twin House",
-      "lower_limit": "2934435"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -35654,7 +35654,7 @@
       "geol3": "North Coast",
       "geol4": "Stella Sidi abd elrahman",
       "unit_type": "Studio",
-      "lower_limit": "3010000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -35662,7 +35662,7 @@
       "geol3": "North Coast",
       "geol4": "Stella Sidi abd elrahman",
       "unit_type": "Duplex",
-      "lower_limit": "3042187"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Villas For Sale",
@@ -35670,7 +35670,7 @@
       "geol3": "North Coast",
       "geol4": "Stella Sidi abd elrahman",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "6658640"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -35678,7 +35678,7 @@
       "geol3": "North Coast",
       "geol4": "Stella Sidi abd elrahman",
       "unit_type": "Town House",
-      "lower_limit": "6940059"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -35686,7 +35686,7 @@
       "geol3": "North Coast",
       "geol4": "Stella Sidi abd elrahman",
       "unit_type": "Standalone Villa",
-      "lower_limit": "8135378"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -35694,7 +35694,7 @@
       "geol3": "North Coast",
       "geol4": "Stella Sidi abd elrahman",
       "unit_type": "Retail",
-      "lower_limit": "8580000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -35702,7 +35702,7 @@
       "geol3": "North Coast",
       "geol4": "Stella Sidi abd elrahman",
       "unit_type": "Town House",
-      "lower_limit": "8650000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -35774,7 +35774,7 @@
       "geol3": "New Cairo",
       "geol4": "Stone Park Compound",
       "unit_type": "Duplex",
-      "lower_limit": "1152916"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -35790,7 +35790,7 @@
       "geol3": "New Cairo",
       "geol4": "Stone Park Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "1979236"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -35798,7 +35798,7 @@
       "geol3": "New Cairo",
       "geol4": "Stone Park Compound",
       "unit_type": "Apartment",
-      "lower_limit": "2580465"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -35806,7 +35806,7 @@
       "geol3": "New Cairo",
       "geol4": "Stone Park Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "2680107"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Villas For Sale",
@@ -35814,7 +35814,7 @@
       "geol3": "New Cairo",
       "geol4": "Stone Park Compound",
       "unit_type": "Twin House",
-      "lower_limit": "5519150"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -35822,7 +35822,7 @@
       "geol3": "New Cairo",
       "geol4": "Stone Park Compound",
       "unit_type": "Town House",
-      "lower_limit": "5533374"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -35998,7 +35998,7 @@
       "geol3": "Hadayek October",
       "geol4": "Sun Capital",
       "unit_type": "Studio",
-      "lower_limit": "1358843"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Villas For Sale",
@@ -36006,7 +36006,7 @@
       "geol3": "Hadayek October",
       "geol4": "Sun Capital",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "1460472"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -36014,7 +36014,7 @@
       "geol3": "Hadayek October",
       "geol4": "Sun Capital",
       "unit_type": "Apartment",
-      "lower_limit": "2719954"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -36022,7 +36022,7 @@
       "geol3": "Hadayek October",
       "geol4": "Sun Capital",
       "unit_type": "Penthouse",
-      "lower_limit": "2902347"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Villas For Sale",
@@ -36030,7 +36030,7 @@
       "geol3": "Hadayek October",
       "geol4": "Sun Capital",
       "unit_type": "Town House",
-      "lower_limit": "3181091"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -36038,7 +36038,7 @@
       "geol3": "Hadayek October",
       "geol4": "Sun Capital",
       "unit_type": "Duplex",
-      "lower_limit": "3411184"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -36046,7 +36046,7 @@
       "geol3": "Hadayek October",
       "geol4": "Sun Capital",
       "unit_type": "Twin House",
-      "lower_limit": "3607399"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -36286,14 +36286,6 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Swan Lake West",
       "unit_type": "Town House",
-      "lower_limit": "15000000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Giza",
-      "geol3": "Sheikh Zayed",
-      "geol4": "Swan Lake West",
-      "unit_type": "Duplex",
       "lower_limit": "17000000"
     },
     {
@@ -36301,8 +36293,16 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Swan Lake West",
+      "unit_type": "Duplex",
+      "lower_limit": "15000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Swan Lake West",
       "unit_type": "Penthouse",
-      "lower_limit": "20000000"
+      "lower_limit": "17000000"
     },
     {
       "cat": "Villas For Sale",
@@ -36310,7 +36310,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Swan Lake West",
       "unit_type": "Twin House",
-      "lower_limit": "20000000"
+      "lower_limit": "17000000"
     },
     {
       "cat": "Villas For Sale",
@@ -37070,7 +37070,7 @@
       "geol3": "Katameya",
       "geol4": "The Brooks",
       "unit_type": "Apartment",
-      "lower_limit": "1884680"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -37078,7 +37078,7 @@
       "geol3": "Katameya",
       "geol4": "The Brooks",
       "unit_type": "Studio",
-      "lower_limit": "4200000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -37086,7 +37086,7 @@
       "geol3": "Katameya",
       "geol4": "The Brooks",
       "unit_type": "Duplex",
-      "lower_limit": "7607996"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -37102,7 +37102,7 @@
       "geol3": "Katameya",
       "geol4": "The Brooks",
       "unit_type": "Town House",
-      "lower_limit": "9132980"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Villas For Sale",
@@ -37110,7 +37110,7 @@
       "geol3": "Katameya",
       "geol4": "The Brooks",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "26500000"
+      "lower_limit": "13000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -37118,7 +37118,7 @@
       "geol3": "New Cairo",
       "geol4": "The Brooks Compound",
       "unit_type": "Apartment",
-      "lower_limit": "2868047"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -37126,7 +37126,7 @@
       "geol3": "New Cairo",
       "geol4": "The Brooks Compound",
       "unit_type": "Duplex",
-      "lower_limit": "4831764"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -37134,7 +37134,7 @@
       "geol3": "New Cairo",
       "geol4": "The Brooks Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "5245462"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -37142,7 +37142,7 @@
       "geol3": "New Cairo",
       "geol4": "The Brooks Compound",
       "unit_type": "Town House",
-      "lower_limit": "9414959"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Villas For Sale",
@@ -37150,7 +37150,7 @@
       "geol3": "New Cairo",
       "geol4": "The Brooks Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "10408495"
+      "lower_limit": "13000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -37158,7 +37158,7 @@
       "geol3": "Mostakbal City",
       "geol4": "The Butterfly",
       "unit_type": "Apartment",
-      "lower_limit": "2825791"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Villas For Sale",
@@ -37166,7 +37166,7 @@
       "geol3": "Mostakbal City",
       "geol4": "The Butterfly",
       "unit_type": "Town House",
-      "lower_limit": "6441314"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -37174,7 +37174,7 @@
       "geol3": "Mostakbal City",
       "geol4": "The Butterfly",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "6684379"
+      "lower_limit": "13500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -37182,7 +37182,7 @@
       "geol3": "New Capital City",
       "geol4": "The Capital Way",
       "unit_type": "Duplex",
-      "lower_limit": "1426581"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -37190,7 +37190,7 @@
       "geol3": "New Capital City",
       "geol4": "The Capital Way",
       "unit_type": "Apartment",
-      "lower_limit": "2487170"
+      "lower_limit": "3500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -37198,7 +37198,7 @@
       "geol3": "New Capital City",
       "geol4": "The Capital Way",
       "unit_type": "Office Space",
-      "lower_limit": "3266864"
+      "lower_limit": "4500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -37358,7 +37358,7 @@
       "geol3": "6th of October",
       "geol4": "The Crown Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "4185925"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Villas For Sale",
@@ -37366,7 +37366,7 @@
       "geol3": "6th of October",
       "geol4": "The Crown Compound",
       "unit_type": "Town House",
-      "lower_limit": "7676024"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -37374,7 +37374,7 @@
       "geol3": "6th of October",
       "geol4": "The Crown Compound",
       "unit_type": "Twin House",
-      "lower_limit": "8380945"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -37382,7 +37382,7 @@
       "geol3": "6th of October",
       "geol4": "The Crown Compound",
       "unit_type": "Duplex",
-      "lower_limit": "9000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -37390,7 +37390,7 @@
       "geol3": "6th of October",
       "geol4": "The Crown Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "9000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -38550,7 +38550,7 @@
       "geol3": "New Cairo",
       "geol4": "Trio Villa Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "3000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -38558,7 +38558,7 @@
       "geol3": "New Cairo",
       "geol4": "Trio Villa Compound",
       "unit_type": "Duplex",
-      "lower_limit": "3330856"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -38566,7 +38566,7 @@
       "geol3": "New Cairo",
       "geol4": "Trio Villa Compound",
       "unit_type": "Apartment",
-      "lower_limit": "4522814"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -38574,7 +38574,7 @@
       "geol3": "New Cairo",
       "geol4": "Trio Villa Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "6000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Villas For Sale",
@@ -38582,7 +38582,7 @@
       "geol3": "New Cairo",
       "geol4": "Trio Villa Compound",
       "unit_type": "Town House",
-      "lower_limit": "9081979"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Villas For Sale",
@@ -38590,7 +38590,7 @@
       "geol3": "New Cairo",
       "geol4": "Trio Villa Compound",
       "unit_type": "Twin House",
-      "lower_limit": "32900000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -50558,7 +50558,7 @@
       "geol3": "New Cairo",
       "geol4": "Valencia Valley Compound",
       "unit_type": "Studio",
-      "lower_limit": "1171494"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -50566,7 +50566,7 @@
       "geol3": "New Cairo",
       "geol4": "Valencia Valley Compound",
       "unit_type": "Office Space",
-      "lower_limit": "1357431"
+      "lower_limit": "2500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -50574,7 +50574,7 @@
       "geol3": "New Cairo",
       "geol4": "Valencia Valley Compound",
       "unit_type": "Retail",
-      "lower_limit": "1648990"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -50582,7 +50582,7 @@
       "geol3": "New Cairo",
       "geol4": "Valencia Valley Compound",
       "unit_type": "Clinic",
-      "lower_limit": "1682883"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Villas For Sale",
@@ -50590,7 +50590,7 @@
       "geol3": "New Cairo",
       "geol4": "Valencia Valley Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "2146254"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -50598,7 +50598,7 @@
       "geol3": "New Cairo",
       "geol4": "Valencia Valley Compound",
       "unit_type": "Apartment",
-      "lower_limit": "2413423"
+      "lower_limit": "3500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -50606,7 +50606,7 @@
       "geol3": "New Cairo",
       "geol4": "Valencia Valley Compound",
       "unit_type": "Duplex",
-      "lower_limit": "2698599"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -50614,7 +50614,7 @@
       "geol3": "New Cairo",
       "geol4": "Valencia Valley Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "10090916"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -50622,7 +50622,7 @@
       "geol3": "New Cairo",
       "geol4": "Valencia Valley Compound",
       "unit_type": "Town House",
-      "lower_limit": "11036000"
+      "lower_limit": "11000000"
     },
     {
       "cat": "Apartments for Sale",
