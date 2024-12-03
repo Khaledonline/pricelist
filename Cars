@@ -8463,6 +8463,16 @@
     {
       "brand": "Fiat",
       "model": "128",
+      "year": "2008",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "80000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "128",
       "year": "1987",
       "listings_count": "0",
       "median_price": "0",
