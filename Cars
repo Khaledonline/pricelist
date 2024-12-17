@@ -199,6 +199,16 @@
       "avg_price": "651829",
       "upper_bound_ci_99": "739475",
       "lower_bound_ci_99": "610351"
+    }, 
+    {
+      "brand": "Nissan",
+      "model": "Sunny",
+      "year": "2025",
+      "listings_count": "287",
+      "median_price": "660000",
+      "avg_price": "651829",
+      "upper_bound_ci_99": "739475",
+      "lower_bound_ci_99": "800000"
     },
     {
       "brand": "Mercedes-Benz",
