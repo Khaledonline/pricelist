@@ -5870,7 +5870,7 @@
       "geol3": "Mostakbal City",
       "geol4": "Aria Compound",
       "unit_type": "Apartment",
-      "lower_limit": "2283203"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Villas For Sale",
@@ -5878,7 +5878,7 @@
       "geol3": "Mostakbal City",
       "geol4": "Aria Compound",
       "unit_type": "Town House",
-      "lower_limit": "25147000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -13318,7 +13318,7 @@
       "geol3": "North Coast",
       "geol4": "El Rawda",
       "unit_type": "Chalet",
-      "lower_limit": "697312"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Villas For Sale",
@@ -13326,7 +13326,7 @@
       "geol3": "North Coast",
       "geol4": "El Rawda",
       "unit_type": "Twin House",
-      "lower_limit": "4500000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -13334,7 +13334,7 @@
       "geol3": "North Coast",
       "geol4": "El Rawda",
       "unit_type": "Standalone Villa",
-      "lower_limit": "8500000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -15382,7 +15382,7 @@
       "geol3": "Heliopolis",
       "geol4": "Go Heliopolis Compound",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "1654433"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -15390,7 +15390,7 @@
       "geol3": "Heliopolis",
       "geol4": "Go Heliopolis Compound",
       "unit_type": "Restaurant & Cafe",
-      "lower_limit": "1698635"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -17206,7 +17206,7 @@
       "geol3": "6th of October",
       "geol4": "Haram City Compound",
       "unit_type": "Retail",
-      "lower_limit": "423018"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -17214,7 +17214,7 @@
       "geol3": "6th of October",
       "geol4": "Haram City Compound",
       "unit_type": "Duplex",
-      "lower_limit": "1600000"
+      "lower_limit": "3500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -17230,7 +17230,7 @@
       "geol3": "6th of October",
       "geol4": "Haram City Compound",
       "unit_type": "Town House",
-      "lower_limit": "4200000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Villas For Sale",
@@ -17878,7 +17878,7 @@
       "geol3": "Sheraton",
       "geol4": "I-Sheraton",
       "unit_type": "Apartment",
-      "lower_limit": "2355861"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -17886,7 +17886,7 @@
       "geol3": "Sheraton",
       "geol4": "I-Sheraton",
       "unit_type": "Duplex",
-      "lower_limit": "3000000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -17894,7 +17894,7 @@
       "geol3": "Sheraton",
       "geol4": "I-Sheraton",
       "unit_type": "Office Space",
-      "lower_limit": "10545000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -17902,7 +17902,7 @@
       "geol3": "Sheraton",
       "geol4": "I-Sheraton",
       "unit_type": "Restaurant & Cafe",
-      "lower_limit": "12950000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -18022,7 +18022,7 @@
       "geol3": "New Capital City",
       "geol4": "IL Bosco",
       "unit_type": "Pharmacy",
-      "lower_limit": "59000000"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -18078,7 +18078,7 @@
       "geol3": "New Capital City",
       "geol4": "Il Mondo",
       "unit_type": "Apartment",
-      "lower_limit": "8626009"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -18110,7 +18110,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "IL Monte Galala",
       "unit_type": "Retail",
-      "lower_limit": "2140453"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Villas For Sale",
@@ -18198,7 +18198,7 @@
       "geol3": "6th of October",
       "geol4": "Industrial Area",
       "unit_type": "Factory",
-      "lower_limit": "16773084"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -18206,7 +18206,7 @@
       "geol3": "6th of October",
       "geol4": "Industrial Area",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "56375000"
+      "lower_limit": "30000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -18310,7 +18310,7 @@
       "geol3": "Hadayek October",
       "geol4": "Italian Square",
       "unit_type": "Retail",
-      "lower_limit": "612463"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -18326,7 +18326,7 @@
       "geol3": "Hadayek October",
       "geol4": "Italian Square",
       "unit_type": "Penthouse",
-      "lower_limit": "1500000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -18334,7 +18334,7 @@
       "geol3": "Hadayek October",
       "geol4": "Italian Square",
       "unit_type": "Duplex",
-      "lower_limit": "1866178"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -18430,7 +18430,7 @@
       "geol3": "6th of October",
       "geol4": "Ivory Hill Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "20278953"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -18454,7 +18454,7 @@
       "geol3": "Shorouk City",
       "geol4": "Ivy Residence",
       "unit_type": "Retail",
-      "lower_limit": "6668287"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -18470,7 +18470,7 @@
       "geol3": "Shorouk City",
       "geol4": "Ivy Residence",
       "unit_type": "Restaurant & Cafe",
-      "lower_limit": "7879397"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Villas For Sale",
@@ -18494,7 +18494,7 @@
       "geol3": "North Coast",
       "geol4": "Jamila",
       "unit_type": "Chalet",
-      "lower_limit": "8480250"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -18526,7 +18526,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Janna 1",
       "unit_type": "Apartment",
-      "lower_limit": "2782351"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -18590,7 +18590,7 @@
       "geol3": "New Cairo",
       "geol4": "Jayd Compound",
       "unit_type": "Clinic",
-      "lower_limit": "6356063"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Villas For Sale",
@@ -18958,7 +18958,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Jewar Compound",
       "unit_type": "Apartment",
-      "lower_limit": "3215761"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -18966,7 +18966,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Jewar Compound",
       "unit_type": "Duplex",
-      "lower_limit": "11100000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -19110,7 +19110,7 @@
       "geol3": "6th of October",
       "geol4": "Joya Compound",
       "unit_type": "Clinic",
-      "lower_limit": "8600000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -19118,7 +19118,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Jubail Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "30750000"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -19126,7 +19126,7 @@
       "geol3": "North Coast",
       "geol4": "June Sodic",
       "unit_type": "Penthouse",
-      "lower_limit": "1349091"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -19134,7 +19134,7 @@
       "geol3": "North Coast",
       "geol4": "June Sodic",
       "unit_type": "Penthouse",
-      "lower_limit": "4227425"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -19142,7 +19142,7 @@
       "geol3": "North Coast",
       "geol4": "June Sodic",
       "unit_type": "Chalet",
-      "lower_limit": "5716299"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -19150,7 +19150,7 @@
       "geol3": "North Coast",
       "geol4": "June Sodic",
       "unit_type": "Duplex",
-      "lower_limit": "6642588"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Villas For Sale",
@@ -19158,7 +19158,7 @@
       "geol3": "North Coast",
       "geol4": "June Sodic",
       "unit_type": "Town House",
-      "lower_limit": "7642900"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -19166,7 +19166,7 @@
       "geol3": "North Coast",
       "geol4": "June Sodic",
       "unit_type": "Apartment",
-      "lower_limit": "7911883"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -19174,7 +19174,7 @@
       "geol3": "North Coast",
       "geol4": "June Sodic",
       "unit_type": "Town House",
-      "lower_limit": "9217493"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -19182,7 +19182,7 @@
       "geol3": "North Coast",
       "geol4": "June Sodic",
       "unit_type": "Duplex",
-      "lower_limit": "9388774"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -19190,7 +19190,7 @@
       "geol3": "North Coast",
       "geol4": "June Sodic",
       "unit_type": "Twin house",
-      "lower_limit": "10096814"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -19198,7 +19198,7 @@
       "geol3": "North Coast",
       "geol4": "June Sodic",
       "unit_type": "Studio",
-      "lower_limit": "12300000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -19206,7 +19206,7 @@
       "geol3": "North Coast",
       "geol4": "June Sodic",
       "unit_type": "Twin House",
-      "lower_limit": "14756924"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -19214,7 +19214,7 @@
       "geol3": "North Coast",
       "geol4": "June Sodic",
       "unit_type": "Standalone Villa",
-      "lower_limit": "14833910"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Villas For Sale",
@@ -19222,7 +19222,7 @@
       "geol3": "North Coast",
       "geol4": "June Sodic",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "25664498"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -19230,7 +19230,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Jura",
       "unit_type": "Duplex",
-      "lower_limit": "2560000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -19238,7 +19238,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Jura",
       "unit_type": "Chalet",
-      "lower_limit": "4126963"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -19286,7 +19286,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Kanarya Compound",
       "unit_type": "Apartment",
-      "lower_limit": "1783673"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -19294,7 +19294,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Kanarya Compound",
       "unit_type": "Duplex",
-      "lower_limit": "4500000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -19318,7 +19318,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Karma Gates Compound",
       "unit_type": "Town House",
-      "lower_limit": "5911106"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -19326,7 +19326,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Karma Gates Compound",
       "unit_type": "Twin House",
-      "lower_limit": "5957486"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -19334,7 +19334,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Karma Gates Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "6204392"
+      "lower_limit": "14000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -19342,7 +19342,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Karma Gates Compound",
       "unit_type": "Apartment",
-      "lower_limit": "6509000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -19350,7 +19350,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Karma Kay Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "1094056"
+      "lower_limit": "3500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -19358,7 +19358,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Karma Kay Compound",
       "unit_type": "Studio",
-      "lower_limit": "1684221"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -19366,7 +19366,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Karma Kay Compound",
       "unit_type": "Duplex",
-      "lower_limit": "1901355"
+      "lower_limit": "3500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -19374,7 +19374,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Karma Kay Compound",
       "unit_type": "Apartment",
-      "lower_limit": "2647328"
+      "lower_limit": "2500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -19542,7 +19542,7 @@
       "geol3": "Katameya",
       "geol4": "Katameya Creeks",
       "unit_type": "Apartment",
-      "lower_limit": "2247387"
+      "lower_limit": "3500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -19742,7 +19742,7 @@
       "geol3": "New Cairo",
       "geol4": "Kattameya Palms Compound",
       "unit_type": "Restaurant & Cafe",
-      "lower_limit": "10560000"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Villas For Sale",
@@ -19750,7 +19750,7 @@
       "geol3": "New Cairo",
       "geol4": "Kattameya Palms Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "10614071"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -19830,7 +19830,7 @@
       "geol3": "6th of October",
       "geol4": "Kayan",
       "unit_type": "Restaurant & Cafe",
-      "lower_limit": "9800000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Villas For Sale",
@@ -19918,7 +19918,7 @@
       "geol3": "Hadayek October",
       "geol4": "Kenz",
       "unit_type": "Penthouse",
-      "lower_limit": "1548367"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -19926,7 +19926,7 @@
       "geol3": "Hadayek October",
       "geol4": "Kenz",
       "unit_type": "Apartment",
-      "lower_limit": "1849377"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -19934,7 +19934,7 @@
       "geol3": "Hadayek October",
       "geol4": "Kenz",
       "unit_type": "Studio",
-      "lower_limit": "3200000"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -19966,7 +19966,7 @@
       "geol3": "6th of October",
       "geol4": "Kings range Compound",
       "unit_type": "Twin House",
-      "lower_limit": "25000000"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Villas For Sale",
@@ -19974,7 +19974,7 @@
       "geol3": "6th of October",
       "geol4": "Kings range Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "25500000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -21606,7 +21606,7 @@
       "geol3": "Hadayek October",
       "geol4": "Lakefront",
       "unit_type": "Apartment",
-      "lower_limit": "1392105"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Villas For Sale",
@@ -21614,7 +21614,7 @@
       "geol3": "Hadayek October",
       "geol4": "Lakefront",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "5600000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -21622,7 +21622,7 @@
       "geol3": "Hadayek October",
       "geol4": "Lakefront",
       "unit_type": "Town House",
-      "lower_limit": "6500000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -21630,7 +21630,7 @@
       "geol3": "North Coast",
       "geol4": "Lamera",
       "unit_type": "Chalet",
-      "lower_limit": "1094341"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -21638,7 +21638,7 @@
       "geol3": "North Coast",
       "geol4": "Lamera",
       "unit_type": "Penthouse",
-      "lower_limit": "3500000"
+      "lower_limit": "2500000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -21806,7 +21806,7 @@
       "geol3": "Alamein",
       "geol4": "Latin District",
       "unit_type": "Retail",
-      "lower_limit": "796093"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -21854,7 +21854,7 @@
       "geol3": "Alamein",
       "geol4": "Latin District",
       "unit_type": "Restaurant & Cafe",
-      "lower_limit": "2527000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -21870,7 +21870,7 @@
       "geol3": "Alamein",
       "geol4": "Latin District",
       "unit_type": "Pharmacy",
-      "lower_limit": "9555000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -21934,7 +21934,7 @@
       "geol3": "New Heliopolis",
       "geol4": "Lavida",
       "unit_type": "Apartment",
-      "lower_limit": "871737"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -21950,7 +21950,7 @@
       "geol3": "New Cairo",
       "geol4": "layan Compound",
       "unit_type": "Office Space",
-      "lower_limit": "4892422"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Villas For Sale",
@@ -21990,7 +21990,7 @@
       "geol3": "North Coast",
       "geol4": "Lazorde Bay",
       "unit_type": "Studio",
-      "lower_limit": "2400000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -21998,7 +21998,7 @@
       "geol3": "North Coast",
       "geol4": "Lazorde Bay",
       "unit_type": "Chalet",
-      "lower_limit": "2921539"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Villas For Sale",
@@ -22006,7 +22006,7 @@
       "geol3": "North Coast",
       "geol4": "Lazorde Bay",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "16000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -22118,7 +22118,7 @@
       "geol3": "New Cairo",
       "geol4": "Les Rois Compound",
       "unit_type": "Apartment",
-      "lower_limit": "5850000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Villas For Sale",
@@ -22238,7 +22238,7 @@
       "geol3": "New Capital City",
       "geol4": "Light City",
       "unit_type": "Apartment",
-      "lower_limit": "4000000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -22246,7 +22246,7 @@
       "geol3": "North Coast",
       "geol4": "London North Coast",
       "unit_type": "Chalet",
-      "lower_limit": "1185980"
+      "lower_limit": "1200000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -22262,7 +22262,7 @@
       "geol3": "North Coast",
       "geol4": "Long Beach",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "16600000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -22270,7 +22270,7 @@
       "geol3": "North Coast",
       "geol4": "Lotus",
       "unit_type": "Chalet",
-      "lower_limit": "1321756"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -22278,7 +22278,7 @@
       "geol3": "North Coast",
       "geol4": "Lotus",
       "unit_type": "Apartment",
-      "lower_limit": "2192117"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -22286,7 +22286,7 @@
       "geol3": "North Coast",
       "geol4": "Lotus",
       "unit_type": "Penthouse",
-      "lower_limit": "2800000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -22294,7 +22294,7 @@
       "geol3": "North Coast",
       "geol4": "Lotus",
       "unit_type": "Standalone Villa",
-      "lower_limit": "6000000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Villas For Sale",
@@ -22302,7 +22302,7 @@
       "geol3": "North Coast",
       "geol4": "Lotus",
       "unit_type": "Twin House",
-      "lower_limit": "6000000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Villas For Sale",
@@ -24662,7 +24662,7 @@
       "geol3": "New Capital City",
       "geol4": "Mohamed Bin Zayed North Axis",
       "unit_type": "Office Space",
-      "lower_limit": "872210"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -24670,7 +24670,7 @@
       "geol3": "New Capital City",
       "geol4": "Mohamed Bin Zayed North Axis",
       "unit_type": "Apartment",
-      "lower_limit": "4163324"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -24678,7 +24678,7 @@
       "geol3": "New Capital City",
       "geol4": "Mohamed Bin Zayed South Axis",
       "unit_type": "Retail",
-      "lower_limit": "63833"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -24686,7 +24686,7 @@
       "geol3": "New Capital City",
       "geol4": "Mohamed Bin Zayed South Axis",
       "unit_type": "Restaurant & Cafe",
-      "lower_limit": "950000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -24694,7 +24694,7 @@
       "geol3": "New Capital City",
       "geol4": "Mohamed Bin Zayed South Axis",
       "unit_type": "Apartment",
-      "lower_limit": "2650677"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -24702,7 +24702,7 @@
       "geol3": "New Capital City",
       "geol4": "Mohamed Bin Zayed South Axis",
       "unit_type": "Office Space",
-      "lower_limit": "2960024"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -24710,7 +24710,7 @@
       "geol3": "New Capital City",
       "geol4": "Mohamed Bin Zayed South Axis",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "35973854"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -24758,7 +24758,7 @@
       "geol3": "North Coast",
       "geol4": "Mohandesin",
       "unit_type": "Chalet",
-      "lower_limit": "1300000"
+      "lower_limit": "1200000"
     },
     {
       "cat": "Apartments for Sale",
@@ -24766,7 +24766,7 @@
       "geol3": "North Coast",
       "geol4": "Mohandesin",
       "unit_type": "Apartment",
-      "lower_limit": "1500000"
+      "lower_limit": "1200000"
     },
     {
       "cat": "Villas For Sale",
@@ -24942,7 +24942,7 @@
       "geol3": "6th of October",
       "geol4": "Moon Hillls Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "4622584"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -24950,7 +24950,7 @@
       "geol3": "6th of October",
       "geol4": "Moon Hillls Compound",
       "unit_type": "Town House",
-      "lower_limit": "8775600"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -24958,7 +24958,7 @@
       "geol3": "6th of October",
       "geol4": "Moon Hillls Compound",
       "unit_type": "Apartment",
-      "lower_limit": "8800000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Villas For Sale",
@@ -24966,7 +24966,7 @@
       "geol3": "6th of October",
       "geol4": "Moon Hillls Compound",
       "unit_type": "Twin House",
-      "lower_limit": "9580000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Villas For Sale",
@@ -24974,7 +24974,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "MOON HILLS 4 Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "4928403"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -24982,7 +24982,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "MOON HILLS 4 Compound",
       "unit_type": "Apartment",
-      "lower_limit": "7850000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Villas For Sale",
@@ -24990,7 +24990,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "MOON HILLS 4 Compound",
       "unit_type": "Town House",
-      "lower_limit": "8676964"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Villas For Sale",
@@ -24998,7 +24998,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "MOON HILLS 4 Compound",
       "unit_type": "Twin House",
-      "lower_limit": "9805882"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Villas For Sale",
@@ -25006,7 +25006,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Moon Land Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "6245730"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -25118,7 +25118,7 @@
       "geol3": "New Capital City",
       "geol4": "MORAYA NEW CAPITAL",
       "unit_type": "Retail",
-      "lower_limit": "1389084"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -25126,7 +25126,7 @@
       "geol3": "New Capital City",
       "geol4": "MORAYA NEW CAPITAL",
       "unit_type": "Office Space",
-      "lower_limit": "1582911"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -25142,7 +25142,7 @@
       "geol3": "New Capital City",
       "geol4": "MORAYA NEW CAPITAL",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "3400000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -25150,7 +25150,7 @@
       "geol3": "New Capital City",
       "geol4": "MORAYA NEW CAPITAL",
       "unit_type": "Clinic",
-      "lower_limit": "4388400"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -25158,7 +25158,7 @@
       "geol3": "New Capital City",
       "geol4": "MORAYA NEW CAPITAL",
       "unit_type": "Restaurant & Cafe",
-      "lower_limit": "4712764"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -25654,7 +25654,7 @@
       "geol3": "6th of October",
       "geol4": "Mountain View iCity Compound",
       "unit_type": "Retail",
-      "lower_limit": "11066667"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -25662,7 +25662,7 @@
       "geol3": "6th of October",
       "geol4": "Mountain View iCity Compound",
       "unit_type": "Office Space",
-      "lower_limit": "17550000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -25718,7 +25718,7 @@
       "geol3": "New Cairo",
       "geol4": "Mountain View iCity Compound",
       "unit_type": "Office Space",
-      "lower_limit": "8949455"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -25726,7 +25726,7 @@
       "geol3": "New Cairo",
       "geol4": "Mountain View iCity Compound",
       "unit_type": "Retail",
-      "lower_limit": "9323998"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Villas For Sale",
@@ -25742,7 +25742,7 @@
       "geol3": "New Cairo",
       "geol4": "Mountain View iCity Compound",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "10578572"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -25750,7 +25750,7 @@
       "geol3": "New Cairo",
       "geol4": "Mountain View iCity Compound",
       "unit_type": "Restaurant & Cafe",
-      "lower_limit": "25000000"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -25758,7 +25758,7 @@
       "geol3": "New Cairo",
       "geol4": "Mountain View iCity Compound",
       "unit_type": "Clinic",
-      "lower_limit": "32700000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27758,7 +27758,7 @@
       "geol3": "6th of October",
       "geol4": "Nyoum Pyramids",
       "unit_type": "Studio",
-      "lower_limit": "700000"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27766,7 +27766,7 @@
       "geol3": "6th of October",
       "geol4": "Nyoum Pyramids",
       "unit_type": "Apartment",
-      "lower_limit": "1131566"
+      "lower_limit": "2500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27774,7 +27774,7 @@
       "geol3": "6th of October",
       "geol4": "Nyoum Pyramids",
       "unit_type": "Duplex",
-      "lower_limit": "2479069"
+      "lower_limit": "3500000"
     },
     {
       "cat": "Villas For Sale",
@@ -27782,7 +27782,7 @@
       "geol3": "6th of October",
       "geol4": "Nyoum Pyramids",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "7228141"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -27790,7 +27790,7 @@
       "geol3": "6th of October",
       "geol4": "O West Compound",
       "unit_type": "Retail",
-      "lower_limit": "750000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -27798,7 +27798,7 @@
       "geol3": "6th of October",
       "geol4": "O West Compound",
       "unit_type": "Office Space",
-      "lower_limit": "903568"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27910,7 +27910,7 @@
       "geol3": "6th of October",
       "geol4": "October Plaza Sodic Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "1354034"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27918,7 +27918,7 @@
       "geol3": "6th of October",
       "geol4": "October Plaza Sodic Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "3684147"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27926,7 +27926,7 @@
       "geol3": "6th of October",
       "geol4": "October Plaza Sodic Compound",
       "unit_type": "Apartment",
-      "lower_limit": "4107641"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27934,7 +27934,7 @@
       "geol3": "6th of October",
       "geol4": "October Plaza Sodic Compound",
       "unit_type": "Duplex",
-      "lower_limit": "6000000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27974,7 +27974,7 @@
       "geol3": "North Coast",
       "geol4": "Ogami",
       "unit_type": "Chalet",
-      "lower_limit": "3425000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27982,7 +27982,7 @@
       "geol3": "North Coast",
       "geol4": "Ogami",
       "unit_type": "Apartment",
-      "lower_limit": "7000000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Villas For Sale",
@@ -27990,7 +27990,7 @@
       "geol3": "North Coast",
       "geol4": "Ogami",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "9019574"
+      "lower_limit": "14000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -27998,7 +27998,7 @@
       "geol3": "North Coast",
       "geol4": "Ogami",
       "unit_type": "Standalone Villa",
-      "lower_limit": "10841502"
+      "lower_limit": "14000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -28006,7 +28006,7 @@
       "geol3": "North Coast",
       "geol4": "Ogami",
       "unit_type": "Town House",
-      "lower_limit": "14888630"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -28014,7 +28014,7 @@
       "geol3": "North Coast",
       "geol4": "Ogami",
       "unit_type": "Twin house",
-      "lower_limit": "20125608"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Villas For Sale",
@@ -28022,7 +28022,7 @@
       "geol3": "North Coast",
       "geol4": "Ogami",
       "unit_type": "Twin House",
-      "lower_limit": "20334320"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Villas For Sale",
@@ -28030,7 +28030,7 @@
       "geol3": "North Coast",
       "geol4": "Ogami",
       "unit_type": "Town House",
-      "lower_limit": "30000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28054,7 +28054,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "One 16 Compound",
       "unit_type": "Apartment",
-      "lower_limit": "7192043"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28062,7 +28062,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "One 16 Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "17300000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28190,7 +28190,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "ONe33",
       "unit_type": "Apartment",
-      "lower_limit": "3559546"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28198,7 +28198,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "ONe33",
       "unit_type": "Penthouse",
-      "lower_limit": "3894693"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28206,7 +28206,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "ONe33",
       "unit_type": "Studio",
-      "lower_limit": "4434160"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28214,7 +28214,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "ONe33",
       "unit_type": "Duplex",
-      "lower_limit": "11969800"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28222,7 +28222,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Opera City Compound",
       "unit_type": "Apartment",
-      "lower_limit": "1963513"
+      "lower_limit": "2500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28230,7 +28230,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Opera City Compound",
       "unit_type": "Duplex",
-      "lower_limit": "8200000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28246,7 +28246,7 @@
       "geol3": "Mokattam",
       "geol4": "Oriana",
       "unit_type": "Apartment",
-      "lower_limit": "3200000"
+      "lower_limit": "2500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28254,7 +28254,7 @@
       "geol3": "Mokattam",
       "geol4": "Oriana",
       "unit_type": "Duplex",
-      "lower_limit": "4800000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28334,7 +28334,7 @@
       "geol3": "New Capital City",
       "geol4": "ORO",
       "unit_type": "Office Space",
-      "lower_limit": "873146"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28350,7 +28350,7 @@
       "geol3": "New Capital City",
       "geol4": "ORO",
       "unit_type": "Clinic",
-      "lower_limit": "3825000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28366,7 +28366,7 @@
       "geol3": "New Capital City",
       "geol4": "ORO",
       "unit_type": "Retail",
-      "lower_limit": "6400000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Villas For Sale",
@@ -28526,7 +28526,7 @@
       "geol3": "Shorouk City",
       "geol4": "Palm Capital",
       "unit_type": "Retail",
-      "lower_limit": "1496106"
+      "lower_limit": "2500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28710,7 +28710,7 @@
       "geol3": "6th of October",
       "geol4": "Palm hills golf views Compound",
       "unit_type": "Retail",
-      "lower_limit": "32000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -28718,7 +28718,7 @@
       "geol3": "6th of October",
       "geol4": "Palm hills golf views Compound",
       "unit_type": "Office Space",
-      "lower_limit": "36000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28742,7 +28742,7 @@
       "geol3": "New Cairo",
       "geol4": "Palm Hills Katameya Compound",
       "unit_type": "Retail",
-      "lower_limit": "5447820"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28830,7 +28830,7 @@
       "geol3": "North Coast",
       "geol4": "Palm Hills New Alamein",
       "unit_type": "Apartment",
-      "lower_limit": "3313754"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28838,7 +28838,7 @@
       "geol3": "North Coast",
       "geol4": "Palm Hills New Alamein",
       "unit_type": "Studio",
-      "lower_limit": "3400000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -28846,7 +28846,7 @@
       "geol3": "North Coast",
       "geol4": "Palm Hills New Alamein",
       "unit_type": "Chalet",
-      "lower_limit": "3539663"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -28854,7 +28854,7 @@
       "geol3": "North Coast",
       "geol4": "Palm Hills New Alamein",
       "unit_type": "Studio",
-      "lower_limit": "4529000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Villas For Sale",
@@ -28862,7 +28862,7 @@
       "geol3": "North Coast",
       "geol4": "Palm Hills New Alamein",
       "unit_type": "Town House",
-      "lower_limit": "12013000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -28870,7 +28870,7 @@
       "geol3": "North Coast",
       "geol4": "Palm Hills New Alamein",
       "unit_type": "Standalone Villa",
-      "lower_limit": "14250113"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -28878,7 +28878,7 @@
       "geol3": "North Coast",
       "geol4": "Palm Hills New Alamein",
       "unit_type": "Restaurant & Cafe",
-      "lower_limit": "26000000"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -28886,7 +28886,7 @@
       "geol3": "North Coast",
       "geol4": "Palm Hills New Alamein",
       "unit_type": "Town House",
-      "lower_limit": "31000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28982,7 +28982,7 @@
       "geol3": "Shorouk City",
       "geol4": "Palm hub",
       "unit_type": "Retail",
-      "lower_limit": "5121600"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28990,7 +28990,7 @@
       "geol3": "Shorouk City",
       "geol4": "Palm Island",
       "unit_type": "Apartment",
-      "lower_limit": "2046858"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -32262,7 +32262,7 @@
       "geol3": "New Heliopolis",
       "geol4": "Rock White",
       "unit_type": "Apartment",
-      "lower_limit": "1883472"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -32270,7 +32270,7 @@
       "geol3": "Ras Sedr",
       "geol4": "Rosa",
       "unit_type": "Chalet",
-      "lower_limit": "919320"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -32278,7 +32278,7 @@
       "geol3": "Ras Sedr",
       "geol4": "Rosa",
       "unit_type": "Standalone Villa",
-      "lower_limit": "2100000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -32334,7 +32334,7 @@
       "geol3": "North Coast",
       "geol4": "Rosana",
       "unit_type": "Chalet",
-      "lower_limit": "7500000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Villas For Sale",
@@ -32350,7 +32350,7 @@
       "geol3": "New Capital City",
       "geol4": "Roses",
       "unit_type": "Duplex",
-      "lower_limit": "1159477"
+      "lower_limit": "3500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -32358,7 +32358,7 @@
       "geol3": "New Capital City",
       "geol4": "Roses",
       "unit_type": "Apartment",
-      "lower_limit": "3000000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -32454,7 +32454,7 @@
       "geol3": "New Cairo",
       "geol4": "Royal Lagoon Compound",
       "unit_type": "Apartment",
-      "lower_limit": "5500000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -32462,7 +32462,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Royal lake New Zayed Compound",
       "unit_type": "Apartment",
-      "lower_limit": "2355136"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -32470,7 +32470,7 @@
       "geol3": "New Cairo",
       "geol4": "Royal Maxim Compound",
       "unit_type": "Apartment",
-      "lower_limit": "4661000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Villas For Sale",
@@ -32478,7 +32478,7 @@
       "geol3": "New Cairo",
       "geol4": "Royal Maxim Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "11892588"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -32542,7 +32542,7 @@
       "geol3": "North Coast",
       "geol4": "S Bay",
       "unit_type": "Chalet",
-      "lower_limit": "2601791"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -32550,7 +32550,7 @@
       "geol3": "North Coast",
       "geol4": "S Bay",
       "unit_type": "Standalone Villa",
-      "lower_limit": "33613000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -32630,7 +32630,7 @@
       "geol3": "North Coast",
       "geol4": "Safia",
       "unit_type": "Office Space",
-      "lower_limit": "5200000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Villas For Sale",
@@ -32694,7 +32694,7 @@
       "geol3": "Borg al-Arab",
       "geol4": "Safwa Dream",
       "unit_type": "Apartment",
-      "lower_limit": "1300000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Villas For Sale",
@@ -32702,7 +32702,7 @@
       "geol3": "Borg al-Arab",
       "geol4": "Safwa Dream",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "11000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -32710,7 +32710,7 @@
       "geol3": "North Coast",
       "geol4": "Salsabil",
       "unit_type": "Chalet",
-      "lower_limit": "3000000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -32798,7 +32798,7 @@
       "geol3": "Katameya",
       "geol4": "Sama",
       "unit_type": "Apartment",
-      "lower_limit": "1860677"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -32806,7 +32806,7 @@
       "geol3": "Katameya",
       "geol4": "Sama",
       "unit_type": "Office Space",
-      "lower_limit": "5700000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Villas For Sale",
@@ -32878,7 +32878,7 @@
       "geol3": "Alamein",
       "geol4": "Santorini",
       "unit_type": "Apartment",
-      "lower_limit": "7000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -32886,7 +32886,7 @@
       "geol3": "North Coast",
       "geol4": "Santorini",
       "unit_type": "Apartment",
-      "lower_limit": "427976"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -32894,7 +32894,7 @@
       "geol3": "North Coast",
       "geol4": "Santorini",
       "unit_type": "Chalet",
-      "lower_limit": "615352"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -33110,7 +33110,7 @@
       "geol3": "Gouna",
       "geol4": "Scarab Club",
       "unit_type": "Apartment",
-      "lower_limit": "2189548"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -33118,7 +33118,7 @@
       "geol3": "Gouna",
       "geol4": "Scarab Club",
       "unit_type": "Chalet",
-      "lower_limit": "2727773"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -33126,7 +33126,7 @@
       "geol3": "New Capital City",
       "geol4": "Scarta",
       "unit_type": "Office Space",
-      "lower_limit": "2515350"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -33134,7 +33134,7 @@
       "geol3": "New Capital City",
       "geol4": "Scenario",
       "unit_type": "Apartment",
-      "lower_limit": "2492109"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -33142,7 +33142,7 @@
       "geol3": "New Capital City",
       "geol4": "Scene 7",
       "unit_type": "Apartment",
-      "lower_limit": "5000000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -33414,7 +33414,7 @@
       "geol3": "New Cairo",
       "geol4": "Seasons Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "18399944"
+      "lower_limit": "25000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -33542,7 +33542,7 @@
       "geol3": "Heliopolis",
       "geol4": "Sephora Heights Compound",
       "unit_type": "Apartment",
-      "lower_limit": "2663682"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -33550,7 +33550,7 @@
       "geol3": "New Cairo",
       "geol4": "Serena Heights Compound",
       "unit_type": "Apartment",
-      "lower_limit": "2412765"
+      "lower_limit": "2500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34006,7 +34006,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Sitio",
       "unit_type": "Town House",
-      "lower_limit": "16461000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34038,7 +34038,7 @@
       "geol3": "New Capital City",
       "geol4": "Sky AD",
       "unit_type": "Apartment",
-      "lower_limit": "4281000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34046,7 +34046,7 @@
       "geol3": "New Capital City",
       "geol4": "Sky Capital",
       "unit_type": "Apartment",
-      "lower_limit": "3448600"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Villas For Sale",
@@ -34054,7 +34054,7 @@
       "geol3": "New Capital City",
       "geol4": "Sky Capital View",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "25000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -34062,7 +34062,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Sky City",
       "unit_type": "Chalet",
-      "lower_limit": "1791231"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -34070,7 +34070,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Sky City",
       "unit_type": "Standalone Villa",
-      "lower_limit": "11050000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -34078,7 +34078,7 @@
       "geol3": "Banha",
       "geol4": "Sky City Banha",
       "unit_type": "Retail",
-      "lower_limit": "423211"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34086,7 +34086,7 @@
       "geol3": "Banha",
       "geol4": "Sky City Banha",
       "unit_type": "Apartment",
-      "lower_limit": "4000000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34118,7 +34118,7 @@
       "geol3": "New Cairo",
       "geol4": "Sky Condos Sodic Compound",
       "unit_type": "Office Space",
-      "lower_limit": "33000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34134,7 +34134,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Sky Ramp",
       "unit_type": "Office Space",
-      "lower_limit": "2214922"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34150,7 +34150,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Sky Ramp",
       "unit_type": "Clinic",
-      "lower_limit": "4158063"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -34158,7 +34158,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Sky Ramp",
       "unit_type": "Restaurant & Cafe",
-      "lower_limit": "7153485"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -34166,7 +34166,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Sky Ramp",
       "unit_type": "Retail",
-      "lower_limit": "9282081"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34222,7 +34222,7 @@
       "geol3": "New Cairo",
       "geol4": "Smart Life Compound",
       "unit_type": "Apartment",
-      "lower_limit": "2051660"
+      "lower_limit": "2500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -34302,7 +34302,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Sodic Westown Compound",
       "unit_type": "Office Space",
-      "lower_limit": "1643124"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -34310,7 +34310,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Sodic Westown Compound",
       "unit_type": "Clinic",
-      "lower_limit": "3476637"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Villas For Sale",
@@ -34326,7 +34326,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Sodic Westown Compound",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "4500000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34374,7 +34374,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Sodic Westown Compound",
       "unit_type": "Retail",
-      "lower_limit": "16800000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34414,7 +34414,7 @@
       "geol3": "Makadi Bay",
       "geol4": "Sol Y Mar - Makadi Heights",
       "unit_type": "Duplex",
-      "lower_limit": "4611176"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34622,7 +34622,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Solimar Green 2",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "5462500"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Villas For Sale",
@@ -34630,7 +34630,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Solimar Green 3",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "3767584"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Villas For Sale",
@@ -34638,7 +34638,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Solimar Green 3",
       "unit_type": "Town House",
-      "lower_limit": "8500000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34646,7 +34646,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Solimar Green 3",
       "unit_type": "Apartment",
-      "lower_limit": "9250000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34670,7 +34670,7 @@
       "geol3": "Soma Bay",
       "geol4": "Soma Breeze",
       "unit_type": "Chalet",
-      "lower_limit": "1090506"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Villas For Sale",
@@ -34678,7 +34678,7 @@
       "geol3": "Soma Bay",
       "geol4": "Soma Coves",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "3100000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -34686,7 +34686,7 @@
       "geol3": "Soma Bay",
       "geol4": "Soma Coves",
       "unit_type": "Penthouse",
-      "lower_limit": "4265000"
+      "lower_limit": "2500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -34694,7 +34694,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Somow",
       "unit_type": "Apartment",
-      "lower_limit": "2878780"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Villas For Sale",
@@ -34702,7 +34702,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Somow",
       "unit_type": "Town House",
-      "lower_limit": "3062909"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -34878,7 +34878,7 @@
       "geol3": "New Cairo",
       "geol4": "South Investors",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "1000000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -39262,7 +39262,7 @@
       "geol3": "Ain Shams",
       "geol4": "Unknown",
       "unit_type": "Warehouse",
-      "lower_limit": "433163"
+      "lower_limit": "250000"
     },
     {
       "cat": "Apartments for Sale",
@@ -39270,7 +39270,7 @@
       "geol3": "Ain Shams",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "640000"
+      "lower_limit": "600000"
     },
     {
       "cat": "Apartments for Sale",
@@ -39278,7 +39278,7 @@
       "geol3": "Ain Shams",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "490552"
+      "lower_limit": "400000"
     },
     {
       "cat": "Commercial for Sale",
@@ -39286,7 +39286,7 @@
       "geol3": "Ain Shams",
       "geol4": "Unknown",
       "unit_type": "Retail",
-      "lower_limit": "721642"
+      "lower_limit": "700000"
     },
     {
       "cat": "Commercial for Sale",
@@ -39294,7 +39294,7 @@
       "geol3": "Ain Shams",
       "geol4": "Unknown",
       "unit_type": "Pharmacy",
-      "lower_limit": "816392"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -39302,7 +39302,7 @@
       "geol3": "Ain Shams",
       "geol4": "Unknown",
       "unit_type": "Office Space",
-      "lower_limit": "1000000"
+      "lower_limit": "600000"
     },
     {
       "cat": "Villas For Sale",
@@ -39310,7 +39310,7 @@
       "geol3": "Ain Shams",
       "geol4": "Unknown",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "1109068"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -39318,7 +39318,7 @@
       "geol3": "Ain Shams",
       "geol4": "Unknown",
       "unit_type": "Clinic",
-      "lower_limit": "1950000"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -39326,7 +39326,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Unknown",
       "unit_type": "Studio",
-      "lower_limit": "604179"
+      "lower_limit": "600000"
     },
     {
       "cat": "Commercial for Sale",
@@ -39334,7 +39334,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Unknown",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "806351"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Villas For Sale",
@@ -39342,7 +39342,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Unknown",
       "unit_type": "Town House",
-      "lower_limit": "1138877"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -39350,7 +39350,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "1535259"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -39358,7 +39358,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Unknown",
       "unit_type": "Penthouse",
-      "lower_limit": "1598009"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -39366,7 +39366,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "1663283"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -39374,7 +39374,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Unknown",
       "unit_type": "Penthouse",
-      "lower_limit": "2444652"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -39382,7 +39382,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Unknown",
       "unit_type": "Twin house",
-      "lower_limit": "2670463"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -39390,7 +39390,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Unknown",
       "unit_type": "Chalet",
-      "lower_limit": "2671012"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -39398,7 +39398,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Unknown",
       "unit_type": "Retail",
-      "lower_limit": "2753633"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -39406,7 +39406,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "2996486"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -39414,7 +39414,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Unknown",
       "unit_type": "Restaurant & Cafe",
-      "lower_limit": "3149565"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -39422,7 +39422,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Unknown",
       "unit_type": "Studio",
-      "lower_limit": "4080983"
+      "lower_limit": "600000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -39430,7 +39430,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Unknown",
       "unit_type": "Town House",
-      "lower_limit": "4294735"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Villas For Sale",
@@ -39438,7 +39438,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Unknown",
       "unit_type": "Twin House",
-      "lower_limit": "4458663"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -39446,7 +39446,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Unknown",
       "unit_type": "Standalone Villa",
-      "lower_limit": "4597863"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Villas For Sale",
@@ -39454,7 +39454,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Unknown",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "4640382"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -39462,7 +39462,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Unknown",
       "unit_type": "Factory",
-      "lower_limit": "15114071"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -39518,7 +39518,7 @@
       "geol3": "Al Ibrahimiyyah",
       "geol4": "Unknown",
       "unit_type": "Office Space",
-      "lower_limit": "757000"
+      "lower_limit": "700000"
     },
     {
       "cat": "Commercial for Sale",
@@ -39550,7 +39550,7 @@
       "geol3": "Al Ibrahimiyyah",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "3050000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Villas For Sale",
@@ -39558,7 +39558,7 @@
       "geol3": "Al Ibrahimiyyah",
       "geol4": "Unknown",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "6850000"
+      "lower_limit": "6800000"
     },
     {
       "cat": "Commercial for Sale",
@@ -39566,7 +39566,7 @@
       "geol3": "Al Ibrahimiyyah",
       "geol4": "Unknown",
       "unit_type": "Pharmacy",
-      "lower_limit": "1450000"
+      "lower_limit": "1400000"
     },
     {
       "cat": "Commercial for Sale",
@@ -39598,7 +39598,7 @@
       "geol3": "Al Manial",
       "geol4": "Unknown",
       "unit_type": "Retail",
-      "lower_limit": "542557"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -39606,7 +39606,7 @@
       "geol3": "Al Manial",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "2616258"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -39614,14 +39614,6 @@
       "geol3": "Al Manial",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "2852493"
-    },
-    {
-      "cat": "Commercial for Sale",
-      "geol2": "Cairo",
-      "geol3": "Al Manial",
-      "geol4": "Unknown",
-      "unit_type": "Clinic",
       "lower_limit": "3000000"
     },
     {
@@ -39629,8 +39621,16 @@
       "geol2": "Cairo",
       "geol3": "Al Manial",
       "geol4": "Unknown",
+      "unit_type": "Clinic",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Al Manial",
+      "geol4": "Unknown",
       "unit_type": "Office Space",
-      "lower_limit": "14500000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -39806,7 +39806,7 @@
       "geol3": "Almazah",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "2592114"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -39814,7 +39814,7 @@
       "geol3": "Almazah",
       "geol4": "Unknown",
       "unit_type": "Retail",
-      "lower_limit": "4452835"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -39822,7 +39822,7 @@
       "geol3": "Almazah",
       "geol4": "Unknown",
       "unit_type": "Clinic",
-      "lower_limit": "5500000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -39830,7 +39830,7 @@
       "geol3": "Almazah",
       "geol4": "Unknown",
       "unit_type": "Restaurant & Cafe",
-      "lower_limit": "6800000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -39838,7 +39838,7 @@
       "geol3": "Almazah",
       "geol4": "Unknown",
       "unit_type": "Office Space",
-      "lower_limit": "8260360"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -39846,7 +39846,7 @@
       "geol3": "Almazah",
       "geol4": "Unknown",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "125000000"
+      "lower_limit": "80000000"
     },
     {
       "cat": "Villas For Sale",
@@ -40006,7 +40006,7 @@
       "geol3": "Ard El Lewa",
       "geol4": "Unknown",
       "unit_type": "Retail",
-      "lower_limit": "29951"
+      "lower_limit": "100000"
     },
     {
       "cat": "Apartments for Sale",
@@ -40014,7 +40014,7 @@
       "geol3": "Ard El Lewa",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "444852"
+      "lower_limit": "400000"
     },
     {
       "cat": "Apartments for Sale",
@@ -40022,7 +40022,7 @@
       "geol3": "Ard El Lewa",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "1450000"
+      "lower_limit": "1200000"
     },
     {
       "cat": "Apartments for Sale",
@@ -40038,7 +40038,7 @@
       "geol3": "Asafra",
       "geol4": "Unknown",
       "unit_type": "Garage",
-      "lower_limit": "132676"
+      "lower_limit": "200000"
     },
     {
       "cat": "Commercial for Sale",
@@ -40046,7 +40046,7 @@
       "geol3": "Asafra",
       "geol4": "Unknown",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "213912"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -40054,7 +40054,7 @@
       "geol3": "Asafra",
       "geol4": "Unknown",
       "unit_type": "Warehouse",
-      "lower_limit": "600000"
+      "lower_limit": "500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -40062,7 +40062,7 @@
       "geol3": "Asafra",
       "geol4": "Unknown",
       "unit_type": "Retail",
-      "lower_limit": "808047"
+      "lower_limit": "600000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -40070,7 +40070,7 @@
       "geol3": "Asafra",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "1000000"
+      "lower_limit": "2500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -40078,7 +40078,7 @@
       "geol3": "Asafra",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "1006646"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -40086,7 +40086,7 @@
       "geol3": "Asafra",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "1267414"
+      "lower_limit": "2500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -40094,7 +40094,7 @@
       "geol3": "Asafra",
       "geol4": "Unknown",
       "unit_type": "Pharmacy",
-      "lower_limit": "2175000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -40102,7 +40102,7 @@
       "geol3": "Asafra",
       "geol4": "Unknown",
       "unit_type": "Penthouse",
-      "lower_limit": "13000000"
+      "lower_limit": "2500000"
     },
     {
       "cat": "Villas For Sale",
@@ -40110,7 +40110,7 @@
       "geol3": "Ashmon",
       "geol4": "Unknown",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "1605277"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -40222,7 +40222,7 @@
       "geol3": "Ataba",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "1153518"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -40230,7 +40230,7 @@
       "geol3": "Ataba",
       "geol4": "Unknown",
       "unit_type": "Retail",
-      "lower_limit": "3041750"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Villas For Sale",
@@ -40238,7 +40238,7 @@
       "geol3": "Ataba",
       "geol4": "Unknown",
       "unit_type": "Town House",
-      "lower_limit": "14000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -40870,7 +40870,7 @@
       "geol3": "Bolkly",
       "geol4": "Unknown",
       "unit_type": "Garage",
-      "lower_limit": "97457"
+      "lower_limit": "100000"
     },
     {
       "cat": "Commercial for Sale",
@@ -40878,7 +40878,7 @@
       "geol3": "Bolkly",
       "geol4": "Unknown",
       "unit_type": "Office Space",
-      "lower_limit": "747439"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -40886,7 +40886,7 @@
       "geol3": "Bolkly",
       "geol4": "Unknown",
       "unit_type": "Retail",
-      "lower_limit": "1319294"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -40894,7 +40894,7 @@
       "geol3": "Bolkly",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "1496597"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -40902,7 +40902,7 @@
       "geol3": "Bolkly",
       "geol4": "Unknown",
       "unit_type": "Restaurant & Cafe",
-      "lower_limit": "1630704"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -40910,7 +40910,7 @@
       "geol3": "Bolkly",
       "geol4": "Unknown",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "3000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -40918,7 +40918,7 @@
       "geol3": "Bolkly",
       "geol4": "Unknown",
       "unit_type": "Studio",
-      "lower_limit": "3500000"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -40926,7 +40926,7 @@
       "geol3": "Bolkly",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "3700000"
+      "lower_limit": "2500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -40934,7 +40934,7 @@
       "geol3": "Bolkly",
       "geol4": "Unknown",
       "unit_type": "Factory",
-      "lower_limit": "5180000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -40942,7 +40942,7 @@
       "geol3": "Bolkly",
       "geol4": "Unknown",
       "unit_type": "Warehouse",
-      "lower_limit": "16000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -40950,7 +40950,7 @@
       "geol3": "Bolkly",
       "geol4": "Unknown",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "27000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -40958,7 +40958,7 @@
       "geol3": "Borg al-Arab",
       "geol4": "Unknown",
       "unit_type": "Chalet",
-      "lower_limit": "836315"
+      "lower_limit": "800000"
     },
     {
       "cat": "Apartments for Sale",
@@ -40966,7 +40966,7 @@
       "geol3": "Borg al-Arab",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "1206671"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -40974,7 +40974,7 @@
       "geol3": "Borg al-Arab",
       "geol4": "Unknown",
       "unit_type": "Factory",
-      "lower_limit": "1340150"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Villas For Sale",
@@ -40982,7 +40982,7 @@
       "geol3": "Borg al-Arab",
       "geol4": "Unknown",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "2818042"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -40990,7 +40990,7 @@
       "geol3": "Borg al-Arab",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "3800000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Villas For Sale",
@@ -40998,7 +40998,7 @@
       "geol3": "Borg al-Arab",
       "geol4": "Unknown",
       "unit_type": "Town House",
-      "lower_limit": "5307035"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Villas For Sale",
@@ -41006,7 +41006,7 @@
       "geol3": "Borg al-Arab",
       "geol4": "Unknown",
       "unit_type": "Twin House",
-      "lower_limit": "6684967"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -41014,7 +41014,7 @@
       "geol3": "Boulaq Abo El Ela",
       "geol4": "Unknown",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "10710553"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -41166,7 +41166,7 @@
       "geol3": "Dabaa",
       "geol4": "Unknown",
       "unit_type": "Studio",
-      "lower_limit": "3000000"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -41174,7 +41174,7 @@
       "geol3": "Dabaa",
       "geol4": "Unknown",
       "unit_type": "Chalet",
-      "lower_limit": "3236214"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -41182,7 +41182,7 @@
       "geol3": "Dabaa",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "3940352"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Villas For Sale",
@@ -41190,7 +41190,7 @@
       "geol3": "Dabaa",
       "geol4": "Unknown",
       "unit_type": "Twin House",
-      "lower_limit": "4904250"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -41198,7 +41198,7 @@
       "geol3": "Dabaa",
       "geol4": "Unknown",
       "unit_type": "Town House",
-      "lower_limit": "5749467"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -41206,7 +41206,7 @@
       "geol3": "Dabaa",
       "geol4": "Unknown",
       "unit_type": "Penthouse",
-      "lower_limit": "6000000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -41214,7 +41214,7 @@
       "geol3": "Dabaa",
       "geol4": "Unknown",
       "unit_type": "Studio",
-      "lower_limit": "6000000"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -41222,7 +41222,7 @@
       "geol3": "Dabaa",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "9050000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -41230,7 +41230,7 @@
       "geol3": "Dabaa",
       "geol4": "Unknown",
       "unit_type": "Standalone Villa",
-      "lower_limit": "24500000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -41238,7 +41238,7 @@
       "geol3": "Dabaa",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "29498580"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -41246,7 +41246,7 @@
       "geol3": "Dahab",
       "geol4": "Unknown",
       "unit_type": "Studio",
-      "lower_limit": "1500000"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -41758,7 +41758,7 @@
       "geol3": "Ezbet El Nakhl",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "276025"
+      "lower_limit": "250000"
     },
     {
       "cat": "Commercial for Sale",
@@ -41774,7 +41774,7 @@
       "geol3": "Faisal",
       "geol4": "Unknown",
       "unit_type": "Penthouse",
-      "lower_limit": "40709"
+      "lower_limit": "400000"
     },
     {
       "cat": "Commercial for Sale",
@@ -41782,7 +41782,7 @@
       "geol3": "Faisal",
       "geol4": "Unknown",
       "unit_type": "Office Space",
-      "lower_limit": "84362"
+      "lower_limit": "200000"
     },
     {
       "cat": "Commercial for Sale",
@@ -41790,7 +41790,7 @@
       "geol3": "Faisal",
       "geol4": "Unknown",
       "unit_type": "Warehouse",
-      "lower_limit": "263117"
+      "lower_limit": "200000"
     },
     {
       "cat": "Commercial for Sale",
@@ -41798,7 +41798,7 @@
       "geol3": "Faisal",
       "geol4": "Unknown",
       "unit_type": "Garage",
-      "lower_limit": "306200"
+      "lower_limit": "200000"
     },
     {
       "cat": "Commercial for Sale",
@@ -41806,7 +41806,7 @@
       "geol3": "Faisal",
       "geol4": "Unknown",
       "unit_type": "Clinic",
-      "lower_limit": "557462"
+      "lower_limit": "400000"
     },
     {
       "cat": "Apartments for Sale",
@@ -41814,7 +41814,7 @@
       "geol3": "Faisal",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "789777"
+      "lower_limit": "400000"
     },
     {
       "cat": "Apartments for Sale",
@@ -41822,7 +41822,7 @@
       "geol3": "Faisal",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "932555"
+      "lower_limit": "900000"
     },
     {
       "cat": "Commercial for Sale",
@@ -41830,7 +41830,7 @@
       "geol3": "Faisal",
       "geol4": "Unknown",
       "unit_type": "Retail",
-      "lower_limit": "1029073"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Villas For Sale",
@@ -41838,7 +41838,7 @@
       "geol3": "Faisal",
       "geol4": "Unknown",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "2445227"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -41846,7 +41846,7 @@
       "geol3": "Faisal",
       "geol4": "Unknown",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "3500000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -41854,7 +41854,7 @@
       "geol3": "Faisal",
       "geol4": "Unknown",
       "unit_type": "Restaurant & Cafe",
-      "lower_limit": "3700000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -41862,7 +41862,7 @@
       "geol3": "Faisal",
       "geol4": "Unknown",
       "unit_type": "Pharmacy",
-      "lower_limit": "4105277"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -42014,7 +42014,7 @@
       "geol3": "Fleming",
       "geol4": "Unknown",
       "unit_type": "Office Space",
-      "lower_limit": "649336"
+      "lower_limit": "600000"
     },
     {
       "cat": "Commercial for Sale",
@@ -42022,7 +42022,7 @@
       "geol3": "Fleming",
       "geol4": "Unknown",
       "unit_type": "Garage",
-      "lower_limit": "971961"
+      "lower_limit": "600000"
     },
     {
       "cat": "Commercial for Sale",
@@ -42030,7 +42030,7 @@
       "geol3": "Fleming",
       "geol4": "Unknown",
       "unit_type": "Retail",
-      "lower_limit": "1142242"
+      "lower_limit": "600000"
     },
     {
       "cat": "Apartments for Sale",
@@ -42038,7 +42038,7 @@
       "geol3": "Fleming",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "1226388"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -42046,7 +42046,7 @@
       "geol3": "Fleming",
       "geol4": "Unknown",
       "unit_type": "Pharmacy",
-      "lower_limit": "1900000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -42070,7 +42070,7 @@
       "geol3": "Fleming",
       "geol4": "Unknown",
       "unit_type": "Clinic",
-      "lower_limit": "3700000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -42078,7 +42078,7 @@
       "geol3": "Fleming",
       "geol4": "Unknown",
       "unit_type": "Restaurant & Cafe",
-      "lower_limit": "7000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -42086,7 +42086,7 @@
       "geol3": "Fleming",
       "geol4": "Unknown",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "18403518"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -42214,7 +42214,7 @@
       "geol3": "Gesr Al Suez",
       "geol4": "Unknown",
       "unit_type": "Office Space",
-      "lower_limit": "391849"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -42222,7 +42222,7 @@
       "geol3": "Gesr Al Suez",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "557617"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -42230,7 +42230,7 @@
       "geol3": "Gesr Al Suez",
       "geol4": "Unknown",
       "unit_type": "Clinic",
-      "lower_limit": "580015"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -42238,7 +42238,7 @@
       "geol3": "Gesr Al Suez",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "719693"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -42246,7 +42246,7 @@
       "geol3": "Gesr Al Suez",
       "geol4": "Unknown",
       "unit_type": "Studio",
-      "lower_limit": "780000"
+      "lower_limit": "700000"
     },
     {
       "cat": "Commercial for Sale",
@@ -42254,7 +42254,7 @@
       "geol3": "Gesr Al Suez",
       "geol4": "Unknown",
       "unit_type": "Retail",
-      "lower_limit": "910834"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -42262,7 +42262,7 @@
       "geol3": "Gesr Al Suez",
       "geol4": "Unknown",
       "unit_type": "Pharmacy",
-      "lower_limit": "1329849"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -42270,7 +42270,7 @@
       "geol3": "Gesr Al Suez",
       "geol4": "Unknown",
       "unit_type": "Restaurant & Cafe",
-      "lower_limit": "1515155"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -42278,7 +42278,7 @@
       "geol3": "Gesr Al Suez",
       "geol4": "Unknown",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "4061432"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -42286,7 +42286,7 @@
       "geol3": "Gesr Al Suez",
       "geol4": "Unknown",
       "unit_type": "Factory",
-      "lower_limit": "19000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -42406,7 +42406,7 @@
       "geol3": "Glim",
       "geol4": "Unknown",
       "unit_type": "Office Space",
-      "lower_limit": "1481994"
+      "lower_limit": "700000"
     },
     {
       "cat": "Commercial for Sale",
@@ -42414,7 +42414,7 @@
       "geol3": "Glim",
       "geol4": "Unknown",
       "unit_type": "Retail",
-      "lower_limit": "1556433"
+      "lower_limit": "700000"
     },
     {
       "cat": "Apartments for Sale",
@@ -42422,7 +42422,7 @@
       "geol3": "Glim",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "2264021"
+      "lower_limit": "900000"
     },
     {
       "cat": "Apartments for Sale",
@@ -42430,7 +42430,7 @@
       "geol3": "Glim",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "2266316"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -42446,7 +42446,7 @@
       "geol3": "Glim",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "3600000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Villas For Sale",
@@ -42454,7 +42454,7 @@
       "geol3": "Glim",
       "geol4": "Unknown",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "9123119"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -42462,7 +42462,7 @@
       "geol3": "Glim",
       "geol4": "Unknown",
       "unit_type": "Pharmacy",
-      "lower_limit": "17000000"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -42470,7 +42470,7 @@
       "geol3": "Glim",
       "geol4": "Unknown",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "36000000"
+      "lower_limit": "25000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -42478,7 +42478,7 @@
       "geol3": "Gomrok",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "3006667"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -42486,7 +42486,7 @@
       "geol3": "Gomrok",
       "geol4": "Unknown",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "241500000"
+      "lower_limit": "100000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -42766,7 +42766,7 @@
       "geol3": "Hadayek Helwan",
       "geol4": "Unknown",
       "unit_type": "Retail",
-      "lower_limit": "293869"
+      "lower_limit": "500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -42774,7 +42774,7 @@
       "geol3": "Hadayek Helwan",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "577107"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -42782,7 +42782,7 @@
       "geol3": "Hadayek Helwan",
       "geol4": "Unknown",
       "unit_type": "Penthouse",
-      "lower_limit": "1650000"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -42974,7 +42974,7 @@
       "geol3": "Hammam",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "342046"
+      "lower_limit": "500000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -42982,7 +42982,7 @@
       "geol3": "Hammam",
       "geol4": "Unknown",
       "unit_type": "Chalet",
-      "lower_limit": "360474"
+      "lower_limit": "500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -42990,7 +42990,7 @@
       "geol3": "Hammam",
       "geol4": "Unknown",
       "unit_type": "Studio",
-      "lower_limit": "925000"
+      "lower_limit": "500000"
     },
     {
       "cat": "Villas For Sale",
@@ -42998,7 +42998,7 @@
       "geol3": "Hammam",
       "geol4": "Unknown",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "5500000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -43006,7 +43006,7 @@
       "geol3": "Hammam",
       "geol4": "Unknown",
       "unit_type": "Standalone Villa",
-      "lower_limit": "6500000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -43014,7 +43014,7 @@
       "geol3": "Hamoul",
       "geol4": "Unknown",
       "unit_type": "Warehouse",
-      "lower_limit": "65435"
+      "lower_limit": "200000"
     },
     {
       "cat": "Commercial for Sale",
@@ -43262,7 +43262,7 @@
       "geol3": "Helmeyat El Zaytoun",
       "geol4": "Unknown",
       "unit_type": "Warehouse",
-      "lower_limit": "134221"
+      "lower_limit": "300000"
     },
     {
       "cat": "Commercial for Sale",
@@ -43270,7 +43270,7 @@
       "geol3": "Helmeyat El Zaytoun",
       "geol4": "Unknown",
       "unit_type": "Retail",
-      "lower_limit": "509658"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -43278,7 +43278,7 @@
       "geol3": "Helmeyat El Zaytoun",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "602638"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -43286,7 +43286,7 @@
       "geol3": "Helmeyat El Zaytoun",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "804147"
+      "lower_limit": "800000"
     },
     {
       "cat": "Commercial for Sale",
@@ -43294,7 +43294,7 @@
       "geol3": "Helmeyat El Zaytoun",
       "geol4": "Unknown",
       "unit_type": "Clinic",
-      "lower_limit": "1210000"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -43302,7 +43302,7 @@
       "geol3": "Helmeyat El Zaytoun",
       "geol4": "Unknown",
       "unit_type": "Office Space",
-      "lower_limit": "2250000"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -43310,7 +43310,7 @@
       "geol3": "Helmeyat El Zaytoun",
       "geol4": "Unknown",
       "unit_type": "Restaurant & Cafe",
-      "lower_limit": "7000000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -43318,7 +43318,7 @@
       "geol3": "Helmeyat El Zaytoun",
       "geol4": "Unknown",
       "unit_type": "Garage",
-      "lower_limit": "10000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -43326,7 +43326,7 @@
       "geol3": "Helwan",
       "geol4": "Unknown",
       "unit_type": "Retail",
-      "lower_limit": "392163"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -43334,7 +43334,7 @@
       "geol3": "Helwan",
       "geol4": "Unknown",
       "unit_type": "Restaurant & Cafe",
-      "lower_limit": "550000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -43342,7 +43342,7 @@
       "geol3": "Helwan",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "655421"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -43350,7 +43350,7 @@
       "geol3": "Helwan",
       "geol4": "Unknown",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "1102036"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -43358,7 +43358,7 @@
       "geol3": "Helwan",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "1230704"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -43366,7 +43366,7 @@
       "geol3": "Helwan",
       "geol4": "Unknown",
       "unit_type": "Warehouse",
-      "lower_limit": "2100000"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -43374,7 +43374,7 @@
       "geol3": "Helwan",
       "geol4": "Unknown",
       "unit_type": "Pharmacy",
-      "lower_limit": "2900000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -43590,7 +43590,7 @@
       "geol3": "Ismailia City",
       "geol4": "Unknown",
       "unit_type": "Retail",
-      "lower_limit": "372812"
+      "lower_limit": "500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -43598,7 +43598,7 @@
       "geol3": "Ismailia City",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "935956"
+      "lower_limit": "900000"
     },
     {
       "cat": "Apartments for Sale",
@@ -43606,7 +43606,7 @@
       "geol3": "Ismailia City",
       "geol4": "Unknown",
       "unit_type": "Penthouse",
-      "lower_limit": "1850000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -43614,7 +43614,7 @@
       "geol3": "Ismailia City",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "2100879"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Villas For Sale",
@@ -43622,7 +43622,7 @@
       "geol3": "Ismailia City",
       "geol4": "Unknown",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "2116311"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -43630,7 +43630,7 @@
       "geol3": "Ismailia City",
       "geol4": "Unknown",
       "unit_type": "Pharmacy",
-      "lower_limit": "4000000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Villas For Sale",
@@ -43638,7 +43638,7 @@
       "geol3": "Ismailia City",
       "geol4": "Unknown",
       "unit_type": "Town House",
-      "lower_limit": "16500000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -43782,7 +43782,7 @@
       "geol3": "Kafr al-Sheikh City",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "851159"
+      "lower_limit": "800000"
     },
     {
       "cat": "Commercial for Sale",
@@ -43798,7 +43798,7 @@
       "geol3": "Kafr al-Sheikh City",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "3200000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -43806,7 +43806,7 @@
       "geol3": "Kafr al-Sheikh City",
       "geol4": "Unknown",
       "unit_type": "Chalet",
-      "lower_limit": "4000000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Villas For Sale",
@@ -43814,7 +43814,7 @@
       "geol3": "Kafr al-Sheikh City",
       "geol4": "Unknown",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "7000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -44006,7 +44006,7 @@
       "geol3": "King Mariout",
       "geol4": "Unknown",
       "unit_type": "Chalet",
-      "lower_limit": "874649"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -44014,7 +44014,7 @@
       "geol3": "King Mariout",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "1643265"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -44022,7 +44022,7 @@
       "geol3": "King Mariout",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "3250000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Villas For Sale",
@@ -44030,7 +44030,7 @@
       "geol3": "King Mariout",
       "geol4": "Unknown",
       "unit_type": "Town House",
-      "lower_limit": "3747012"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Villas For Sale",
@@ -44038,7 +44038,7 @@
       "geol3": "King Mariout",
       "geol4": "Unknown",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "3886987"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Villas For Sale",
@@ -44046,7 +44046,7 @@
       "geol3": "King Mariout",
       "geol4": "Unknown",
       "unit_type": "Twin House",
-      "lower_limit": "7278783"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -44086,7 +44086,7 @@
       "geol3": "Labban",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "347106"
+      "lower_limit": "600000"
     },
     {
       "cat": "Commercial for Sale",
@@ -44094,7 +44094,7 @@
       "geol3": "Labban",
       "geol4": "Unknown",
       "unit_type": "Warehouse",
-      "lower_limit": "1000000"
+      "lower_limit": "600000"
     },
     {
       "cat": "Villas For Sale",
@@ -44102,7 +44102,7 @@
       "geol3": "Labban",
       "geol4": "Unknown",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "3500000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -44110,7 +44110,7 @@
       "geol3": "Laurent",
       "geol4": "Unknown",
       "unit_type": "Garage",
-      "lower_limit": "241950"
+      "lower_limit": "300000"
     },
     {
       "cat": "Commercial for Sale",
@@ -44118,7 +44118,7 @@
       "geol3": "Laurent",
       "geol4": "Unknown",
       "unit_type": "Retail",
-      "lower_limit": "1336085"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -44126,7 +44126,7 @@
       "geol3": "Laurent",
       "geol4": "Unknown",
       "unit_type": "Office Space",
-      "lower_limit": "1661224"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -44134,7 +44134,7 @@
       "geol3": "Laurent",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "2254766"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -44142,7 +44142,7 @@
       "geol3": "Laurent",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "2599444"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -44150,7 +44150,7 @@
       "geol3": "Laurent",
       "geol4": "Unknown",
       "unit_type": "Pharmacy",
-      "lower_limit": "8000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -44158,7 +44158,7 @@
       "geol3": "Laurent",
       "geol4": "Unknown",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "100000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -48614,7 +48614,7 @@
       "geol3": "Shorouk City",
       "geol4": "Unknown",
       "unit_type": "Warehouse",
-      "lower_limit": "139925"
+      "lower_limit": "400000"
     },
     {
       "cat": "Apartments for Sale",
@@ -48622,7 +48622,7 @@
       "geol3": "Shorouk City",
       "geol4": "Unknown",
       "unit_type": "Studio",
-      "lower_limit": "936478"
+      "lower_limit": "600000"
     },
     {
       "cat": "Commercial for Sale",
@@ -48630,7 +48630,7 @@
       "geol3": "Shorouk City",
       "geol4": "Unknown",
       "unit_type": "Office Space",
-      "lower_limit": "1294784"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -48638,7 +48638,7 @@
       "geol3": "Shorouk City",
       "geol4": "Unknown",
       "unit_type": "Clinic",
-      "lower_limit": "1389391"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -48646,7 +48646,7 @@
       "geol3": "Shorouk City",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "1607254"
+      "lower_limit": "800000"
     },
     {
       "cat": "Commercial for Sale",
@@ -48654,7 +48654,7 @@
       "geol3": "Shorouk City",
       "geol4": "Unknown",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "2100006"
+      "lower_limit": "25000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -48662,7 +48662,7 @@
       "geol3": "Shorouk City",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "2195566"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -48670,7 +48670,7 @@
       "geol3": "Shorouk City",
       "geol4": "Unknown",
       "unit_type": "Penthouse",
-      "lower_limit": "2404063"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -48678,7 +48678,7 @@
       "geol3": "Shorouk City",
       "geol4": "Unknown",
       "unit_type": "Retail",
-      "lower_limit": "2998775"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -48686,7 +48686,7 @@
       "geol3": "Shorouk City",
       "geol4": "Unknown",
       "unit_type": "Restaurant & Cafe",
-      "lower_limit": "3603766"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Villas For Sale",
@@ -48694,7 +48694,7 @@
       "geol3": "Shorouk City",
       "geol4": "Unknown",
       "unit_type": "Town House",
-      "lower_limit": "4999193"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Villas For Sale",
@@ -48702,7 +48702,7 @@
       "geol3": "Shorouk City",
       "geol4": "Unknown",
       "unit_type": "Twin House",
-      "lower_limit": "5426094"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Villas For Sale",
@@ -48710,7 +48710,7 @@
       "geol3": "Shorouk City",
       "geol4": "Unknown",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "8441526"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -48718,7 +48718,7 @@
       "geol3": "Shorouk City",
       "geol4": "Unknown",
       "unit_type": "Pharmacy",
-      "lower_limit": "13464496"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -48726,7 +48726,7 @@
       "geol3": "Shorouk City",
       "geol4": "Unknown",
       "unit_type": "Factory",
-      "lower_limit": "23666667"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -48862,7 +48862,7 @@
       "geol3": "Sidi Beshr",
       "geol4": "Unknown",
       "unit_type": "Penthouse",
-      "lower_limit": "450000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -48870,7 +48870,7 @@
       "geol3": "Sidi Beshr",
       "geol4": "Unknown",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "719070"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -48878,7 +48878,7 @@
       "geol3": "Sidi Beshr",
       "geol4": "Unknown",
       "unit_type": "Garage",
-      "lower_limit": "759362"
+      "lower_limit": "800000"
     },
     {
       "cat": "Commercial for Sale",
@@ -48886,7 +48886,7 @@
       "geol3": "Sidi Beshr",
       "geol4": "Unknown",
       "unit_type": "Office Space",
-      "lower_limit": "882203"
+      "lower_limit": "800000"
     },
     {
       "cat": "Apartments for Sale",
@@ -48894,7 +48894,7 @@
       "geol3": "Sidi Beshr",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "909251"
+      "lower_limit": "1200000"
     },
     {
       "cat": "Commercial for Sale",
@@ -48902,7 +48902,7 @@
       "geol3": "Sidi Beshr",
       "geol4": "Unknown",
       "unit_type": "Pharmacy",
-      "lower_limit": "1025805"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -48910,7 +48910,7 @@
       "geol3": "Sidi Beshr",
       "geol4": "Unknown",
       "unit_type": "Restaurant & Cafe",
-      "lower_limit": "1050000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -48918,7 +48918,7 @@
       "geol3": "Sidi Beshr",
       "geol4": "Unknown",
       "unit_type": "Clinic",
-      "lower_limit": "1209950"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -48926,7 +48926,7 @@
       "geol3": "Sidi Beshr",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "1222907"
+      "lower_limit": "700000"
     },
     {
       "cat": "Commercial for Sale",
@@ -48942,7 +48942,7 @@
       "geol3": "Sidi Beshr",
       "geol4": "Unknown",
       "unit_type": "Retail",
-      "lower_limit": "1833583"
+      "lower_limit": "1400000"
     },
     {
       "cat": "Apartments for Sale",
@@ -48950,7 +48950,7 @@
       "geol3": "Sidi Gaber",
       "geol4": "Unknown",
       "unit_type": "Studio",
-      "lower_limit": "400000"
+      "lower_limit": "500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -48958,7 +48958,7 @@
       "geol3": "Sidi Gaber",
       "geol4": "Unknown",
       "unit_type": "Office Space",
-      "lower_limit": "884743"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -48966,7 +48966,7 @@
       "geol3": "Sidi Gaber",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "1384986"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -48974,7 +48974,7 @@
       "geol3": "Sidi Gaber",
       "geol4": "Unknown",
       "unit_type": "Retail",
-      "lower_limit": "1574645"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -48982,7 +48982,7 @@
       "geol3": "Sidi Gaber",
       "geol4": "Unknown",
       "unit_type": "Garage",
-      "lower_limit": "1675000"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -48990,7 +48990,7 @@
       "geol3": "Sidi Gaber",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "1880704"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -48998,7 +48998,7 @@
       "geol3": "Sidi Gaber",
       "geol4": "Unknown",
       "unit_type": "Pharmacy",
-      "lower_limit": "2451759"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -49006,7 +49006,7 @@
       "geol3": "Sidi Gaber",
       "geol4": "Unknown",
       "unit_type": "Clinic",
-      "lower_limit": "4416667"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -49014,7 +49014,7 @@
       "geol3": "Sidi Gaber",
       "geol4": "Unknown",
       "unit_type": "Chalet",
-      "lower_limit": "5200000"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -49078,7 +49078,7 @@
       "geol3": "Smoha",
       "geol4": "Unknown",
       "unit_type": "Garage",
-      "lower_limit": "154121"
+      "lower_limit": "500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -49086,7 +49086,7 @@
       "geol3": "Smoha",
       "geol4": "Unknown",
       "unit_type": "Clinic",
-      "lower_limit": "1490727"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -49094,7 +49094,7 @@
       "geol3": "Smoha",
       "geol4": "Unknown",
       "unit_type": "Office Space",
-      "lower_limit": "1779205"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -49102,7 +49102,7 @@
       "geol3": "Smoha",
       "geol4": "Unknown",
       "unit_type": "Studio",
-      "lower_limit": "1850000"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -49110,7 +49110,7 @@
       "geol3": "Smoha",
       "geol4": "Unknown",
       "unit_type": "Pharmacy",
-      "lower_limit": "2066611"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -49118,7 +49118,7 @@
       "geol3": "Smoha",
       "geol4": "Unknown",
       "unit_type": "Factory",
-      "lower_limit": "2474798"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -49126,7 +49126,7 @@
       "geol3": "Smoha",
       "geol4": "Unknown",
       "unit_type": "Retail",
-      "lower_limit": "2478606"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -49134,7 +49134,7 @@
       "geol3": "Smoha",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "2662111"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -49142,7 +49142,7 @@
       "geol3": "Smoha",
       "geol4": "Unknown",
       "unit_type": "Chalet",
-      "lower_limit": "2709699"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -49150,7 +49150,7 @@
       "geol3": "Smoha",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "3434525"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -49158,7 +49158,7 @@
       "geol3": "Smoha",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "5500000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Villas For Sale",
@@ -49166,7 +49166,7 @@
       "geol3": "Smoha",
       "geol4": "Unknown",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "8852970"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -49174,7 +49174,7 @@
       "geol3": "Smoha",
       "geol4": "Unknown",
       "unit_type": "Standalone Villa",
-      "lower_limit": "13334760"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -49182,7 +49182,7 @@
       "geol3": "Soma Bay",
       "geol4": "Unknown",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "543"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -49190,7 +49190,7 @@
       "geol3": "Soma Bay",
       "geol4": "Unknown",
       "unit_type": "Warehouse",
-      "lower_limit": "3456"
+      "lower_limit": "200000"
     },
     {
       "cat": "Commercial for Sale",
@@ -49198,7 +49198,7 @@
       "geol3": "Soma Bay",
       "geol4": "Unknown",
       "unit_type": "Garage",
-      "lower_limit": "4567"
+      "lower_limit": "500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -49206,7 +49206,7 @@
       "geol3": "Soma Bay",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "270111"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -49214,7 +49214,7 @@
       "geol3": "Soma Bay",
       "geol4": "Unknown",
       "unit_type": "Town House",
-      "lower_limit": "527287"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Villas For Sale",
@@ -49222,7 +49222,7 @@
       "geol3": "Soma Bay",
       "geol4": "Unknown",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "531649"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -49230,7 +49230,7 @@
       "geol3": "Soma Bay",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "819398"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -49238,7 +49238,7 @@
       "geol3": "Soma Bay",
       "geol4": "Unknown",
       "unit_type": "Twin house",
-      "lower_limit": "932639"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -49246,7 +49246,7 @@
       "geol3": "Soma Bay",
       "geol4": "Unknown",
       "unit_type": "Penthouse",
-      "lower_limit": "1100000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Villas For Sale",
@@ -49262,7 +49262,7 @@
       "geol3": "Soma Bay",
       "geol4": "Unknown",
       "unit_type": "Chalet",
-      "lower_limit": "2341865"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -49270,7 +49270,7 @@
       "geol3": "Soma Bay",
       "geol4": "Unknown",
       "unit_type": "Penthouse",
-      "lower_limit": "2412679"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -49278,7 +49278,7 @@
       "geol3": "Soma Bay",
       "geol4": "Unknown",
       "unit_type": "Standalone Villa",
-      "lower_limit": "5589963"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -49286,7 +49286,7 @@
       "geol3": "Soma Bay",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "10475000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -49302,7 +49302,7 @@
       "geol3": "Sporting",
       "geol4": "Unknown",
       "unit_type": "Clinic",
-      "lower_limit": "621055"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -49310,7 +49310,7 @@
       "geol3": "Sporting",
       "geol4": "Unknown",
       "unit_type": "Office Space",
-      "lower_limit": "1473321"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -49318,7 +49318,7 @@
       "geol3": "Sporting",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "1873335"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -49326,7 +49326,7 @@
       "geol3": "Sporting",
       "geol4": "Unknown",
       "unit_type": "Retail",
-      "lower_limit": "1993297"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -49334,7 +49334,7 @@
       "geol3": "Sporting",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "2614071"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -49342,7 +49342,7 @@
       "geol3": "Sporting",
       "geol4": "Unknown",
       "unit_type": "Chalet",
-      "lower_limit": "5280000"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -49350,7 +49350,7 @@
       "geol3": "Sporting",
       "geol4": "Unknown",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "36625000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -52610,6 +52610,94 @@
     },
     {
       "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Agami",
+      "geol4": "Al Hanouvel",
+      "unit_type": "Apartment",
+      "lower_limit": "300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Agami",
+      "geol4": "Al Hanouvel",
+      "unit_type": "Studio",
+      "lower_limit": "250000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Alexandria",
+      "geol3": "Agami",
+      "geol4": "Al Hanouvel",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "1200000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Agami",
+      "geol4": "Al Hanouvel",
+      "unit_type": "Retail",
+      "lower_limit": "100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Agami",
+      "geol4": "Al Bitash",
+      "unit_type": "Apartment",
+      "lower_limit": "300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Agami",
+      "geol4": "Al Bitash",
+      "unit_type": "Studio",
+      "lower_limit": "250000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Alexandria",
+      "geol3": "Agami",
+      "geol4": "Al Bitash",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "1200000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Agami",
+      "geol4": "Al Bitash",
+      "unit_type": "Retail",
+      "lower_limit": "150000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Agami",
+      "geol4": "Kilo 21",
+      "unit_type": "Apartment",
+      "lower_limit": "250000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Alexandria",
+      "geol3": "Agami",
+      "geol4": "Kilo 21",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "1000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Agami",
+      "geol4": "Kilo 21",
+      "unit_type": "Retail",
+      "lower_limit": "150000"
+    },
+    {
+      "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Q Hills",
@@ -52892,6 +52980,14 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
+      "geol4": "Diana Heights ",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
       "geol4": "Mostashareen",
       "unit_type": "Apartment",
       "lower_limit": "4000000"
@@ -53071,6 +53167,14 @@
       "geol4": "THRU",
       "unit_type": "Restaurant & Cafe",
       "lower_limit": "10000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Agora Mall ",
+      "unit_type": "Office Space",
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
