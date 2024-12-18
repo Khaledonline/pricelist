@@ -83,12 +83,12 @@
     {
       "brand": "Skoda",
       "model": "Kodiaq",
-      "year": "2024",
-      "listings_count": "351",
-      "median_price": "2700000",
-      "avg_price": "2202093",
-      "upper_bound_ci_99": "2343220",
-      "lower_bound_ci_99": "2060966"
+      "year": "2019",
+      "listings_count": "30",
+      "median_price": "1787500",
+      "avg_price": "1796333",
+      "upper_bound_ci_99": "1923837",
+      "lower_bound_ci_99": "1717454"
     },
     {
       "brand": "MG",
@@ -121,14 +121,14 @@
       "lower_bound_ci_99": "127000"
     },
     {
-      "brand": "Chery",
+      "brand": "Speranza",
       "model": "Tiggo",
-      "year": "2024",
-      "listings_count": "342",
-      "median_price": "850000",
-      "avg_price": "824119",
-      "upper_bound_ci_99": "889908",
-      "lower_bound_ci_99": "758330"
+      "year": "2009",
+      "listings_count": "31",
+      "median_price": "350000",
+      "avg_price": "356581",
+      "upper_bound_ci_99": "374313",
+      "lower_bound_ci_99": "328124"
     },
     {
       "brand": "Kia",
@@ -199,16 +199,6 @@
       "avg_price": "651829",
       "upper_bound_ci_99": "739475",
       "lower_bound_ci_99": "610351"
-    }, 
-    {
-      "brand": "Nissan",
-      "model": "Sunny",
-      "year": "2025",
-      "listings_count": "287",
-      "median_price": "660000",
-      "avg_price": "651829",
-      "upper_bound_ci_99": "739475",
-      "lower_bound_ci_99": "800000"
     },
     {
       "brand": "Mercedes-Benz",
@@ -351,14 +341,14 @@
       "lower_bound_ci_99": "474319"
     },
     {
-      "brand": "Chery",
+      "brand": "Speranza",
       "model": "Tiggo",
-      "year": "2022",
-      "listings_count": "219",
-      "median_price": "875000",
-      "avg_price": "866078",
-      "upper_bound_ci_99": "922717",
-      "lower_bound_ci_99": "819725"
+      "year": "2010",
+      "listings_count": "33",
+      "median_price": "340000",
+      "avg_price": "338303",
+      "upper_bound_ci_99": "355266",
+      "lower_bound_ci_99": "306955"
     },
     {
       "brand": "Kia",
@@ -433,12 +423,12 @@
     {
       "brand": "Chery",
       "model": "Tiggo",
-      "year": "2023",
-      "listings_count": "207",
-      "median_price": "850000",
-      "avg_price": "824401",
-      "upper_bound_ci_99": "884918",
-      "lower_bound_ci_99": "793308"
+      "year": "2017",
+      "listings_count": "72",
+      "median_price": "515000",
+      "avg_price": "474500",
+      "upper_bound_ci_99": "509693",
+      "lower_bound_ci_99": "430143"
     },
     {
       "brand": "Toyota",
@@ -553,12 +543,12 @@
     {
       "brand": "Opel",
       "model": "Astra",
-      "year": "2017",
-      "listings_count": "188",
-      "median_price": "710000",
-      "avg_price": "714197",
-      "upper_bound_ci_99": "993765",
-      "lower_bound_ci_99": "628495"
+      "year": "2000",
+      "listings_count": "37",
+      "median_price": "230000",
+      "avg_price": "236162",
+      "upper_bound_ci_99": "448469",
+      "lower_bound_ci_99": "143005"
     },
     {
       "brand": "Kia",
@@ -613,12 +603,12 @@
     {
       "brand": "Opel",
       "model": "Astra",
-      "year": "2016",
-      "listings_count": "176",
-      "median_price": "670000",
-      "avg_price": "676801",
-      "upper_bound_ci_99": "718292",
-      "lower_bound_ci_99": "646814"
+      "year": "2002",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "210000"
     },
     {
       "brand": "Chevrolet",
@@ -783,12 +773,12 @@
     {
       "brand": "Opel",
       "model": "Astra",
-      "year": "2020",
-      "listings_count": "158",
-      "median_price": "805000",
-      "avg_price": "818652",
-      "upper_bound_ci_99": "836613",
-      "lower_bound_ci_99": "793350"
+      "year": "2003",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "265000"
     },
     {
       "brand": "BMW",
@@ -973,12 +963,12 @@
     {
       "brand": "Opel",
       "model": "Astra",
-      "year": "2021",
-      "listings_count": "143",
-      "median_price": "850000",
-      "avg_price": "872028",
-      "upper_bound_ci_99": "1103804",
-      "lower_bound_ci_99": "768418"
+      "year": "2004",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "290000"
     },
     {
       "brand": "Peugeot",
@@ -1103,12 +1093,12 @@
     {
       "brand": "Opel",
       "model": "Astra",
-      "year": "2013",
-      "listings_count": "132",
-      "median_price": "580000",
-      "avg_price": "582962",
-      "upper_bound_ci_99": "601575",
-      "lower_bound_ci_99": "558106"
+      "year": "2005",
+      "listings_count": "30",
+      "median_price": "290000",
+      "avg_price": "283667",
+      "upper_bound_ci_99": "319806",
+      "lower_bound_ci_99": "260516"
     },
     {
       "brand": "Renault",
@@ -1132,13 +1122,13 @@
     },
     {
       "brand": "Seat",
-      "model": "Ibiza",
-      "year": "2021",
-      "listings_count": "131",
-      "median_price": "887500",
-      "avg_price": "906023",
-      "upper_bound_ci_99": "949167",
-      "lower_bound_ci_99": "841645"
+      "model": "Altea",
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "395000"
     },
     {
       "brand": "Hyundai",
@@ -1443,12 +1433,12 @@
     {
       "brand": "Skoda",
       "model": "Kodiaq",
-      "year": "2023",
-      "listings_count": "119",
-      "median_price": "2800000",
-      "avg_price": "2823319",
-      "upper_bound_ci_99": "2856358",
-      "lower_bound_ci_99": "2558039"
+      "year": "2020",
+      "listings_count": "91",
+      "median_price": "2000000",
+      "avg_price": "1939155",
+      "upper_bound_ci_99": "2638027",
+      "lower_bound_ci_99": "1625302"
     },
     {
       "brand": "Chevrolet",
@@ -1463,12 +1453,12 @@
     {
       "brand": "Chery",
       "model": "Tiggo",
-      "year": "2021",
-      "listings_count": "119",
-      "median_price": "800000",
-      "avg_price": "824773",
-      "upper_bound_ci_99": "864561",
-      "lower_bound_ci_99": "765167"
+      "year": "2018",
+      "listings_count": "31",
+      "median_price": "550000",
+      "avg_price": "563194",
+      "upper_bound_ci_99": "615954",
+      "lower_bound_ci_99": "517925"
     },
     {
       "brand": "Chevrolet",
@@ -1723,12 +1713,12 @@
     {
       "brand": "Opel",
       "model": "Astra",
-      "year": "2019",
-      "listings_count": "108",
-      "median_price": "762500",
-      "avg_price": "775602",
-      "upper_bound_ci_99": "789144",
-      "lower_bound_ci_99": "722588"
+      "year": "2007",
+      "listings_count": "45",
+      "median_price": "385000",
+      "avg_price": "374067",
+      "upper_bound_ci_99": "417322",
+      "lower_bound_ci_99": "351504"
     },
     {
       "brand": "Ford",
@@ -1963,12 +1953,12 @@
     {
       "brand": "Skoda",
       "model": "Superb",
-      "year": "2021",
-      "listings_count": "98",
-      "median_price": "1950000",
-      "avg_price": "1982500",
-      "upper_bound_ci_99": "2062926",
-      "lower_bound_ci_99": "1892874"
+      "year": "2010",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "570000"
     },
     {
       "brand": "Hyundai",
@@ -1982,13 +1972,13 @@
     },
     {
       "brand": "Seat",
-      "model": "Leon",
-      "year": "2024",
-      "listings_count": "97",
-      "median_price": "1500000",
-      "avg_price": "1433478",
-      "upper_bound_ci_99": "1591704",
-      "lower_bound_ci_99": "1275253"
+      "model": "Arona",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "858000"
     },
     {
       "brand": "Chevrolet",
@@ -2023,12 +2013,12 @@
     {
       "brand": "Opel",
       "model": "Astra",
-      "year": "2015",
-      "listings_count": "97",
-      "median_price": "630000",
-      "avg_price": "654691",
-      "upper_bound_ci_99": "677416",
-      "lower_bound_ci_99": "625164"
+      "year": "2008",
+      "listings_count": "39",
+      "median_price": "400000",
+      "avg_price": "401026",
+      "upper_bound_ci_99": "420459",
+      "lower_bound_ci_99": "381592"
     },
     {
       "brand": "Renault",
@@ -2303,12 +2293,12 @@
     {
       "brand": "Skoda",
       "model": "Kodiaq",
-      "year": "2020",
-      "listings_count": "91",
-      "median_price": "2000000",
-      "avg_price": "1939155",
-      "upper_bound_ci_99": "2638027",
-      "lower_bound_ci_99": "1625302"
+      "year": "2022",
+      "listings_count": "59",
+      "median_price": "2425000",
+      "avg_price": "2420297",
+      "upper_bound_ci_99": "2512384",
+      "lower_bound_ci_99": "2170116"
     },
     {
       "brand": "MG",
@@ -2362,13 +2352,13 @@
     },
     {
       "brand": "Seat",
-      "model": "Ibiza",
-      "year": "2020",
-      "listings_count": "89",
-      "median_price": "930000",
-      "avg_price": "942966",
-      "upper_bound_ci_99": "1297615",
-      "lower_bound_ci_99": "784029"
+      "model": "Arona",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1250000"
     },
     {
       "brand": "Toyota",
@@ -2412,13 +2402,13 @@
     },
     {
       "brand": "Seat",
-      "model": "Leon",
-      "year": "2020",
-      "listings_count": "88",
-      "median_price": "1150000",
-      "avg_price": "1159205",
-      "upper_bound_ci_99": "1206557",
-      "lower_bound_ci_99": "1092544"
+      "model": "Ateca",
+      "year": "2021",
+      "listings_count": "45",
+      "median_price": "1575000",
+      "avg_price": "1581556",
+      "upper_bound_ci_99": "1664267",
+      "lower_bound_ci_99": "1498844"
     },
     {
       "brand": "Renault",
@@ -2522,13 +2512,13 @@
     },
     {
       "brand": "Seat",
-      "model": "Ibiza",
+      "model": "Ateca",
       "year": "2024",
-      "listings_count": "85",
-      "median_price": "1200000",
-      "avg_price": "895965",
-      "upper_bound_ci_99": "1036316",
-      "lower_bound_ci_99": "1000000"
+      "listings_count": "72",
+      "median_price": "1725000",
+      "avg_price": "1415319",
+      "upper_bound_ci_99": "1638221",
+      "lower_bound_ci_99": "1700000"
     },
     {
       "brand": "Kia",
@@ -2593,12 +2583,12 @@
     {
       "brand": "Opel",
       "model": "Astra",
-      "year": "2018",
-      "listings_count": "84",
-      "median_price": "765000",
-      "avg_price": "755286",
-      "upper_bound_ci_99": "1065567",
-      "lower_bound_ci_99": "617821"
+      "year": "2009",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "375000"
     },
     {
       "brand": "Chevrolet",
@@ -2818,7 +2808,7 @@
       "median_price": "661250",
       "avg_price": "1179888",
       "upper_bound_ci_99": "1395981",
-      "lower_bound_ci_99": "963796"
+      "lower_bound_ci_99": "1450000"
     },
     {
       "brand": "Mercedes-Benz",
@@ -2853,12 +2843,12 @@
     {
       "brand": "Skoda",
       "model": "Superb",
-      "year": "2022",
-      "listings_count": "76",
-      "median_price": "2200000",
-      "avg_price": "2242105",
-      "upper_bound_ci_99": "2303377",
-      "lower_bound_ci_99": "2077636"
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "680000"
     },
     {
       "brand": "BMW",
@@ -3103,12 +3093,12 @@
     {
       "brand": "Seat",
       "model": "Ateca",
-      "year": "2024",
-      "listings_count": "72",
-      "median_price": "1725000",
-      "avg_price": "1415319",
-      "upper_bound_ci_99": "1638221",
-      "lower_bound_ci_99": "1700000"
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1500000"
     },
     {
       "brand": "MG",
@@ -3223,12 +3213,12 @@
     {
       "brand": "Chery",
       "model": "Tiggo",
-      "year": "2017",
-      "listings_count": "72",
-      "median_price": "515000",
-      "avg_price": "474500",
-      "upper_bound_ci_99": "509693",
-      "lower_bound_ci_99": "430143"
+      "year": "2020",
+      "listings_count": "56",
+      "median_price": "667500",
+      "avg_price": "667321",
+      "upper_bound_ci_99": "732141",
+      "lower_bound_ci_99": "602502"
     },
     {
       "brand": "Kia",
@@ -3253,12 +3243,12 @@
     {
       "brand": "Opel",
       "model": "Astra",
-      "year": "2014",
-      "listings_count": "71",
-      "median_price": "600000",
-      "avg_price": "615930",
-      "upper_bound_ci_99": "635801",
-      "lower_bound_ci_99": "596058"
+      "year": "2010",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "360000"
     },
     {
       "brand": "BMW",
@@ -3607,7 +3597,7 @@
       "listings_count": "552",
       "median_price": "3200000",
       "avg_price": "3194964",
-      "upper_bound_ci_99": "3239693",
+      "upper_bound_ci_99": "3239693.496",
       "lower_bound_ci_99": "3000718"
     },
     {
@@ -3973,12 +3963,12 @@
     {
       "brand": "Skoda",
       "model": "Kodiaq",
-      "year": "2022",
-      "listings_count": "59",
-      "median_price": "2425000",
-      "avg_price": "2420297",
-      "upper_bound_ci_99": "2512384",
-      "lower_bound_ci_99": "2170116"
+      "year": "2023",
+      "listings_count": "119",
+      "median_price": "2800000",
+      "avg_price": "2823319",
+      "upper_bound_ci_99": "2856358",
+      "lower_bound_ci_99": "2558039"
     },
     {
       "brand": "Suzuki",
@@ -4152,7 +4142,7 @@
     },
     {
       "brand": "BMW",
-      "model": 530,
+      "model": "530",
       "year": "2023",
       "listings_count": "57",
       "median_price": "4600000",
@@ -4313,12 +4303,12 @@
     {
       "brand": "Chery",
       "model": "Tiggo",
-      "year": "2020",
-      "listings_count": "56",
-      "median_price": "667500",
-      "avg_price": "667321",
-      "upper_bound_ci_99": "732141",
-      "lower_bound_ci_99": "602502"
+      "year": "2021",
+      "listings_count": "119",
+      "median_price": "800000",
+      "avg_price": "824773",
+      "upper_bound_ci_99": "864561",
+      "lower_bound_ci_99": "765167"
     },
     {
       "brand": "Mercedes-Benz",
@@ -4483,16 +4473,16 @@
     {
       "brand": "Speranza",
       "model": "A516",
-      "year": "2008",
-      "listings_count": "53",
-      "median_price": "216500",
-      "avg_price": "219660",
-      "upper_bound_ci_99": "235688",
-      "lower_bound_ci_99": "209942"
+      "year": "2007",
+      "listings_count": "47",
+      "median_price": "210000",
+      "avg_price": "214766",
+      "upper_bound_ci_99": "230584",
+      "lower_bound_ci_99": "198985"
     },
     {
       "brand": "Peugeot",
-      "model": 508,
+      "model": "508",
       "year": "2021",
       "listings_count": "53",
       "median_price": "1550000",
@@ -4702,7 +4692,7 @@
     },
     {
       "brand": "BMW",
-      "model": 218,
+      "model": "218",
       "year": "2021",
       "listings_count": "51",
       "median_price": "2000000",
@@ -4752,7 +4742,7 @@
     },
     {
       "brand": "Peugeot",
-      "model": 508,
+      "model": "508",
       "year": "2016",
       "listings_count": "51",
       "median_price": "810000",
@@ -4813,12 +4803,12 @@
     {
       "brand": "Skoda",
       "model": "Superb",
-      "year": "2019",
-      "listings_count": "50",
-      "median_price": "1515000",
-      "avg_price": "1524600",
-      "upper_bound_ci_99": "1565739",
-      "lower_bound_ci_99": "1309816"
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "750000"
     },
     {
       "brand": "Hyundai",
@@ -4932,7 +4922,7 @@
     },
     {
       "brand": "BMW",
-      "model": 420,
+      "model": "420",
       "year": "2024",
       "listings_count": "49",
       "median_price": "4280000",
@@ -5067,7 +5057,7 @@
       "listings_count": "221",
       "median_price": "2600000",
       "avg_price": "2581158",
-      "upper_bound_ci_99": "2617294",
+      "upper_bound_ci_99": "2617294.212",
       "lower_bound_ci_99": "2372399"
     },
     {
@@ -5213,12 +5203,12 @@
     {
       "brand": "Speranza",
       "model": "A516",
-      "year": "2007",
-      "listings_count": "47",
-      "median_price": "210000",
-      "avg_price": "214766",
-      "upper_bound_ci_99": "230584",
-      "lower_bound_ci_99": "198985"
+      "year": "2008",
+      "listings_count": "53",
+      "median_price": "216500",
+      "avg_price": "219660",
+      "upper_bound_ci_99": "235688",
+      "lower_bound_ci_99": "209942"
     },
     {
       "brand": "Land Rover",
@@ -5492,23 +5482,23 @@
     },
     {
       "brand": "Seat",
-      "model": "Ateca",
-      "year": "2021",
-      "listings_count": "45",
-      "median_price": "1575000",
-      "avg_price": "1581556",
-      "upper_bound_ci_99": "1664267",
-      "lower_bound_ci_99": "1498844"
+      "model": "Ibiza",
+      "year": "2020",
+      "listings_count": "89",
+      "median_price": "930000",
+      "avg_price": "942966",
+      "upper_bound_ci_99": "1297615",
+      "lower_bound_ci_99": "784029"
     },
     {
       "brand": "Opel",
       "model": "Astra",
-      "year": "2007",
-      "listings_count": "45",
-      "median_price": "385000",
-      "avg_price": "374067",
-      "upper_bound_ci_99": "417322",
-      "lower_bound_ci_99": "351504"
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "540000"
     },
     {
       "brand": "Audi",
@@ -5732,13 +5722,13 @@
     },
     {
       "brand": "Seat",
-      "model": "Tarraco",
-      "year": "2024",
-      "listings_count": "43",
-      "median_price": "2200000",
-      "avg_price": "1660233",
-      "upper_bound_ci_99": "1999536",
-      "lower_bound_ci_99": "1320929"
+      "model": "Ibiza",
+      "year": "2021",
+      "listings_count": "131",
+      "median_price": "887500",
+      "avg_price": "906023",
+      "upper_bound_ci_99": "949167",
+      "lower_bound_ci_99": "841645"
     },
     {
       "brand": "Ssang Yong",
@@ -5852,7 +5842,7 @@
     },
     {
       "brand": "Peugeot",
-      "model": 508,
+      "model": "508",
       "year": "2015",
       "listings_count": "42",
       "median_price": "720000",
@@ -5973,12 +5963,12 @@
     {
       "brand": "Speranza",
       "model": "A113",
-      "year": "2010",
-      "listings_count": "41",
-      "median_price": "220000",
-      "avg_price": "218976",
-      "upper_bound_ci_99": "238548",
-      "lower_bound_ci_99": "206595"
+      "year": "2009",
+      "listings_count": "32",
+      "median_price": "190000",
+      "avg_price": "195625",
+      "upper_bound_ci_99": "218241",
+      "lower_bound_ci_99": "175288"
     },
     {
       "brand": "Jeep",
@@ -6203,12 +6193,12 @@
     {
       "brand": "Speranza",
       "model": "A113",
-      "year": "2011",
-      "listings_count": "39",
+      "year": "2010",
+      "listings_count": "41",
       "median_price": "220000",
-      "avg_price": "222564",
-      "upper_bound_ci_99": "236616",
-      "lower_bound_ci_99": "198634"
+      "avg_price": "218976",
+      "upper_bound_ci_99": "238548",
+      "lower_bound_ci_99": "206595"
     },
     {
       "brand": "Mercedes-Benz",
@@ -6243,12 +6233,12 @@
     {
       "brand": "Speranza",
       "model": "A113",
-      "year": "2012",
+      "year": "2011",
       "listings_count": "39",
-      "median_price": "225000",
-      "avg_price": "235436",
-      "upper_bound_ci_99": "253147",
-      "lower_bound_ci_99": "211234"
+      "median_price": "220000",
+      "avg_price": "222564",
+      "upper_bound_ci_99": "236616",
+      "lower_bound_ci_99": "198634"
     },
     {
       "brand": "Hyundai",
@@ -6283,12 +6273,12 @@
     {
       "brand": "Opel",
       "model": "Astra",
-      "year": "2008",
-      "listings_count": "39",
-      "median_price": "400000",
-      "avg_price": "401026",
-      "upper_bound_ci_99": "420459",
-      "lower_bound_ci_99": "381592"
+      "year": "2013",
+      "listings_count": "132",
+      "median_price": "580000",
+      "avg_price": "582962",
+      "upper_bound_ci_99": "601575",
+      "lower_bound_ci_99": "558106"
     },
     {
       "brand": "Mitsubishi",
@@ -6322,7 +6312,7 @@
     },
     {
       "brand": "Peugeot",
-      "model": 508,
+      "model": "508",
       "year": "2013",
       "listings_count": "38",
       "median_price": "692500",
@@ -6463,12 +6453,12 @@
     {
       "brand": "Opel",
       "model": "Astra",
-      "year": "2000",
-      "listings_count": "37",
-      "median_price": "230000",
-      "avg_price": "236162",
-      "upper_bound_ci_99": "448469",
-      "lower_bound_ci_99": "143005"
+      "year": "2014",
+      "listings_count": "71",
+      "median_price": "600000",
+      "avg_price": "615930",
+      "upper_bound_ci_99": "635801",
+      "lower_bound_ci_99": "596058"
     },
     {
       "brand": "BMW",
@@ -6513,12 +6503,12 @@
     {
       "brand": "Speranza",
       "model": "A516",
-      "year": "2010",
-      "listings_count": "37",
-      "median_price": "207500",
-      "avg_price": "209216",
-      "upper_bound_ci_99": "224738",
-      "lower_bound_ci_99": "187683"
+      "year": "2009",
+      "listings_count": "30",
+      "median_price": "217500",
+      "avg_price": "213067",
+      "upper_bound_ci_99": "227373",
+      "lower_bound_ci_99": "191466"
     },
     {
       "brand": "Volkswagen",
@@ -6532,7 +6522,7 @@
     },
     {
       "brand": "Peugeot",
-      "model": 508,
+      "model": "508",
       "year": "2017",
       "listings_count": "37",
       "median_price": "880000",
@@ -6582,13 +6572,13 @@
     },
     {
       "brand": "Seat",
-      "model": "Leon",
-      "year": "2018",
-      "listings_count": "37",
-      "median_price": "970000",
-      "avg_price": "988108",
-      "upper_bound_ci_99": "1841049",
-      "lower_bound_ci_99": "614740"
+      "model": "Ibiza",
+      "year": "2022",
+      "listings_count": "35",
+      "median_price": "1100000",
+      "avg_price": "1126001",
+      "upper_bound_ci_99": "1200015",
+      "lower_bound_ci_99": "1051988"
     },
     {
       "brand": "BMW",
@@ -6617,7 +6607,7 @@
       "listings_count": "357",
       "median_price": "3400000",
       "avg_price": "3402889",
-      "upper_bound_ci_99": "3450529",
+      "upper_bound_ci_99": "3450529.446",
       "lower_bound_ci_99": "3171624"
     },
     {
@@ -6702,7 +6692,7 @@
     },
     {
       "brand": "BMW",
-      "model": 418,
+      "model": "418",
       "year": "2016",
       "listings_count": "36",
       "median_price": "1650000",
@@ -6752,7 +6742,7 @@
     },
     {
       "brand": "BMW",
-      "model": 530,
+      "model": "530",
       "year": "2019",
       "listings_count": "36",
       "median_price": "2975000",
@@ -6853,12 +6843,12 @@
     {
       "brand": "Seat",
       "model": "Ibiza",
-      "year": "2022",
-      "listings_count": "35",
-      "median_price": "1100000",
-      "avg_price": "1126001",
-      "upper_bound_ci_99": "1200015",
-      "lower_bound_ci_99": "1051988"
+      "year": "2024",
+      "listings_count": "85",
+      "median_price": "1200000",
+      "avg_price": "895965",
+      "upper_bound_ci_99": "1036316",
+      "lower_bound_ci_99": "1000000"
     },
     {
       "brand": "Daewoo",
@@ -6983,12 +6973,12 @@
     {
       "brand": "Seat",
       "model": "Leon",
-      "year": "2022",
-      "listings_count": "34",
-      "median_price": "1615000",
-      "avg_price": "1582353",
-      "upper_bound_ci_99": "1704432",
-      "lower_bound_ci_99": "1512711"
+      "year": "2015",
+      "listings_count": "33",
+      "median_price": "750000",
+      "avg_price": "756364",
+      "upper_bound_ci_99": "827435",
+      "lower_bound_ci_99": "681708"
     },
     {
       "brand": "Other make",
@@ -7033,22 +7023,22 @@
     {
       "brand": "Speranza",
       "model": "A113",
-      "year": "2013",
-      "listings_count": "34",
-      "median_price": "240000",
-      "avg_price": "246559",
-      "upper_bound_ci_99": "266251",
-      "lower_bound_ci_99": "232777"
+      "year": "2012",
+      "listings_count": "39",
+      "median_price": "225000",
+      "avg_price": "235436",
+      "upper_bound_ci_99": "253147",
+      "lower_bound_ci_99": "211234"
     },
     {
       "brand": "Seat",
       "model": "Leon",
-      "year": "2019",
-      "listings_count": "34",
-      "median_price": "1050000",
-      "avg_price": "1062794",
-      "upper_bound_ci_99": "1138419",
-      "lower_bound_ci_99": "1011295"
+      "year": "2018",
+      "listings_count": "37",
+      "median_price": "970000",
+      "avg_price": "988108",
+      "upper_bound_ci_99": "1841049",
+      "lower_bound_ci_99": "614740"
     },
     {
       "brand": "Porsche",
@@ -7242,7 +7232,7 @@
     },
     {
       "brand": "BMW",
-      "model": 530,
+      "model": "530",
       "year": "2018",
       "listings_count": "33",
       "median_price": "2800000",
@@ -7261,14 +7251,14 @@
       "lower_bound_ci_99": "250458"
     },
     {
-      "brand": "Speranza",
+      "brand": "Chery",
       "model": "Tiggo",
-      "year": "2010",
-      "listings_count": "33",
-      "median_price": "340000",
-      "avg_price": "338303",
-      "upper_bound_ci_99": "355266",
-      "lower_bound_ci_99": "306955"
+      "year": "2022",
+      "listings_count": "219",
+      "median_price": "875000",
+      "avg_price": "866078",
+      "upper_bound_ci_99": "922717",
+      "lower_bound_ci_99": "819725"
     },
     {
       "brand": "Kia",
@@ -7283,12 +7273,12 @@
     {
       "brand": "Seat",
       "model": "Leon",
-      "year": "2015",
-      "listings_count": "33",
-      "median_price": "750000",
-      "avg_price": "756364",
-      "upper_bound_ci_99": "827435",
-      "lower_bound_ci_99": "681708"
+      "year": "2019",
+      "listings_count": "34",
+      "median_price": "1050000",
+      "avg_price": "1062794",
+      "upper_bound_ci_99": "1138419",
+      "lower_bound_ci_99": "1011295"
     },
     {
       "brand": "Renault",
@@ -7342,7 +7332,7 @@
     },
     {
       "brand": "MG",
-      "model": 6,
+      "model": "6",
       "year": "2020",
       "listings_count": "32",
       "median_price": "872500",
@@ -7372,13 +7362,13 @@
     },
     {
       "brand": "Seat",
-      "model": "Tarraco",
-      "year": "2021",
-      "listings_count": "32",
-      "median_price": "1930000",
-      "avg_price": "1957813",
-      "upper_bound_ci_99": "2089938",
-      "lower_bound_ci_99": "1745213"
+      "model": "Leon",
+      "year": "2020",
+      "listings_count": "88",
+      "median_price": "1150000",
+      "avg_price": "1159205",
+      "upper_bound_ci_99": "1206557",
+      "lower_bound_ci_99": "1092544"
     },
     {
       "brand": "Nissan",
@@ -7433,12 +7423,12 @@
     {
       "brand": "Speranza",
       "model": "A113",
-      "year": "2009",
-      "listings_count": "32",
-      "median_price": "190000",
-      "avg_price": "195625",
-      "upper_bound_ci_99": "218241",
-      "lower_bound_ci_99": "175288"
+      "year": "2013",
+      "listings_count": "34",
+      "median_price": "240000",
+      "avg_price": "246559",
+      "upper_bound_ci_99": "266251",
+      "lower_bound_ci_99": "232777"
     },
     {
       "brand": "Kia",
@@ -7493,22 +7483,22 @@
     {
       "brand": "Chery",
       "model": "Tiggo",
-      "year": "2025",
-      "listings_count": "32",
-      "median_price": "397500",
-      "avg_price": "553711",
-      "upper_bound_ci_99": "763429",
-      "lower_bound_ci_99": "900000"
+      "year": "2023",
+      "listings_count": "207",
+      "median_price": "850000",
+      "avg_price": "824401",
+      "upper_bound_ci_99": "884918",
+      "lower_bound_ci_99": "793308"
     },
     {
       "brand": "Skoda",
       "model": "Superb",
-      "year": "2018",
-      "listings_count": "32",
-      "median_price": "1300000",
-      "avg_price": "1350906",
-      "upper_bound_ci_99": "1522118",
-      "lower_bound_ci_99": "1255398"
+      "year": "2013",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "800000"
     },
     {
       "brand": "Jetour",
@@ -7591,24 +7581,24 @@
       "lower_bound_ci_99": "471623"
     },
     {
-      "brand": "Speranza",
+      "brand": "Chery",
       "model": "Tiggo",
-      "year": "2009",
-      "listings_count": "31",
-      "median_price": "350000",
-      "avg_price": "356581",
-      "upper_bound_ci_99": "374313",
-      "lower_bound_ci_99": "328124"
+      "year": "2024",
+      "listings_count": "342",
+      "median_price": "850000",
+      "avg_price": "824119",
+      "upper_bound_ci_99": "889908",
+      "lower_bound_ci_99": "758330"
     },
     {
       "brand": "Chery",
       "model": "Tiggo",
-      "year": "2018",
-      "listings_count": "31",
-      "median_price": "550000",
-      "avg_price": "563194",
-      "upper_bound_ci_99": "615954",
-      "lower_bound_ci_99": "517925"
+      "year": "2025",
+      "listings_count": "32",
+      "median_price": "397500",
+      "avg_price": "553711",
+      "upper_bound_ci_99": "763429",
+      "lower_bound_ci_99": "900000"
     },
     {
       "brand": "Chevrolet",
@@ -7823,12 +7813,12 @@
     {
       "brand": "Skoda",
       "model": "Kodiaq",
-      "year": "2019",
-      "listings_count": "30",
-      "median_price": "1787500",
-      "avg_price": "1796333",
-      "upper_bound_ci_99": "1923837",
-      "lower_bound_ci_99": "1717454"
+      "year": "2024",
+      "listings_count": "351",
+      "median_price": "2700000",
+      "avg_price": "2202093",
+      "upper_bound_ci_99": "2343220",
+      "lower_bound_ci_99": "2060966"
     },
     {
       "brand": "BMW",
@@ -7911,16 +7901,6 @@
       "lower_bound_ci_99": "935000"
     },
     {
-      "brand": "Opel",
-      "model": "Astra",
-      "year": "2005",
-      "listings_count": "30",
-      "median_price": "290000",
-      "avg_price": "283667",
-      "upper_bound_ci_99": "319806",
-      "lower_bound_ci_99": "260516"
-    },
-    {
       "brand": "Honda",
       "model": "Civic",
       "year": "2007",
@@ -7953,12 +7933,12 @@
     {
       "brand": "Speranza",
       "model": "A516",
-      "year": "2009",
-      "listings_count": "30",
-      "median_price": "217500",
-      "avg_price": "213067",
-      "upper_bound_ci_99": "227373",
-      "lower_bound_ci_99": "191466"
+      "year": "2010",
+      "listings_count": "37",
+      "median_price": "207500",
+      "avg_price": "209216",
+      "upper_bound_ci_99": "224738",
+      "lower_bound_ci_99": "187683"
     },
     {
       "brand": "BMW",
@@ -7982,13 +7962,13 @@
     },
     {
       "brand": "Seat",
-      "model": "Arona",
-      "year": "2024",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1250000"
+      "model": "Leon",
+      "year": "2022",
+      "listings_count": "34",
+      "median_price": "1615000",
+      "avg_price": "1582353",
+      "upper_bound_ci_99": "1704432",
+      "lower_bound_ci_99": "1512711"
     },
     {
       "brand": "Toyota",
@@ -8082,13 +8062,13 @@
     },
     {
       "brand": "Seat",
-      "model": "Arona",
-      "year": "2019",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "858000"
+      "model": "Leon",
+      "year": "2024",
+      "listings_count": "97",
+      "median_price": "1500000",
+      "avg_price": "1433478",
+      "upper_bound_ci_99": "1591704",
+      "lower_bound_ci_99": "1275253"
     },
     {
       "brand": "Proton",
@@ -8182,13 +8162,13 @@
     },
     {
       "brand": "Seat",
-      "model": "Ateca",
-      "year": "2025",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1500000"
+      "model": "Tarraco",
+      "year": "2021",
+      "listings_count": "32",
+      "median_price": "1930000",
+      "avg_price": "1957813",
+      "upper_bound_ci_99": "2089938",
+      "lower_bound_ci_99": "1745213"
     },
     {
       "brand": "Changan",
@@ -8342,7 +8322,7 @@
     },
     {
       "brand": "Alfa Romeo",
-      "model": 156,
+      "model": "156",
       "year": "2000",
       "listings_count": "0",
       "median_price": "0",
@@ -8352,7 +8332,7 @@
     },
     {
       "brand": "Alfa Romeo",
-      "model": 156,
+      "model": "156",
       "year": "2001",
       "listings_count": "0",
       "median_price": "0",
@@ -8362,7 +8342,7 @@
     },
     {
       "brand": "Alfa Romeo",
-      "model": 156,
+      "model": "156",
       "year": "2002",
       "listings_count": "0",
       "median_price": "0",
@@ -8463,22 +8443,12 @@
     {
       "brand": "Fiat",
       "model": "128",
-      "year": "1988",
+      "year": "1980",
       "listings_count": "0",
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "30000"
-    },
-    {
-      "brand": "Fiat",
-      "model": "128",
-      "year": "2008",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "80000"
     },
     {
       "brand": "Fiat",
@@ -8612,7 +8582,7 @@
     },
     {
       "brand": "BMW",
-      "model": 523,
+      "model": "523",
       "year": "1999",
       "listings_count": "0",
       "median_price": "0",
@@ -8692,7 +8662,7 @@
     },
     {
       "brand": "BMW",
-      "model": 523,
+      "model": "523",
       "year": "2006",
       "listings_count": "0",
       "median_price": "0",
@@ -8772,17 +8742,7 @@
     },
     {
       "brand": "BMW",
-      "model": "318",
-      "year": "2011",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "736000"
-    },
-    {
-      "brand": "BMW",
-      "model": 523,
+      "model": "523",
       "year": "2007",
       "listings_count": "0",
       "median_price": "0",
@@ -8792,7 +8752,7 @@
     },
     {
       "brand": "BMW",
-      "model": 525,
+      "model": "525",
       "year": "2009",
       "listings_count": "0",
       "median_price": "0",
@@ -8802,7 +8762,7 @@
     },
     {
       "brand": "BMW",
-      "model": 740,
+      "model": "740",
       "year": "2007",
       "listings_count": "0",
       "median_price": "0",
@@ -8812,7 +8772,7 @@
     },
     {
       "brand": "BMW",
-      "model": 525,
+      "model": "525",
       "year": "2010",
       "listings_count": "0",
       "median_price": "0",
@@ -8893,12 +8853,12 @@
     {
       "brand": "Skoda",
       "model": "Superb",
-      "year": "2024",
-      "listings_count": "76",
-      "median_price": "2500000",
-      "avg_price": "2135099",
-      "upper_bound_ci_99": "2400608",
-      "lower_bound_ci_99": "1869589"
+      "year": "2014",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "880000"
     },
     {
       "brand": "Nissan",
@@ -9062,7 +9022,7 @@
     },
     {
       "brand": "BMW",
-      "model": 118,
+      "model": "118",
       "year": "2021",
       "listings_count": "0",
       "median_price": "0",
@@ -9082,7 +9042,7 @@
     },
     {
       "brand": "BMW",
-      "model": 218,
+      "model": "218",
       "year": "2015",
       "listings_count": "0",
       "median_price": "0",
@@ -9549,16 +9509,6 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "276000"
-    },
-    {
-      "brand": "Chevrolet",
-      "model": "Cruze",
-      "year": "2013",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "396000"
     },
     {
       "brand": "Chrysler",
@@ -10254,16 +10204,6 @@
       "brand": "Fiat",
       "model": "Shahin",
       "year": "1996",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "78000"
-    },
-    {
-      "brand": "Fiat",
-      "model": "Shahin",
-      "year": "1995",
       "listings_count": "0",
       "median_price": "0",
       "avg_price": "0",
@@ -10989,16 +10929,6 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "672000"
-    },
-    {
-      "brand": "Honda",
-      "model": "Civic",
-      "year": "2014",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "575000"
     },
     {
       "brand": "Honda",
@@ -11993,16 +11923,6 @@
     {
       "brand": "Renault",
       "model": "Megane",
-      "year": "1999",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "160000"
-    },
-    {
-      "brand": "Renault",
-      "model": "Megane",
       "year": "2002",
       "listings_count": "0",
       "median_price": "0",
@@ -12252,7 +12172,7 @@
     },
     {
       "brand": "Volvo",
-      "model": 850,
+      "model": "850",
       "year": "1993",
       "listings_count": "0",
       "median_price": "0",
@@ -15829,6 +15749,3446 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "320000"
+    },
+    {
+      "brand": "Changan",
+      "model": "CS35",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "390000"
+    },
+    {
+      "brand": "Changan",
+      "model": "CS35",
+      "year": "2017",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "420000"
+    },
+    {
+      "brand": "Changan",
+      "model": "CS35",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "560000"
+    },
+    {
+      "brand": "Changan",
+      "model": "CS35",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "620000"
+    },
+    {
+      "brand": "Changan",
+      "model": "CS35",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "700000"
+    },
+    {
+      "brand": "Changan",
+      "model": "CS35",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "815000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "128",
+      "year": "1981",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "30000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "128",
+      "year": "1982",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "35000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "128",
+      "year": "1983",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "40000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "128",
+      "year": "1984",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "40000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "128",
+      "year": "1986",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "40000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "128",
+      "year": "1987",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "40000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "128",
+      "year": "1988",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "40000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "128",
+      "year": "1989",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "40000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "128",
+      "year": "1990",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "40000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "128",
+      "year": "1992",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "40000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "128",
+      "year": "1993",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "45000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "128",
+      "year": "1994",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "45000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "128",
+      "year": "1995",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "45000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "128",
+      "year": "1996",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "45000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "128",
+      "year": "1997",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "45000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "128",
+      "year": "1999",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "45000"
+    },
+    {
+      "brand": "Changan",
+      "model": "CS35",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "850000"
+    },
+    {
+      "brand": "Changan",
+      "model": "CS35",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "890000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Pathfinder",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1700000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Pathfinder",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1000000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Juke",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "520000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Juke",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "820000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Juke",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "925000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Juke",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1750000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Tiida",
+      "year": "2009",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "230000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Tiida",
+      "year": "2006",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "385000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Tiida",
+      "year": "2010",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "425000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Tiida",
+      "year": "2008",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "430000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Tiida",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "460000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Tiida",
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "450000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Tiida",
+      "year": "2013",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "475000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Tiida",
+      "year": "2014",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "500000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Tiida",
+      "year": "2015",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "520000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Armada",
+      "year": "2010",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "950000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Qashqai",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1520000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Sentra",
+      "year": "2014",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "580000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Sentra",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "770000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Sentra",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1085000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "X-Trail",
+      "year": "2008",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "490000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "X-Trail",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "650000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "X-Trail",
+      "year": "2010",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "715000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "X-Trail",
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "750000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "X-Trail",
+      "year": "2009",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "760000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "X-Trail",
+      "year": "2015",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "780000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "X-Trail",
+      "year": "2014",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "790000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "X-Trail",
+      "year": "2006",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1050000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "X-Trail",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2250000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "X-Trail",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2600000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Pickup",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "835000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Lancer",
+      "year": "2010",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "430000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Lancer",
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "430000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Lancer",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "420000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Lancer",
+      "year": "2000",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "270000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Lancer",
+      "year": "2001",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "240000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Lancer",
+      "year": "2003",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "260000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Lancer",
+      "year": "2004",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "390000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Lancer",
+      "year": "2005",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "270000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Pajero",
+      "year": "2007",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "950000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Pajero",
+      "year": "2006",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "950000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Pajero",
+      "year": "2008",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1000000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Pajero",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1350000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Pajero",
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1450000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Pajero",
+      "year": "2010",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1550000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Pajero",
+      "year": "2014",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1500000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Pajero",
+      "year": "2015",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1650000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Pajero",
+      "year": "2013",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1950000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Pajero",
+      "year": "2017",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2500000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Pajero",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2250000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Pajero",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2950000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Pajero",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3000000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Pajero",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2950000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Pajero",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3600000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Xpander",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "900000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Xpander",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "105000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Xpander",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "950000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Xpander",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1000000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Eclipse",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1000000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Eclipse",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1100000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Eclipse",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1050000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Eclipse",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1450000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Lancer",
+      "year": "1991",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "101000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Lancer",
+      "year": "1992",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "117000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Lancer",
+      "year": "1993",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "138000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Octavia",
+      "year": "1997",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "230000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Octavia",
+      "year": "2001",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "310000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Octavia",
+      "year": "2002",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "285000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Octavia",
+      "year": "2003",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "300000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Octavia",
+      "year": "2004",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "375000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Octavia",
+      "year": "2005",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "350000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Octavia",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "900000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Octavia",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1000000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Octavia",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2200000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Fabia",
+      "year": "2004",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "200000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Fabia",
+      "year": "2002",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "210000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Fabia",
+      "year": "2007",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "240000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Fabia",
+      "year": "2005",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "300000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Fabia",
+      "year": "2014",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "550000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Fabia",
+      "year": "2010",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "440000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Fabia",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "960000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Fabia",
+      "year": "2003",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "193000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Fabia",
+      "year": "2009",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "322000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Superb",
+      "year": "2018",
+      "listings_count": "32",
+      "median_price": "1300000",
+      "avg_price": "1350906",
+      "upper_bound_ci_99": "1522118",
+      "lower_bound_ci_99": "1255398"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Superb",
+      "year": "2019",
+      "listings_count": "50",
+      "median_price": "1515000",
+      "avg_price": "1524600",
+      "upper_bound_ci_99": "1565739",
+      "lower_bound_ci_99": "1309816"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Superb",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1550000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Superb",
+      "year": "2021",
+      "listings_count": "98",
+      "median_price": "1950000",
+      "avg_price": "1982500",
+      "upper_bound_ci_99": "2062926",
+      "lower_bound_ci_99": "1892874"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Superb",
+      "year": "2022",
+      "listings_count": "76",
+      "median_price": "2200000",
+      "avg_price": "2242105",
+      "upper_bound_ci_99": "2303377",
+      "lower_bound_ci_99": "2077636"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Superb",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "900000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Felecia",
+      "year": "1995",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "120000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Felecia",
+      "year": "1998",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "165000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Felecia",
+      "year": "2000",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "124000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Felecia",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "730000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Astra",
+      "year": "2016",
+      "listings_count": "176",
+      "median_price": "670000",
+      "avg_price": "676801",
+      "upper_bound_ci_99": "718292",
+      "lower_bound_ci_99": "646814"
+    },
+    {
+      "brand": "Opel",
+      "model": "Astra",
+      "year": "2017",
+      "listings_count": "188",
+      "median_price": "710000",
+      "avg_price": "714197",
+      "upper_bound_ci_99": "993765",
+      "lower_bound_ci_99": "628495"
+    },
+    {
+      "brand": "Opel",
+      "model": "Astra",
+      "year": "2018",
+      "listings_count": "84",
+      "median_price": "765000",
+      "avg_price": "755286",
+      "upper_bound_ci_99": "1065567",
+      "lower_bound_ci_99": "617821"
+    },
+    {
+      "brand": "Opel",
+      "model": "Astra",
+      "year": "2019",
+      "listings_count": "108",
+      "median_price": "762500",
+      "avg_price": "775602",
+      "upper_bound_ci_99": "789144",
+      "lower_bound_ci_99": "722588"
+    },
+    {
+      "brand": "Opel",
+      "model": "Astra",
+      "year": "2020",
+      "listings_count": "158",
+      "median_price": "805000",
+      "avg_price": "818652",
+      "upper_bound_ci_99": "836613",
+      "lower_bound_ci_99": "793350"
+    },
+    {
+      "brand": "Opel",
+      "model": "Astra",
+      "year": "2021",
+      "listings_count": "143",
+      "median_price": "850000",
+      "avg_price": "872028",
+      "upper_bound_ci_99": "1103804",
+      "lower_bound_ci_99": "768418"
+    },
+    {
+      "brand": "Opel",
+      "model": "Astra",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "750000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Corsa",
+      "year": "1999",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "140000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Corsa",
+      "year": "1998",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "175000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Corsa",
+      "year": "1995",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "200000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Corsa",
+      "year": "2007",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "175000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Corsa",
+      "year": "2004",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "250000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Corsa",
+      "year": "2003",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "190000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Corsa",
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "290000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Corsa",
+      "year": "2013",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "370000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Corsa",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "425000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Corsa",
+      "year": "2014",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "470000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Corsa",
+      "year": "2017",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "480000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Corsa",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "560000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Corsa",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "580000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Corsa",
+      "year": "2015",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "700000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Corsa",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "950000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Corsa",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1300000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Vectra",
+      "year": "1995",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "120000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Vectra",
+      "year": "1996",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "170000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Vectra",
+      "year": "1998",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "198000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Vectra",
+      "year": "1999",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "230000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Vectra",
+      "year": "2001",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "250000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Vectra",
+      "year": "2003",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "270000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Vectra",
+      "year": "2007",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "350000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Astra",
+      "year": "2015",
+      "listings_count": "97",
+      "median_price": "630000",
+      "avg_price": "654691",
+      "upper_bound_ci_99": "677416",
+      "lower_bound_ci_99": "625164"
+    },
+    {
+      "brand": "BMW",
+      "model": "318",
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "736000"
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Cruze",
+      "year": "2013",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "396000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "Shahin",
+      "year": "1995",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "78000"
+    },
+    {
+      "brand": "Honda",
+      "model": "Civic",
+      "year": "2014",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "575000"
+    },
+    {
+      "brand": "Renault",
+      "model": "Megane",
+      "year": "1999",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "160000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Insignia",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1330000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Insignia",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1630000"
+    },
+    {
+      "brand": "Opel",
+      "model": "GrandLand",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1380000"
+    },
+    {
+      "brand": "Opel",
+      "model": "GrandLand",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1620000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Meriva",
+      "year": "2015",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "520000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Meriva",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "460000"
+    },
+    {
+      "brand": "Citroen",
+      "model": "C4 Grand Picasso\r",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "900000"
+    },
+    {
+      "brand": "BMW",
+      "model": "330",
+      "year": "2017",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "",
+      "lower_bound_ci_99": "1650000"
+    },
+    {
+      "brand": "Changan",
+      "model": "CS35",
+      "year": "2015",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "360000"
+    },
+    {
+      "brand": "Audi",
+      "model": "Q7",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "5000000"
+    },
+    {
+      "brand": "Audi",
+      "model": "Q7",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "4550000"
+    },
+    {
+      "brand": "Jeep",
+      "model": "Grand Cherokee",
+      "year": "20124",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "5000000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Superb",
+      "year": "2024",
+      "listings_count": "76",
+      "median_price": "2500000",
+      "avg_price": "2135099",
+      "upper_bound_ci_99": "2400608",
+      "lower_bound_ci_99": "1869589"
+    },
+    {
+      "brand": "Tesla",
+      "model": "Model 3",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1650000"
+    },
+    {
+      "brand": "Tesla",
+      "model": "Model S",
+      "year": "2017",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1750000"
+    },
+    {
+      "brand": "Tesla",
+      "model": "Model 3",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1750000"
+    },
+    {
+      "brand": "Tesla",
+      "model": "Model Y",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2400000"
+    },
+    {
+      "brand": "Tesla",
+      "model": "Model 3",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2550000"
+    },
+    {
+      "brand": "Tesla",
+      "model": "Model Y",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2501667"
+    },
+    {
+      "brand": "Tesla",
+      "model": "Model Y",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2800000"
+    },
+    {
+      "brand": "Tesla",
+      "model": "Model 3",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2900000"
+    },
+    {
+      "brand": "Tesla",
+      "model": "Model Y",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2650000"
+    },
+    {
+      "brand": "Tesla",
+      "model": "Model S",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3500000"
+    },
+    {
+      "brand": "Tesla",
+      "model": "Model X",
+      "year": "2017",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "5000000"
+    },
+    {
+      "brand": "Tesla",
+      "model": "Model S",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "5500000"
+    },
+    {
+      "brand": "Tesla",
+      "model": "Model X",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "5800000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Tarraco",
+      "year": "2024",
+      "listings_count": "43",
+      "median_price": "2200000",
+      "avg_price": "1660233",
+      "upper_bound_ci_99": "1999536",
+      "lower_bound_ci_99": "1320929"
+    },
+    {
+      "brand": "Seat",
+      "model": "Altea",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "410000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Altea",
+      "year": "2013",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "450000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Altea",
+      "year": "2014",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "470000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Altea",
+      "year": "2015",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "500000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Altea",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "528000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Altea",
+      "year": "2017",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "555000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Altea",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "580000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Altea",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "610000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Altea",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1800000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Arona",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "950000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Arona",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "790000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Arona",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1000050"
+    },
+    {
+      "brand": "Seat",
+      "model": "Arona",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "875000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Arona",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1000050"
+    },
+    {
+      "brand": "Seat",
+      "model": "Arona",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "875000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Arona",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "950000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Arona",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1000050"
+    },
+    {
+      "brand": "Seat",
+      "model": "Ibiza",
+      "year": "1998",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "200000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Ibiza",
+      "year": "2007",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "335000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Ibiza",
+      "year": "2009",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "350000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Ibiza",
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "250000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Ibiza",
+      "year": "2013",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "435000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Ibiza",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "450000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Ibiza",
+      "year": "2010",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "495000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Ibiza",
+      "year": "2015",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "500000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Ibiza",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "775000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Ibiza",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "690000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Ibiza",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1350000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Ibiza",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1400000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Leon",
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "480000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Leon",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "600000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Leon",
+      "year": "2014",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "650000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Leon",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "665000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Leon",
+      "year": "2017",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "860000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Leon",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1500000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Tarraco",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1850000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Tarraco",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1900000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Tarraco",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2050000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Toledo",
+      "year": "1996",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "150000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Toledo",
+      "year": "1994",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "125000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Toledo",
+      "year": "2005",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "310000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Toledo",
+      "year": "2014",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "570000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Toledo",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "560000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Toledo",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "730000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Toledo",
+      "year": "2017",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "650000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Toledo",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "680000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Cordoba",
+      "year": "2008",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "360000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Cordoba",
+      "year": "2009",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "320000"
+    },
+    {
+      "brand": "Mazda",
+      "model": "3",
+      "year": "2006",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "320000"
+    },
+    {
+      "brand": "Mazda",
+      "model": "3",
+      "year": "2009",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "390000"
+    },
+    {
+      "brand": "Mazda",
+      "model": "3",
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "550000"
+    },
+    {
+      "brand": "Mazda",
+      "model": "3",
+      "year": "2013",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "550000"
+    },
+    {
+      "brand": "Mazda",
+      "model": "3",
+      "year": "2014",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "850000"
+    },
+    {
+      "brand": "Mazda",
+      "model": "3",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "780000"
+    },
+    {
+      "brand": "Mazda",
+      "model": "3",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1300000"
+    },
+    {
+      "brand": "Mazda",
+      "model": "3",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1150000"
+    },
+    {
+      "brand": "Mazda",
+      "model": "M3",
+      "year": "2010",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "550000"
+    },
+    {
+      "brand": "Mazda",
+      "model": "2",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "600000"
+    },
+    {
+      "brand": "Mazda",
+      "model": "2",
+      "year": "2017",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "600000"
+    },
+    {
+      "brand": "Mazda",
+      "model": "M3",
+      "year": "2017",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "790000"
+    },
+    {
+      "brand": "Mazda",
+      "model": "6",
+      "year": "2015",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1100000"
+    },
+    {
+      "brand": "Mazda",
+      "model": "CX",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1100000"
+    },
+    {
+      "brand": "Mazda",
+      "model": "CX",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1600000"
+    },
+    {
+      "brand": "Lada",
+      "model": "Granta",
+      "year": "2015",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "250000"
+    },
+    {
+      "brand": "Lada",
+      "model": "Granta",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "230000"
+    },
+    {
+      "brand": "Lada",
+      "model": "Granta",
+      "year": "2017",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "250000"
+    },
+    {
+      "brand": "Lada",
+      "model": "Granta",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "290000"
+    },
+    {
+      "brand": "Lada",
+      "model": "Granta",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "316667"
+    },
+    {
+      "brand": "Lada",
+      "model": "Granta",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "480000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2107",
+      "year": "2013",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "160000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2107",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "140000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2107",
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "135000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2107",
+      "year": "2010",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "115000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2107",
+      "year": "2009",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "110000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2107",
+      "year": "2008",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "75000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2107",
+      "year": "2007",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "70000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2107",
+      "year": "2006",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "60000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2107",
+      "year": "2005",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "60000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2107",
+      "year": "2004",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "60000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2107",
+      "year": "2003",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "60000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2107",
+      "year": "2002",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "60000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2107",
+      "year": "2001",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "60000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2107",
+      "year": "2000",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "60000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2107",
+      "year": "1999",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "50000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2107",
+      "year": "1998",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "50000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2107",
+      "year": "1997",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "50000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2107",
+      "year": "1996",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "50000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2107",
+      "year": "1995",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "50000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2107",
+      "year": "1994",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "50000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2107",
+      "year": "1993",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "50000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2107",
+      "year": "1992",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "50000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2107",
+      "year": "1991",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "45000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2107",
+      "year": "1990",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "45000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2107",
+      "year": "1989",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "45000"
+    },
+    {
+      "brand": "Lada",
+      "model": "Niva",
+      "year": "1980",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "130000"
+    },
+    {
+      "brand": "Lada",
+      "model": "Niva",
+      "year": "1981",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "130000"
+    },
+    {
+      "brand": "Lada",
+      "model": "Niva",
+      "year": "1982",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "130000"
+    },
+    {
+      "brand": "Lada",
+      "model": "Niva",
+      "year": "1983",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "130000"
+    },
+    {
+      "brand": "Lada",
+      "model": "Niva",
+      "year": "1984",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "130000"
+    },
+    {
+      "brand": "Lada",
+      "model": "Niva",
+      "year": "1985",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "130000"
+    },
+    {
+      "brand": "Lada",
+      "model": "Niva",
+      "year": "1986",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "130000"
+    },
+    {
+      "brand": "Lada",
+      "model": "Niva",
+      "year": "1987",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "130000"
+    },
+    {
+      "brand": "Lada",
+      "model": "Niva",
+      "year": "1988",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "130000"
+    },
+    {
+      "brand": "Lada",
+      "model": "Niva",
+      "year": "1989",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "130000"
+    },
+    {
+      "brand": "Lada",
+      "model": "Niva",
+      "year": "1990",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "140000"
+    },
+    {
+      "brand": "Lada",
+      "model": "Niva",
+      "year": "1991",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "160000"
+    },
+    {
+      "brand": "Lada",
+      "model": "Niva",
+      "year": "1992",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "165000"
+    },
+    {
+      "brand": "Lada",
+      "model": "Niva",
+      "year": "1993",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "165000"
+    },
+    {
+      "brand": "Lada",
+      "model": "Niva",
+      "year": "1994",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "165000"
+    },
+    {
+      "brand": "Lada",
+      "model": "Niva",
+      "year": "1995",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "165000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2105",
+      "year": "1983",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "25000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2105",
+      "year": "1984",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "28000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2105",
+      "year": "1985",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "30000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2105",
+      "year": "1986",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "32666.6666666667"
+    },
+    {
+      "brand": "Lada",
+      "model": "2105",
+      "year": "1987",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "35166.6666666667"
+    },
+    {
+      "brand": "Lada",
+      "model": "2105",
+      "year": "1988",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "37666.6666666667"
+    },
+    {
+      "brand": "Lada",
+      "model": "2105",
+      "year": "1989",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "40166.6666666667"
+    },
+    {
+      "brand": "Lada",
+      "model": "2105",
+      "year": "1990",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "42666.6666666667"
+    },
+    {
+      "brand": "Lada",
+      "model": "2105",
+      "year": "1991",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "45166.6666666667"
+    },
+    {
+      "brand": "Lada",
+      "model": "2105",
+      "year": "1992",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "47666.6666666667"
+    },
+    {
+      "brand": "Lada",
+      "model": "2105",
+      "year": "1993",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "50166.6666666667"
+    },
+    {
+      "brand": "Lada",
+      "model": "2105",
+      "year": "1994",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "52666.6666666667"
+    },
+    {
+      "brand": "Lada",
+      "model": "2105",
+      "year": "1995",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "60000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2105",
+      "year": "1996",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "65000"
+    },
+    {
+      "brand": "Speranza",
+      "model": "A113",
+      "year": "2007",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "165000"
+    },
+    {
+      "brand": "Speranza",
+      "model": "A113",
+      "year": "2008",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "155000"
+    },
+    {
+      "brand": "Speranza",
+      "model": "A516",
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "195000"
+    },
+    {
+      "brand": "Speranza",
+      "model": "A516",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "230000"
+    },
+    {
+      "brand": "Speranza",
+      "model": "A620",
+      "year": "2008",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "415000"
+    },
+    {
+      "brand": "Speranza",
+      "model": "A620",
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "320000"
+    },
+    {
+      "brand": "Chery",
+      "model": "Envy",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "250000"
+    },
+    {
+      "brand": "Chery",
+      "model": "Envy",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "385000"
+    },
+    {
+      "brand": "Chery",
+      "model": "Tiggo",
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "320000"
+    },
+    {
+      "brand": "Chery",
+      "model": "Tiggo",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "320000"
+    },
+    {
+      "brand": "Chery",
+      "model": "Tiggo",
+      "year": "2013",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "350000"
+    },
+    {
+      "brand": "Chery",
+      "model": "Tiggo",
+      "year": "2015",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "530000"
+    },
+    {
+      "brand": "Speranza",
+      "model": "M11",
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "220000"
+    },
+    {
+      "brand": "Speranza",
+      "model": "M11",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "240000"
+    },
+    {
+      "brand": "Speranza",
+      "model": "M11",
+      "year": "2010",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "300000"
+    },
+    {
+      "brand": "Speranza",
+      "model": "M12",
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "250000"
+    },
+    {
+      "brand": "Speranza",
+      "model": "M12",
+      "year": "2014",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "280000"
+    },
+    {
+      "brand": "JAC",
+      "model": "S3",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "300000"
+    },
+    {
+      "brand": "JAC",
+      "model": "S3",
+      "year": "2015",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "395000"
+    },
+    {
+      "brand": "JAC",
+      "model": "S2",
+      "year": "2017",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "400000"
+    },
+    {
+      "brand": "JAC",
+      "model": "S2",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "440000"
+    },
+    {
+      "brand": "JAC",
+      "model": "S2",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "475000"
+    },
+    {
+      "brand": "JAC",
+      "model": "S2",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "485000"
+    },
+    {
+      "brand": "JAC",
+      "model": "JS3",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "570000"
+    },
+    {
+      "brand": "JAC",
+      "model": "JS3",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "630000"
+    },
+    {
+      "brand": "JAC",
+      "model": "S3",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "545000"
+    },
+    {
+      "brand": "JAC",
+      "model": "S3",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "680000"
+    },
+    {
+      "brand": "JAC",
+      "model": "S4",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "720000"
+    },
+    {
+      "brand": "JAC",
+      "model": "JS4",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "750000"
+    },
+    {
+      "brand": "JAC",
+      "model": "S4",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "740000"
+    },
+    {
+      "brand": "JAC",
+      "model": "JS3",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "780000"
+    },
+    {
+      "brand": "JAC",
+      "model": "S3",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "780000"
+    },
+    {
+      "brand": "JAC",
+      "model": "JS3",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "690000"
+    },
+    {
+      "brand": "JAC",
+      "model": "JS4",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "725000"
+    },
+    {
+      "brand": "JAC",
+      "model": "J7",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "825000"
+    },
+    {
+      "brand": "JAC",
+      "model": "JS4",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "950000"
+    },
+    {
+      "brand": "JAC",
+      "model": "JS4",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "950000"
+    },
+    {
+      "brand": "JAC",
+      "model": "JS3",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "990000"
+    },
+    {
+      "brand": "JAC",
+      "model": "J7",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "900000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Sunny",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "800000"
     }
   ]
 }
