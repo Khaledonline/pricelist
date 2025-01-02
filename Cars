@@ -548,7 +548,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "52666"
+      "lower_bound_ci_99": "52600"
     },
     {
       "brand": "Fiat",
@@ -4618,7 +4618,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "320000"
+      "lower_bound_ci_99": "330000"
     },
     {
       "brand": "Kia",
@@ -5788,7 +5788,7 @@
       "median_price": "460000",
       "avg_price": "475762",
       "upper_bound_ci_99": "671499",
-      "lower_bound_ci_99": "388831"
+      "lower_bound_ci_99": "340000"
     },
     {
       "brand": "Volkswagen",
@@ -5888,7 +5888,7 @@
       "median_price": "417500",
       "avg_price": "407889",
       "upper_bound_ci_99": "435747",
-      "lower_bound_ci_99": "392336"
+      "lower_bound_ci_99": "380000"
     },
     {
       "brand": "Mitsubishi",
@@ -12852,7 +12852,7 @@
     },
     {
       "brand": "Citroen",
-      "model": "C4 Grand Picasso\r",
+      "model": "C4 Grand Picasso",
       "year": "2019",
       "listings_count": "0",
       "median_price": "0",
@@ -13638,7 +13638,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1000000"
+      "lower_bound_ci_99": "2000000"
     },
     {
       "brand": "Nissan",
@@ -15598,7 +15598,7 @@
       "median_price": "1575000",
       "avg_price": "1549902",
       "upper_bound_ci_99": "1632886",
-      "lower_bound_ci_99": "1488075"
+      "lower_bound_ci_99": "1480000"
     },
     {
       "brand": "Skoda",
@@ -19489,6 +19489,206 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "700000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Mirage",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "700000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Mirage",
+      "year": "2001",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "280000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Mirage",
+      "year": "1998",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "220000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Mirage",
+      "year": "1999",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "240000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Mirage",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "650000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Mirage",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "600000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "S500",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "8800000"
+    },
+    {
+      "brand": "Audi",
+      "model": "Q7",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3000000"
+    },
+    {
+      "brand": "Land Rover",
+      "model": "Range Rover Sport",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1500000"
+    },
+    {
+      "brand": "Daihatsu",
+      "model": "Charade",
+      "year": "1999",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "120000"
+    },
+    {
+      "brand": "BMW",
+      "model": "M5",
+      "year": "2017",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3000000"
+    },
+    {
+      "brand": "Audi",
+      "model": "A6",
+      "year": "2010",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "750000"
+    },
+    {
+      "brand": "Peugeot",
+      "model": "208",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "550000"
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "Stelvio",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3450000"
+    },
+    {
+      "brand": "Geely",
+      "model": "Ck2",
+      "year": "2008",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "200000"
+    },
+    {
+      "brand": "King Long",
+      "model": "Van",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "650000"
+    },
+    {
+      "brand": "Land Rover",
+      "model": "Range Rover Sport",
+      "year": "2014",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3150000"
+    },
+    {
+      "brand": "Land Rover",
+      "model": "Range Rover Sport",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "9500000"
+    },
+    {
+      "brand": "Audi",
+      "model": "Q2",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2000000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "GLC 300",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "6000000"
     }
   ]
 }
