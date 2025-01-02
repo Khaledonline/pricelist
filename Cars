@@ -11,6 +11,16 @@
       "lower_bound_ci_99": "210000"
     },
     {
+      "brand": "Land Rover",
+      "model": "Range Rover Vogue",
+      "year": "2021",
+      "listings_count": "115",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "9500000"
+    },
+    {
       "brand": "Chevrolet",
       "model": "Lanos",
       "year": "2011",
