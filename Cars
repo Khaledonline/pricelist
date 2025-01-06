@@ -11,16 +11,6 @@
       "lower_bound_ci_99": "210000"
     },
     {
-      "brand": "Land Rover",
-      "model": "Range Rover Vogue",
-      "year": "2021",
-      "listings_count": "115",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "9500000"
-    },
-    {
       "brand": "Chevrolet",
       "model": "Lanos",
       "year": "2011",
@@ -558,7 +548,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "52600"
+      "lower_bound_ci_99": "52666"
     },
     {
       "brand": "Fiat",
@@ -4628,7 +4618,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "330000"
+      "lower_bound_ci_99": "320000"
     },
     {
       "brand": "Kia",
@@ -9718,7 +9708,7 @@
       "median_price": "710000",
       "avg_price": "714197",
       "upper_bound_ci_99": "993765",
-      "lower_bound_ci_99": "628495"
+      "lower_bound_ci_99": "620000"
     },
     {
       "brand": "Renault",
@@ -11488,7 +11478,7 @@
       "median_price": "775000",
       "avg_price": "787057",
       "upper_bound_ci_99": "831727",
-      "lower_bound_ci_99": "761873"
+      "lower_bound_ci_99": "700000"
     },
     {
       "brand": "Chery",
@@ -12098,7 +12088,7 @@
       "median_price": "875000",
       "avg_price": "873623",
       "upper_bound_ci_99": "913598",
-      "lower_bound_ci_99": "821050"
+      "lower_bound_ci_99": "820000"
     },
     {
       "brand": "Kia",
@@ -12862,7 +12852,7 @@
     },
     {
       "brand": "Citroen",
-      "model": "C4 Grand Picasso",
+      "model": "C4 Grand Picassor",
       "year": "2019",
       "listings_count": "0",
       "median_price": "0",
@@ -19148,7 +19138,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "9500000"
+      "lower_bound_ci_99": "8500000"
     },
     {
       "brand": "Mercedes-Benz",
@@ -19581,8 +19571,8 @@
       "lower_bound_ci_99": "3000000"
     },
     {
-      "brand": "Land Rover",
-      "model": "Range Rover Sport",
+      "brand": "Land Roverr",
+      "model": "Range Rover Sportr",
       "year": "2012",
       "listings_count": "0",
       "median_price": "0",
@@ -19651,7 +19641,7 @@
       "lower_bound_ci_99": "200000"
     },
     {
-      "brand": "King Long",
+      "brand": "King Longr",
       "model": "Van",
       "year": "2024",
       "listings_count": "0",
@@ -19661,8 +19651,8 @@
       "lower_bound_ci_99": "650000"
     },
     {
-      "brand": "Land Rover",
-      "model": "Range Rover Sport",
+      "brand": "Land Roverr",
+      "model": "Range Rover Sportr",
       "year": "2014",
       "listings_count": "0",
       "median_price": "0",
@@ -19671,8 +19661,8 @@
       "lower_bound_ci_99": "3150000"
     },
     {
-      "brand": "Land Rover",
-      "model": "Range Rover Sport",
+      "brand": "Land Roverr",
+      "model": "Range Rover Sportr",
       "year": "2021",
       "listings_count": "0",
       "median_price": "0",
@@ -19691,7 +19681,7 @@
       "lower_bound_ci_99": "2000000"
     },
     {
-      "brand": "Mercedes-Benz",
+      "brand": "Mercedes-Benzr",
       "model": "GLC 300",
       "year": "2025",
       "listings_count": "0",
@@ -19699,6 +19689,136 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "6000000"
+    },
+    {
+      "brand": "Land Roverr",
+      "model": "Range Rover Vogue",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "9500000"
+    },
+    {
+      "brand": "Volkswagen",
+      "model": "ID6",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2000000"
+    },
+    {
+      "brand": "MG",
+      "model": "MG 750",
+      "year": "2017",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "500000"
+    },
+    {
+      "brand": "Mercedes-Benzr",
+      "model": "E200",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "5500000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "GLE-Classr",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "5300000"
+    },
+    {
+      "brand": "MINI",
+      "model": "Cooper s",
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "800000"
+    },
+    {
+      "brand": "Honda",
+      "model": "Accord",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1200000"
+    },
+    {
+      "brand": "Kia",
+      "model": "Sorento Hybrid",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3500000"
+    },
+    {
+      "brand": "Isuzu",
+      "model": "D-Max",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2100000"
+    },
+    {
+      "brand": "Audi",
+      "model": "A4",
+      "year": "1995",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "250000"
+    },
+    {
+      "brand": "Audi",
+      "model": "A3",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2000000"
+    },
+    {
+      "brand": "Mercedes-Benzr",
+      "model": "Viano",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "5000000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Crossland",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "700000"
     }
   ]
 }
