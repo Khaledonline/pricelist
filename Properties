@@ -1718,7 +1718,7 @@
       "geol3": "North Coast",
       "geol4": "Marina 5",
       "unit_type": "Studio",
-      "lower_limit": "2000000"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -1726,7 +1726,7 @@
       "geol3": "North Coast",
       "geol4": "Marina 5",
       "unit_type": "Apartment",
-      "lower_limit": "4000000"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -1734,7 +1734,7 @@
       "geol3": "North Coast",
       "geol4": "Marina 5",
       "unit_type": "Chalet",
-      "lower_limit": "4000000"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -7734,7 +7734,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Beverly Hills Compound",
       "unit_type": "Apartment",
-      "lower_limit": "5000000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Villas For Sale",
@@ -16958,7 +16958,7 @@
       "geol3": "Hadayek October",
       "geol4": "Hadayek 6th of October",
       "unit_type": "Restaurant & Cafe",
-      "lower_limit": "5000000"
+      "lower_limit": "2500000"
     },
     {
       "cat": "Commercial for Sale",
