@@ -11,6 +11,16 @@
       "lower_bound_ci_99": "210000"
     },
     {
+      "brand": "Mazda",
+      "model": "121",
+      "year": "1998",
+      "listings_count": "71",
+      "median_price": "270000",
+      "avg_price": "269535",
+      "upper_bound_ci_99": "1238734",
+      "lower_bound_ci_99": "90000"
+    },
+    {
       "brand": "Chevrolet",
       "model": "Lanos",
       "year": "2011",
