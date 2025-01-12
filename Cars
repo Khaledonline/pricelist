@@ -11,16 +11,6 @@
       "lower_bound_ci_99": "210000"
     },
     {
-      "brand": "Mazda",
-      "model": "121",
-      "year": "1998",
-      "listings_count": "71",
-      "median_price": "270000",
-      "avg_price": "269535",
-      "upper_bound_ci_99": "1238734",
-      "lower_bound_ci_99": "90000"
-    },
-    {
       "brand": "Chevrolet",
       "model": "Lanos",
       "year": "2011",
@@ -168,7 +158,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "32666"
+      "lower_bound_ci_99": "32000"
     },
     {
       "brand": "Fiat",
@@ -19829,6 +19819,106 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "700000"
+    },
+    {
+      "brand": "Mazda",
+      "model": "121",
+      "year": "1998",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "90000"
+    },
+    {
+      "brand": "BYD",
+      "model": "Seagull",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "850000"
+    },
+    {
+      "brand": "BMW",
+      "model": "X6",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "8500000"
+    },
+    {
+      "brand": "BYD",
+      "model": "Yuan",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1100000"
+    },
+    {
+      "brand": "Mercedes-Benzr",
+      "model": "E200",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "5500000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Kodiaq",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2500000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Arona",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1100000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Crossland",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1150000"
+    },
+    {
+      "brand": "MG",
+      "model": "MG 6r",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1050000"
+    },
+    {
+      "brand": "Volkswagen",
+      "model": "ID3",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1100000"
     }
   ]
 }
