@@ -46158,7 +46158,7 @@
       "geol3": "New Cairo",
       "geol4": "Unknown",
       "unit_type": "Factory",
-      "lower_limit": "15000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -46166,7 +46166,7 @@
       "geol3": "New Cairo",
       "geol4": "Unknown",
       "unit_type": "Restaurant & Cafe",
-      "lower_limit": "9000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -46190,7 +46190,7 @@
       "geol3": "New Cairo",
       "geol4": "Unknown",
       "unit_type": "Pharmacy",
-      "lower_limit": "10000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Commercial for Sale",
