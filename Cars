@@ -158,7 +158,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "32000"
+      "lower_bound_ci_99": "32666"
     },
     {
       "brand": "Fiat",
@@ -17488,7 +17488,7 @@
       "median_price": "2850000",
       "avg_price": "2775893",
       "upper_bound_ci_99": "2872555",
-      "lower_bound_ci_99": "2489404"
+      "lower_bound_ci_99": "2400000"
     },
     {
       "brand": "Volvo",
@@ -17548,7 +17548,7 @@
       "median_price": "2800000",
       "avg_price": "2828333",
       "upper_bound_ci_99": "2980040",
-      "lower_bound_ci_99": "2549666"
+      "lower_bound_ci_99": "2500000"
     },
     {
       "brand": "Toyota",
@@ -19919,6 +19919,16 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "1100000"
+    },
+    {
+      "brand": "Maserati",
+      "model": "Quattroporte",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3200000"
     }
   ]
 }
