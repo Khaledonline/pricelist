@@ -42182,7 +42182,7 @@
       "geol3": "Gesr Al Suez",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "1000000"
+      "lower_limit": "500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -42198,7 +42198,7 @@
       "geol3": "Gesr Al Suez",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "2000000"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Apartments for Sale",
