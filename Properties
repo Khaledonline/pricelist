@@ -22542,7 +22542,7 @@
       "geol3": "Shorouk City",
       "geol4": "Maadi View",
       "unit_type": "Apartment",
-      "lower_limit": "3500000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Villas For Sale",
@@ -46190,7 +46190,7 @@
       "geol3": "New Cairo",
       "geol4": "Unknown",
       "unit_type": "Pharmacy",
-      "lower_limit": "8000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -46198,7 +46198,7 @@
       "geol3": "New Cairo",
       "geol4": "Unknown",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "30000000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -48406,7 +48406,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Unknown",
       "unit_type": "Pharmacy",
-      "lower_limit": "4000000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -48430,7 +48430,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Unknown",
       "unit_type": "Retail",
-      "lower_limit": "2500000"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Villas For Sale",
@@ -48678,7 +48678,7 @@
       "geol3": "Shorouk City",
       "geol4": "Unknown",
       "unit_type": "Pharmacy",
-      "lower_limit": "10000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -48686,7 +48686,7 @@
       "geol3": "Shorouk City",
       "geol4": "Unknown",
       "unit_type": "Factory",
-      "lower_limit": "20000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -52628,7 +52628,7 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": " Celebration West Beach",
+      "geol4": "Celebration West Beach",
       "unit_type": "Apartment",
       "lower_limit": "4000000"
     },
@@ -52636,7 +52636,7 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": " Celebration West Beach",
+      "geol4": "Celebration West Beach",
       "unit_type": "Duplex",
       "lower_limit": "8000000"
     },
@@ -52644,7 +52644,7 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": " Celebration West Beach",
+      "geol4": "Celebration West Beach",
       "unit_type": "Chalet",
       "lower_limit": "4000000"
     },
@@ -52652,7 +52652,7 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": " Celebration West Beach",
+      "geol4": "Celebration West Beach",
       "unit_type": "Standalone Villa",
       "lower_limit": "15000000"
     },
@@ -52660,7 +52660,7 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": " Celebration West Beach",
+      "geol4": "Celebration West Beach",
       "unit_type": "Town House",
       "lower_limit": "15000000"
     },
@@ -52668,7 +52668,7 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": " Celebration West Beach",
+      "geol4": "Celebration West Beach",
       "unit_type": "Twin house",
       "lower_limit": "15000000"
     },
@@ -52812,7 +52812,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Diana Heights ",
+      "geol4": "Diana Heights",
       "unit_type": "Apartment",
       "lower_limit": "2500000"
     },
@@ -53004,7 +53004,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
-      "geol4": "Agora Mall ",
+      "geol4": "Agora Mall",
       "unit_type": "Office Space",
       "lower_limit": "4000000"
     },
@@ -53132,7 +53132,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": "Smart Village ",
+      "geol4": "Smart Village",
       "unit_type": "Office Space",
       "lower_limit": "5000000"
     },
@@ -53140,7 +53140,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": "Smart Village ",
+      "geol4": "Smart Village",
       "unit_type": "Full Commercial Building",
       "lower_limit": "100000000"
     },
@@ -53156,7 +53156,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "The Lark Residence ",
+      "geol4": "The Lark Residence",
       "unit_type": "Studio",
       "lower_limit": "3000000"
     },
@@ -53164,7 +53164,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "The Lark Residence ",
+      "geol4": "The Lark Residence",
       "unit_type": "Apartment",
       "lower_limit": "5000000"
     },
@@ -53172,7 +53172,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "The Lark Residence ",
+      "geol4": "The Lark Residence",
       "unit_type": "Penthouse",
       "lower_limit": "7000000"
     },
@@ -53180,7 +53180,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "The Lark Residence ",
+      "geol4": "The Lark Residence",
       "unit_type": "Duplex",
       "lower_limit": "7000000"
     },
