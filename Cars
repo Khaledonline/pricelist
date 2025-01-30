@@ -158,7 +158,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "32666"
+      "lower_bound_ci_99": "32000"
     },
     {
       "brand": "Fiat",
@@ -438,7 +438,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "47666"
+      "lower_bound_ci_99": "47500"
     },
     {
       "brand": "Fiat",
@@ -538,7 +538,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "50166"
+      "lower_bound_ci_99": "50166.6666666667"
     },
     {
       "brand": "Lada",
@@ -548,7 +548,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "52666"
+      "lower_bound_ci_99": "52500"
     },
     {
       "brand": "Fiat",
@@ -17188,7 +17188,7 @@
       "median_price": "2400000",
       "avg_price": "2685000",
       "upper_bound_ci_99": "3159468",
-      "lower_bound_ci_99": "2210532"
+      "lower_bound_ci_99": "2200000"
     },
     {
       "brand": "Mercedes-Benz",
@@ -17198,7 +17198,7 @@
       "median_price": "2400000",
       "avg_price": "2408113",
       "upper_bound_ci_99": "2525653",
-      "lower_bound_ci_99": "2211133"
+      "lower_bound_ci_99": "2200000"
     },
     {
       "brand": "BMW",
@@ -17208,17 +17208,17 @@
       "median_price": "2400000",
       "avg_price": "2403413",
       "upper_bound_ci_99": "2545085",
-      "lower_bound_ci_99": "2212121"
+      "lower_bound_ci_99": "2200000"
     },
     {
       "brand": "Mercedes-Benz",
       "model": "C180",
       "year": "2018",
       "listings_count": "159",
-      "median_price": "2350000",
+      "median_price": "2000000",
       "avg_price": "2352123",
       "upper_bound_ci_99": "2554543",
-      "lower_bound_ci_99": "2232633"
+      "lower_bound_ci_99": "2000000"
     },
     {
       "brand": "Audi",
@@ -20149,6 +20149,16 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "45000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Grandland",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1850000"
     }
   ]
 }
