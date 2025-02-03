@@ -11868,7 +11868,7 @@
       "median_price": "295000",
       "avg_price": "503493",
       "upper_bound_ci_99": "634710",
-      "lower_bound_ci_99": "800000"
+      "lower_bound_ci_99": "750000"
     },
     {
       "brand": "Volvo",
@@ -11908,7 +11908,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "800000"
+      "lower_bound_ci_99": "690000"
     },
     {
       "brand": "Hyundai",
@@ -18813,7 +18813,7 @@
     {
       "brand": "Jeep",
       "model": "Grand Cherokee",
-      "year": "20124",
+      "year": "2012",
       "listings_count": "0",
       "median_price": "0",
       "avg_price": "0",
@@ -19721,16 +19721,6 @@
       "lower_bound_ci_99": "500000"
     },
     {
-      "brand": "Mercedes-Benzr",
-      "model": "E200",
-      "year": "2025",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "5500000"
-    },
-    {
       "brand": "Mercedes-Benz",
       "model": "GLE-Classr",
       "year": "2022",
@@ -19859,16 +19849,6 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "1100000"
-    },
-    {
-      "brand": "Mercedes-Benzr",
-      "model": "E200",
-      "year": "2025",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "5500000"
     },
     {
       "brand": "Skoda",
@@ -20041,16 +20021,6 @@
       "lower_bound_ci_99": "1000000"
     },
     {
-      "brand": "Mercedes-Benzr",
-      "model": "E200",
-      "year": "2025",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "5800000"
-    },
-    {
       "brand": "Kia",
       "model": "Sportage",
       "year": "2025",
@@ -20069,16 +20039,6 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "1450000"
-    },
-    {
-      "brand": "Mercedes-Benzr",
-      "model": "GLC 300r",
-      "year": "2025",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "6150000"
     },
     {
       "brand": "Cadillac",
@@ -20709,6 +20669,256 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "3500000"
+    },
+    {
+      "brand": "Peugeot",
+      "model": "5008",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1150000"
+    },
+    {
+      "brand": "BMW",
+      "model": "X2",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1750000"
+    },
+    {
+      "brand": "Kia",
+      "model": "EV9",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2950000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "E200",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3850000"
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Optra",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "725000"
+    },
+    {
+      "brand": "MG",
+      "model": "MG 1",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1328500"
+    },
+    {
+      "brand": "Ssang Yong",
+      "model": "Torres",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1800000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "C200",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "4250000"
+    },
+    {
+      "brand": "BMW",
+      "model": "X1",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3150000"
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Pickup/Dababa",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1500000"
+    },
+    {
+      "brand": "Cupra",
+      "model": "Leon",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2050000"
+    },
+    {
+      "brand": "Geely",
+      "model": "Coolray",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1550000"
+    },
+    {
+      "brand": "Avatar",
+      "model": "11",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2600000"
+    },
+    {
+      "brand": "BYD",
+      "model": "Song Plus",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2000000"
+    },
+    {
+      "brand": "Citroen",
+      "model": "C5",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1850000"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Corolla",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1550000"
+    },
+    {
+      "brand": "MG",
+      "model": "MG 7",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1700000"
+    },
+    {
+      "brand": "Geely",
+      "model": "Starray",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1700000"
+    },
+    {
+      "brand": "Geely",
+      "model": "GX3 Pro",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "850000"
+    },
+    {
+      "brand": "Renault",
+      "model": "Duster",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1190000"
+    },
+    {
+      "brand": "Haval",
+      "model": "Jolion",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1150000"
+    },
+    {
+      "brand": "Peugeot",
+      "model": "2008",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1500000"
+    },
+    {
+      "brand": "Jac",
+      "model": "J7",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1150000"
+    },
+    {
+      "brand": "BMW",
+      "model": "X2",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3800000"
+    },
+    {
+      "brand": "Baic",
+      "model": "X5",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1390000"
     }
   ]
 }
