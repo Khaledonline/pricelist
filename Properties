@@ -7262,7 +7262,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Baymount",
       "unit_type": "Chalet",
-      "lower_limit": "4000000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -8134,7 +8134,7 @@
       "geol3": "New Cairo",
       "geol4": "Blue Tree Compound",
       "unit_type": "Studio",
-      "lower_limit": "2500000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -8142,7 +8142,7 @@
       "geol3": "New Cairo",
       "geol4": "Blue Tree Compound",
       "unit_type": "Apartment",
-      "lower_limit": "5000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -17702,7 +17702,7 @@
       "geol3": "New Cairo",
       "geol4": "Hyde Park New Cairo Compound",
       "unit_type": "Studio",
-      "lower_limit": "5000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -17710,7 +17710,7 @@
       "geol3": "New Cairo",
       "geol4": "Hyde Park New Cairo Compound",
       "unit_type": "Apartment",
-      "lower_limit": "7000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -27638,7 +27638,7 @@
       "geol3": "Mostakbal City",
       "geol4": "Nyoum Mostakbal City",
       "unit_type": "Town House",
-      "lower_limit": "5000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Villas For Sale",
@@ -27646,7 +27646,7 @@
       "geol3": "Mostakbal City",
       "geol4": "Nyoum Mostakbal City",
       "unit_type": "Twin House",
-      "lower_limit": "5000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27654,7 +27654,7 @@
       "geol3": "Mostakbal City",
       "geol4": "Nyoum Mostakbal City",
       "unit_type": "Duplex",
-      "lower_limit": "7000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -43665,6 +43665,14 @@
       "lower_limit": "5000000"
     },
     {
+      "cat": "Commercial for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Kafr Abdo",
+      "geol4": "Unknown",
+      "unit_type": "Garage",
+      "lower_limit": "350000"
+    },
+    {
       "cat": "Apartments for Sale",
       "geol2": "Alexandria",
       "geol3": "Kafr Abdo",
@@ -44318,7 +44326,7 @@
       "geol3": "Madinaty",
       "geol4": "Unknown",
       "unit_type": "Penthouse",
-      "lower_limit": "5000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -44326,7 +44334,7 @@
       "geol3": "Madinaty",
       "geol4": "Unknown",
       "unit_type": "Studio",
-      "lower_limit": "1000000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -44342,7 +44350,7 @@
       "geol3": "Madinaty",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "1800000"
+      "lower_limit": "3500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -44350,7 +44358,7 @@
       "geol3": "Madinaty",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "5000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -44374,7 +44382,7 @@
       "geol3": "Madinaty",
       "geol4": "Unknown",
       "unit_type": "Town House",
-      "lower_limit": "5000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -50734,7 +50742,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Village West Compound",
       "unit_type": "Studio",
-      "lower_limit": "4000000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -50742,7 +50750,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Village West Compound",
       "unit_type": "Apartment",
-      "lower_limit": "6000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Villas For Sale",
@@ -53999,6 +54007,286 @@
       "geol4": "Lake Dream",
       "unit_type": "Apartment",
       "lower_limit": "5000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Rawda",
+      "unit_type": "Town House",
+      "lower_limit": "15000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Rawda",
+      "unit_type": "Twin house",
+      "lower_limit": "15000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Rawda",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "18000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Damietta",
+      "geol3": "New Damietta",
+      "geol4": "Dar Misr",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mostakbal City",
+      "geol4": "Scenes",
+      "unit_type": "Apartment",
+      "lower_limit": "12000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Mostakbal City",
+      "geol4": "Scenes",
+      "unit_type": "Town House",
+      "lower_limit": "15000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Mostakbal City",
+      "geol4": "Scenes",
+      "unit_type": "Twin house",
+      "lower_limit": "15000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Mostakbal City",
+      "geol4": "Scenes",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "20000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Family Land",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Palencia",
+      "unit_type": "Studio",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Palencia",
+      "unit_type": "Apartment",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Dar Misr",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Smouha",
+      "geol4": "Grand Ville",
+      "unit_type": "Apartment",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Raml Station",
+      "geol4": "Latin District",
+      "unit_type": "Apartment",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Vida Residence",
+      "unit_type": "Studio",
+      "lower_limit": "1000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Vida Residence",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Crescent Walk",
+      "unit_type": "Studio",
+      "lower_limit": "7000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Crescent Walk",
+      "unit_type": "Apartment",
+      "lower_limit": "10000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Al Dyar Residence",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Al Dyar Residence",
+      "unit_type": "Penthouse",
+      "lower_limit": "6000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Al Dyar Residence",
+      "unit_type": "Duplex",
+      "lower_limit": "10000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Beta Residence",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Blanks",
+      "unit_type": "Studio",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Blanks",
+      "unit_type": "Apartment",
+      "lower_limit": "7000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Blanks",
+      "unit_type": "Penthouse",
+      "lower_limit": "9000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Borg al-Arab",
+      "geol4": "Dar Misr",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Lotus Compound",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Grand City",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Tiamo City",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Al Maadi",
+      "geol4": "Hayat Degla",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "El Patio Vida",
+      "unit_type": "Apartment",
+      "lower_limit": "9000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Damietta",
+      "geol3": "New Damietta",
+      "geol4": "Janna",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Rayhanah ",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "20000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "Italian district",
+      "unit_type": "Apartment",
+      "lower_limit": "20000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Kemet",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
     }
   ]
 }
