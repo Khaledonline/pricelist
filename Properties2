@@ -55615,6 +55615,33 @@
       "geol4": "Golden Tower",
       "unit_type": "Office Space",
       "lower_limit": "3000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "La Rosa",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "19000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "La Rosa",
+      "unit_type": "Town House",
+      "lower_limit": "19000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "La Rosa",
+      "unit_type": "Twin house",
+      "lower_limit": "19000000"
     }
   ]
 }
