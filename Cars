@@ -11,6 +11,16 @@
       "lower_bound_ci_99": "210000"
     },
     {
+      "brand": "Jeep",
+      "model": "Grand Cherokee",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1400000"
+    },
+    {
       "brand": "Chevrolet",
       "model": "Lanos",
       "year": "2011",
