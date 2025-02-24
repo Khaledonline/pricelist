@@ -23398,7 +23398,7 @@
       "geol3": "Heliopolis",
       "geol4": "Marriott Residence",
       "unit_type": "Studio",
-      "lower_limit": "1000000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -23406,7 +23406,7 @@
       "geol3": "Heliopolis",
       "geol4": "Marriott Residence",
       "unit_type": "Apartment",
-      "lower_limit": "1000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Villas For Sale",
@@ -23414,7 +23414,7 @@
       "geol3": "Heliopolis",
       "geol4": "Marriott Residence",
       "unit_type": "Town House",
-      "lower_limit": "3000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -23422,7 +23422,7 @@
       "geol3": "Heliopolis",
       "geol4": "Marriott Residence",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "10000000"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Villas For Sale",
@@ -23430,7 +23430,7 @@
       "geol3": "Heliopolis",
       "geol4": "Marriott Residence",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "6000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Apartments for Sale",
