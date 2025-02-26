@@ -27678,7 +27678,7 @@
       "geol3": "6th of October",
       "geol4": "Nyoum October Compound",
       "unit_type": "Retail",
-      "lower_limit": "1000000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27686,7 +27686,7 @@
       "geol3": "6th of October",
       "geol4": "Nyoum October Compound",
       "unit_type": "Studio",
-      "lower_limit": "1000000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -27702,7 +27702,7 @@
       "geol3": "6th of October",
       "geol4": "Nyoum October Compound",
       "unit_type": "Apartment",
-      "lower_limit": "2000000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27710,7 +27710,7 @@
       "geol3": "6th of October",
       "geol4": "Nyoum October Compound",
       "unit_type": "Duplex",
-      "lower_limit": "4000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -27718,7 +27718,7 @@
       "geol3": "6th of October",
       "geol4": "Nyoum October Compound",
       "unit_type": "Town House",
-      "lower_limit": "5000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Villas For Sale",
@@ -27726,7 +27726,7 @@
       "geol3": "6th of October",
       "geol4": "Nyoum October Compound",
       "unit_type": "Twin House",
-      "lower_limit": "5000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Villas For Sale",
@@ -27734,7 +27734,7 @@
       "geol3": "6th of October",
       "geol4": "Nyoum October Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "6000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Commercial for Sale",
