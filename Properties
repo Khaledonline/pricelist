@@ -54287,6 +54287,366 @@
       "geol4": "Kemet",
       "unit_type": "Apartment",
       "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "10th District",
+      "unit_type": "Studio",
+      "lower_limit": "800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "10th District",
+      "unit_type": "Apartment",
+      "lower_limit": "1000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "10th District",
+      "unit_type": "Duplex",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Beverly Hills",
+      "unit_type": "Town House",
+      "lower_limit": "18000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Beverly Hills",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "25000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Dar Misr",
+      "unit_type": "Apartment",
+      "lower_limit": "2600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Dijar",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Dijar",
+      "unit_type": "Penthouse",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Dijar",
+      "unit_type": "Town House",
+      "lower_limit": "7000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Nile Business City",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Green Residence",
+      "unit_type": "Apartment",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Green Residence",
+      "unit_type": "Duplex",
+      "lower_limit": "7000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Calma ",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Janna 2",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Genova",
+      "unit_type": "Apartment",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Elite West",
+      "unit_type": "Apartment",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Haram Life",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mostakbal City",
+      "geol4": "Mountain View",
+      "unit_type": "Apartment",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mostakbal City",
+      "geol4": "Mountain View",
+      "unit_type": "Duplex",
+      "lower_limit": "8000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Al Waha City",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Al Waha City",
+      "unit_type": "Duplex",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Rewaya",
+      "unit_type": "Apartment",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Rewaya",
+      "unit_type": "Duplex",
+      "lower_limit": "9000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Rewaya",
+      "unit_type": "Town House",
+      "lower_limit": "11000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Rewaya",
+      "unit_type": "Twin house",
+      "lower_limit": "11000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Jasmine",
+      "unit_type": "Apartment",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Jasmine",
+      "unit_type": "Duplex",
+      "lower_limit": "6000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Jasmine",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "15000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Golden Gates",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Golden Gates",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "8000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Dejoya 4",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": " Mall Top 90 ",
+      "unit_type": "Office Space",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Heliopolis",
+      "geol4": "Mall 6ixty",
+      "unit_type": "Office Space",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Mall Juno Plaza",
+      "unit_type": "Office Space",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Mall Juno Plaza",
+      "unit_type": "Clinic",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Mall Juno Plaza",
+      "unit_type": "Restaurant & Cafe",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Mall Juno Plaza",
+      "unit_type": "Retail",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Mall Spade Plaza",
+      "unit_type": "Retail",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Mall Spade Plaza",
+      "unit_type": "Office Space",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Mall Spade Plaza",
+      "unit_type": "Clinic",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Red Sea",
+      "geol3": "Hurghada",
+      "geol4": "Capital Dream",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": " Mall Allora hub",
+      "unit_type": "Retail",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": " Mall Allora hub",
+      "unit_type": "Office Space",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": " Mall Allora hub",
+      "unit_type": "Clinic",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Red Sea",
+      "geol3": "Hurghada",
+      "geol4": "Capital Dream",
+      "unit_type": "Town House",
+      "lower_limit": "3000000"
     }
   ]
 }
