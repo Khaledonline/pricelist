@@ -54647,6 +54647,14 @@
       "geol4": "Capital Dream",
       "unit_type": "Twin House",
       "lower_limit": "3000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Red Sea",
+      "geol3": "Hurghada",
+      "geol4": "Capital Dream",
+      "unit_type": "iVilla",
+      "lower_limit": "3000000"
     }
   ]
 }
