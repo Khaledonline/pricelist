@@ -9110,7 +9110,7 @@
       "geol3": "North Coast",
       "geol4": "Cali Coast",
       "unit_type": "Apartment",
-      "lower_limit": "500000"
+      "lower_limit": "600000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -9142,7 +9142,7 @@
       "geol3": "North Coast",
       "geol4": "Cali Coast",
       "unit_type": "Chalet",
-      "lower_limit": "500000"
+      "lower_limit": "600000"
     },
     {
       "cat": "Apartments for Sale",
@@ -21814,7 +21814,7 @@
       "geol3": "Alamein",
       "geol4": "Latin District",
       "unit_type": "Studio",
-      "lower_limit": "1500000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -25842,6 +25842,14 @@
     },
     {
       "cat": "Villas For Sale",
+      "geol2": "Alexandria",
+      "geol3": "tain view",
+      "geol4": "Unknown",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Villas For Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
       "geol4": "Mountain View LVLS",
@@ -27406,7 +27414,7 @@
       "geol3": "New Cairo",
       "geol4": "North Rehab",
       "unit_type": "Apartment",
-      "lower_limit": "2000000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -27414,7 +27422,7 @@
       "geol3": "New Cairo",
       "geol4": "North Rehab",
       "unit_type": "Studio",
-      "lower_limit": "1200000"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Apartments for Sale",
