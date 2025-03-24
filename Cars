@@ -4988,7 +4988,7 @@
       "median_price": "350000",
       "avg_price": "350889",
       "upper_bound_ci_99": "390316",
-      "lower_bound_ci_99": "333473"
+      "lower_bound_ci_99": "330000"
     },
     {
       "brand": "Renault",
@@ -12528,7 +12528,7 @@
       "median_price": "900000",
       "avg_price": "898452",
       "upper_bound_ci_99": "954298",
-      "lower_bound_ci_99": "860353"
+      "lower_bound_ci_99": "860000"
     },
     {
       "brand": "Renault",
@@ -12538,7 +12538,7 @@
       "median_price": "920000",
       "avg_price": "939582",
       "upper_bound_ci_99": "1099232",
-      "lower_bound_ci_99": "867591"
+      "lower_bound_ci_99": "860000"
     },
     {
       "brand": "Brilliance",
@@ -12998,7 +12998,7 @@
       "median_price": "930000",
       "avg_price": "963595",
       "upper_bound_ci_99": "1011823",
-      "lower_bound_ci_99": "917338"
+      "lower_bound_ci_99": "915000"
     },
     {
       "brand": "Audi",
@@ -13758,8 +13758,7 @@
       "median_price": "1250000",
       "avg_price": "1110357",
       "upper_bound_ci_99": "1218870",
-      "lower_bound_ci_99": "1000000
-"
+      "lower_bound_ci_99": "1000000"
     },
     {
       "brand": "Ford",
