@@ -4398,7 +4398,7 @@
       "median_price": "317500",
       "avg_price": "319490",
       "upper_bound_ci_99": "336343",
-      "lower_bound_ci_99": "309451"
+      "lower_bound_ci_99": "310000"
     },
     {
       "brand": "Suzuki",
@@ -4448,7 +4448,7 @@
       "median_price": "330000",
       "avg_price": "333800",
       "upper_bound_ci_99": "370340",
-      "lower_bound_ci_99": "311209"
+      "lower_bound_ci_99": "310000"
     },
     {
       "brand": "Hyundai",
@@ -4458,7 +4458,7 @@
       "median_price": "320000",
       "avg_price": "323686",
       "upper_bound_ci_99": "335270",
-      "lower_bound_ci_99": "311814"
+      "lower_bound_ci_99": "310000"
     },
     {
       "brand": "Daihatsu",
@@ -11058,7 +11058,7 @@
       "median_price": "810000",
       "avg_price": "817952",
       "upper_bound_ci_99": "835640",
-      "lower_bound_ci_99": "723057"
+      "lower_bound_ci_99": "720000"
     },
     {
       "brand": "Kia",
@@ -11858,7 +11858,7 @@
       "median_price": "800000",
       "avg_price": "826692",
       "upper_bound_ci_99": "867964",
-      "lower_bound_ci_99": "796733"
+      "lower_bound_ci_99": "795000"
     },
     {
       "brand": "Renault",
@@ -13738,7 +13738,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1000050"
+      "lower_bound_ci_99": "1000000"
     },
     {
       "brand": "Seat",
@@ -13748,7 +13748,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1000050"
+      "lower_bound_ci_99": "1000000"
     },
     {
       "brand": "Renault",
@@ -14188,7 +14188,7 @@
       "median_price": "1450000",
       "avg_price": "1254895",
       "upper_bound_ci_99": "1401569",
-      "lower_bound_ci_99": "1108221"
+      "lower_bound_ci_99": "1100000"
     },
     {
       "brand": "Honda",
