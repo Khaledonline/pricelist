@@ -78,7 +78,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "11th District",
       "unit_type": "Apartment",
-      "lower_limit": "1050000"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -6919,7 +6919,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
-      "geol5": "Azzar Compound",
+      "geol5": "rar",
       "unit_type": "Apartment",
       "lower_limit": "5000000"
     },
@@ -6930,7 +6930,7 @@
       "geol4": "5th Settlement",
       "geol5": "Azzar Compound",
       "unit_type": "Town House",
-      "lower_limit": "14000000"
+      "lower_limit": "11000000"
     },
     {
       "cat": "Villas For Sale",
@@ -6939,7 +6939,7 @@
       "geol4": "5th Settlement",
       "geol5": "Azzar Compound",
       "unit_type": "Twin House",
-      "lower_limit": "14000000"
+      "lower_limit": "11000000"
     },
     {
       "cat": "Villas For Sale",
@@ -6948,7 +6948,7 @@
       "geol4": "5th Settlement",
       "geol5": "Azzar Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "20000000"
+      "lower_limit": "11000000"
     },
     {
       "cat": "Villas For Sale",
@@ -11002,7 +11002,7 @@
       "geol4": "5th Settlement",
       "geol5": "Dar Misr",
       "unit_type": "Apartment",
-      "lower_limit": "2550000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
