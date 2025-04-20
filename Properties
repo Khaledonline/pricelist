@@ -44196,7 +44196,7 @@
       "geol3": "Heliopolis",
       "geol4": "Unknown",
       "unit_type": "Studio",
-      "lower_limit": "800000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -44244,7 +44244,7 @@
       "geol3": "Heliopolis",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "1000000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -44252,7 +44252,7 @@
       "geol3": "Heliopolis",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "3500000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Commercial for Sale",
