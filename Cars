@@ -14358,7 +14358,7 @@
       "median_price": "1650000",
       "avg_price": "1448539",
       "upper_bound_ci_99": "1724324",
-      "lower_bound_ci_99": "800000"
+      "lower_bound_ci_99": "1172755"
     },
     {
       "brand": "Opel",
@@ -21729,6 +21729,216 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "486000"
+    },
+    {
+      "brand": "BYD",
+      "model": "Tang",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2421000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "127",
+      "year": "1979",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "49500"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Yeti",
+      "year": "2014",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "731000"
+    },
+    {
+      "brand": "MINI",
+      "model": "Cooper s",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1755000"
+    },
+    {
+      "brand": "Audi",
+      "model": "Q7",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3628000"
+    },
+    {
+      "brand": "Volkswagen",
+      "model": "ID6",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1935000"
+    },
+    {
+      "brand": "BMW",
+      "model": "325",
+      "year": "2004",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "630000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "131",
+      "year": "1980",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "49500"
+    },
+    {
+      "brand": "Dodge",
+      "model": "Challenger",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "10800000"
+    },
+    {
+      "brand": "Volkswagen",
+      "model": "Golf",
+      "year": "1979",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "150000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "190",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3240000"
+    },
+    {
+      "brand": "BMW",
+      "model": "528",
+      "year": "2013",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1215000"
+    },
+    {
+      "brand": "Jac",
+      "model": "JS4",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "756000"
+    },
+    {
+      "brand": "Jetour",
+      "model": "T2",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1960000"
+    },
+    {
+      "brand": "Kia",
+      "model": "Sorento",
+      "year": "2013",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1170000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "Regata",
+      "year": "1985",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "62100"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "200",
+      "year": "1982",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "199000"
+    },
+    {
+      "brand": "Volvo",
+      "model": "S90",
+      "year": "2017",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1800000"
+    },
+    {
+      "brand": "Jaguar",
+      "model": "F-Pace",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "4725000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "C280",
+      "year": "2008",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "945000"
+    },
+    {
+      "brand": "Jetour",
+      "model": "T2",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1975000"
     }
   ]
 }
