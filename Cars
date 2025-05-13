@@ -11,46 +11,6 @@
       "lower_bound_ci_99": "210000"
     },
     {
-      "brand": "Fiat",
-      "model": "500X",
-      "year": "2024",
-      "listings_count": "29",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1050000"
-    },
-    {
-      "brand": "Baic",
-      "model": "X55",
-      "year": "2025",
-      "listings_count": "29",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1150000"
-    },
-    {
-      "brand": "BMW",
-      "model": "330",
-      "year": "2016",
-      "listings_count": "29",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1200000"
-    },
-    {
-      "brand": "Jeep",
-      "model": "Grand Cherokee",
-      "year": "2012",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1400000"
-    },
-    {
       "brand": "Chevrolet",
       "model": "Lanos",
       "year": "2011",
@@ -58,7 +18,7 @@
       "median_price": "270000",
       "avg_price": "269535",
       "upper_bound_ci_99": "1238734",
-      "lower_bound_ci_99": "170000"
+      "lower_bound_ci_99": "180000"
     },
     {
       "brand": "Lada",
@@ -4408,7 +4368,7 @@
       "median_price": "317500",
       "avg_price": "319490",
       "upper_bound_ci_99": "336343",
-      "lower_bound_ci_99": "310000"
+      "lower_bound_ci_99": "309451"
     },
     {
       "brand": "Suzuki",
@@ -4458,7 +4418,7 @@
       "median_price": "330000",
       "avg_price": "333800",
       "upper_bound_ci_99": "370340",
-      "lower_bound_ci_99": "310000"
+      "lower_bound_ci_99": "311209"
     },
     {
       "brand": "Hyundai",
@@ -4468,7 +4428,7 @@
       "median_price": "320000",
       "avg_price": "323686",
       "upper_bound_ci_99": "335270",
-      "lower_bound_ci_99": "310000"
+      "lower_bound_ci_99": "311814"
     },
     {
       "brand": "Daihatsu",
@@ -4998,7 +4958,7 @@
       "median_price": "350000",
       "avg_price": "350889",
       "upper_bound_ci_99": "390316",
-      "lower_bound_ci_99": "330000"
+      "lower_bound_ci_99": "333473"
     },
     {
       "brand": "Renault",
@@ -9458,7 +9418,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "590000"
+      "lower_bound_ci_99": "607000"
     },
     {
       "brand": "Volkswagen",
@@ -9918,7 +9878,7 @@
       "median_price": "695000",
       "avg_price": "699186",
       "upper_bound_ci_99": "725752",
-      "lower_bound_ci_99": "600000"
+      "lower_bound_ci_99": "638776"
     },
     {
       "brand": "Kia",
@@ -11068,7 +11028,7 @@
       "median_price": "810000",
       "avg_price": "817952",
       "upper_bound_ci_99": "835640",
-      "lower_bound_ci_99": "720000"
+      "lower_bound_ci_99": "723057"
     },
     {
       "brand": "Kia",
@@ -11098,7 +11058,7 @@
       "median_price": "750000",
       "avg_price": "751759",
       "upper_bound_ci_99": "785593",
-      "lower_bound_ci_99": "680000"
+      "lower_bound_ci_99": "724984"
     },
     {
       "brand": "JAC",
@@ -11728,7 +11688,7 @@
       "median_price": "822500",
       "avg_price": "825117",
       "upper_bound_ci_99": "847944",
-      "lower_bound_ci_99": "680000"
+      "lower_bound_ci_99": "784991"
     },
     {
       "brand": "Volkswagen",
@@ -11868,7 +11828,7 @@
       "median_price": "800000",
       "avg_price": "826692",
       "upper_bound_ci_99": "867964",
-      "lower_bound_ci_99": "795000"
+      "lower_bound_ci_99": "796733"
     },
     {
       "brand": "Renault",
@@ -11968,7 +11928,7 @@
       "median_price": "510000",
       "avg_price": "678400",
       "upper_bound_ci_99": "855177",
-      "lower_bound_ci_99": "700000"
+      "lower_bound_ci_99": "801623"
     },
     {
       "brand": "MG",
@@ -12538,7 +12498,7 @@
       "median_price": "900000",
       "avg_price": "898452",
       "upper_bound_ci_99": "954298",
-      "lower_bound_ci_99": "860000"
+      "lower_bound_ci_99": "860353"
     },
     {
       "brand": "Renault",
@@ -12548,7 +12508,7 @@
       "median_price": "920000",
       "avg_price": "939582",
       "upper_bound_ci_99": "1099232",
-      "lower_bound_ci_99": "860000"
+      "lower_bound_ci_99": "867591"
     },
     {
       "brand": "Brilliance",
@@ -12578,7 +12538,7 @@
       "median_price": "950000",
       "avg_price": "938706",
       "upper_bound_ci_99": "1080749",
-      "lower_bound_ci_99": "770000"
+      "lower_bound_ci_99": "870826"
     },
     {
       "brand": "Ford",
@@ -13008,7 +12968,7 @@
       "median_price": "930000",
       "avg_price": "963595",
       "upper_bound_ci_99": "1011823",
-      "lower_bound_ci_99": "915000"
+      "lower_bound_ci_99": "917338"
     },
     {
       "brand": "Audi",
@@ -13748,7 +13708,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1000000"
+      "lower_bound_ci_99": "1000050"
     },
     {
       "brand": "Seat",
@@ -13758,7 +13718,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1000000"
+      "lower_bound_ci_99": "1000050"
     },
     {
       "brand": "Renault",
@@ -14198,7 +14158,7 @@
       "median_price": "1450000",
       "avg_price": "1254895",
       "upper_bound_ci_99": "1401569",
-      "lower_bound_ci_99": "1100000"
+      "lower_bound_ci_99": "1108221"
     },
     {
       "brand": "Honda",
@@ -14398,7 +14358,7 @@
       "median_price": "1650000",
       "avg_price": "1448539",
       "upper_bound_ci_99": "1724324",
-      "lower_bound_ci_99": "1172755"
+      "lower_bound_ci_99": "800000"
     },
     {
       "brand": "Opel",
@@ -14978,7 +14938,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "900000"
+      "lower_bound_ci_99": "1300000"
     },
     {
       "brand": "Honda",
@@ -15598,7 +15558,7 @@
       "median_price": "1500000",
       "avg_price": "1513797",
       "upper_bound_ci_99": "1569525",
-      "lower_bound_ci_99": "1250000"
+      "lower_bound_ci_99": "1458909"
     },
     {
       "brand": "Mercedes-Benz",
@@ -16127,7 +16087,7 @@
       "listings_count": "0",
       "median_price": "0",
       "avg_price": "0",
-      "upper_bound_ci_99": "",
+      "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "1650000"
     },
     {
@@ -16778,7 +16738,7 @@
       "median_price": "2050000",
       "avg_price": "2061622",
       "upper_bound_ci_99": "2132482",
-      "lower_bound_ci_99": "1500000"
+      "lower_bound_ci_99": "1550000"
     },
     {
       "brand": "Peugeot",
@@ -19681,8 +19641,8 @@
       "lower_bound_ci_99": "650000"
     },
     {
-      "brand": "Land Rover",
-      "model": "Range Rover Sport",
+      "brand": "Land Rover\r",
+      "model": "Range Rover Sport\r",
       "year": "2014",
       "listings_count": "0",
       "median_price": "0",
@@ -19691,8 +19651,8 @@
       "lower_bound_ci_99": "3150000"
     },
     {
-      "brand": "Land Rover",
-      "model": "Range Rover Sport",
+      "brand": "Land Rover\r",
+      "model": "Range Rover Sport\r",
       "year": "2021",
       "listings_count": "0",
       "median_price": "0",
@@ -19711,7 +19671,7 @@
       "lower_bound_ci_99": "2000000"
     },
     {
-      "brand": "Mercedes-Benz",
+      "brand": "Mercedes-Benz\r",
       "model": "GLC 300",
       "year": "2025",
       "listings_count": "0",
@@ -19721,7 +19681,7 @@
       "lower_bound_ci_99": "6000000"
     },
     {
-      "brand": "Land Roverr",
+      "brand": "Land Rover\r",
       "model": "Range Rover Vogue",
       "year": "2021",
       "listings_count": "0",
@@ -19979,16 +19939,6 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "7000000"
-    },
-    {
-      "brand": "Audi",
-      "model": "Q8",
-      "year": "2022",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "4900000"
     },
     {
       "brand": "Haval",
@@ -21189,6 +21139,596 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "3350000"
+    },
+    {
+      "brand": "Kia",
+      "model": "Ceed",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "600000"
+    },
+    {
+      "brand": "Hyundai",
+      "model": "Avante",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1050000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Qashqai",
+      "year": "2015",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "700000"
+    },
+    {
+      "brand": "Kia",
+      "model": "Ceed",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "800000"
+    },
+    {
+      "brand": "Audi",
+      "model": "Q8",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "4900000"
+    },
+    {
+      "brand": "BMW",
+      "model": "330",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1200000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "500X",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1050000"
+    },
+    {
+      "brand": "Baic",
+      "model": "X55",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1150000"
+    },
+    {
+      "brand": "BYD",
+      "model": "Seal",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2000000"
+    },
+    {
+      "brand": "Peugeot",
+      "model": "408",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1400000"
+    },
+    {
+      "brand": "Suzuki",
+      "model": "S-Presso\r",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "300000"
+    },
+    {
+      "brand": "Jeep",
+      "model": "Cherokee\r",
+      "year": "1997",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "220000"
+    },
+    {
+      "brand": "MG",
+      "model": "MG 6\r",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "800000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Ibiza",
+      "year": "1994",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "170000"
+    },
+    {
+      "brand": "BMW",
+      "model": "I3",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2250000"
+    },
+    {
+      "brand": "Mercedes-Benz\r",
+      "model": "EQA 260\r",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2350000"
+    },
+    {
+      "brand": "Mercedes-Benz\r",
+      "model": "EQE 500\r",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "4100000"
+    },
+    {
+      "brand": "Honda",
+      "model": "City",
+      "year": "2006",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "350000"
+    },
+    {
+      "brand": "Mercedes-Benz\r",
+      "model": "C200",
+      "year": "2004",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "700000"
+    },
+    {
+      "brand": "Audi",
+      "model": "Q7",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2600000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "131",
+      "year": "1976",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "35000"
+    },
+    {
+      "brand": "Brilliance",
+      "model": "Galena",
+      "year": "2009",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "300000"
+    },
+    {
+      "brand": "Peugeot",
+      "model": "207",
+      "year": "2007",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "265000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Roomster",
+      "year": "2008",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "335000"
+    },
+    {
+      "brand": "MG",
+      "model": "MG 6",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "800000"
+    },
+    {
+      "brand": "Lada",
+      "model": "1500",
+      "year": "1992",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "50000"
+    },
+    {
+      "brand": "Baic",
+      "model": "U5 Plus\r",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "950000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "Viano",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "5980000"
+    },
+    {
+      "brand": "Bentley",
+      "model": "Continental",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "15000000"
+    },
+    {
+      "brand": "Subaru",
+      "model": "Impreza",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "600000"
+    },
+    {
+      "brand": "Suzuki",
+      "model": "Alto",
+      "year": "2013",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "180000"
+    },
+    {
+      "brand": "Mercedes-Benz\r",
+      "model": "B200",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2000000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "G63",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "18280000"
+    },
+    {
+      "brand": "Jac",
+      "model": "S2",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "382500"
+    },
+    {
+      "brand": "MINI",
+      "model": "Cooper",
+      "year": "2015",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "810000"
+    },
+    {
+      "brand": "Jac",
+      "model": "S7",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "810000"
+    },
+    {
+      "brand": "Audi",
+      "model": "A5",
+      "year": "2013",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "900000"
+    },
+    {
+      "brand": "Jeep",
+      "model": "Wrangler",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1665000"
+    },
+    {
+      "brand": "BMW",
+      "model": "528",
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1413000"
+    },
+    {
+      "brand": "Ford",
+      "model": "Fiesta",
+      "year": "2014",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "414000"
+    },
+    {
+      "brand": "Volvo",
+      "model": "V 60",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1642500"
+    },
+    {
+      "brand": "Citroen",
+      "model": "C-Elysée",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "675000"
+    },
+    {
+      "brand": "Peugeot",
+      "model": "206",
+      "year": "2001",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "252000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "E180",
+      "year": "2017",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2295000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "E200",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "5085000"
+    },
+    {
+      "brand": "Baic",
+      "model": "U5 Plus",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "810000"
+    },
+    {
+      "brand": "Jeep",
+      "model": "Liberty",
+      "year": "2006",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "468000"
+    },
+    {
+      "brand": "BMW",
+      "model": "116",
+      "year": "2008",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "648000"
+    },
+    {
+      "brand": "BMW",
+      "model": "335",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1890000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "E180",
+      "year": "2017",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2295000"
+    },
+    {
+      "brand": "Audi",
+      "model": "Q8",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "5265000"
+    },
+    {
+      "brand": "Peugeot",
+      "model": "405",
+      "year": "2004",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "160000"
+    },
+    {
+      "brand": "Proton",
+      "model": "Saga",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "680000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "Linea",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "310000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Qashqai",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1251000"
+    },
+    {
+      "brand": "Jeep",
+      "model": "Renegade",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "750000"
+    },
+    {
+      "brand": "Citroen",
+      "model": "C4 Grand Picasso",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "990000"
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "Giulietta",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "945000"
+    },
+    {
+      "brand": "Citroen",
+      "model": "C-Elysée",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "486000"
     }
   ]
 }
