@@ -4488,7 +4488,7 @@
       "geol4": "5th Settlement",
       "geol5": "Al Narges",
       "unit_type": "Apartment",
-      "lower_limit": "3000000"
+      "lower_limit": "el"
     },
     {
       "cat": "Apartments for Sale",
@@ -4497,7 +4497,7 @@
       "geol4": "5th Settlement",
       "geol5": "Al Narges",
       "unit_type": "Penthouse",
-      "lower_limit": "3500000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Villas For Sale",
@@ -49620,7 +49620,7 @@
       "geol3": "Sheraton",
       "geol4": "Unknown",
       "unit_type": "Penthouse",
-      "lower_limit": "3000000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -49628,7 +49628,7 @@
       "geol3": "Sheraton",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "2000000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -53829,7 +53829,7 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": " Celebration West Beach",
+      "geol4": "Celebration West Beach",
       "unit_type": "Apartment",
       "lower_limit": "4000000"
     },
@@ -53837,7 +53837,7 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": " Celebration West Beach",
+      "geol4": "Celebration West Beach",
       "unit_type": "Duplex",
       "lower_limit": "8000000"
     },
@@ -53845,7 +53845,7 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": " Celebration West Beach",
+      "geol4": "Celebration West Beach",
       "unit_type": "Chalet",
       "lower_limit": "4000000"
     },
@@ -53853,7 +53853,7 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": " Celebration West Beach",
+      "geol4": "Celebration West Beach",
       "unit_type": "Standalone Villa",
       "lower_limit": "15000000"
     },
@@ -53861,7 +53861,7 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": " Celebration West Beach",
+      "geol4": "Celebration West Beach",
       "unit_type": "Town House",
       "lower_limit": "15000000"
     },
@@ -53869,7 +53869,7 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": " Celebration West Beach",
+      "geol4": "Celebration West Beach",
       "unit_type": "Twin house",
       "lower_limit": "15000000"
     },
@@ -54024,7 +54024,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Diana Heights ",
+      "geol4": "Diana Heights",
       "unit_type": "Apartment",
       "lower_limit": "2500000"
     },
@@ -54222,7 +54222,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
-      "geol4": "Agora Mall ",
+      "geol4": "Agora Mall",
       "unit_type": "Office Space",
       "lower_limit": "4000000"
     },
@@ -54350,7 +54350,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": "Smart Village ",
+      "geol4": "Smart Village",
       "unit_type": "Office Space",
       "lower_limit": "5000000"
     },
@@ -54358,7 +54358,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": "Smart Village ",
+      "geol4": "Smart Village",
       "unit_type": "Full Commercial Building",
       "lower_limit": "100000000"
     },
@@ -54374,7 +54374,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "The Lark Residence ",
+      "geol4": "The Lark Residence",
       "unit_type": "Studio",
       "lower_limit": "3000000"
     },
@@ -54382,7 +54382,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "The Lark Residence ",
+      "geol4": "The Lark Residence",
       "unit_type": "Apartment",
       "lower_limit": "4000000"
     },
@@ -54390,7 +54390,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "The Lark Residence ",
+      "geol4": "The Lark Residence",
       "unit_type": "Penthouse",
       "lower_limit": "7000000"
     },
@@ -54398,7 +54398,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "The Lark Residence ",
+      "geol4": "The Lark Residence",
       "unit_type": "Duplex",
       "lower_limit": "7000000"
     },
@@ -55638,7 +55638,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Hadayek October",
-      "geol4": "Calma ",
+      "geol4": "Calma",
       "unit_type": "Apartment",
       "lower_limit": "3000000"
     },
@@ -55790,7 +55790,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": " Mall Top 90",
+      "geol4": "Mall Top 90",
       "unit_type": "Office Space",
       "lower_limit": "5000000"
     },
@@ -55878,7 +55878,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
-      "geol4": " Mall Allora hub",
+      "geol4": "Mall Allora hub",
       "unit_type": "Retail",
       "lower_limit": "3000000"
     },
@@ -55886,7 +55886,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
-      "geol4": " Mall Allora hub",
+      "geol4": "Mall Allora hub",
       "unit_type": "Office Space",
       "lower_limit": "3000000"
     },
@@ -55894,7 +55894,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
-      "geol4": " Mall Allora hub",
+      "geol4": "Mall Allora hub",
       "unit_type": "Clinic",
       "lower_limit": "4000000"
     },
@@ -56060,7 +56060,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": " Red Sea",
+      "geol2": "Red Sea",
       "geol3": "Gouna",
       "geol4": "Water Side",
       "unit_type": "Apartment",
@@ -56068,7 +56068,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": " Red Sea",
+      "geol2": "Red Sea",
       "geol3": "Gouna",
       "geol4": "Water Side",
       "unit_type": "Chalet",
@@ -56076,7 +56076,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": " Red Sea",
+      "geol2": "Red Sea",
       "geol3": "Gouna",
       "geol4": "Water Side",
       "unit_type": "Penthouse",
@@ -56446,7 +56446,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Nasr City",
-      "geol4": "True",
+      "geol4": true,
       "unit_type": "Apartment",
       "lower_limit": "2000000"
     },
@@ -56689,6 +56689,238 @@
       "geol4": "Centro Mall",
       "unit_type": "Clinic",
       "lower_limit": "6000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "La Vida",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "12000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "La Vida",
+      "unit_type": "Twin house",
+      "lower_limit": "12000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Downtown Mall",
+      "unit_type": "Retail",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Downtown Mall",
+      "unit_type": "Clinic",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "The Gryd",
+      "unit_type": "Clinic",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "The Gryd",
+      "unit_type": "Office Space",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "The Gryd",
+      "unit_type": "Restaurant & Cafe",
+      "lower_limit": "9000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "West Days",
+      "unit_type": "Apartment",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Hurghada",
+      "geol4": "Biscay",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Palm Villa",
+      "unit_type": "Apartment",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Palm Villa",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "12000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Palm Villa",
+      "unit_type": "Twin house",
+      "lower_limit": "8000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Ramatan",
+      "unit_type": "Apartment",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "El Shorouk Resort",
+      "unit_type": "Twin house",
+      "lower_limit": "8000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Al Mostathmir El Saghir",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Mirage Resort",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo University Compound",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Roudy",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "10000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Roudy",
+      "unit_type": "Twin house",
+      "lower_limit": "10000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Diplo East",
+      "unit_type": "Apartment",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5A",
+      "unit_type": "Clinic",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Gül Residence",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "New Maryland",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "20000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Silva",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Bahja",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Celesta Uptown",
+      "unit_type": "Apartment",
+      "lower_limit": "18000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Celesta Uptown",
+      "unit_type": "Town House",
+      "lower_limit": "25000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Celesta Uptown",
+      "unit_type": "Twin house",
+      "lower_limit": "25000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Celesta Uptown",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "30000000"
     }
   ]
 }
