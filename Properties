@@ -56977,6 +56977,14 @@
       "geol4": "Makany Mall",
       "unit_type": "Retail",
       "lower_limit": "2000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Lake West 4",
+      "unit_type": "Town House",
+      "lower_limit": "12000000"
     }
   ]
 }
