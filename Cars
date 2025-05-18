@@ -21,16 +21,6 @@
       "lower_bound_ci_99": "180000"
     },
     {
-      "brand": "Jetour",
-      "model": "T2",
-      "year": "2025",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1975000"
-    },
-    {
       "brand": "Lada",
       "model": "2105",
       "year": "1983",
@@ -7398,7 +7388,7 @@
       "median_price": "700000",
       "avg_price": "711518",
       "upper_bound_ci_99": "1444901",
-      "lower_bound_ci_99": "492858"
+      "lower_bound_ci_99": "700000"
     },
     {
       "brand": "Chevrolet",
@@ -23119,6 +23109,156 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "477000"
+    },
+    {
+      "brand": "Jetour",
+      "model": "T2",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1975000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "CLA 200",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3240000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Grandland",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1777500"
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Optra",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "729000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Sunny",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "621000"
+    },
+    {
+      "brand": "Peugeot",
+      "model": "5008",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2407500"
+    },
+    {
+      "brand": "Land Rover",
+      "model": "Evoque",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2970000"
+    },
+    {
+      "brand": "Senova",
+      "model": "A1",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "270000"
+    },
+    {
+      "brand": "Jeep",
+      "model": "Wrangler",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1327500"
+    },
+    {
+      "brand": "BMW",
+      "model": "340",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "4950000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "131",
+      "year": "1983",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "58500"
+    },
+    {
+      "brand": "Saipa",
+      "model": "Tiba",
+      "year": "2014",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "207000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "E200",
+      "year": "2013",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1710000"
+    },
+    {
+      "brand": "Chery",
+      "model": "Envy",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "333000"
+    },
+    {
+      "brand": "Renault",
+      "model": "9",
+      "year": "1990",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "65000"
     }
   ]
 }
