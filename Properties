@@ -54824,6 +54824,14 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Mountain View 4",
+      "unit_type": "Town house",
+      "lower_limit": "10000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Mountain View 4",
       "unit_type": "Duplex",
       "lower_limit": "8000000"
     },
