@@ -21,6 +21,16 @@
       "lower_bound_ci_99": "180000"
     },
     {
+      "brand": "Peugeot",
+      "model": "308",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "430000"
+    },
+    {
       "brand": "Lada",
       "model": "2105",
       "year": "1983",
