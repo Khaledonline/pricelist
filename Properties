@@ -1490,7 +1490,7 @@
       "geol3": "North Coast",
       "geol4": "La Jolie",
       "unit_type": "Chalet",
-      "lower_limit": "8000000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -1498,7 +1498,7 @@
       "geol3": "North Coast",
       "geol4": "La Jolie",
       "unit_type": "Apartment",
-      "lower_limit": "8000000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -1506,7 +1506,7 @@
       "geol3": "North Coast",
       "geol4": "La Jolie",
       "unit_type": "Standalone Villa",
-      "lower_limit": "15000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -54824,16 +54824,16 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Mountain View 4",
-      "unit_type": "Town House",
-      "lower_limit": "10000000"
+      "unit_type": "Duplex",
+      "lower_limit": "8000000"
     },
     {
-      "cat": "Apartments for Sale",
+      "cat": "Villas For Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Mountain View 4",
-      "unit_type": "Duplex",
-      "lower_limit": "8000000"
+      "unit_type": "Town House",
+      "lower_limit": "9000000"
     },
     {
       "cat": "Apartments for Sale",
