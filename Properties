@@ -22459,7 +22459,7 @@
       "geol3": "Alamein",
       "geol4": "Latin District",
       "unit_type": "Studio",
-      "lower_limit": "1500000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -22475,7 +22475,7 @@
       "geol3": "Alamein",
       "geol4": "Latin District",
       "unit_type": "Chalet",
-      "lower_limit": "1500000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -22483,7 +22483,7 @@
       "geol3": "Alamein",
       "geol4": "Latin District",
       "unit_type": "Apartment",
-      "lower_limit": "2000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -22491,7 +22491,7 @@
       "geol3": "Alamein",
       "geol4": "Latin District",
       "unit_type": "Studio",
-      "lower_limit": "1500000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -22507,7 +22507,7 @@
       "geol3": "Alamein",
       "geol4": "Latin District",
       "unit_type": "Duplex",
-      "lower_limit": "4000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -22547,7 +22547,7 @@
       "geol3": "North Coast",
       "geol4": "Latin District",
       "unit_type": "Studio",
-      "lower_limit": "2000000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -22555,7 +22555,7 @@
       "geol3": "North Coast",
       "geol4": "Latin District",
       "unit_type": "Apartment",
-      "lower_limit": "4000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -22563,7 +22563,7 @@
       "geol3": "North Coast",
       "geol4": "Latin District",
       "unit_type": "Chalet",
-      "lower_limit": "1500000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -22571,7 +22571,7 @@
       "geol3": "North Coast",
       "geol4": "Latin District",
       "unit_type": "Studio",
-      "lower_limit": "1500000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -36781,7 +36781,7 @@
       "geol3": "Katameya",
       "geol4": "Stone Residence",
       "unit_type": "Studio",
-      "lower_limit": "1000000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -36789,7 +36789,7 @@
       "geol3": "Katameya",
       "geol4": "Stone Residence",
       "unit_type": "Penthouse",
-      "lower_limit": "3000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -36805,7 +36805,7 @@
       "geol3": "Katameya",
       "geol4": "Stone Residence",
       "unit_type": "Apartment",
-      "lower_limit": "2000000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -36814,7 +36814,7 @@
       "geol4": "Katameya",
       "geol5": "Stone Residence Compound",
       "unit_type": "Studio",
-      "lower_limit": "1000000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -36823,7 +36823,7 @@
       "geol4": "Katameya",
       "geol5": "Stone Residence Compound",
       "unit_type": "Apartment",
-      "lower_limit": "2000000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -36832,7 +36832,7 @@
       "geol4": "Katameya",
       "geol5": "Stone Residence Compound",
       "unit_type": "Duplex",
-      "lower_limit": "4000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Apartments for Sale",
