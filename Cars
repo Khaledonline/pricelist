@@ -20231,16 +20231,6 @@
       "lower_bound_ci_99": "200000"
     },
     {
-      "brand": "HAVAL",
-      "model": "H6",
-      "year": "2025",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1000000"
-    },
-    {
       "brand": "Kia",
       "model": "Xceed",
       "year": "2025",
@@ -23879,6 +23869,136 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "1845000"
+    },
+    {
+      "brand": "Audi",
+      "model": "Q3",
+      "year": "2015",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "900000"
+    },
+    {
+      "brand": "Renault",
+      "model": "Kardian",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "970000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "1300",
+      "year": "1996",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "11700"
+    },
+    {
+      "brand": "BMW",
+      "model": "X7",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "7380000"
+    },
+    {
+      "brand": "MINI",
+      "model": "Countryman S",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1687500"
+    },
+    {
+      "brand": "Jeep",
+      "model": "Liberty",
+      "year": "2007",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "571500"
+    },
+    {
+      "brand": "Haval",
+      "model": "H6",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1450000"
+    },
+    {
+      "brand": "MG",
+      "model": "RX5",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1035000"
+    },
+    {
+      "brand": "Peugeot",
+      "model": "405",
+      "year": "1995",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "162000"
+    },
+    {
+      "brand": "Cupra",
+      "model": "Terramar",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2520000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Crossland",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "922500"
+    },
+    {
+      "brand": "Jeep",
+      "model": "Cherokee",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2790000"
+    },
+    {
+      "brand": "Lexus",
+      "model": "LX",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "12600000"
     }
   ]
 }
