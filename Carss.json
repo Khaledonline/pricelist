@@ -4181,7 +4181,7 @@
       "lower_bound_ci_99": "300000"
     },
     {
-      "brand": "JAC",
+      "brand": "Jac",
       "model": "S3",
       "year": "2012",
       "listings_count": "0",
@@ -5811,7 +5811,7 @@
       "lower_bound_ci_99": "395000"
     },
     {
-      "brand": "JAC",
+      "brand": "Jac",
       "model": "S3",
       "year": "2015",
       "listings_count": "0",
@@ -5941,7 +5941,7 @@
       "lower_bound_ci_99": "400000"
     },
     {
-      "brand": "JAC",
+      "brand": "Jac",
       "model": "S2",
       "year": "2017",
       "listings_count": "0",
@@ -6571,7 +6571,7 @@
       "lower_bound_ci_99": "440000"
     },
     {
-      "brand": "JAC",
+      "brand": "Jac",
       "model": "S2",
       "year": "2016",
       "listings_count": "0",
@@ -7131,7 +7131,7 @@
       "lower_bound_ci_99": "475000"
     },
     {
-      "brand": "JAC",
+      "brand": "Jac",
       "model": "S2",
       "year": "2019",
       "listings_count": "0",
@@ -7271,7 +7271,7 @@
       "lower_bound_ci_99": "483000"
     },
     {
-      "brand": "JAC",
+      "brand": "Jac",
       "model": "S2",
       "year": "2018",
       "listings_count": "0",
@@ -8031,7 +8031,7 @@
       "lower_bound_ci_99": "543000"
     },
     {
-      "brand": "JAC",
+      "brand": "Jac",
       "model": "S3",
       "year": "2019",
       "listings_count": "0",
@@ -8491,7 +8491,7 @@
       "lower_bound_ci_99": "570000"
     },
     {
-      "brand": "JAC",
+      "brand": "Jac",
       "model": "JS3",
       "year": "2019",
       "listings_count": "0",
@@ -9441,7 +9441,7 @@
       "lower_bound_ci_99": "630000"
     },
     {
-      "brand": "JAC",
+      "brand": "Jac",
       "model": "JS3",
       "year": "2016",
       "listings_count": "0",
@@ -10241,7 +10241,7 @@
       "lower_bound_ci_99": "690000"
     },
     {
-      "brand": "JAC",
+      "brand": "Jac",
       "model": "JS3",
       "year": "2022",
       "listings_count": "0",
@@ -10591,7 +10591,7 @@
       "lower_bound_ci_99": "730000"
     },
     {
-      "brand": "JAC",
+      "brand": "Jac",
       "model": "S4",
       "year": "2020",
       "listings_count": "0",
@@ -10691,7 +10691,7 @@
       "lower_bound_ci_99": "724984"
     },
     {
-      "brand": "JAC",
+      "brand": "Jac",
       "model": "JS4",
       "year": "2022",
       "listings_count": "0",
@@ -10871,7 +10871,7 @@
       "lower_bound_ci_99": "740000"
     },
     {
-      "brand": "JAC",
+      "brand": "Jac",
       "model": "S4",
       "year": "2021",
       "listings_count": "0",
@@ -10991,7 +10991,7 @@
       "lower_bound_ci_99": "750000"
     },
     {
-      "brand": "JAC",
+      "brand": "Jac",
       "model": "JS4",
       "year": "2021",
       "listings_count": "0",
@@ -11211,7 +11211,7 @@
       "lower_bound_ci_99": "400000"
     },
     {
-      "brand": "JAC",
+      "brand": "Jac",
       "model": "JS3",
       "year": "2021",
       "listings_count": "0",
@@ -11221,7 +11221,7 @@
       "lower_bound_ci_99": "780000"
     },
     {
-      "brand": "JAC",
+      "brand": "Jac",
       "model": "S3",
       "year": "2022",
       "listings_count": "0",
@@ -11731,7 +11731,7 @@
       "lower_bound_ci_99": "825000"
     },
     {
-      "brand": "JAC",
+      "brand": "Jac",
       "model": "J7",
       "year": "2023",
       "listings_count": "0",
@@ -12441,7 +12441,7 @@
       "lower_bound_ci_99": "900000"
     },
     {
-      "brand": "JAC",
+      "brand": "Jac",
       "model": "J7",
       "year": "2024",
       "listings_count": "0",
@@ -12791,7 +12791,7 @@
       "lower_bound_ci_99": "950000"
     },
     {
-      "brand": "JAC",
+      "brand": "Jac",
       "model": "JS4",
       "year": "2023",
       "listings_count": "0",
@@ -12801,7 +12801,7 @@
       "lower_bound_ci_99": "950000"
     },
     {
-      "brand": "JAC",
+      "brand": "Jac",
       "model": "JS4",
       "year": "2024",
       "listings_count": "0",
@@ -13021,7 +13021,7 @@
       "lower_bound_ci_99": "987746"
     },
     {
-      "brand": "JAC",
+      "brand": "Jac",
       "model": "JS3",
       "year": "2024",
       "listings_count": "0",
@@ -15139,16 +15139,6 @@
       "avg_price": "1635730",
       "upper_bound_ci_99": "1896906",
       "lower_bound_ci_99": "1510557"
-    },
-    {
-      "brand": "Seat",
-      "model": "Leon",
-      "year": "2022",
-      "listings_count": "34",
-      "median_price": "1615000",
-      "avg_price": "1582353",
-      "upper_bound_ci_99": "1704432",
-      "lower_bound_ci_99": "1512711"
     },
     {
       "brand": "BMW",
@@ -23999,6 +23989,206 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "12600000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Favorit",
+      "year": "1994",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "135000"
+    },
+    {
+      "brand": "Honda",
+      "model": "Accord",
+      "year": "1997",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "351000"
+    },
+    {
+      "brand": "Kia",
+      "model": "Mohave",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "990000"
+    },
+    {
+      "brand": "Hyundai",
+      "model": "H1",
+      "year": "2009",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "382500"
+    },
+    {
+      "brand": "Audi",
+      "model": "Q8",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "4230000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "132",
+      "year": "1975",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "49500"
+    },
+    {
+      "brand": "Audi",
+      "model": "Q2",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "990000"
+    },
+    {
+      "brand": "Citroen",
+      "model": "C4 Grand Picasso",
+      "year": "2013",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "495000"
+    },
+    {
+      "brand": "Porsche",
+      "model": "Macan",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "5430000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "128",
+      "year": "1977",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "36000"
+    },
+    {
+      "brand": "Renault",
+      "model": "Duster",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1260000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "CLA 180",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1980000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Leon",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1336500"
+    },
+    {
+      "brand": "Dodge",
+      "model": "Ram",
+      "year": "2006",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1890000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "GL-Class",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2880000"
+    },
+    {
+      "brand": "Jaguar",
+      "model": "F-Pace",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1890000"
+    },
+    {
+      "brand": "Geely",
+      "model": "Pandido",
+      "year": "2015",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "252000"
+    },
+    {
+      "brand": "Jeep",
+      "model": "SRT8",
+      "year": "2013",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1665000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "E300",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2385000"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Corona",
+      "year": "1982",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "67500"
     }
   ]
 }
