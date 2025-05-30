@@ -8128,7 +8128,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "450000"
+      "lower_bound_ci_99": "550000"
     },
     {
       "brand": "Toyota",
@@ -17438,7 +17438,7 @@
       "median_price": "3250000",
       "avg_price": "3223673",
       "upper_bound_ci_99": "3350231",
-      "lower_bound_ci_99": "2300000"
+      "lower_bound_ci_99": "3066828"
     },
     {
       "brand": "Mercedes-Benz",
@@ -23888,7 +23888,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "100000"
+      "lower_bound_ci_99": "90000"
     },
     {
       "brand": "BMW",
@@ -24679,6 +24679,46 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "1215000"
+    },
+    {
+      "brand": "MINI",
+      "model": "Countryman",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2450000"
+    },
+    {
+      "brand": "Audi",
+      "model": "A1",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "20000"
+    },
+    {
+      "brand": "Ssang Yong",
+      "model": "Tivoli",
+      "year": "2017",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "850000"
+    },
+    {
+      "brand": "Chrysler",
+      "model": "Neon",
+      "year": "1997",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "125000"
     }
   ]
 }
