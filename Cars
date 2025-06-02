@@ -24993,7 +24993,7 @@
     {
       "brand": "Fiat",
       "model": "128",
-      "year": "2025",
+      "year": "1972",
       "listings_count": "0",
       "median_price": "0",
       "avg_price": "0",
@@ -25139,6 +25139,56 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "2050000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Vectra",
+      "year": "1994",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "171000"
+    },
+    {
+      "brand": "GMC",
+      "model": "Hummer EV",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "4950000"
+    },
+    {
+      "brand": "Renault",
+      "model": "Twizy",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "310500"
+    },
+    {
+      "brand": "Kia",
+      "model": "Cerato",
+      "year": "2006",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "472500"
+    },
+    {
+      "brand": "Suzuki",
+      "model": "Alto",
+      "year": "2006",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "378000"
     }
   ]
 }
