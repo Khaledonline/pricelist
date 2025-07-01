@@ -318,7 +318,7 @@
       "geol3": "6th of October",
       "geol4": "1st District",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "7000000"
+      "lower_limit": "ب7,000,000"
     },
     {
       "cat": "Commercial for Sale",
@@ -12852,7 +12852,7 @@
       "geol3": "New Capital City",
       "geol4": "Al Maqsad",
       "unit_type": "Apartment",
-      "lower_limit": "2500000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -25211,7 +25211,7 @@
       "geol3": "Zahraa Al Maadi",
       "geol4": "Italian district",
       "unit_type": "Apartment",
-      "lower_limit": "20000000"
+      "lower_limit": "2500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -26262,7 +26262,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Karma Kay Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "3500000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -26270,7 +26270,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Karma Kay Compound",
       "unit_type": "Studio",
-      "lower_limit": "1500000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -26278,7 +26278,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Karma Kay Compound",
       "unit_type": "Duplex",
-      "lower_limit": "3500000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -26286,7 +26286,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Karma Kay Compound",
       "unit_type": "Apartment",
-      "lower_limit": "2500000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -57569,6 +57569,248 @@
       "geol4": "Hadayek Al Mohandessin",
       "unit_type": "Apartment",
       "lower_limit": "2000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "Bella Marina",
+      "unit_type": "Chalet",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "Bella Marina",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "6000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Hammam",
+      "geol5": "Caribbean",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Hammam",
+      "geol5": "Caribbean",
+      "unit_type": "Chalet",
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Hammam",
+      "geol5": "Ondixa",
+      "unit_type": "Chalet",
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Hammam",
+      "geol5": "Ondixa",
+      "unit_type": "Studio",
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Orchidia",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "7000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matrouh",
+      "geol3": "Alamein",
+      "geol4": "ELO Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matrouh",
+      "geol3": "Marsa Matrouh",
+      "geol4": "Bahya",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matrouh",
+      "geol3": "Marsa Matrouh",
+      "geol4": "Grand Beausite",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "North Coast",
+      "geol3": "Alamein",
+      "geol4": "Marina",
+      "geol5": "Marina West",
+      "unit_type": "Chalet",
+      "lower_limit": "10000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "North Coast",
+      "geol3": "Alamein",
+      "geol4": "New Alamein City",
+      "geol5": "City View",
+      "unit_type": "Apartment",
+      "lower_limit": "9000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "North Coast",
+      "geol3": "Alamein",
+      "geol4": "New Alamein City",
+      "geol5": "City View",
+      "unit_type": "Duplex",
+      "lower_limit": "12000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "North Coast",
+      "geol3": "Alamein",
+      "geol4": "New Alamein City",
+      "geol5": "City View",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "25000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "North Coast",
+      "geol3": "Alamein",
+      "geol4": "New Alamein City",
+      "geol5": "City View",
+      "unit_type": "Twin House",
+      "lower_limit": "25000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "North Coast",
+      "geol3": "Alamein",
+      "geol4": "New Alamein City",
+      "geol5": "L'Hiver New Alamein",
+      "unit_type": "Apartment",
+      "lower_limit": "12000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "North Coast",
+      "geol3": "Hammam",
+      "geol4": "Nice",
+      "geol5": "Nice 2",
+      "unit_type": "Chalet",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "North Coast",
+      "geol3": "Hammam",
+      "geol4": "Nice",
+      "geol5": "Nice 3",
+      "unit_type": "Chalet",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "North Coast",
+      "geol3": "Hammam",
+      "geol4": "Nice",
+      "geol5": "Nice 3",
+      "unit_type": "Chalet",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "North Coast",
+      "geol3": "Hammam",
+      "geol4": "Nice",
+      "geol5": "Nice 4",
+      "unit_type": "Chalet",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "North Coast",
+      "geol3": "Hammam",
+      "geol4": "Nice",
+      "geol5": "Nice 4",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "7000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "North Coast",
+      "geol3": "Hammam",
+      "geol4": "Nice",
+      "geol5": "Nice 4",
+      "unit_type": "Twin House",
+      "lower_limit": "7000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "North Coast",
+      "geol3": "Sidi Abdel Rahman",
+      "geol4": "Stella Riviera",
+      "unit_type": "Chalet",
+      "lower_limit": "6000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "North Coast",
+      "geol3": "Sidi Abdel Rahman",
+      "geol4": "Stella Riviera",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "12000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "North Coast",
+      "geol3": "Sidi Abdel Rahman",
+      "geol4": "Al Karma",
+      "unit_type": "Chalet",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "North Coast",
+      "geol3": "Alamein",
+      "geol4": "Ariba",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "North Coast",
+      "geol3": "Alamein",
+      "geol4": "Bleu Ciel Marina",
+      "unit_type": "Chalet",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "North Coast",
+      "geol3": "Alamein",
+      "geol4": "Golf Bay",
+      "unit_type": "Chalet",
+      "lower_limit": "3000000"
     }
   ]
 }
