@@ -46821,16 +46821,6 @@
       "lower_bound_ci_99": "630000"
     },
     {
-      "brand": "Toyota",
-      "model": "Camry",
-      "year": "2008",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "6000"
-    },
-    {
       "brand": "Audi",
       "model": "A4",
       "year": "2021",
@@ -47271,26 +47261,6 @@
       "lower_bound_ci_99": "250399"
     },
     {
-      "brand": "BYD",
-      "model": "Han",
-      "year": "2000",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "50000"
-    },
-    {
-      "brand": "Ford",
-      "model": "Bronco",
-      "year": "2022",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "50000"
-    },
-    {
       "brand": "Kia",
       "model": "Ceed",
       "year": "2018",
@@ -47339,26 +47309,6 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "775000"
-    },
-    {
-      "brand": "Audi",
-      "model": "A4",
-      "year": "2025",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "50000"
-    },
-    {
-      "brand": "BMW",
-      "model": "318",
-      "year": "2020",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "50000"
     },
     {
       "brand": "Other make",
