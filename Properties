@@ -54767,7 +54767,7 @@
       "geol3": "New Heliopolis",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "2000000"
+      "lower_limit": "2500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -54791,7 +54791,7 @@
       "geol3": "New Heliopolis",
       "geol4": "Unknown",
       "unit_type": "Town House",
-      "lower_limit": "2000000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Villas For Sale",
@@ -54799,7 +54799,7 @@
       "geol3": "New Heliopolis",
       "geol4": "Unknown",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "3000000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -54815,7 +54815,7 @@
       "geol3": "New Heliopolis",
       "geol4": "Unknown",
       "unit_type": "Penthouse",
-      "lower_limit": "2000000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -58447,7 +58447,7 @@
     {
       "cat": "Vacation Homes for Sale",
       "geol2": "Ismailia",
-      "geol4": "Gandola Village ",
+      "geol3": "Gandola Village ",
       "unit_type": "Chalet",
       "lower_limit": "1000000"
     },
@@ -58498,6 +58498,259 @@
       "geol4": "Summit",
       "unit_type": "Clinic",
       "lower_limit": "5000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "The Novelist",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Sidi Gaber",
+      "geol4": "Moustafa kamel",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Smouha",
+      "geol4": "Fayrouzit Smouha",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "W Gate ",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Damietta",
+      "geol3": " Ras al-Bar",
+      "geol4": "Sunset",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "El Hosary Square",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "6th of October",
+      "geol3": "Boulevard",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matrouh",
+      "geol3": "Marsa Matrouh",
+      "geol4": "Long Island",
+      "unit_type": "Chalet",
+      "lower_limit": ""
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Syaheia 3",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matrouh",
+      "geol3": "Marsa Matrouh",
+      "geol4": "O Bay",
+      "unit_type": "Chalet",
+      "lower_limit": ""
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "North Coast",
+      "geol3": "Alamein",
+      "geol4": "Al Ahlam",
+      "unit_type": "Chalet",
+      "lower_limit": ""
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "North Coast",
+      "geol3": "Alamein",
+      "geol4": "La Quinta",
+      "unit_type": "Chalet",
+      "lower_limit": ""
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "North Coast",
+      "geol3": "Alamein",
+      "geol4": "Marina Venecia",
+      "unit_type": "Chalet",
+      "lower_limit": ""
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "North Coast",
+      "geol3": "Sidi Abdel Rahman",
+      "geol4": "Blue Park",
+      "unit_type": "Chalet",
+      "lower_limit": ""
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "North Coast",
+      "geol3": "Sidi Abdel Rahman",
+      "geol4": "Ibn Sina",
+      "unit_type": "Chalet",
+      "lower_limit": ""
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "North Coast",
+      "geol3": "Sidi Abdel Rahman",
+      "geol4": "La Baia",
+      "unit_type": "Chalet",
+      "lower_limit": ""
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "North Coast",
+      "geol3": "Sidi Abdel Rahman",
+      "geol4": "The Marq",
+      "unit_type": "Chalet",
+      "lower_limit": ""
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matrouh",
+      "geol3": "Marsa Matrouh",
+      "geol4": "Ageeba",
+      "geol5": "El Qasr Road",
+      "unit_type": "Chalet",
+      "lower_limit": ""
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Caribiano",
+      "unit_type": "Chalet",
+      "lower_limit": ""
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Ras Al Hekma",
+      "geol5": "Malaaz",
+      "unit_type": "Chalet",
+      "lower_limit": ""
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Hammam",
+      "geol5": "Paradise Beach North Coast",
+      "unit_type": "Chalet",
+      "lower_limit": ""
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "Winter",
+      "unit_type": "Chalet",
+      "lower_limit": ""
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matrouh",
+      "geol3": "Marsa Matrouh",
+      "geol4": "Ageeba",
+      "unit_type": "Chalet",
+      "lower_limit": ""
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matrouh",
+      "geol3": "Marsa Matrouh",
+      "geol4": "Alam Al- Rum",
+      "unit_type": "Chalet",
+      "lower_limit": ""
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matrouh",
+      "geol3": "Marsa Matrouh",
+      "geol4": "Alexandria St.",
+      "unit_type": "Chalet",
+      "lower_limit": ""
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matrouh",
+      "geol3": "Marsa Matrouh",
+      "geol4": "Blue Beach",
+      "unit_type": "Chalet",
+      "lower_limit": ""
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "Assiut University",
+      "unit_type": "Chalet",
+      "lower_limit": ""
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "Atic",
+      "unit_type": "Chalet",
+      "lower_limit": ""
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matrouh",
+      "geol3": "Marsa Matrouh",
+      "geol4": "Laspero  Matrouh",
+      "unit_type": "Chalet",
+      "lower_limit": ""
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "North Coast",
+      "geol3": "Sidi Abdel Rahman",
+      "geol4": "Malaga",
+      "unit_type": "Chalet",
+      "lower_limit": ""
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "North Coast",
+      "geol3": "Sidi Abdel Rahman",
+      "geol4": "Loaloa Heliopolis",
+      "unit_type": "Chalet",
+      "lower_limit": ""
     }
   ]
 }
