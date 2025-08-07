@@ -49009,6 +49009,96 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "300000"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Camry",
+      "year": "2008",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "6000"
+    },
+    {
+      "brand": "Ford",
+      "model": "Bronco",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "50000"
+    },
+    {
+      "brand": "Mazda",
+      "model": "929",
+      "year": "1982",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "60000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "A35",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2500000"
+    },
+    {
+      "brand": "Other make",
+      "model": "Karry",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "330000"
+    },
+    {
+      "brand": "Renault",
+      "model": "19",
+      "year": "1994",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "160000"
+    },
+    {
+      "brand": "Land Rover",
+      "model": "Range Rover Vogue",
+      "year": "2017",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "6100000"
+    },
+    {
+      "brand": "BMW",
+      "model": "320",
+      "year": "1989",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "210000"
+    },
+    {
+      "brand": "Kia",
+      "model": "Cerato",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1450000"
     }
   ]
 }
