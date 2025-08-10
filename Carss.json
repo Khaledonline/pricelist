@@ -49431,14 +49431,44 @@
       "lower_bound_ci_99": "200000"
     },
     {
-      "brand": "Lada",
-      "model": "2104",
-      "year": "1994",
+      "brand": "Changan",
+      "model": "EADO",
+      "year": "2026",
       "listings_count": "0",
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "95000"
+      "lower_bound_ci_99": "1290000"
+    },
+    {
+      "brand": "BMW",
+      "model": "M3",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "9250000"
+    },
+    {
+      "brand": "Suzuki",
+      "model": "Pick up",
+      "year": "2000",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "85000"
+    },
+    {
+      "brand": "Hyundai",
+      "model": "Elantra Coupe",
+      "year": "2005",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "420000"
     }
   ]
 }
