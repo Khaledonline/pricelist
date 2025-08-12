@@ -49931,16 +49931,6 @@
       "lower_bound_ci_99": "470000"
     },
     {
-      "brand": "Jac",
-      "model": "Other",
-      "year": "2015",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "130000"
-    },
-    {
       "brand": "Chevrolet",
       "model": "Sonic",
       "year": "2015",
@@ -50011,16 +50001,6 @@
       "lower_bound_ci_99": "280000"
     },
     {
-      "brand": "Baic",
-      "model": "Other",
-      "year": "2017",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "460000"
-    },
-    {
       "brand": "Mercedes-Benz",
       "model": "CLA 200",
       "year": "2018",
@@ -50059,16 +50039,6 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "1325000"
-    },
-    {
-      "brand": "Maserati",
-      "model": "Other",
-      "year": "2022",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "3850000"
     },
     {
       "brand": "Dodge",
@@ -50141,16 +50111,6 @@
       "lower_bound_ci_99": "500000"
     },
     {
-      "brand": "Hummer",
-      "model": "Other",
-      "year": "2024",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "10000000"
-    },
-    {
       "brand": "Toyota",
       "model": "Land Cruiser",
       "year": "2010",
@@ -50161,16 +50121,6 @@
       "lower_bound_ci_99": "2990000"
     },
     {
-      "brand": "Baic",
-      "model": "Other",
-      "year": "2016",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "370000"
-    },
-    {
       "brand": "Ford",
       "model": "Fusion",
       "year": "2019",
@@ -50179,26 +50129,6 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "1250000"
-    },
-    {
-      "brand": "Hummer",
-      "model": "Other",
-      "year": "2025",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "9250000"
-    },
-    {
-      "brand": "Nissan",
-      "model": "Other",
-      "year": "2018",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "850000"
     },
     {
       "brand": "Toyota",
@@ -50241,16 +50171,6 @@
       "lower_bound_ci_99": "200000"
     },
     {
-      "brand": "Jeep",
-      "model": "Other",
-      "year": "1982",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "99000"
-    },
-    {
       "brand": "Citroen",
       "model": "Xsara Picasso",
       "year": "2006",
@@ -50289,16 +50209,6 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "1700000"
-    },
-    {
-      "brand": "Nissan",
-      "model": "Other",
-      "year": "1997",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "300000"
     },
     {
       "brand": "Volkswagen",
@@ -50361,26 +50271,6 @@
       "lower_bound_ci_99": "180000"
     },
     {
-      "brand": "Volkswagen",
-      "model": "Other",
-      "year": "1979",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "30000"
-    },
-    {
-      "brand": "Other make",
-      "model": "Other",
-      "year": "2002",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "165000"
-    },
-    {
       "brand": "Porsche",
       "model": "Panamera",
       "year": "2010",
@@ -50419,36 +50309,6 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "1149000"
-    },
-    {
-      "brand": "Other make",
-      "model": "Other",
-      "year": "2025",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1500000"
-    },
-    {
-      "brand": "Chery",
-      "model": "Other",
-      "year": "2009",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "230000"
-    },
-    {
-      "brand": "Mercedes-Benz",
-      "model": "Other",
-      "year": "2022",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "6100000"
     },
     {
       "brand": "Mercedes-Benz",
