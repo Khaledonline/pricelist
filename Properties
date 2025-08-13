@@ -5798,7 +5798,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
-      "geol5": "District 5 Compound Compound",
+      "geol5": "District 5 Compound",
       "unit_type": "Studio",
       "lower_limit": "3000000"
     },
@@ -5807,7 +5807,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
-      "geol5": "District 5 Compound Compound",
+      "geol5": "District 5 Compound",
       "unit_type": "Duplex",
       "lower_limit": "8000000"
     },
@@ -5816,7 +5816,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
-      "geol5": "District 5 Compound Compound",
+      "geol5": "District 5 Compound",
       "unit_type": "Apartment",
       "lower_limit": "6000000"
     },
@@ -5825,7 +5825,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
-      "geol5": "District 5 Compound Compound",
+      "geol5": "District 5 Compound",
       "unit_type": "Penthouse",
       "lower_limit": "8000000"
     },
@@ -5834,7 +5834,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
-      "geol5": "District 5 Compound Compound",
+      "geol5": "District 5 Compound",
       "unit_type": "Office Space",
       "lower_limit": "4000000"
     },
@@ -5843,7 +5843,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
-      "geol5": "District 5 Compound Compound",
+      "geol5": "District 5 Compound",
       "unit_type": "Full Commercial Building",
       "lower_limit": "30000000"
     },
@@ -5852,7 +5852,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
-      "geol5": "District 5 Compound Compound",
+      "geol5": "District 5 Compound",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "12000000"
     },
@@ -5861,7 +5861,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
-      "geol5": "District 5 Compound Compound",
+      "geol5": "District 5 Compound",
       "unit_type": "Town House",
       "lower_limit": "10000000"
     },
@@ -57678,36 +57678,36 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "North Coast",
-      "geol3": "Alamein",
-      "geol4": "New Alamein City",
+      "geol2": "Matrouh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
       "geol5": "City View",
       "unit_type": "Apartment",
       "lower_limit": "9000000"
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "North Coast",
-      "geol3": "Alamein",
-      "geol4": "New Alamein City",
+      "geol2": "Matrouh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
       "geol5": "City View",
       "unit_type": "Duplex",
       "lower_limit": "12000000"
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "North Coast",
-      "geol3": "Alamein",
-      "geol4": "New Alamein City",
+      "geol2": "Matrouh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
       "geol5": "City View",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "25000000"
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "North Coast",
-      "geol3": "Alamein",
-      "geol4": "New Alamein City",
+      "geol2": "Matrouh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
       "geol5": "City View",
       "unit_type": "Twin House",
       "lower_limit": "25000000"
@@ -58073,9 +58073,10 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "North Coast",
-      "geol3": "Alamein",
-      "geol4": "New Alamein City",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "New Alamein City",
       "unit_type": "Chalet",
       "lower_limit": "3000000"
     },
