@@ -13451,7 +13451,7 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hammam",
+      "geol4": "Alamein",
       "geol5": "Alamein Towers",
       "unit_type": "Studio",
       "lower_limit": "8000000"
@@ -13460,7 +13460,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hammam",
+      "geol4": "Alamein",
       "geol5": "Alamein Towers",
       "unit_type": "Apartment",
       "lower_limit": "12000000"
@@ -13469,7 +13469,7 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hammam",
+      "geol4": "Alamein",
       "geol5": "Alamein Towers",
       "unit_type": "Chalet",
       "lower_limit": "8000000"
@@ -13478,7 +13478,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hammam",
+      "geol4": "Alamein",
       "geol5": "Alamein Towers",
       "unit_type": "Studio",
       "lower_limit": "8000000"
@@ -13487,7 +13487,7 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hammam",
+      "geol4": "Alamein",
       "geol5": "Alamein Towers",
       "unit_type": "Duplex",
       "lower_limit": "15000000"
@@ -13496,7 +13496,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hammam",
+      "geol4": "Alamein",
       "geol5": "Alamein Towers",
       "unit_type": "Duplex",
       "lower_limit": "15000000"
@@ -13505,7 +13505,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hammam",
+      "geol4": "Alamein",
       "geol5": "Alamein Towers",
       "unit_type": "Office Space",
       "lower_limit": "12000000"
@@ -14010,7 +14010,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Amwaj",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Amwaj",
       "unit_type": "Apartment",
       "lower_limit": "4000000"
     },
@@ -14018,7 +14019,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Amwaj",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Amwaj",
       "unit_type": "Penthouse",
       "lower_limit": "5000000"
     },
@@ -14026,7 +14028,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Amwaj",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Amwaj",
       "unit_type": "Chalet",
       "lower_limit": "4000000"
     },
@@ -14034,7 +14037,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Amwaj",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Amwaj",
       "unit_type": "Town House",
       "lower_limit": "8000000"
     },
@@ -14042,7 +14046,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Amwaj",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Amwaj",
       "unit_type": "Penthouse",
       "lower_limit": "5000000"
     },
@@ -14050,7 +14055,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Amwaj",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Amwaj",
       "unit_type": "Twin house",
       "lower_limit": "8000000"
     },
@@ -14058,7 +14064,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Amwaj",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Amwaj",
       "unit_type": "Duplex",
       "lower_limit": "7000000"
     },
@@ -14066,7 +14073,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Amwaj",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Amwaj",
       "unit_type": "Duplex",
       "lower_limit": "7000000"
     },
@@ -14074,7 +14082,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Amwaj",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Amwaj",
       "unit_type": "Standalone Villa",
       "lower_limit": "15000000"
     },
@@ -14082,7 +14091,8 @@
       "cat": "Villas For Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Amwaj",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Amwaj",
       "unit_type": "Twin House",
       "lower_limit": "8000000"
     },
@@ -14090,7 +14100,8 @@
       "cat": "Villas For Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Amwaj",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Amwaj",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "15000000"
     },
@@ -14098,7 +14109,8 @@
       "cat": "Villas For Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Amwaj",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Amwaj",
       "unit_type": "Town House",
       "lower_limit": "8000000"
     },
@@ -15969,7 +15981,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Bianchi",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Bianchi",
       "unit_type": "Chalet",
       "lower_limit": "4000000"
     },
@@ -15977,7 +15990,8 @@
       "cat": "Villas For Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Bianchi",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Bianchi",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "30000000"
     },
@@ -15985,7 +15999,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Bianchi",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Bianchi",
       "unit_type": "Apartment",
       "lower_limit": "8000000"
     },
@@ -15993,7 +16008,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Bianchi",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Bianchi",
       "unit_type": "Penthouse",
       "lower_limit": "10000000"
     },
@@ -16001,7 +16017,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Bianchi",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Bianchi",
       "unit_type": "Standalone Villa",
       "lower_limit": "30000000"
     },
@@ -23485,7 +23502,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hacienda Bay",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Hacienda Bay",
       "unit_type": "Apartment",
       "lower_limit": "6000000"
     },
@@ -23493,7 +23511,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hacienda Bay",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Hacienda Bay",
       "unit_type": "Duplex",
       "lower_limit": "8000000"
     },
@@ -23501,7 +23520,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hacienda Bay",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Hacienda Bay",
       "unit_type": "Studio",
       "lower_limit": "6000000"
     },
@@ -23509,7 +23529,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hacienda Bay",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Hacienda Bay",
       "unit_type": "Duplex",
       "lower_limit": "8000000"
     },
@@ -23517,7 +23538,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hacienda Bay",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Hacienda Bay",
       "unit_type": "Chalet",
       "lower_limit": "6000000"
     },
@@ -23525,7 +23547,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hacienda Bay",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Hacienda Bay",
       "unit_type": "Penthouse",
       "lower_limit": "10000000"
     },
@@ -23533,7 +23556,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hacienda Bay",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Hacienda Bay",
       "unit_type": "Penthouse",
       "lower_limit": "10000000"
     },
@@ -23541,7 +23565,8 @@
       "cat": "Villas For Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hacienda Bay",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Hacienda Bay",
       "unit_type": "Twin House",
       "lower_limit": "10000000"
     },
@@ -23549,7 +23574,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hacienda Bay",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Hacienda Bay",
       "unit_type": "Twin house",
       "lower_limit": "10000000"
     },
@@ -23557,7 +23583,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hacienda Bay",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Hacienda Bay",
       "unit_type": "Town House",
       "lower_limit": "10000000"
     },
@@ -23565,7 +23592,8 @@
       "cat": "Commercial for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hacienda Bay",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Hacienda Bay",
       "unit_type": "Retail",
       "lower_limit": "9500000"
     },
@@ -23573,7 +23601,8 @@
       "cat": "Villas For Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hacienda Bay",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Hacienda Bay",
       "unit_type": "Town House",
       "lower_limit": "10000000"
     },
@@ -23581,7 +23610,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hacienda Bay",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Hacienda Bay",
       "unit_type": "Standalone Villa",
       "lower_limit": "12000000"
     },
@@ -23589,7 +23619,8 @@
       "cat": "Villas For Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hacienda Bay",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Hacienda Bay",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "12000000"
     },
@@ -23597,7 +23628,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hacienda Bay",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Hacienda Bay",
       "unit_type": "Studio",
       "lower_limit": "6000000"
     },
@@ -30083,7 +30115,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Marassi",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Marassi",
       "unit_type": "Studio",
       "lower_limit": "2000000"
     },
@@ -30091,7 +30124,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Marassi",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Marassi",
       "unit_type": "Studio",
       "lower_limit": "2000000"
     },
@@ -30099,7 +30133,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Marassi",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Marassi",
       "unit_type": "Apartment",
       "lower_limit": "3000000"
     },
@@ -30107,7 +30142,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Marassi",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Marassi",
       "unit_type": "Chalet",
       "lower_limit": "4000000"
     },
@@ -30115,7 +30151,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Marassi",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Marassi",
       "unit_type": "Duplex",
       "lower_limit": "8000000"
     },
@@ -30123,7 +30160,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Marassi",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Marassi",
       "unit_type": "Penthouse",
       "lower_limit": "9000000"
     },
@@ -30131,7 +30169,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Marassi",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Marassi",
       "unit_type": "Penthouse",
       "lower_limit": "9000000"
     },
@@ -30139,7 +30178,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Marassi",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Marassi",
       "unit_type": "Town House",
       "lower_limit": "10000000"
     },
@@ -30147,7 +30187,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Marassi",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Marassi",
       "unit_type": "Twin house",
       "lower_limit": "10000000"
     },
@@ -30155,7 +30196,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Marassi",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Marassi",
       "unit_type": "Duplex",
       "lower_limit": "8000000"
     },
@@ -30163,7 +30205,8 @@
       "cat": "Villas For Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Marassi",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Marassi",
       "unit_type": "Town House",
       "lower_limit": "10000000"
     },
@@ -30171,7 +30214,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Marassi",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Marassi",
       "unit_type": "Standalone Villa",
       "lower_limit": "14000000"
     },
@@ -30179,7 +30223,8 @@
       "cat": "Villas For Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Marassi",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Marassi",
       "unit_type": "Twin House",
       "lower_limit": "10000000"
     },
@@ -30187,7 +30232,8 @@
       "cat": "Villas For Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Marassi",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Marassi",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "14000000"
     },
@@ -31538,7 +31584,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Mazarine",
+      "geol4": "Alamein",
+      "geol5": "Mazarine",
       "unit_type": "Penthouse",
       "lower_limit": "10000000"
     },
@@ -31546,7 +31593,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Mazarine",
+      "geol4": "Alamein",
+      "geol5": "Mazarine",
       "unit_type": "Chalet",
       "lower_limit": "3000000"
     },
@@ -31554,7 +31602,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Mazarine",
+      "geol4": "Alamein",
+      "geol5": "Mazarine",
       "unit_type": "Apartment",
       "lower_limit": "3000000"
     },
@@ -31562,7 +31611,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Mazarine",
+      "geol4": "Alamein",
+      "geol5": "Mazarine",
       "unit_type": "Penthouse",
       "lower_limit": "10000000"
     },
@@ -31570,7 +31620,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Mazarine",
+      "geol4": "Alamein",
+      "geol5": "Mazarine",
       "unit_type": "Town House",
       "lower_limit": "12000000"
     },
@@ -31578,7 +31629,8 @@
       "cat": "Villas For Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Mazarine",
+      "geol4": "Alamein",
+      "geol5": "Mazarine",
       "unit_type": "Town House",
       "lower_limit": "12000000"
     },
@@ -31586,7 +31638,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Mazarine",
+      "geol4": "Alamein",
+      "geol5": "Mazarine",
       "unit_type": "Standalone Villa",
       "lower_limit": "15000000"
     },
@@ -31594,7 +31647,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Mazarine",
+      "geol4": "Alamein",
+      "geol5": "Mazarine",
       "unit_type": "Twin house",
       "lower_limit": "12000000"
     },
@@ -31602,7 +31656,8 @@
       "cat": "Commercial for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Mazarine",
+      "geol4": "Alamein",
+      "geol5": "Mazarine",
       "unit_type": "Retail",
       "lower_limit": "8000000"
     },
@@ -31610,7 +31665,8 @@
       "cat": "Villas For Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Mazarine",
+      "geol4": "Alamein",
+      "geol5": "Mazarine",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "15000000"
     },
@@ -31618,7 +31674,8 @@
       "cat": "Villas For Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Mazarine",
+      "geol4": "Alamein",
+      "geol5": "Mazarine",
       "unit_type": "Twin House",
       "lower_limit": "12000000"
     },
@@ -31626,7 +31683,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Mazarine",
+      "geol4": "Alamein",
+      "geol5": "Mazarine",
       "unit_type": "Duplex",
       "lower_limit": "6000000"
     },
@@ -31871,6 +31929,14 @@
       "geol4": "Mesca",
       "unit_type": "Chalet",
       "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Soma Bay",
+      "geol4": "Mesca",
+      "unit_type": "Penthouse",
+      "lower_limit": "7000000"
     },
     {
       "cat": "Villas For Sale",
@@ -35532,7 +35598,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hammam",
+      "geol4": "Alamein",
       "geol5": "Palm Hills New Alamein",
       "unit_type": "Apartment",
       "lower_limit": "3000000"
@@ -35541,7 +35607,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hammam",
+      "geol4": "Alamein",
       "geol5": "Palm Hills New Alamein",
       "unit_type": "Studio",
       "lower_limit": "2000000"
@@ -35550,7 +35616,7 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hammam",
+      "geol4": "Alamein",
       "geol5": "Palm Hills New Alamein",
       "unit_type": "Chalet",
       "lower_limit": "3000000"
@@ -35559,7 +35625,7 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hammam",
+      "geol4": "Alamein",
       "geol5": "Palm Hills New Alamein",
       "unit_type": "Studio",
       "lower_limit": "2000000"
@@ -35568,7 +35634,7 @@
       "cat": "Villas For Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hammam",
+      "geol4": "Alamein",
       "geol5": "Palm Hills New Alamein",
       "unit_type": "Town House",
       "lower_limit": "12000000"
@@ -35577,7 +35643,7 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hammam",
+      "geol4": "Alamein",
       "geol5": "Palm Hills New Alamein",
       "unit_type": "Standalone Villa",
       "lower_limit": "15000000"
@@ -35586,7 +35652,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hammam",
+      "geol4": "Alamein",
       "geol5": "Palm Hills New Alamein",
       "unit_type": "Restaurant & Cafe",
       "lower_limit": "15000000"
@@ -35595,7 +35661,7 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hammam",
+      "geol4": "Alamein",
       "geol5": "Palm Hills New Alamein",
       "unit_type": "Town House",
       "lower_limit": "12000000"
@@ -37486,6 +37552,15 @@
       "geol4": "R8",
       "unit_type": "Studio",
       "lower_limit": "1000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R8",
+      "geol5": "De Joya 4",
+      "unit_type": "Apartment",
+      "lower_limit": "6000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -39748,7 +39823,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Seashell",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Seashell",
       "unit_type": "Penthouse",
       "lower_limit": "15000000"
     },
@@ -39756,7 +39832,8 @@
       "cat": "Villas For Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Seashell",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Seashell",
       "unit_type": "Town House",
       "lower_limit": "8508353"
     },
@@ -39764,7 +39841,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Seashell",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Seashell",
       "unit_type": "Duplex",
       "lower_limit": "15000000"
     },
@@ -39772,7 +39850,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Seashell",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Seashell",
       "unit_type": "Chalet",
       "lower_limit": "8000000"
     },
@@ -39780,7 +39859,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Seashell",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Seashell",
       "unit_type": "Apartment",
       "lower_limit": "8000000"
     },
@@ -39788,7 +39868,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Seashell",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Seashell",
       "unit_type": "Penthouse",
       "lower_limit": "15000000"
     },
@@ -39796,7 +39877,8 @@
       "cat": "Villas For Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Seashell",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Seashell",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "25000000"
     },
@@ -39804,7 +39886,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Seashell",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Seashell",
       "unit_type": "Standalone Villa",
       "lower_limit": "25000000"
     },
@@ -39812,7 +39895,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Seashell",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Seashell",
       "unit_type": "Duplex",
       "lower_limit": "15000000"
     },
@@ -39820,7 +39904,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Seashell",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Seashell",
       "unit_type": "Twin house",
       "lower_limit": "20000000"
     },
@@ -39828,7 +39913,8 @@
       "cat": "Villas For Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Seashell",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Seashell",
       "unit_type": "Twin House",
       "lower_limit": "20000000"
     },
@@ -58081,6 +58167,15 @@
       "lower_limit": "3000000"
     },
     {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "New Alamein City",
+      "unit_type": "Apartment",
+      "lower_limit": "5500000"
+    },
+    {
       "cat": "Vacation Homes for Sale",
       "geol2": "North Coast",
       "geol3": "Alamein",
@@ -58322,25 +58417,28 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "North Coast",
-      "geol3": "Ras Al Hekma",
-      "geol4": "Remal",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Ras Al Hekma",
+      "geol5": "Remal",
       "unit_type": "Chalet",
       "lower_limit": "5000000"
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "North Coast",
-      "geol3": "Ras Al Hekma",
-      "geol4": "Remal",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Ras Al Hekma",
+      "geol5": "Remal",
       "unit_type": "Apartment",
       "lower_limit": "5000000"
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "North Coast",
-      "geol3": "Ras Al Hekma",
-      "geol4": "Remal",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Ras Al Hekma",
+      "geol5": "Remal",
       "unit_type": "Duplex",
       "lower_limit": "10000000"
     },
