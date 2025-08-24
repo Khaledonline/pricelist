@@ -6763,7 +6763,7 @@
       "geol4": "5th Settlement",
       "geol5": "Gardenia Heights",
       "unit_type": "Apartment",
-      "lower_limit": "1300000"
+      "lower_limit": "2500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -6781,7 +6781,7 @@
       "geol4": "5th Settlement",
       "geol5": "Gardenia Heights",
       "unit_type": "Duplex",
-      "lower_limit": "3500000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -33381,7 +33381,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Naia Bay",
       "unit_type": "Apartment",
-      "lower_limit": "4000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -33390,7 +33390,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Naia Bay",
       "unit_type": "Penthouse",
-      "lower_limit": "12000000"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -33399,7 +33399,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Naia Bay",
       "unit_type": "Chalet",
-      "lower_limit": "4000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Villas For Sale",
@@ -33408,7 +33408,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Naia Bay",
       "unit_type": "Town House",
-      "lower_limit": "12000000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -33417,7 +33417,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Naia Bay",
       "unit_type": "Penthouse",
-      "lower_limit": "12000000"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Villas For Sale",
@@ -33426,7 +33426,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Naia Bay",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "12000000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -33435,7 +33435,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Naia Bay",
       "unit_type": "Twin house",
-      "lower_limit": "12000000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -33444,7 +33444,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Naia Bay",
       "unit_type": "Town House",
-      "lower_limit": "12000000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Villas For Sale",
@@ -33453,7 +33453,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Naia Bay",
       "unit_type": "Twin House",
-      "lower_limit": "12000000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -33462,7 +33462,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Naia Bay",
       "unit_type": "Standalone Villa",
-      "lower_limit": "12000000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Villas For Sale",
@@ -51368,7 +51368,7 @@
       "geol3": "Badr City",
       "geol4": "Unknown",
       "unit_type": "Penthouse",
-      "lower_limit": "600000"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -51376,7 +51376,7 @@
       "geol3": "Badr City",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "250000"
+      "lower_limit": "600000"
     },
     {
       "cat": "Apartments for Sale",
@@ -51384,7 +51384,7 @@
       "geol3": "Badr City",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "900000"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -59189,6 +59189,14 @@
       "geol4": "Long Island",
       "unit_type": "Chalet",
       "lower_limit": ""
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "Tawila",
+      "unit_type": "Chalet",
+      "lower_limit": "10000000"
     }
   ]
 }
