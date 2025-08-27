@@ -29993,6 +29993,14 @@
     },
     {
       "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "Mangroovy",
+      "unit_type": "Twin House",
+      "lower_limit": "8000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
       "geol4": "Ras Al Hekma",
@@ -51856,7 +51864,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "2000000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -51872,7 +51880,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Unknown",
       "unit_type": "Penthouse",
-      "lower_limit": "5000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -51904,7 +51912,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "3000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -51920,7 +51928,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Unknown",
       "unit_type": "Town House",
-      "lower_limit": "5000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -51928,7 +51936,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Unknown",
       "unit_type": "Twin House",
-      "lower_limit": "5000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -58793,6 +58801,22 @@
       "lower_limit": "10000000"
     },
     {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Al Waha ",
+      "unit_type": "Clinic",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Calma",
+      "unit_type": "Apartment",
+      "lower_limit": "3500000"
+    },
+    {
       "cat": "Vacation Homes for Sale",
       "geol2": "Matrouh",
       "geol3": "Marsa Matrouh",
@@ -59196,7 +59220,7 @@
       "geol3": "Gouna",
       "geol4": "Tawila",
       "unit_type": "Chalet",
-      "lower_limit": "10000000"
+      "lower_limit": ""
     }
   ]
 }
