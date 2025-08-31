@@ -28978,7 +28978,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Levels By Dunes Compound",
       "unit_type": "Duplex",
-      "lower_limit": "7000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Villas For Sale",
@@ -28986,7 +28986,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Levels By Dunes Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "10000000"
+      "lower_limit": "14000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28994,7 +28994,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Levels By Dunes Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "8000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Villas For Sale",
@@ -29002,7 +29002,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Levels By Dunes Compound",
       "unit_type": "Town House",
-      "lower_limit": "10000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -29010,7 +29010,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Levels By Dunes Compound",
       "unit_type": "Apartment",
-      "lower_limit": "4000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Villas For Sale",
@@ -29018,7 +29018,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Levels By Dunes Compound",
       "unit_type": "Twin House",
-      "lower_limit": "10000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -50256,7 +50256,7 @@
       "geol3": "North Coast",
       "geol4": "Unknown",
       "unit_type": "Chalet",
-      "lower_limit": "1500000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -50272,7 +50272,7 @@
       "geol3": "North Coast",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "2000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -50280,7 +50280,7 @@
       "geol3": "North Coast",
       "geol4": "Unknown",
       "unit_type": "Penthouse",
-      "lower_limit": "2000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -50288,7 +50288,7 @@
       "geol3": "North Coast",
       "geol4": "Unknown",
       "unit_type": "Penthouse",
-      "lower_limit": "2000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -50296,7 +50296,7 @@
       "geol3": "North Coast",
       "geol4": "Unknown",
       "unit_type": "Town House",
-      "lower_limit": "3000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -50304,7 +50304,7 @@
       "geol3": "North Coast",
       "geol4": "Unknown",
       "unit_type": "Town House",
-      "lower_limit": "3000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -50312,7 +50312,7 @@
       "geol3": "North Coast",
       "geol4": "Unknown",
       "unit_type": "Twin House",
-      "lower_limit": "3000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -50320,7 +50320,7 @@
       "geol3": "North Coast",
       "geol4": "Unknown",
       "unit_type": "Twin house",
-      "lower_limit": "3000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -50328,7 +50328,7 @@
       "geol3": "North Coast",
       "geol4": "Unknown",
       "unit_type": "Standalone Villa",
-      "lower_limit": "5000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -50344,7 +50344,7 @@
       "geol3": "North Coast",
       "geol4": "Unknown",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "5000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -51853,7 +51853,6 @@
     {
       "cat": "Apartments for Sale",
       "geol2": "Giza",
-      "geol3": "Sheikh Zayed",
       "geol4": "Unknown",
       "unit_type": "Studio",
       "lower_limit": "1500000"
@@ -58817,12 +58816,252 @@
       "lower_limit": "3500000"
     },
     {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Code ",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Green Hills",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "15000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Sama Zayed ",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "14000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Sama Zayed ",
+      "unit_type": "Twin House",
+      "lower_limit": "14000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Sakan Masr",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Obex",
+      "unit_type": "Retail",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "G West",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "G West",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "10000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": " Syaheia A",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": " Syaheia B",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Riverton",
+      "unit_type": "Apartment",
+      "lower_limit": "6000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Riverton",
+      "unit_type": "Town House",
+      "lower_limit": "18000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": " EL Patio Riva ",
+      "unit_type": "Apartment",
+      "lower_limit": "8000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Town square",
+      "unit_type": "Apartment",
+      "lower_limit": "6000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Town square",
+      "unit_type": "Town House",
+      "lower_limit": "12000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "New Mansoura",
+      "geol4": "Sakan Masr",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Villar ",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
       "cat": "Vacation Homes for Sale",
-      "geol2": "Matrouh",
-      "geol3": "Marsa Matrouh",
-      "geol4": "O Bay",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": " Layana Residence",
       "unit_type": "Chalet",
-      "lower_limit": ""
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "High Town ",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "High Town ",
+      "unit_type": "Duplex",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Wadi El Nil ",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Ruya City ",
+      "unit_type": "Apartment",
+      "lower_limit": "6000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Ruya City ",
+      "unit_type": "Duplex",
+      "lower_limit": "10000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Ruya City ",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "20000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Ruya City ",
+      "unit_type": "Town House",
+      "lower_limit": "13000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Ruya City ",
+      "unit_type": "Twin House",
+      "lower_limit": "13000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "El Patio Heights",
+      "unit_type": "Town House",
+      "lower_limit": "15000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "El Patio Heights",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "20000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Row Marina",
+      "unit_type": "Chalet",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "South Sinai",
+      "geol3": "Ras Sedr",
+      "geol4": "Blue Lagoon",
+      "unit_type": "Chalet",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Wadi Al Nile Heights",
+      "unit_type": "Land",
+      "lower_limit": "5000000"
     },
     {
       "cat": "Vacation Homes for Sale",
