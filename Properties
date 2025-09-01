@@ -8572,7 +8572,7 @@
       "geol4": "5th Settlement",
       "geol5": "New Andalous",
       "unit_type": "Apartment",
-      "lower_limit": "1500000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -8581,7 +8581,7 @@
       "geol4": "5th Settlement",
       "geol5": "New Andalous",
       "unit_type": "Duplex",
-      "lower_limit": "2500000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Commercial for Sale",
