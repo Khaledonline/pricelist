@@ -3700,15 +3700,6 @@
       "geol4": "5th Settlement",
       "geol5": "Beit Al Watan",
       "unit_type": "Studio",
-      "lower_limit": "1000000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "5th Settlement",
-      "geol5": "Beit Al Watan",
-      "unit_type": "Apartment",
       "lower_limit": "2000000"
     },
     {
@@ -3717,8 +3708,17 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Beit Al Watan",
+      "unit_type": "Apartment",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Beit Al Watan",
       "unit_type": "Duplex",
-      "lower_limit": "4000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Villas For Sale",
