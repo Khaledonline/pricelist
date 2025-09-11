@@ -54979,6 +54979,216 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "1500000"
+    },
+    {
+      "brand": "BYD",
+      "model": "L3",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "630000"
+    },
+    {
+      "brand": "Honda",
+      "model": "ENP2",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1400000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "124",
+      "year": "1970",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "32000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "C200",
+      "year": "2001",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "600000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "S300",
+      "year": "1990",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "400000"
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Equinox",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1050000"
+    },
+    {
+      "brand": "Land Rover",
+      "model": "Range Rover Sport",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "4400000"
+    },
+    {
+      "brand": "Kia",
+      "model": "Carnival",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1300000"
+    },
+    {
+      "brand": "BMW",
+      "model": "M3",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "7450000"
+    },
+    {
+      "brand": "Bentley",
+      "model": "Flying Spur",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "11000000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Kodiaq",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3000000"
+    },
+    {
+      "brand": "Ferrari",
+      "model": "Ferrari",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "18500000"
+    },
+    {
+      "brand": "Porsche",
+      "model": "Cayenne",
+      "year": "2008",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2250000"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Land Cruiser",
+      "year": "2015",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "4600000"
+    },
+    {
+      "brand": "Land Rover",
+      "model": "Discovery",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2350000"
+    },
+    {
+      "brand": "Lifan",
+      "model": "620",
+      "year": "2010",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "190000"
+    },
+    {
+      "brand": "Ford",
+      "model": "Windstar",
+      "year": "1996",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "220000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "KICKS",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "750000"
+    },
+    {
+      "brand": "BMW",
+      "model": "520",
+      "year": "2004",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "720000"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Tercel",
+      "year": "1995",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "150000"
+    },
+    {
+      "brand": "Geely",
+      "model": "Pandido",
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "300000"
     }
   ]
 }
