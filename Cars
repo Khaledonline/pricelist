@@ -32558,7 +32558,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "170,000"
+      "lower_bound_ci_99": "270,000"
     },
     {
       "brand": "Chevrolet",
@@ -36018,7 +36018,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "270,000"
+      "lower_bound_ci_99": "150,000"
     },
     {
       "brand": "Suzuki",
@@ -55184,6 +55184,266 @@
       "brand": "Geely",
       "model": "Pandido",
       "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "300000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "128",
+      "year": "1900",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "45000"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Land Cruiser",
+      "year": "2009",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3650000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "C230",
+      "year": "1980",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "138000"
+    },
+    {
+      "brand": "Jaguar",
+      "model": "XJ6",
+      "year": "1996",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "400000"
+    },
+    {
+      "brand": "Suzuki",
+      "model": "Pick up",
+      "year": "2005",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "120000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Galant",
+      "year": "1993",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "180000"
+    },
+    {
+      "brand": "Saipa",
+      "model": "Pride Sedan",
+      "year": "1996",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "170000"
+    },
+    {
+      "brand": "Jetour",
+      "model": "T1",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1850000"
+    },
+    {
+      "brand": "Other make",
+      "model": "Karry",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "315000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "C180",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "4300000"
+    },
+    {
+      "brand": "Suzuki",
+      "model": "Ciaz",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "675000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "E200",
+      "year": "1992",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "350000"
+    },
+    {
+      "brand": "Peugeot",
+      "model": "305",
+      "year": "1983",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "45000"
+    },
+    {
+      "brand": "MINI",
+      "model": "Countryman",
+      "year": "2014",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "840000"
+    },
+    {
+      "brand": "Volkswagen",
+      "model": "Scirocco",
+      "year": "2013",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "970000"
+    },
+    {
+      "brand": "Volvo",
+      "model": "940",
+      "year": "1995",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "230000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Pickup",
+      "year": "2008",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "280000"
+    },
+    {
+      "brand": "Rolls Royce",
+      "model": "Cullinan",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "10000000"
+    },
+    {
+      "brand": "BMW",
+      "model": "535",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1800000"
+    },
+    {
+      "brand": "Suzuki",
+      "model": "Pick up",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "430000"
+    },
+    {
+      "brand": "MINI",
+      "model": "Cooper",
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1000000"
+    },
+    {
+      "brand": "Renault",
+      "model": "Scenic",
+      "year": "2002",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "220000"
+    },
+    {
+      "brand": "BYD",
+      "model": "Seal",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1865000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "E300",
+      "year": "1991",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "340000"
+    },
+    {
+      "brand": "Peugeot",
+      "model": "207",
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "370000"
+    },
+    {
+      "brand": "Ford",
+      "model": "Van",
+      "year": "1997",
       "listings_count": "0",
       "median_price": "0",
       "avg_price": "0",
