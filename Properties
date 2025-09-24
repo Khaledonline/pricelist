@@ -2142,7 +2142,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "5st Settlement",
+      "geol4": "5th Settlement",
       "geol5": "Mountain View 1.1",
       "unit_type": "Duplex",
       "lower_limit": "10000000"
@@ -2151,7 +2151,7 @@
       "cat": "Villas For Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "5st Settlement",
+      "geol4": "5th Settlement",
       "geol5": "Mountain View 1.1",
       "unit_type": "Town House",
       "lower_limit": "18000000"
@@ -2160,7 +2160,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "5st Settlement",
+      "geol4": "5th Settlement",
       "geol5": "Mountain View 1.1",
       "unit_type": "Penthouse",
       "lower_limit": "18000000"
@@ -2169,7 +2169,7 @@
       "cat": "Villas For Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "5st Settlement",
+      "geol4": "5th Settlement",
       "geol5": "Mountain View 1.1",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "18000000"
@@ -2178,7 +2178,7 @@
       "cat": "Villas For Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "5st Settlement",
+      "geol4": "5th Settlement",
       "geol5": "Mountain View 1.1",
       "unit_type": "Twin House",
       "lower_limit": "18000000"
@@ -2187,7 +2187,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "5st Settlement",
+      "geol4": "5th Settlement",
       "geol5": "Mountain View 1.1",
       "unit_type": "Retail",
       "lower_limit": "8000000"
@@ -8113,7 +8113,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mivida Compound",
       "unit_type": "Apartment",
-      "lower_limit": "5000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Villas For Sale",
@@ -8149,7 +8149,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mivida Compound",
       "unit_type": "Twin House",
-      "lower_limit": "10000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -30530,7 +30530,7 @@
       "geol4": "Alamein",
       "geol5": "Marina 5",
       "unit_type": "Studio",
-      "lower_limit": "1500000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -30539,7 +30539,7 @@
       "geol4": "Alamein",
       "geol5": "Marina 5",
       "unit_type": "Apartment",
-      "lower_limit": "1500000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -30548,7 +30548,7 @@
       "geol4": "Alamein",
       "geol5": "Marina 5",
       "unit_type": "Chalet",
-      "lower_limit": "1500000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -30557,7 +30557,7 @@
       "geol4": "Alamein",
       "geol5": "Marina 5",
       "unit_type": "Duplex",
-      "lower_limit": "8000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -30566,7 +30566,7 @@
       "geol4": "Alamein",
       "geol5": "Marina 5",
       "unit_type": "Twin House",
-      "lower_limit": "8000000"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -30647,7 +30647,7 @@
       "geol4": "Alamein",
       "geol5": "Marina 6",
       "unit_type": "Apartment",
-      "lower_limit": "4000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -30656,7 +30656,7 @@
       "geol4": "Alamein",
       "geol5": "Marina 7",
       "unit_type": "Chalet",
-      "lower_limit": "4000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -30665,7 +30665,7 @@
       "geol4": "Alamein",
       "geol5": "Marina 7",
       "unit_type": "Apartment",
-      "lower_limit": "4000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -30710,7 +30710,7 @@
       "geol4": "Alamein",
       "geol5": "Marina 7",
       "unit_type": "Duplex",
-      "lower_limit": "8000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -31595,60 +31595,6 @@
       "geol4": "Alamein",
       "geol5": "Mazarine",
       "unit_type": "Penthouse",
-      "lower_limit": "10000000"
-    },
-    {
-      "cat": "Vacation Homes for Sale",
-      "geol2": "Matruh",
-      "geol3": "North Coast",
-      "geol4": "Alamein",
-      "geol5": "Mazarine",
-      "unit_type": "Chalet",
-      "lower_limit": "3000000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Matruh",
-      "geol3": "North Coast",
-      "geol4": "Alamein",
-      "geol5": "Mazarine",
-      "unit_type": "Apartment",
-      "lower_limit": "3000000"
-    },
-    {
-      "cat": "Vacation Homes for Sale",
-      "geol2": "Matruh",
-      "geol3": "North Coast",
-      "geol4": "Alamein",
-      "geol5": "Mazarine",
-      "unit_type": "Penthouse",
-      "lower_limit": "10000000"
-    },
-    {
-      "cat": "Vacation Homes for Sale",
-      "geol2": "Matruh",
-      "geol3": "North Coast",
-      "geol4": "Alamein",
-      "geol5": "Mazarine",
-      "unit_type": "Town House",
-      "lower_limit": "12000000"
-    },
-    {
-      "cat": "Villas For Sale",
-      "geol2": "Matruh",
-      "geol3": "North Coast",
-      "geol4": "Alamein",
-      "geol5": "Mazarine",
-      "unit_type": "Town House",
-      "lower_limit": "12000000"
-    },
-    {
-      "cat": "Vacation Homes for Sale",
-      "geol2": "Matruh",
-      "geol3": "North Coast",
-      "geol4": "Alamein",
-      "geol5": "Mazarine",
-      "unit_type": "Standalone Villa",
       "lower_limit": "15000000"
     },
     {
@@ -31657,8 +31603,62 @@
       "geol3": "North Coast",
       "geol4": "Alamein",
       "geol5": "Mazarine",
+      "unit_type": "Chalet",
+      "lower_limit": "9000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "Mazarine",
+      "unit_type": "Apartment",
+      "lower_limit": "9000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "Mazarine",
+      "unit_type": "Penthouse",
+      "lower_limit": "15000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "Mazarine",
+      "unit_type": "Town House",
+      "lower_limit": "18000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "Mazarine",
+      "unit_type": "Town House",
+      "lower_limit": "18000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "Mazarine",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "20000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "Mazarine",
       "unit_type": "Twin house",
-      "lower_limit": "12000000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -31676,7 +31676,7 @@
       "geol4": "Alamein",
       "geol5": "Mazarine",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "15000000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Villas For Sale",
@@ -31685,7 +31685,7 @@
       "geol4": "Alamein",
       "geol5": "Mazarine",
       "unit_type": "Twin House",
-      "lower_limit": "12000000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -31694,7 +31694,7 @@
       "geol4": "Alamein",
       "geol5": "Mazarine",
       "unit_type": "Duplex",
-      "lower_limit": "6000000"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Villas For Sale",
@@ -51853,6 +51853,7 @@
     {
       "cat": "Apartments for Sale",
       "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
       "geol4": "Unknown",
       "unit_type": "Studio",
       "lower_limit": "1500000"
@@ -51879,7 +51880,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Unknown",
       "unit_type": "Penthouse",
-      "lower_limit": "10000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -51927,7 +51928,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Unknown",
       "unit_type": "Town House",
-      "lower_limit": "10000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Villas For Sale",
@@ -51935,7 +51936,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Unknown",
       "unit_type": "Twin House",
-      "lower_limit": "10000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Villas For Sale",
@@ -58812,6 +58813,14 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Calma",
+      "unit_type": "Penthouse",
+      "lower_limit": "5500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Calma",
       "unit_type": "Apartment",
       "lower_limit": "3500000"
     },
@@ -59126,6 +59135,102 @@
       "geol4": "Dahya",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "11000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "La Verte City Compound",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Ixora Compound",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Capital Dubai Mall",
+      "unit_type": "Retail",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "La Reva",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Kinz",
+      "unit_type": "Apartment",
+      "lower_limit": "7000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Capital East Residence",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Syaheia 2",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Al Joman",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Jewar Compound",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Jewar Compound",
+      "unit_type": "Town House",
+      "lower_limit": "11000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Jewar Compound",
+      "unit_type": "Twin House",
+      "lower_limit": "16000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Jewar Compound",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "22000000"
     },
     {
       "cat": "Vacation Homes for Sale",
