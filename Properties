@@ -4267,6 +4267,15 @@
       "lower_limit": "3000000"
     },
     {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Unknown",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
@@ -59342,7 +59351,7 @@
       "geol4": "Alamein",
       "geol5": "La Quinta",
       "unit_type": "Chalet",
-      "lower_limit": ""
+      "lower_limit": " "
     },
     {
       "cat": "Vacation Homes for Sale",
