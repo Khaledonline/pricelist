@@ -39445,7 +39445,7 @@
       "geol3": "North Coast",
       "geol4": "Alamein",
       "geol5": "Santorini",
-      "unit_type": "Apartment",
+      "unit_type": "Retail",
       "lower_limit": "6000000"
     },
     {
@@ -39464,7 +39464,16 @@
       "geol4": "Alamein",
       "geol5": "Santorini",
       "unit_type": "Chalet",
-      "lower_limit": "5000000"
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "Santorini",
+      "unit_type": "Studio",
+      "lower_limit": "1000000"
     },
     {
       "cat": "Apartments for Sale",
