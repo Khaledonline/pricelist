@@ -26000,7 +26000,7 @@
       "geol3": "6th of October",
       "geol4": "Joya Compound",
       "unit_type": "Apartment",
-      "lower_limit": "8000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -26008,7 +26008,7 @@
       "geol3": "6th of October",
       "geol4": "Joya Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "10000000"
+      "lower_limit": "13000000"
     },
     {
       "cat": "Villas For Sale",
@@ -26016,7 +26016,7 @@
       "geol3": "6th of October",
       "geol4": "Joya Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "12000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Villas For Sale",
@@ -26024,7 +26024,7 @@
       "geol3": "6th of October",
       "geol4": "Joya Compound",
       "unit_type": "Town House",
-      "lower_limit": "12000000"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Villas For Sale",
@@ -26032,7 +26032,7 @@
       "geol3": "6th of October",
       "geol4": "Joya Compound",
       "unit_type": "Twin House",
-      "lower_limit": "12000000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -26040,7 +26040,7 @@
       "geol3": "6th of October",
       "geol4": "Joya Compound",
       "unit_type": "Duplex",
-      "lower_limit": "10000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -26048,7 +26048,7 @@
       "geol3": "6th of October",
       "geol4": "Joya Compound",
       "unit_type": "Clinic",
-      "lower_limit": "6000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Villas For Sale",
@@ -59336,13 +59336,44 @@
       "lower_limit": "7000000"
     },
     {
-      "cat": "Vacation Homes for Sale",
-      "geol2": "Matruh",
-      "geol3": "North Coast",
-      "geol4": "Alamein",
-      "geol5": "Al Ahlam",
-      "unit_type": "Chalet",
-      "lower_limit": ""
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Karma",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Diar plaza ",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Haram",
+      "geol4": "El Lebeny Axis",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Venia",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Zeraeyin",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "8000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -59351,7 +59382,7 @@
       "geol4": "Alamein",
       "geol5": "La Quinta",
       "unit_type": "Chalet",
-      "lower_limit": " "
+      "lower_limit": ""
     },
     {
       "cat": "Vacation Homes for Sale",
