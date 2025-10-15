@@ -3655,7 +3655,7 @@
       "geol4": "5th Settlement",
       "geol5": "90 Avenue Compound",
       "unit_type": "Apartment",
-      "lower_limit": "6000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -3664,7 +3664,7 @@
       "geol4": "5th Settlement",
       "geol5": "90 Avenue Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "6000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -5602,7 +5602,7 @@
       "geol4": "5th Settlement",
       "geol5": "City Gate Compound",
       "unit_type": "Apartment",
-      "lower_limit": "8000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -5620,7 +5620,7 @@
       "geol4": "5th Settlement",
       "geol5": "City Gate Compound",
       "unit_type": "Town House",
-      "lower_limit": "15000000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Villas For Sale",
@@ -5629,7 +5629,7 @@
       "geol4": "5th Settlement",
       "geol5": "City Gate Compound",
       "unit_type": "Twin House",
-      "lower_limit": "15000000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Villas For Sale",
@@ -5638,7 +5638,7 @@
       "geol4": "5th Settlement",
       "geol5": "City Gate Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "15000000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -42206,7 +42206,7 @@
       "geol3": "Hadayek October",
       "geol4": "Sun Capital",
       "unit_type": "Apartment",
-      "lower_limit": "4000000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -52650,7 +52650,7 @@
       "geol3": "Soma Bay",
       "geol4": "Unknown",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "10000000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -52658,7 +52658,7 @@
       "geol3": "Soma Bay",
       "geol4": "Unknown",
       "unit_type": "Warehouse",
-      "lower_limit": "200000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -52666,7 +52666,7 @@
       "geol3": "Soma Bay",
       "geol4": "Unknown",
       "unit_type": "Garage",
-      "lower_limit": "500000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -52674,7 +52674,7 @@
       "geol3": "Soma Bay",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "3000000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -52682,7 +52682,7 @@
       "geol3": "Soma Bay",
       "geol4": "Unknown",
       "unit_type": "Town House",
-      "lower_limit": "7000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Villas For Sale",
@@ -52698,7 +52698,7 @@
       "geol3": "Soma Bay",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "6000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -52706,7 +52706,7 @@
       "geol3": "Soma Bay",
       "geol4": "Unknown",
       "unit_type": "Twin house",
-      "lower_limit": "7000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -52714,7 +52714,7 @@
       "geol3": "Soma Bay",
       "geol4": "Unknown",
       "unit_type": "Penthouse",
-      "lower_limit": "6000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Villas For Sale",
@@ -52722,7 +52722,7 @@
       "geol3": "Soma Bay",
       "geol4": "Unknown",
       "unit_type": "Twin House",
-      "lower_limit": "7000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -52730,7 +52730,7 @@
       "geol3": "Soma Bay",
       "geol4": "Unknown",
       "unit_type": "Chalet",
-      "lower_limit": "3000000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -52754,7 +52754,7 @@
       "geol3": "Soma Bay",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "6000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -52762,7 +52762,7 @@
       "geol3": "Sporting",
       "geol4": "Unknown",
       "unit_type": "Garage",
-      "lower_limit": "500000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -58222,6 +58222,15 @@
       "geol2": "Matruh",
       "geol3": "North Coast",
       "geol4": "Alamein",
+      "geol5": "North Code",
+      "unit_type": "Studio",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
       "geol5": "Palma Resort",
       "unit_type": "Chalet",
       "lower_limit": "3000000"
@@ -59785,8 +59794,7 @@
       "geol2": "Red Sea",
       "geol3": "Gouna",
       "geol4": "Tawila",
-      "unit_type": "Chalet",
-      "lower_limit": ""
+      "unit_type": "Chalet"
     }
   ]
 }
