@@ -61109,6 +61109,296 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "750000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2101",
+      "year": "1975",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "60000"
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Lanos",
+      "year": "2006",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "240000"
+    },
+    {
+      "brand": "Hyundai",
+      "model": "I10",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "635000"
+    },
+    {
+      "brand": "Hyundai",
+      "model": "i20 Active",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "510000"
+    },
+    {
+      "brand": "Volkswagen",
+      "model": "Golf R",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3800000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Altea",
+      "year": "2009",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "430000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Toledo",
+      "year": "2003",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "350000"
+    },
+    {
+      "brand": "Soueast",
+      "model": "S 07",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1333200"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Hiace",
+      "year": "2015",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "900000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "C Class",
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1200000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Pickup",
+      "year": "2014",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "435000"
+    },
+    {
+      "brand": "Kia",
+      "model": "Forte",
+      "year": "2010",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "600000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Kodiaq",
+      "year": "1995",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "85000"
+    },
+    {
+      "brand": "BMW",
+      "model": "218 i",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1600000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "E200",
+      "year": "1976",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "120000"
+    },
+    {
+      "brand": "Soueast",
+      "model": "S 09",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1560000"
+    },
+    {
+      "brand": "Citroen",
+      "model": "C5 Aircross",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "950000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Outlander",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1300000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "AMG GT",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "7750000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "CLA Class",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1950000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "S350",
+      "year": "2004",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "850000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "C Class",
+      "year": "2009",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "900000"
+    },
+    {
+      "brand": "Brilliance",
+      "model": "FRV Cross",
+      "year": "2014",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "400000"
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "Giulia",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1350000"
+    },
+    {
+      "brand": "Jac",
+      "model": "S4",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "990000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "125",
+      "year": "1980",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "43000"
+    },
+    {
+      "brand": "Honda",
+      "model": "Civic",
+      "year": "1979",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "150000"
+    },
+    {
+      "brand": "Volvo",
+      "model": "240",
+      "year": "1977",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "99000"
+    },
+    {
+      "brand": "Lada",
+      "model": "1200",
+      "year": "2003",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "80000"
     }
   ]
 }
