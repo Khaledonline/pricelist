@@ -19211,7 +19211,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Diana Heights",
+      "geol4": "5th Settlement",
+      "geol5": "Diana Heights",
       "unit_type": "Apartment",
       "lower_limit": "2500000"
     },
@@ -56078,6 +56079,14 @@
     },
     {
       "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Smoha",
+      "geol4": "Valore ",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Sheraton",
       "geol4": "Valore Sheraton",
@@ -59794,7 +59803,8 @@
       "geol2": "Red Sea",
       "geol3": "Gouna",
       "geol4": "Tawila",
-      "unit_type": "Chalet"
+      "unit_type": "Chalet",
+      "lower_limit": ""
     }
   ]
 }
