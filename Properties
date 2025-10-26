@@ -11320,6 +11320,15 @@
       "lower_limit": "2500000"
     },
     {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Gardenia Heights 3",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
       "cat": "Villas For Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
@@ -16404,7 +16413,7 @@
       "geol2": "Matruh",
       "geol3": "North Coast",
       "geol4": "Ras Al Hekma",
-      "geol5": "Blues Tiffany ",
+      "geol5": "Blues Tiffany",
       "unit_type": "Chalet",
       "lower_limit": "4000000"
     },
@@ -16413,7 +16422,7 @@
       "geol2": "Matruh",
       "geol3": "North Coast",
       "geol4": "Ras Al Hekma",
-      "geol5": "Blues Tiffany ",
+      "geol5": "Blues Tiffany",
       "unit_type": "Apartment",
       "lower_limit": "4000000"
     },
@@ -56081,7 +56090,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Alexandria",
       "geol3": "Smoha",
-      "geol4": "Valore ",
+      "geol4": "Valore",
       "unit_type": "Apartment",
       "lower_limit": "4000000"
     },
@@ -56676,7 +56685,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": " Red Sea",
+      "geol2": "Red Sea",
       "geol3": "Gouna",
       "geol4": "Water Side",
       "unit_type": "Apartment",
@@ -56684,7 +56693,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": " Red Sea",
+      "geol2": "Red Sea",
       "geol3": "Gouna",
       "geol4": "Water Side",
       "unit_type": "Chalet",
@@ -56692,7 +56701,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": " Red Sea",
+      "geol2": "Red Sea",
       "geol3": "Gouna",
       "geol4": "Water Side",
       "unit_type": "Penthouse",
@@ -58178,7 +58187,7 @@
       "cat": "Villas For Sale",
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
-      "geol4": "Rafts ",
+      "geol4": "Rafts",
       "unit_type": "Standalone Villa",
       "lower_limit": "20000000"
     },
@@ -58186,7 +58195,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
-      "geol4": " Six West Compound",
+      "geol4": "Six West Compound",
       "unit_type": "Apartment",
       "lower_limit": "5000000"
     },
@@ -58559,7 +58568,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Nasr City",
-      "geol4": "Primera ",
+      "geol4": "Primera",
       "unit_type": "Apartment",
       "lower_limit": "3500000"
     },
@@ -58567,7 +58576,7 @@
       "cat": "Villas For Sale",
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
-      "geol4": "Sama Zayed ",
+      "geol4": "Sama Zayed",
       "unit_type": "Twin House",
       "lower_limit": "14000000"
     },
@@ -58575,7 +58584,7 @@
       "cat": "Villas For Sale",
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
-      "geol4": "Sama Zayed ",
+      "geol4": "Sama Zayed",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "18000000"
     },
@@ -58623,14 +58632,14 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Lagoons ",
+      "geol4": "Lagoons",
       "unit_type": "Chalet",
       "lower_limit": "3000000"
     },
     {
       "cat": "Vacation Homes for Sale",
       "geol2": "Ismailia",
-      "geol3": "Gandola Village ",
+      "geol3": "Gandola Village",
       "unit_type": "Chalet",
       "lower_limit": "1000000"
     },
@@ -58710,14 +58719,14 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": "W Gate ",
+      "geol4": "W Gate",
       "unit_type": "Apartment",
       "lower_limit": "3000000"
     },
     {
       "cat": "Vacation Homes for Sale",
       "geol2": "Damietta",
-      "geol3": " Ras al-Bar",
+      "geol3": "Ras al-Bar",
       "geol4": "Sunset",
       "unit_type": "Apartment",
       "lower_limit": "2000000"
@@ -58837,7 +58846,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
-      "geol4": "kargo Mall ",
+      "geol4": "kargo Mall",
       "unit_type": "Office Space",
       "lower_limit": "10000000"
     },
@@ -58845,7 +58854,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
-      "geol4": "kargo Mall ",
+      "geol4": "kargo Mall",
       "unit_type": "Retail",
       "lower_limit": "10000000"
     },
@@ -58853,7 +58862,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
-      "geol4": "kargo Mall ",
+      "geol4": "kargo Mall",
       "unit_type": "Clinic",
       "lower_limit": "3000000"
     },
@@ -58869,7 +58878,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Al Waha ",
+      "geol4": "Al Waha",
       "unit_type": "Clinic",
       "lower_limit": "2000000"
     },
@@ -58893,7 +58902,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Capital City",
-      "geol4": "Code ",
+      "geol4": "Code",
       "unit_type": "Apartment",
       "lower_limit": "4000000"
     },
@@ -58909,7 +58918,7 @@
       "cat": "Villas For Sale",
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
-      "geol4": "Sama Zayed ",
+      "geol4": "Sama Zayed",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "14000000"
     },
@@ -58917,7 +58926,7 @@
       "cat": "Villas For Sale",
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
-      "geol4": "Sama Zayed ",
+      "geol4": "Sama Zayed",
       "unit_type": "Twin House",
       "lower_limit": "14000000"
     },
@@ -58957,7 +58966,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": " Syaheia A",
+      "geol4": "Syaheia A",
       "unit_type": "Apartment",
       "lower_limit": "2000000"
     },
@@ -58965,7 +58974,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": " Syaheia B",
+      "geol4": "Syaheia B",
       "unit_type": "Apartment",
       "lower_limit": "2000000"
     },
@@ -58989,7 +58998,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": " EL Patio Riva ",
+      "geol4": "EL Patio Riva",
       "unit_type": "Apartment",
       "lower_limit": "8000000"
     },
@@ -59021,7 +59030,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Villar ",
+      "geol4": "Villar",
       "unit_type": "Apartment",
       "lower_limit": "4500000"
     },
@@ -59029,7 +59038,7 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": " Layana Residence",
+      "geol4": "Layana Residence",
       "unit_type": "Chalet",
       "lower_limit": "4000000"
     },
@@ -59037,7 +59046,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": "High Town ",
+      "geol4": "High Town",
       "unit_type": "Apartment",
       "lower_limit": "3000000"
     },
@@ -59045,7 +59054,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": "High Town ",
+      "geol4": "High Town",
       "unit_type": "Duplex",
       "lower_limit": "5000000"
     },
@@ -59053,7 +59062,7 @@
       "cat": "Villas For Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": "Wadi El Nil ",
+      "geol4": "Wadi El Nil",
       "unit_type": "Apartment",
       "lower_limit": "2500000"
     },
@@ -59061,7 +59070,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": "Ruya City ",
+      "geol4": "Ruya City",
       "unit_type": "Apartment",
       "lower_limit": "6000000"
     },
@@ -59069,7 +59078,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": "Ruya City ",
+      "geol4": "Ruya City",
       "unit_type": "Duplex",
       "lower_limit": "10000000"
     },
@@ -59077,7 +59086,7 @@
       "cat": "Villas For Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": "Ruya City ",
+      "geol4": "Ruya City",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "20000000"
     },
@@ -59085,7 +59094,7 @@
       "cat": "Villas For Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": "Ruya City ",
+      "geol4": "Ruya City",
       "unit_type": "Town House",
       "lower_limit": "13000000"
     },
@@ -59093,7 +59102,7 @@
       "cat": "Villas For Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": "Ruya City ",
+      "geol4": "Ruya City",
       "unit_type": "Twin House",
       "lower_limit": "13000000"
     },
@@ -59165,7 +59174,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Medical Park Elite ",
+      "geol4": "Medical Park Elite",
       "unit_type": "Clinic",
       "lower_limit": "6000000"
     },
@@ -59365,7 +59374,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": "Diar plaza ",
+      "geol4": "Diar plaza",
       "unit_type": "Apartment",
       "lower_limit": "4000000"
     },
