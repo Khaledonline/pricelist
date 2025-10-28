@@ -29591,16 +29591,6 @@
       "lower_bound_ci_99": "1,800,000"
     },
     {
-      "brand": "Mercedes-Benz",
-      "model": "190",
-      "year": "1900",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "12,000"
-    },
-    {
       "brand": "BMW",
       "model": "325",
       "year": "2024",
@@ -32191,16 +32181,6 @@
       "lower_bound_ci_99": "3,750,000"
     },
     {
-      "brand": "Fiat",
-      "model": "132",
-      "year": "1900",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "60,000"
-    },
-    {
       "brand": "Kia",
       "model": "K3",
       "year": "2015",
@@ -33631,16 +33611,6 @@
       "lower_bound_ci_99": "730,000"
     },
     {
-      "brand": "Fiat",
-      "model": "Polonez",
-      "year": "1900",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "65,000"
-    },
-    {
       "brand": "Opel",
       "model": "Vectra",
       "year": "1992",
@@ -33649,16 +33619,6 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "160,000"
-    },
-    {
-      "brand": "Fiat",
-      "model": "127",
-      "year": "1900",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "50,000"
     },
     {
       "brand": "Fiat",
@@ -34029,16 +33989,6 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "475,000"
-    },
-    {
-      "brand": "Jeep",
-      "model": "Cherokee",
-      "year": "1900",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "800,000"
     },
     {
       "brand": "Mitsubishi",
@@ -34729,16 +34679,6 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "430,000"
-    },
-    {
-      "brand": "Suzuki",
-      "model": "Van",
-      "year": "1900",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "110,000"
     },
     {
       "brand": "Chevrolet",
@@ -40261,16 +40201,6 @@
       "lower_bound_ci_99": "75,000"
     },
     {
-      "brand": "Jeep",
-      "model": "Liberty",
-      "year": "1900",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "550,000"
-    },
-    {
       "brand": "Audi",
       "model": "A5",
       "year": "2025",
@@ -43171,16 +43101,6 @@
       "lower_bound_ci_99": "110,000"
     },
     {
-      "brand": "Nissan",
-      "model": "Sunny",
-      "year": "1900",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "460,000"
-    },
-    {
       "brand": "Changhe",
       "model": "Super Panda",
       "year": "2013",
@@ -43389,16 +43309,6 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "370,000"
-    },
-    {
-      "brand": "Isuzu",
-      "model": "D-Max",
-      "year": "1900",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "720,000"
     },
     {
       "brand": "Nissan",
@@ -45209,16 +45119,6 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "285,000"
-    },
-    {
-      "brand": "Toyota",
-      "model": "Corolla",
-      "year": "1900",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "190,000"
     },
     {
       "brand": "BMW",
@@ -55161,16 +55061,6 @@
       "lower_bound_ci_99": "300000"
     },
     {
-      "brand": "Fiat",
-      "model": "128",
-      "year": "1900",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "45000"
-    },
-    {
       "brand": "Toyota",
       "model": "Land Cruiser",
       "year": "2009",
@@ -55781,16 +55671,6 @@
       "lower_bound_ci_99": "850000"
     },
     {
-      "brand": "Fiat",
-      "model": "Ritmo",
-      "year": "1900",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "40000"
-    },
-    {
       "brand": "Opel",
       "model": "Vectra",
       "year": "1990",
@@ -56309,16 +56189,6 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "2400000"
-    },
-    {
-      "brand": "Fiat",
-      "model": "Uno",
-      "year": "1900",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "85000"
     },
     {
       "brand": "Daihatsu",
@@ -62701,16 +62571,6 @@
       "lower_bound_ci_99": "250000"
     },
     {
-      "brand": "Mazda",
-      "model": "323",
-      "year": "1900",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "70000"
-    },
-    {
       "brand": "Peugeot",
       "model": "301",
       "year": "2000",
@@ -62738,7 +62598,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "180000"
+      "lower_bound_ci_99": "160000"
     },
     {
       "brand": "Suzuki",
