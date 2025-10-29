@@ -9994,7 +9994,16 @@
       "geol4": "5th Settlement",
       "geol5": "The Ark Compound",
       "unit_type": "Apartment",
-      "lower_limit": "4000000"
+      "lower_limit": "6500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "The Ark Compound",
+      "unit_type": "Hotel Apartment",
+      "lower_limit": "10000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -10012,7 +10021,7 @@
       "geol4": "5th Settlement",
       "geol5": "The Ark Compound",
       "unit_type": "Duplex",
-      "lower_limit": "6000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Villas For Sale",
@@ -54929,7 +54938,7 @@
       "geol3": "New Heliopolis",
       "geol4": "Unknown",
       "unit_type": "Retail",
-      "lower_limit": "1000000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -54937,7 +54946,7 @@
       "geol3": "New Heliopolis",
       "geol4": "Unknown",
       "unit_type": "Clinic",
-      "lower_limit": "1000000"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Commercial for Sale",
