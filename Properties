@@ -10714,7 +10714,7 @@
       "geol4": "5th Settlement",
       "geol5": "VGK Compound",
       "unit_type": "Apartment",
-      "lower_limit": "3000000"
+      "lower_limit": "6300000"
     },
     {
       "cat": "Apartments for Sale",
@@ -10723,7 +10723,7 @@
       "geol4": "5th Settlement",
       "geol5": "VGK Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "7000000"
+      "lower_limit": "13500000"
     },
     {
       "cat": "Villas For Sale",
@@ -10732,7 +10732,7 @@
       "geol4": "5th Settlement",
       "geol5": "VGK Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "20585798"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -10741,7 +10741,7 @@
       "geol4": "5th Settlement",
       "geol5": "VGK Compound",
       "unit_type": "Duplex",
-      "lower_limit": "48000000"
+      "lower_limit": "11000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -10750,7 +10750,7 @@
       "geol4": "5th Settlement",
       "geol5": "VGK Compound",
       "unit_type": "Retail",
-      "lower_limit": "61500000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -10759,7 +10759,7 @@
       "geol4": "5th Settlement",
       "geol5": "VGK Compound",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "80000000"
+      "lower_limit": "50000000"
     },
     {
       "cat": "Villas For Sale",
