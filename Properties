@@ -15473,7 +15473,7 @@
       "geol3": "North Coast",
       "geol4": "Sidi Heneish",
       "geol5": "Beit Al Bahr",
-      "unit_type": "Apartment",
+      "unit_type": "Chalet",
       "lower_limit": "9000000"
     },
     {
@@ -16062,7 +16062,7 @@
       "geol2": "Red Sea",
       "geol3": "Hurghada",
       "geol4": "Biscay",
-      "unit_type": "Apartment",
+      "unit_type": "Chalet",
       "lower_limit": "2000000"
     },
     {
@@ -17801,7 +17801,7 @@
       "geol3": "North Coast",
       "geol4": "Ras Al Hekma",
       "geol5": "Celebration West Beach",
-      "unit_type": "Apartment",
+      "unit_type": "Chalet",
       "lower_limit": "4000000"
     },
     {
@@ -21812,7 +21812,7 @@
       "geol2": "Suez",
       "geol3": "Ain Sukhna",
       "geol4": "G-Bay",
-      "unit_type": "Apartment",
+      "unit_type": "Chalet",
       "lower_limit": "3500000"
     },
     {
@@ -22460,7 +22460,7 @@
       "geol2": "Matruh",
       "geol3": "North Coast",
       "geol4": "Glee",
-      "unit_type": "Apartment",
+      "unit_type": "Chalet",
       "lower_limit": "5000000"
     },
     {
@@ -29509,7 +29509,7 @@
       "geol2": "Red Sea",
       "geol3": "Hurghada",
       "geol4": "Majra Resort",
-      "unit_type": "Apartment",
+      "unit_type": "Chalet",
       "lower_limit": "3000000"
     },
     {
@@ -32112,7 +32112,7 @@
       "geol2": "Matruh",
       "geol3": "North Coast",
       "geol4": "Mirage Resort",
-      "unit_type": "Apartment",
+      "unit_type": "Chalet",
       "lower_limit": "4000000"
     },
     {
@@ -39441,7 +39441,7 @@
       "lower_limit": "1000000"
     },
     {
-      "cat": "Apartments for Sale",
+      "cat": "Commercial for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
       "geol4": "Alamein",
@@ -56670,7 +56670,7 @@
       "geol2": " Red Sea",
       "geol3": "Gouna",
       "geol4": "Water Side",
-      "unit_type": "Apartment",
+      "unit_type": "Chalet",
       "lower_limit": "9000000"
     },
     {
@@ -57717,7 +57717,7 @@
       "geol3": "North Coast",
       "geol4": "Hammam",
       "geol5": "Caribbean",
-      "unit_type": "Apartment",
+      "unit_type": "Chalet",
       "lower_limit": "3000000"
     },
     {
@@ -57768,7 +57768,7 @@
       "geol2": "Matruh",
       "geol3": "Marsa Matrouh",
       "geol4": "Bahya",
-      "unit_type": "Apartment",
+      "unit_type": "Chalet",
       "lower_limit": "3000000"
     },
     {
@@ -57776,7 +57776,7 @@
       "geol2": "Matruh",
       "geol3": "Marsa Matrouh",
       "geol4": "Grand Beausite",
-      "unit_type": "Apartment",
+      "unit_type": "Chalet",
       "lower_limit": "2000000"
     },
     {
@@ -57794,7 +57794,7 @@
       "geol3": "North Coast",
       "geol4": "Alamein",
       "geol5": "City View",
-      "unit_type": "Apartment",
+      "unit_type": "Chalet",
       "lower_limit": "9000000"
     },
     {
@@ -57830,7 +57830,7 @@
       "geol3": "North Coast",
       "geol4": "Alamein",
       "geol5": "L'Hiver",
-      "unit_type": "Apartment",
+      "unit_type": "Chalet",
       "lower_limit": "12000000"
     },
     {
@@ -57920,7 +57920,7 @@
       "geol3": "North Coast",
       "geol4": "Alamein",
       "geol5": "Ariba",
-      "unit_type": "Apartment",
+      "unit_type": "Chalet",
       "lower_limit": "3000000"
     },
     {
@@ -58122,7 +58122,7 @@
       "geol2": "Matruh",
       "geol3": "Alamein",
       "geol4": "Sakan Masr",
-      "unit_type": "Apartment",
+      "unit_type": "Chalet",
       "lower_limit": "3000000"
     },
     {
@@ -58494,7 +58494,7 @@
       "geol3": "North Coast",
       "geol4": "Ras Al Hekma",
       "geol5": "Remal",
-      "unit_type": "Apartment",
+      "unit_type": "Chalet",
       "lower_limit": "5000000"
     },
     {
@@ -58710,7 +58710,7 @@
       "geol2": "Damietta",
       "geol3": " Ras al-Bar",
       "geol4": "Sunset",
-      "unit_type": "Apartment",
+      "unit_type": "Chalet",
       "lower_limit": "2000000"
     },
     {
@@ -59041,7 +59041,7 @@
       "lower_limit": "5000000"
     },
     {
-      "cat": "Villas For Sale",
+      "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Wadi El Nil ",
