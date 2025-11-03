@@ -13529,6 +13529,15 @@
       "lower_limit": "15000000"
     },
     {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "Alamein Towers",
+      "unit_type": "Hotel Apartment",
+      "lower_limit": "19000000"
+    },
+    {
       "cat": "Commercial for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
@@ -26019,7 +26028,7 @@
       "geol3": "6th of October",
       "geol4": "Joya Compound",
       "unit_type": "Apartment",
-      "lower_limit": "18000000"
+      "lower_limit": "11000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -26027,7 +26036,7 @@
       "geol3": "6th of October",
       "geol4": "Joya Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "20000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Villas For Sale",
@@ -26035,7 +26044,7 @@
       "geol3": "6th of October",
       "geol4": "Joya Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "18000000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Villas For Sale",
@@ -26043,7 +26052,7 @@
       "geol3": "6th of October",
       "geol4": "Joya Compound",
       "unit_type": "Town House",
-      "lower_limit": "28000000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Villas For Sale",
@@ -26051,7 +26060,7 @@
       "geol3": "6th of October",
       "geol4": "Joya Compound",
       "unit_type": "Twin House",
-      "lower_limit": "40000000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -26059,7 +26068,7 @@
       "geol3": "6th of October",
       "geol4": "Joya Compound",
       "unit_type": "Duplex",
-      "lower_limit": "28000000"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Commercial for Sale",
