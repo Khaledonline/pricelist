@@ -16431,7 +16431,7 @@
       "geol2": "Matruh",
       "geol3": "North Coast",
       "geol4": "Ras Al Hekma",
-      "geol5": "Blues Tiffany ",
+      "geol5": "Blues Tiffany",
       "unit_type": "Chalet",
       "lower_limit": "4000000"
     },
@@ -16440,7 +16440,7 @@
       "geol2": "Matruh",
       "geol3": "North Coast",
       "geol4": "Ras Al Hekma",
-      "geol5": "Blues Tiffany ",
+      "geol5": "Blues Tiffany",
       "unit_type": "Apartment",
       "lower_limit": "4000000"
     },
@@ -56081,7 +56081,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Alexandria",
       "geol3": "Smoha",
-      "geol4": "Valore ",
+      "geol4": "Valore",
       "unit_type": "Apartment",
       "lower_limit": "4000000"
     },
@@ -56676,7 +56676,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": " Red Sea",
+      "geol2": "Red Sea",
       "geol3": "Gouna",
       "geol4": "Water Side",
       "unit_type": "Chalet",
@@ -56684,7 +56684,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": " Red Sea",
+      "geol2": "Red Sea",
       "geol3": "Gouna",
       "geol4": "Water Side",
       "unit_type": "Chalet",
@@ -56692,7 +56692,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": " Red Sea",
+      "geol2": "Red Sea",
       "geol3": "Gouna",
       "geol4": "Water Side",
       "unit_type": "Penthouse",
@@ -58178,7 +58178,7 @@
       "cat": "Villas For Sale",
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
-      "geol4": "Rafts ",
+      "geol4": "Rafts",
       "unit_type": "Standalone Villa",
       "lower_limit": "20000000"
     },
@@ -58186,7 +58186,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
-      "geol4": " Six West Compound",
+      "geol4": "Six West Compound",
       "unit_type": "Apartment",
       "lower_limit": "5000000"
     },
@@ -58559,7 +58559,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Nasr City",
-      "geol4": "Primera ",
+      "geol4": "Primera",
       "unit_type": "Apartment",
       "lower_limit": "3500000"
     },
@@ -58567,7 +58567,7 @@
       "cat": "Villas For Sale",
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
-      "geol4": "Sama Zayed ",
+      "geol4": "Sama Zayed",
       "unit_type": "Twin House",
       "lower_limit": "14000000"
     },
@@ -58575,7 +58575,7 @@
       "cat": "Villas For Sale",
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
-      "geol4": "Sama Zayed ",
+      "geol4": "Sama Zayed",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "18000000"
     },
@@ -58623,14 +58623,15 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Lagoons ",
+      "geol4": "Lagoons",
       "unit_type": "Chalet",
       "lower_limit": "3000000"
     },
     {
       "cat": "Vacation Homes for Sale",
       "geol2": "Ismailia",
-      "geol3": "Gandola Village ",
+      "geol3": "Gandola Village",
+      "geol4": "",
       "unit_type": "Chalet",
       "lower_limit": "1000000"
     },
@@ -58710,14 +58711,14 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": "W Gate ",
+      "geol4": "W Gate",
       "unit_type": "Apartment",
       "lower_limit": "3000000"
     },
     {
       "cat": "Vacation Homes for Sale",
       "geol2": "Damietta",
-      "geol3": " Ras al-Bar",
+      "geol3": "Ras al-Bar",
       "geol4": "Sunset",
       "unit_type": "Chalet",
       "lower_limit": "2000000"
@@ -58734,6 +58735,7 @@
       "cat": "Apartments for Sale",
       "geol2": "6th of October",
       "geol3": "Boulevard",
+      "geol4": "",
       "unit_type": "Apartment",
       "lower_limit": "2500000"
     },
@@ -58837,7 +58839,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
-      "geol4": "kargo Mall ",
+      "geol4": "kargo Mall",
       "unit_type": "Office Space",
       "lower_limit": "10000000"
     },
@@ -58845,7 +58847,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
-      "geol4": "kargo Mall ",
+      "geol4": "kargo Mall",
       "unit_type": "Retail",
       "lower_limit": "10000000"
     },
@@ -58853,7 +58855,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
-      "geol4": "kargo Mall ",
+      "geol4": "kargo Mall",
       "unit_type": "Clinic",
       "lower_limit": "3000000"
     },
@@ -58869,7 +58871,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Al Waha ",
+      "geol4": "Al Waha",
       "unit_type": "Clinic",
       "lower_limit": "2000000"
     },
@@ -58893,7 +58895,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Capital City",
-      "geol4": "Code ",
+      "geol4": "Code",
       "unit_type": "Apartment",
       "lower_limit": "4000000"
     },
@@ -58909,7 +58911,7 @@
       "cat": "Villas For Sale",
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
-      "geol4": "Sama Zayed ",
+      "geol4": "Sama Zayed",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "14000000"
     },
@@ -58917,7 +58919,7 @@
       "cat": "Villas For Sale",
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
-      "geol4": "Sama Zayed ",
+      "geol4": "Sama Zayed",
       "unit_type": "Twin House",
       "lower_limit": "14000000"
     },
@@ -58957,7 +58959,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": " Syaheia A",
+      "geol4": "Syaheia A",
       "unit_type": "Apartment",
       "lower_limit": "2000000"
     },
@@ -58965,7 +58967,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": " Syaheia B",
+      "geol4": "Syaheia B",
       "unit_type": "Apartment",
       "lower_limit": "2000000"
     },
@@ -58989,7 +58991,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": " EL Patio Riva ",
+      "geol4": "EL Patio Riva",
       "unit_type": "Apartment",
       "lower_limit": "8000000"
     },
@@ -59021,7 +59023,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Villar ",
+      "geol4": "Villar",
       "unit_type": "Apartment",
       "lower_limit": "4500000"
     },
@@ -59029,7 +59031,7 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": " Layana Residence",
+      "geol4": "Layana Residence",
       "unit_type": "Chalet",
       "lower_limit": "4000000"
     },
@@ -59037,7 +59039,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": "High Town ",
+      "geol4": "High Town",
       "unit_type": "Apartment",
       "lower_limit": "3000000"
     },
@@ -59045,7 +59047,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": "High Town ",
+      "geol4": "High Town",
       "unit_type": "Duplex",
       "lower_limit": "5000000"
     },
@@ -59053,7 +59055,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": "Wadi El Nil ",
+      "geol4": "Wadi El Nil",
       "unit_type": "Apartment",
       "lower_limit": "2500000"
     },
@@ -59061,7 +59063,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": "Ruya City ",
+      "geol4": "Ruya City",
       "unit_type": "Apartment",
       "lower_limit": "6000000"
     },
@@ -59069,7 +59071,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": "Ruya City ",
+      "geol4": "Ruya City",
       "unit_type": "Duplex",
       "lower_limit": "10000000"
     },
@@ -59077,7 +59079,7 @@
       "cat": "Villas For Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": "Ruya City ",
+      "geol4": "Ruya City",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "20000000"
     },
@@ -59085,7 +59087,7 @@
       "cat": "Villas For Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": "Ruya City ",
+      "geol4": "Ruya City",
       "unit_type": "Town House",
       "lower_limit": "13000000"
     },
@@ -59093,7 +59095,7 @@
       "cat": "Villas For Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": "Ruya City ",
+      "geol4": "Ruya City",
       "unit_type": "Twin House",
       "lower_limit": "13000000"
     },
@@ -59165,7 +59167,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Medical Park Elite ",
+      "geol4": "Medical Park Elite",
       "unit_type": "Clinic",
       "lower_limit": "6000000"
     },
@@ -59365,7 +59367,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": "Diar plaza ",
+      "geol4": "Diar plaza",
       "unit_type": "Apartment",
       "lower_limit": "4000000"
     },
@@ -59633,7 +59635,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "EDNC ",
+      "geol4": "EDNC",
       "unit_type": "Office Space",
       "lower_limit": "20000000"
     },
@@ -59665,7 +59667,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Golden hub ",
+      "geol4": "Golden hub",
       "unit_type": "Retail",
       "lower_limit": "10000000"
     },
@@ -59673,7 +59675,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Golden hub ",
+      "geol4": "Golden hub",
       "unit_type": "Clinic",
       "lower_limit": "6000000"
     },
@@ -59681,7 +59683,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Golden hub ",
+      "geol4": "Golden hub",
       "unit_type": "Office Space",
       "lower_limit": "5000000"
     },
@@ -59729,6 +59731,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Ghamra",
+      "geol4": "",
       "unit_type": "Apartment",
       "lower_limit": "900000"
     },
@@ -59736,6 +59739,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Ghamra",
+      "geol4": "",
       "unit_type": "Duplex",
       "lower_limit": "1600000"
     },
@@ -59743,6 +59747,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "Ghamra",
+      "geol4": "",
       "unit_type": "Clinic",
       "lower_limit": "1900000"
     },
@@ -59750,6 +59755,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "Ghamra",
+      "geol4": "",
       "unit_type": "Retail",
       "lower_limit": "2500000"
     },
@@ -61445,6 +61451,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Cairo - Ismailia Desert Road",
+      "geol4": "",
       "unit_type": "Apartment",
       "lower_limit": "800000"
     },
@@ -62460,6 +62467,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "Bab El louk",
+      "geol4": "",
       "unit_type": "Clinic",
       "lower_limit": "2800000"
     },
@@ -62467,6 +62475,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "Bab El louk",
+      "geol4": "",
       "unit_type": "Retail",
       "lower_limit": "4000000"
     },
@@ -62474,6 +62483,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Bab El louk",
+      "geol4": "",
       "unit_type": "Apartment",
       "lower_limit": "1500000"
     },
@@ -62481,6 +62491,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Bab El louk",
+      "geol4": "",
       "unit_type": "Duplex",
       "lower_limit": "2300000"
     },
@@ -63120,6 +63131,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "El Khalifa",
+      "geol4": "",
       "unit_type": "Apartment",
       "lower_limit": "650000"
     },
@@ -63391,6 +63403,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Abou Al Nomros",
+      "geol4": "",
       "unit_type": "Clinic",
       "lower_limit": "1000000"
     },
@@ -63398,6 +63411,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Abou Al Nomros",
+      "geol4": "",
       "unit_type": "Retail",
       "lower_limit": "1500000"
     },
@@ -63405,6 +63419,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Abou Al Nomros",
+      "geol4": "",
       "unit_type": "Apartment",
       "lower_limit": "500000"
     },
@@ -63412,6 +63427,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Abou Al Nomros",
+      "geol4": "",
       "unit_type": "Duplex",
       "lower_limit": "800000"
     },
@@ -64411,6 +64427,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Rabea El Gizy St.",
+      "geol4": "",
       "unit_type": "Clinic",
       "lower_limit": "2000000"
     },
@@ -64418,6 +64435,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Rabea El Gizy St.",
+      "geol4": "",
       "unit_type": "Retail",
       "lower_limit": "2800000"
     },
@@ -64425,6 +64443,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Rabea El Gizy St.",
+      "geol4": "",
       "unit_type": "Apartment",
       "lower_limit": "1000000"
     },
@@ -64432,6 +64451,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Rabea El Gizy St.",
+      "geol4": "",
       "unit_type": "Duplex",
       "lower_limit": "1500000"
     },
@@ -64439,6 +64459,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Al Omraneyah",
+      "geol4": "",
       "unit_type": "Clinic",
       "lower_limit": "1800000"
     },
@@ -64446,6 +64467,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Al Omraneyah",
+      "geol4": "",
       "unit_type": "Retail",
       "lower_limit": "2500000"
     },
@@ -64453,6 +64475,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Al Omraneyah",
+      "geol4": "",
       "unit_type": "Apartment",
       "lower_limit": "900000"
     },
@@ -64460,6 +64483,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Al Omraneyah",
+      "geol4": "",
       "unit_type": "Duplex",
       "lower_limit": "1300000"
     },
@@ -64563,6 +64587,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Meet Okba",
+      "geol4": "",
       "unit_type": "Clinic",
       "lower_limit": "1800000"
     },
@@ -64570,6 +64595,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Meet Okba",
+      "geol4": "",
       "unit_type": "Retail",
       "lower_limit": "2500000"
     },
@@ -64577,6 +64603,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Meet Okba",
+      "geol4": "",
       "unit_type": "Apartment",
       "lower_limit": "900000"
     },
@@ -64584,6 +64611,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Meet Okba",
+      "geol4": "",
       "unit_type": "Duplex",
       "lower_limit": "1300000"
     },
@@ -64591,6 +64619,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Sakkara",
+      "geol4": "",
       "unit_type": "Clinic",
       "lower_limit": "1000000"
     },
@@ -64598,6 +64627,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Sakkara",
+      "geol4": "",
       "unit_type": "Retail",
       "lower_limit": "1500000"
     },
@@ -64605,6 +64635,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Sakkara",
+      "geol4": "",
       "unit_type": "Apartment",
       "lower_limit": "500000"
     },
@@ -64612,6 +64643,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Sakkara",
+      "geol4": "",
       "unit_type": "Duplex",
       "lower_limit": "800000"
     },
@@ -64715,6 +64747,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Sakiat Mekki",
+      "geol4": "",
       "unit_type": "Apartment",
       "lower_limit": "1500000"
     },
@@ -64722,6 +64755,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Sakiat Mekki",
+      "geol4": "",
       "unit_type": "Retail",
       "lower_limit": "2000000"
     },
@@ -65626,7 +65660,7 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "Marsa Matrouh",
-      "geol4": "Laspero  Matrouh",
+      "geol4": "Laspero Matrouh",
       "unit_type": "Chalet",
       "lower_limit": "2000000"
     },
@@ -65877,6 +65911,2033 @@
       "geol4": "Tawila",
       "unit_type": "Chalet",
       "lower_limit": "12000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "5th Settlement",
+      "geol4": "Oriana Compound",
+      "unit_type": "Apartment",
+      "lower_limit": "14000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "5th Settlement",
+      "geol4": "Oriana Compound",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "20000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Wadi El Nil",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Wadi El Nil",
+      "unit_type": "Retail",
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Wadi El Nil",
+      "unit_type": "Land",
+      "lower_limit": "3250000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Mega Mall",
+      "unit_type": "Retail",
+      "lower_limit": "9200000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Mega Mall",
+      "unit_type": "Office Space",
+      "lower_limit": "4700000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Zayed Gardens Villas",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "13100000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Zayed Gardens Villas",
+      "unit_type": "Twin House",
+      "lower_limit": "12000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Zayed Gardens Villas",
+      "unit_type": "Town House",
+      "lower_limit": "9700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Monufia",
+      "geol3": "Sadat",
+      "geol4": "Beit Al Watan",
+      "unit_type": "Apartment",
+      "lower_limit": "1000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Monufia",
+      "geol3": "Sadat",
+      "geol4": "Beit Al Watan",
+      "unit_type": "Duplex",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Smouha",
+      "geol4": "Festival City",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Zayed Gardens Villas",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "13100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Monufia",
+      "geol3": "Sadat",
+      "geol4": "Beit Al Watan",
+      "unit_type": "Apartment",
+      "lower_limit": "1000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Monufia",
+      "geol3": "Sadat",
+      "geol4": "Beit Al Watan",
+      "unit_type": "Duplex",
+      "lower_limit": "2100000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Dirra City",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "15500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Dirra City",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "15500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Dirra City",
+      "unit_type": "Duplex",
+      "lower_limit": "3800000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Obour City",
+      "geol4": "NXT Mall",
+      "unit_type": "Retail",
+      "lower_limit": "6500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Obour City",
+      "geol4": "NXT Mall",
+      "unit_type": "Office Space",
+      "lower_limit": "3150000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Nile Valley Gardens",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "11000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Nile Valley Gardens",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "11000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Nile Valley Gardens",
+      "unit_type": "Duplex",
+      "lower_limit": "3350000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Valea",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "15500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Valea",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "15500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Valea",
+      "unit_type": "Duplex",
+      "lower_limit": "16000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Valea",
+      "unit_type": "Duplex",
+      "lower_limit": "16000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Ruya City",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "11800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Ruya City",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "11800000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Media Elite City",
+      "unit_type": "Twin House",
+      "lower_limit": "8000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Smouha",
+      "geol4": "Alex start",
+      "unit_type": "Apartment",
+      "lower_limit": "4400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Smouha",
+      "geol4": "Alex start",
+      "unit_type": "Duplex",
+      "lower_limit": "4900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Una",
+      "unit_type": "Apartment",
+      "lower_limit": "1800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Avalon",
+      "unit_type": "Apartment",
+      "lower_limit": "3400000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Najma Walk",
+      "unit_type": "Retail",
+      "lower_limit": "5500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Sheraton",
+      "geol4": "Axis Mall",
+      "unit_type": "Retail",
+      "lower_limit": "6700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Infinity",
+      "unit_type": "Apartment",
+      "lower_limit": "2100000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Infinity",
+      "unit_type": "Twin House",
+      "lower_limit": "9900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Queen land",
+      "unit_type": "Duplex",
+      "lower_limit": "7700000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Queen land",
+      "unit_type": "Retail",
+      "lower_limit": "7600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Golden Ribbon",
+      "unit_type": "Apartment",
+      "lower_limit": "2300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Golden Ribbon",
+      "unit_type": "Duplex",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "El Fayrouz",
+      "unit_type": "Apartment",
+      "lower_limit": "2600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "El Fayrouz",
+      "unit_type": "Duplex",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "El Fayrouz",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "14000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "El Fayrouz",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "14000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Maryotaya",
+      "geol4": "Town Valley",
+      "unit_type": "Retail",
+      "lower_limit": "4300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Qomra",
+      "unit_type": "Duplex",
+      "lower_limit": "4800000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Qomra",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "13900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Qomra",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "13900000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Chocolate coast",
+      "unit_type": "Duplex",
+      "lower_limit": "3100000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Chocolate coast",
+      "unit_type": "Chalet",
+      "lower_limit": "2600000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Chocolate coast",
+      "unit_type": "Studio",
+      "lower_limit": "1600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Katameya",
+      "geol4": "Business one",
+      "unit_type": "Retail",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Katameya",
+      "geol4": "Business one",
+      "unit_type": "Office Space",
+      "lower_limit": "2800000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Noir Mall",
+      "unit_type": "Retail",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Top view",
+      "unit_type": "Apartment",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Meraki Residence",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Montazah",
+      "geol4": "Abha Hayah",
+      "unit_type": "Apartment",
+      "lower_limit": "4400000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Alexandria",
+      "geol3": "Montazah",
+      "geol4": "Abha Hayah",
+      "unit_type": "Twin House",
+      "lower_limit": "9400000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "West Point Mall",
+      "unit_type": "Office Space",
+      "lower_limit": "2800000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "West Point Mall",
+      "unit_type": "Retail",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Connect 4 plaza",
+      "unit_type": "Office Space",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Riza",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "17100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Riza",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "17100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Gamal Abdel-Nasser Axis",
+      "unit_type": "Apartment",
+      "lower_limit": "1900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Ring Road",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "26th of July Corridor",
+      "unit_type": "Apartment",
+      "lower_limit": "1900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "26th of July Corridor",
+      "unit_type": "Duplex",
+      "lower_limit": "2700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "6 October- Wadi El Natroun Road",
+      "unit_type": "Apartment",
+      "lower_limit": "1800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "6 October- Wadi El Natroun Road",
+      "unit_type": "Duplex",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Damac Park Avenue",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "13500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Damac Park Avenue",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "13500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Damac Park Avenue",
+      "unit_type": "Apartment",
+      "lower_limit": "2200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Damac Park Avenue",
+      "unit_type": "Duplex",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Fayoum Desert road",
+      "unit_type": "Apartment",
+      "lower_limit": "1700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Fayoum Desert road",
+      "unit_type": "Duplex",
+      "lower_limit": "2200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Sia",
+      "unit_type": "Apartment",
+      "lower_limit": "2200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Sia",
+      "unit_type": "Duplex",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Up West",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Up West",
+      "unit_type": "Office Space",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Up West",
+      "unit_type": "Duplex",
+      "lower_limit": "3100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Al Andalus District",
+      "unit_type": "Apartment",
+      "lower_limit": "2200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Al Andalus District",
+      "unit_type": "Duplex",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Jumeirah",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "13500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Jumeirah",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "13500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Jumeirah",
+      "unit_type": "Apartment",
+      "lower_limit": "2700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Jumeirah",
+      "unit_type": "Duplex",
+      "lower_limit": "3700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Highland",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Highland",
+      "unit_type": "Duplex",
+      "lower_limit": "2800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Oasis Park",
+      "unit_type": "Apartment",
+      "lower_limit": "1800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Oasis Park",
+      "unit_type": "Duplex",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Arabiano",
+      "unit_type": "Apartment",
+      "lower_limit": "1800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Arabiano",
+      "unit_type": "Duplex",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Mirage",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "11200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Mirage",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "11200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Concrete",
+      "unit_type": "Apartment",
+      "lower_limit": "2400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Concrete",
+      "unit_type": "Duplex",
+      "lower_limit": "3300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Grand Chateau",
+      "unit_type": "Apartment",
+      "lower_limit": "2800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Grand Chateau",
+      "unit_type": "Duplex",
+      "lower_limit": "3700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Horus Compound",
+      "unit_type": "Apartment",
+      "lower_limit": "2700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Horus Compound",
+      "unit_type": "Duplex",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Hub 44",
+      "unit_type": "Apartment",
+      "lower_limit": "2300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Hub 44",
+      "unit_type": "Duplex",
+      "lower_limit": "3100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Havana Hills",
+      "unit_type": "Apartment",
+      "lower_limit": "2700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Havana Hills",
+      "unit_type": "Duplex",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Nabea",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Nabea",
+      "unit_type": "Duplex",
+      "lower_limit": "3400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Sakan Masr EMPC Compound",
+      "unit_type": "Apartment",
+      "lower_limit": "2600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Sakan Masr EMPC Compound",
+      "unit_type": "Duplex",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Al Sakab",
+      "unit_type": "Apartment",
+      "lower_limit": "2900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Al Sakab",
+      "unit_type": "Duplex",
+      "lower_limit": "3900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "1st District",
+      "geol5": "West Gravity Plaza",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "1st District",
+      "geol5": "West Gravity Plaza",
+      "unit_type": "Duplex",
+      "lower_limit": "3400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "26th of July Corridor",
+      "geol5": "Nour Heights",
+      "unit_type": "Apartment",
+      "lower_limit": "2100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "26th of July Corridor",
+      "geol5": "Nour Heights",
+      "unit_type": "Duplex",
+      "lower_limit": "2900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "2nd District",
+      "geol5": "6th of October University Library St",
+      "unit_type": "Apartment",
+      "lower_limit": "2700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "2nd District",
+      "geol5": "6th of October University Library St",
+      "unit_type": "Duplex",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "8th District",
+      "geol5": "Central Axis",
+      "unit_type": "Apartment",
+      "lower_limit": "2900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "8th District",
+      "geol5": "Central Axis",
+      "unit_type": "Duplex",
+      "lower_limit": "3900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Al Motamayez District",
+      "geol5": "Royal Hills",
+      "unit_type": "Apartment",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Al Motamayez District",
+      "geol5": "Royal Hills",
+      "unit_type": "Duplex",
+      "lower_limit": "4300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "La Joie Pyramids",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "La Joie Pyramids",
+      "unit_type": "Duplex",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Al Wahat Road",
+      "geol5": "Emerald City",
+      "unit_type": "Apartment",
+      "lower_limit": "3100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Al Wahat Road",
+      "geol5": "Emerald City",
+      "unit_type": "Duplex",
+      "lower_limit": "4300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Al Wahat Road",
+      "geol5": "Emerald City",
+      "unit_type": "Studio",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Al Wahat Road",
+      "geol5": "Emerald City",
+      "unit_type": "Penthouse",
+      "lower_limit": "4900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Al Wahat Road",
+      "geol5": "Emerald City",
+      "unit_type": "Roof",
+      "lower_limit": "2700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Al Wahat Road",
+      "geol5": "Masaken Osman",
+      "unit_type": "Apartment",
+      "lower_limit": "2600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Al Wahat Road",
+      "geol5": "Masaken Osman",
+      "unit_type": "Duplex",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Al Wahat Road",
+      "geol5": "Masaken Osman",
+      "unit_type": "Studio",
+      "lower_limit": "1900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Al Wahat Road",
+      "geol5": "Masaken Osman",
+      "unit_type": "Penthouse",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Al Wahat Road",
+      "geol5": "Masaken Osman",
+      "unit_type": "Roof",
+      "lower_limit": "2200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Al Wahat Road",
+      "geol5": "Oak Park",
+      "unit_type": "Apartment",
+      "lower_limit": "3400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Al Wahat Road",
+      "geol5": "Oak Park",
+      "unit_type": "Duplex",
+      "lower_limit": "4600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Al Wahat Road",
+      "geol5": "Oak Park",
+      "unit_type": "Studio",
+      "lower_limit": "2700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Al Wahat Road",
+      "geol5": "Oak Park",
+      "unit_type": "Penthouse",
+      "lower_limit": "5400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Al Wahat Road",
+      "geol5": "Oak Park",
+      "unit_type": "Town House",
+      "lower_limit": "9000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Al Wahat Road",
+      "geol5": "Oak Park",
+      "unit_type": "Twin House",
+      "lower_limit": "10800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Al Wahat Road",
+      "geol5": "Oak Park",
+      "unit_type": "Roof",
+      "lower_limit": "3100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Ibni Baitak 3",
+      "unit_type": "Apartment",
+      "lower_limit": "2100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Ibni Baitak 3",
+      "unit_type": "Duplex",
+      "lower_limit": "2900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Ibni Baitak 3",
+      "unit_type": "Studio",
+      "lower_limit": "1600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Ibni Baitak 3",
+      "unit_type": "Penthouse",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Ibni Baitak 3",
+      "unit_type": "Roof",
+      "lower_limit": "1800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo Alexandria Desert Road",
+      "geol5": "Orange Lakes Golf Club",
+      "unit_type": "Apartment",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo Alexandria Desert Road",
+      "geol5": "Orange Lakes Golf Club",
+      "unit_type": "Duplex",
+      "lower_limit": "4900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo Alexandria Desert Road",
+      "geol5": "Orange Lakes Golf Club",
+      "unit_type": "Studio",
+      "lower_limit": "2900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo Alexandria Desert Road",
+      "geol5": "Orange Lakes Golf Club",
+      "unit_type": "Penthouse",
+      "lower_limit": "6300000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo Alexandria Desert Road",
+      "geol5": "Orange Lakes Golf Club",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "16200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo Alexandria Desert Road",
+      "geol5": "Orange Lakes Golf Club",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "16200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo Alexandria Desert Road",
+      "geol5": "Orange Lakes Golf Club",
+      "unit_type": "Town House",
+      "lower_limit": "11700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo Alexandria Desert Road",
+      "geol5": "Orange Lakes Golf Club",
+      "unit_type": "Twin House",
+      "lower_limit": "13500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo Alexandria Desert Road",
+      "geol5": "Orange Lakes Golf Club",
+      "unit_type": "Roof",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "1st District",
+      "geol5": "Park Yard Mall",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "1st District",
+      "geol5": "Park Yard Mall",
+      "unit_type": "Retail",
+      "lower_limit": "5300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Northern Expansions",
+      "geol4": "Northern Expansions",
+      "geol5": "Al Reham",
+      "unit_type": "Apartment",
+      "lower_limit": "2800000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Northern Expansions",
+      "geol4": "Northern Expansions",
+      "geol5": "Al Reham",
+      "unit_type": "Retail",
+      "lower_limit": "8100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Northern Expansions",
+      "geol4": "Northern Expansions",
+      "geol5": "District 300",
+      "unit_type": "Apartment",
+      "lower_limit": "3100000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Northern Expansions",
+      "geol4": "Northern Expansions",
+      "geol5": "District 300",
+      "unit_type": "Office Space",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Northern Expansions",
+      "geol4": "Northern Expansions",
+      "geol5": "Gamal Abdel Nasser St.",
+      "unit_type": "Retail",
+      "lower_limit": "9500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Northern Expansions",
+      "geol4": "Northern Expansions",
+      "geol5": "Lake 46 Mall",
+      "unit_type": "Retail",
+      "lower_limit": "12700000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Northern Expansions",
+      "geol4": "Northern Expansions",
+      "geol5": "Lake 46 Mall",
+      "unit_type": "Clinic",
+      "lower_limit": "6300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Ard Al Mokhabarat",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Ard Al Mokhabarat",
+      "unit_type": "Duplex",
+      "lower_limit": "3400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Green Gardens",
+      "unit_type": "Apartment",
+      "lower_limit": "2200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Green Gardens",
+      "unit_type": "Duplex",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Ibni Baitak 1",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Ibni Baitak 1",
+      "unit_type": "Duplex",
+      "lower_limit": "2700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Ibni Baitak 4",
+      "unit_type": "Apartment",
+      "lower_limit": "2300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Ibni Baitak 4",
+      "unit_type": "Duplex",
+      "lower_limit": "3100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Ibni Baitak 5",
+      "unit_type": "Apartment",
+      "lower_limit": "2400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Ibni Baitak 5",
+      "unit_type": "Duplex",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Picnic Park",
+      "unit_type": "Apartment",
+      "lower_limit": "2100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Picnic Park",
+      "unit_type": "Duplex",
+      "lower_limit": "2900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Star City",
+      "unit_type": "Apartment",
+      "lower_limit": "2600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Star City",
+      "unit_type": "Duplex",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Win Plaza Mall",
+      "unit_type": "Retail",
+      "lower_limit": "6500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Win Plaza Mall",
+      "unit_type": "Clinic",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo Alexandria Desert Road",
+      "geol5": "Cairo West Residence",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo Alexandria Desert Road",
+      "geol5": "Cairo West Residence",
+      "unit_type": "Duplex",
+      "lower_limit": "6100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo Alexandria Desert Road",
+      "geol5": "Cairo West Residence",
+      "unit_type": "Penthouse",
+      "lower_limit": "8100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo Alexandria Desert Road",
+      "geol5": "Cairo West Residence",
+      "unit_type": "Town House",
+      "lower_limit": "14400000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo Alexandria Desert Road",
+      "geol5": "Cairo West Residence",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "21600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo Alexandria Desert Road",
+      "geol5": "Cairo West Residence",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "21600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo Alexandria Desert Road",
+      "geol5": "Kortoba",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo Alexandria Desert Road",
+      "geol5": "Kortoba",
+      "unit_type": "Duplex",
+      "lower_limit": "5400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo Alexandria Desert Road",
+      "geol5": "Kortoba",
+      "unit_type": "Penthouse",
+      "lower_limit": "7200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo Alexandria Desert Road",
+      "geol5": "Kortoba",
+      "unit_type": "Twin House",
+      "lower_limit": "12600000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo Alexandria Desert Road",
+      "geol5": "Kortoba",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "19800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo Alexandria Desert Road",
+      "geol5": "Kortoba",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "19800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo Alexandria Desert Road",
+      "geol5": "Palm Heights",
+      "unit_type": "Apartment",
+      "lower_limit": "4900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo Alexandria Desert Road",
+      "geol5": "Palm Heights",
+      "unit_type": "Duplex",
+      "lower_limit": "6700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo Alexandria Desert Road",
+      "geol5": "Palm Heights",
+      "unit_type": "Penthouse",
+      "lower_limit": "8500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo Alexandria Desert Road",
+      "geol5": "Palm Heights",
+      "unit_type": "Town House",
+      "lower_limit": "15700000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo Alexandria Desert Road",
+      "geol5": "Palm Heights",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "24300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo Alexandria Desert Road",
+      "geol5": "Palm Heights",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "24300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Al Jazeera 2",
+      "unit_type": "Apartment",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Al Jazeera 2",
+      "unit_type": "Duplex",
+      "lower_limit": "4300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Coy",
+      "unit_type": "Apartment",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Coy",
+      "unit_type": "Duplex",
+      "lower_limit": "4900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Designopolis",
+      "unit_type": "Apartment",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Designopolis",
+      "unit_type": "Retail",
+      "lower_limit": "10800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Eden",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Eden",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "16200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Eden",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "16200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Elan",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Elan",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "18000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Elan",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "18000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Girona",
+      "unit_type": "Apartment",
+      "lower_limit": "3400000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "IL Punto",
+      "unit_type": "Office Space",
+      "lower_limit": "3800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Lake West 2",
+      "unit_type": "Apartment",
+      "lower_limit": "5400000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Lake West 2",
+      "unit_type": "Town House",
+      "lower_limit": "12600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Life Park",
+      "unit_type": "Apartment",
+      "lower_limit": "3800000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Medipoint",
+      "unit_type": "Clinic",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Namya West",
+      "unit_type": "Apartment",
+      "lower_limit": "3100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Riviera",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Royal Gardens",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "14400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Royal Gardens",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "14400000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Z4 Mall Janna Zayed",
+      "unit_type": "Retail",
+      "lower_limit": "11700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Zahrat Al Madaen",
+      "unit_type": "Apartment",
+      "lower_limit": "2900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Sheikh Zayed",
+      "geol5": "1st District",
+      "unit_type": "Apartment",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Sheikh Zayed",
+      "geol5": "1st District",
+      "unit_type": "Duplex",
+      "lower_limit": "4300000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Sheikh Zayed",
+      "geol5": "Zayed Mall",
+      "unit_type": "Retail",
+      "lower_limit": "9000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Sheikh Zayed",
+      "geol5": "2nd District",
+      "unit_type": "Apartment",
+      "lower_limit": "2900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Sheikh Zayed",
+      "geol5": "2nd District",
+      "unit_type": "Duplex",
+      "lower_limit": "3900000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Sheikh Zayed",
+      "geol5": "Piazza 59 Mall",
+      "unit_type": "Retail",
+      "lower_limit": "11700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "6th District",
+      "geol5": "Piazza 59 Mall",
+      "unit_type": "Apartment",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "26th of July Corridor",
+      "geol5": "Al Guezira plaza",
+      "unit_type": "Retail",
+      "lower_limit": "13500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "26th of July Corridor",
+      "geol5": "Al Guezira plaza",
+      "unit_type": "Office Space",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "26th of July Corridor",
+      "geol5": "Majarrah",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Waslet Dahshur",
+      "geol5": "Z Spot",
+      "unit_type": "Retail",
+      "lower_limit": "9900000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Waslet Dahshur",
+      "geol5": "Za Mall",
+      "unit_type": "Office Space",
+      "lower_limit": "5800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "New Zayed",
+      "geol5": "Aster",
+      "unit_type": "Apartment",
+      "lower_limit": "4200000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "New Zayed",
+      "geol5": "Aster",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "16200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "New Zayed",
+      "geol5": "Aster",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "16200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "New Zayed",
+      "geol5": "Capital Green Compound",
+      "unit_type": "Apartment",
+      "lower_limit": "5400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "New Zayed",
+      "geol5": "Orbit View",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "New Zayed",
+      "geol5": "Parks Square",
+      "unit_type": "Apartment",
+      "lower_limit": "4900000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "New Zayed",
+      "geol5": "ZAYARD AVENUE",
+      "unit_type": "Retail",
+      "lower_limit": "10800000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "New Zayed",
+      "geol5": "ZAYARD AVENUE",
+      "unit_type": "Clinic",
+      "lower_limit": "5400000"
     }
   ]
 }
