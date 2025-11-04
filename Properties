@@ -25968,6 +25968,14 @@
     },
     {
       "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Jirian",
+      "unit_type": "Stand alone Villa",
+      "lower_limit": "20000000"
+    },
+    {
+      "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Zahraa Al Maadi",
       "geol4": "Jodran",
