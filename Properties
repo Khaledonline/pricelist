@@ -9958,7 +9958,7 @@
       "geol4": "5th Settlement",
       "geol5": "The Address East Compound",
       "unit_type": "Apartment",
-      "lower_limit": "7000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -9976,7 +9976,7 @@
       "geol4": "5th Settlement",
       "geol5": "The Address East Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "25000000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -57775,10 +57775,11 @@
     {
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
-      "geol3": "Alamein",
-      "geol4": "ELO Resort",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "ELO Resort",
       "unit_type": "Chalet",
-      "lower_limit": "2500000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -58454,7 +58455,7 @@
       "geol3": "New Heliopolis",
       "geol4": "Talala",
       "unit_type": "Apartment",
-      "lower_limit": "5000000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Villas For Sale",
@@ -58462,7 +58463,7 @@
       "geol3": "New Heliopolis",
       "geol4": "Talala",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "13000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -58470,7 +58471,7 @@
       "geol3": "New Heliopolis",
       "geol4": "Talala",
       "unit_type": "Duplex",
-      "lower_limit": "8000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -58478,7 +58479,7 @@
       "geol3": "New Heliopolis",
       "geol4": "Talala",
       "unit_type": "Town House",
-      "lower_limit": "15000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -59734,7 +59735,7 @@
       "geol4": "5th Settlement",
       "geol5": "97 Hills",
       "unit_type": "Town House",
-      "lower_limit": "10000000"
+      "lower_limit": "25000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -59743,7 +59744,7 @@
       "geol4": "5th Settlement",
       "geol5": "97 Hills",
       "unit_type": "Twin house",
-      "lower_limit": "10000000"
+      "lower_limit": "25000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -59752,7 +59753,7 @@
       "geol4": "5th Settlement",
       "geol5": "97 Hills",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "10000000"
+      "lower_limit": "35000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -68109,6 +68110,6826 @@
       "geol5": "Diplomats",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "12600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "9th European District",
+      "unit_type": "Apartment",
+      "lower_limit": "750000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Sector B3 Twleve District - Ibni Baitak",
+      "unit_type": "Apartment",
+      "lower_limit": "850000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 39",
+      "unit_type": "Apartment",
+      "lower_limit": "950000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "32nd District",
+      "unit_type": "Apartment",
+      "lower_limit": "1100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 10",
+      "unit_type": "Apartment",
+      "lower_limit": "800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 47",
+      "unit_type": "Apartment",
+      "lower_limit": "900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "23rd District",
+      "unit_type": "Apartment",
+      "lower_limit": "1250000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 43",
+      "unit_type": "Apartment",
+      "lower_limit": "1050000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 60",
+      "unit_type": "Apartment",
+      "lower_limit": "1400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 61",
+      "unit_type": "Apartment",
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "24th District",
+      "unit_type": "Apartment",
+      "lower_limit": "1350000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 9",
+      "unit_type": "Apartment",
+      "lower_limit": "700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Industrial Area 10th Ramadan",
+      "unit_type": "Apartment",
+      "lower_limit": "650000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Area D A",
+      "unit_type": "Apartment",
+      "lower_limit": "1150000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "25th District",
+      "unit_type": "Apartment",
+      "lower_limit": "1200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "86th District",
+      "unit_type": "Apartment",
+      "lower_limit": "1550000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "26th District",
+      "unit_type": "Apartment",
+      "lower_limit": "1450000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Sector G 12th District",
+      "unit_type": "Apartment",
+      "lower_limit": "980000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 45",
+      "unit_type": "Apartment",
+      "lower_limit": "1120000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 69",
+      "unit_type": "Apartment",
+      "lower_limit": "1600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "22nd District",
+      "unit_type": "Apartment",
+      "lower_limit": "1300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 87",
+      "unit_type": "Apartment",
+      "lower_limit": "1700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 59",
+      "unit_type": "Apartment",
+      "lower_limit": "1380000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 55",
+      "unit_type": "Apartment",
+      "lower_limit": "1180000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "El Ordoneya Area ",
+      "unit_type": "Apartment",
+      "lower_limit": "1800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Area B4",
+      "unit_type": "Apartment",
+      "lower_limit": "1220000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 20",
+      "unit_type": "Apartment",
+      "lower_limit": "1000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 70",
+      "unit_type": "Apartment",
+      "lower_limit": "1650000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Area C1",
+      "unit_type": "Apartment",
+      "lower_limit": "1280000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Sector A 1st Phase",
+      "unit_type": "Apartment",
+      "lower_limit": "880000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "17th District",
+      "unit_type": "Apartment",
+      "lower_limit": "1100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 2",
+      "unit_type": "Apartment",
+      "lower_limit": "750000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 81",
+      "unit_type": "Apartment",
+      "lower_limit": "1680000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "18th District",
+      "unit_type": "Apartment",
+      "lower_limit": "1150000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 73",
+      "unit_type": "Apartment",
+      "lower_limit": "1520000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Ibni Baitak Sector G",
+      "unit_type": "Apartment",
+      "lower_limit": "920000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Twelve B District",
+      "unit_type": "Apartment",
+      "lower_limit": "820000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 38",
+      "unit_type": "Apartment",
+      "lower_limit": "900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 66",
+      "unit_type": "Apartment",
+      "lower_limit": "1420000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "14th District",
+      "unit_type": "Apartment",
+      "lower_limit": "1080000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Zezenia 10th of Ramadan",
+      "unit_type": "Apartment",
+      "lower_limit": "1850000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Area B2",
+      "unit_type": "Apartment",
+      "lower_limit": "1030000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 80",
+      "unit_type": "Apartment",
+      "lower_limit": "1580000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Area C3",
+      "unit_type": "Apartment",
+      "lower_limit": "1320000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 82",
+      "unit_type": "Apartment",
+      "lower_limit": "1720000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "28th District",
+      "unit_type": "Apartment",
+      "lower_limit": "1480000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 83",
+      "unit_type": "Apartment",
+      "lower_limit": "1750000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 49",
+      "unit_type": "Apartment",
+      "lower_limit": "1150000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "19th District",
+      "unit_type": "Apartment",
+      "lower_limit": "1180000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 53",
+      "unit_type": "Apartment",
+      "lower_limit": "1280000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 11",
+      "unit_type": "Apartment",
+      "lower_limit": "850000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 16",
+      "unit_type": "Apartment",
+      "lower_limit": "1050000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 76",
+      "unit_type": "Apartment",
+      "lower_limit": "1600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 72",
+      "unit_type": "Apartment",
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 65",
+      "unit_type": "Apartment",
+      "lower_limit": "1450000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 99",
+      "unit_type": "Apartment",
+      "lower_limit": "1900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 64",
+      "unit_type": "Apartment",
+      "lower_limit": "1380000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 1",
+      "unit_type": "Apartment",
+      "lower_limit": "700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Ibni Baitak District K",
+      "unit_type": "Apartment",
+      "lower_limit": "950000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 62",
+      "unit_type": "Apartment",
+      "lower_limit": "1520000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 44",
+      "unit_type": "Apartment",
+      "lower_limit": "1120000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 35",
+      "unit_type": "Apartment",
+      "lower_limit": "900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 14",
+      "unit_type": "Apartment",
+      "lower_limit": "1000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 8",
+      "unit_type": "Apartment",
+      "lower_limit": "780000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 7",
+      "unit_type": "Apartment",
+      "lower_limit": "750000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 98",
+      "unit_type": "Apartment",
+      "lower_limit": "1850000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "City Center",
+      "unit_type": "Apartment",
+      "lower_limit": "1950000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 15",
+      "unit_type": "Apartment",
+      "lower_limit": "1030000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 77",
+      "unit_type": "Apartment",
+      "lower_limit": "1620000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 85",
+      "unit_type": "Apartment",
+      "lower_limit": "1800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "30th District",
+      "unit_type": "Apartment",
+      "lower_limit": "1250000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "13th District - Greek Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "1000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 48",
+      "unit_type": "Apartment",
+      "lower_limit": "1180000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Neighborhood 78",
+      "unit_type": "Apartment",
+      "lower_limit": "1650000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "33rd District",
+      "unit_type": "Apartment",
+      "lower_limit": "1300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "33rd District",
+      "geol5": "Neighborhood 2",
+      "unit_type": "Apartment",
+      "lower_limit": "1450000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "33rd District",
+      "geol5": "Neighborhood 4",
+      "unit_type": "Apartment",
+      "lower_limit": "1200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "33rd District",
+      "geol5": "Neighborhood 1",
+      "unit_type": "Apartment",
+      "lower_limit": "1350000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "33rd District",
+      "geol5": "Neighborhood 3",
+      "unit_type": "Apartment",
+      "lower_limit": "1100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "15th District",
+      "unit_type": "Apartment",
+      "lower_limit": "1250000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "15th District",
+      "geol5": "Area 3",
+      "unit_type": "Apartment",
+      "lower_limit": "1200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "15th District",
+      "geol5": "Area 9",
+      "unit_type": "Apartment",
+      "lower_limit": "1150000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "15th District",
+      "geol5": "Area 7",
+      "unit_type": "Apartment",
+      "lower_limit": "1000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "15th District",
+      "geol5": "Area 6",
+      "unit_type": "Apartment",
+      "lower_limit": "1350000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "15th District",
+      "geol5": "Area 2",
+      "unit_type": "Apartment",
+      "lower_limit": "1180000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "15th District",
+      "geol5": "Area 11",
+      "unit_type": "Apartment",
+      "lower_limit": "1280000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "15th District",
+      "geol5": "Area 5",
+      "unit_type": "Apartment",
+      "lower_limit": "900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "27th District",
+      "unit_type": "Apartment",
+      "lower_limit": "900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "27th District",
+      "geol5": "Neighborhood 1",
+      "unit_type": "Apartment",
+      "lower_limit": "900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "Zagazig",
+      "geol4": "Al Ghasham St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "Zagazig",
+      "geol4": "Farouq St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "Zagazig",
+      "geol4": "Al Salam",
+      "unit_type": "Apartment",
+      "lower_limit": "1900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "Zagazig",
+      "geol4": "Mubarak Area",
+      "unit_type": "Apartment",
+      "lower_limit": "2200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "Zagazig",
+      "geol4": "Al Zohour District",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "Zagazig",
+      "geol4": "Al Mohafaza St",
+      "unit_type": "Apartment",
+      "lower_limit": "3100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "Alqnayat",
+      "geol4": "Mostafa Kamel St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "Bilbeis",
+      "geol4": "Anshas",
+      "unit_type": "Apartment",
+      "lower_limit": "1300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sharqia",
+      "geol3": "Bilbeis",
+      "geol4": "Al Adleya",
+      "unit_type": "Apartment",
+      "lower_limit": "1400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Cairo - Ismailia Desert Road",
+      "unit_type": "Apartment",
+      "lower_limit": "750000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Cairo - Ismailia Desert Road",
+      "geol4": "Palm Resort 1",
+      "unit_type": "Apartment",
+      "lower_limit": "800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Ain Shams",
+      "geol4": "Abd Al Rahman Youssef Lane",
+      "unit_type": "Apartment",
+      "lower_limit": "680000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Ain Shams",
+      "geol4": "Abbas St.",
+      "unit_type": "Apartment",
+      "lower_limit": "720000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Ain Shams",
+      "geol4": "Maghawry St.",
+      "unit_type": "Apartment",
+      "lower_limit": "700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Ain Shams",
+      "geol4": "Hussein Abd Al Raheem St.",
+      "unit_type": "Apartment",
+      "lower_limit": "820000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Ain Shams",
+      "geol4": "No. 4 St.",
+      "unit_type": "Apartment",
+      "lower_limit": "650000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Ain Shams",
+      "geol4": "Mostafa Hafez St.",
+      "unit_type": "Apartment",
+      "lower_limit": "900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Ain Shams",
+      "geol4": "Hasan Harbi St.",
+      "unit_type": "Apartment",
+      "lower_limit": "550000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Ain Shams",
+      "geol4": "Al Sheikh Ebeid St.",
+      "unit_type": "Apartment",
+      "lower_limit": "600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Ain Shams",
+      "geol4": "Al Hadari Lane",
+      "unit_type": "Apartment",
+      "lower_limit": "520000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Ain Shams",
+      "geol4": "Mansheyet El-Tahrir",
+      "unit_type": "Apartment",
+      "lower_limit": "620000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Ain Shams",
+      "geol4": "Helmy Gergis Lane",
+      "unit_type": "Apartment",
+      "lower_limit": "780000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Ain Shams",
+      "geol4": "Halawa St.",
+      "unit_type": "Apartment",
+      "lower_limit": "740000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Ain Shams",
+      "geol4": "Zahraa Ain Shams",
+      "unit_type": "Apartment",
+      "lower_limit": "760000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Ain Shams",
+      "geol4": "Mohammed Gamal Al Deen St.",
+      "unit_type": "Apartment",
+      "lower_limit": "500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Ain Shams",
+      "geol4": "Al Arbaaon St.",
+      "unit_type": "Apartment",
+      "lower_limit": "640000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Ain Shams",
+      "geol4": "Ezzat Ibrahim Lane",
+      "unit_type": "Apartment",
+      "lower_limit": "480000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Ain Shams",
+      "geol4": "Hafez Farghaly St.",
+      "unit_type": "Apartment",
+      "lower_limit": "880000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Ain Shams",
+      "geol4": "Hammad Lane",
+      "unit_type": "Apartment",
+      "lower_limit": "720000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Al Amiriyyah",
+      "geol4": "Shahin City",
+      "unit_type": "Apartment",
+      "lower_limit": "780000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Al Amiriyyah",
+      "geol4": "Abadir St.",
+      "unit_type": "Apartment",
+      "lower_limit": "750000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Al Amiriyyah",
+      "geol4": "Nasr Al Din Mostafa St.",
+      "unit_type": "Apartment",
+      "lower_limit": "600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Al Amiriyyah",
+      "geol4": "Abdel Hamid Ibrahim St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Al Amiriyyah",
+      "geol4": "Al Qafaseen",
+      "unit_type": "Apartment",
+      "lower_limit": "450000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Al Manial",
+      "geol4": "El Roda",
+      "unit_type": "Apartment",
+      "lower_limit": "480000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Bab al-Shereia",
+      "geol4": "Al Farakha Lane",
+      "unit_type": "Apartment",
+      "lower_limit": "420000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Bab al-Shereia",
+      "geol4": "Motawae Alley",
+      "unit_type": "Apartment",
+      "lower_limit": "500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Bab al-Shereia",
+      "geol4": "Abd Allah Al Shaheed Lane",
+      "unit_type": "Apartment",
+      "lower_limit": "380000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Bab al-Shereia",
+      "geol4": "Sengar Al Srour St.",
+      "unit_type": "Apartment",
+      "lower_limit": "400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Bab al-Shereia",
+      "geol4": "Shaarawy Lane",
+      "unit_type": "Apartment",
+      "lower_limit": "490000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Bab al-Shereia",
+      "geol4": "Qutb Lane",
+      "unit_type": "Apartment",
+      "lower_limit": "3100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Bab al-Shereia",
+      "geol4": "El Adawy",
+      "unit_type": "Apartment",
+      "lower_limit": "580000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Bab El louk",
+      "unit_type": "Apartment",
+      "lower_limit": "650000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Basateen",
+      "geol4": "Ezbet Fahmy",
+      "unit_type": "Apartment",
+      "lower_limit": "800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Basateen",
+      "geol4": "Al Basatin Al Gharbeyah",
+      "unit_type": "Apartment",
+      "lower_limit": "750000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Boulaq Abo El Ela",
+      "geol4": "El-Shaikh Farrag",
+      "unit_type": "Apartment",
+      "lower_limit": "680000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Boulaq Abo El Ela",
+      "geol4": "Boulaq 5",
+      "unit_type": "Apartment",
+      "lower_limit": "700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Boulaq Abo El Ela",
+      "geol4": "Boulaq 1",
+      "unit_type": "Apartment",
+      "lower_limit": "650000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Boulaq Abo El Ela",
+      "geol4": "Nasr Path",
+      "unit_type": "Apartment",
+      "lower_limit": "600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Boulaq Abo El Ela",
+      "geol4": "Al Alaimi",
+      "unit_type": "Apartment",
+      "lower_limit": "720000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Boulaq Abo El Ela",
+      "geol4": "Al Qalayah",
+      "unit_type": "Apartment",
+      "lower_limit": "640000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Boulaq Abo El Ela",
+      "geol4": "Sharkas",
+      "unit_type": "Apartment",
+      "lower_limit": "550000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Boulaq Abo El Ela",
+      "geol4": "Boulaq 2",
+      "unit_type": "Apartment",
+      "lower_limit": "700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Boulaq Abo El Ela",
+      "geol4": "Souq Al Asr",
+      "unit_type": "Apartment",
+      "lower_limit": "620000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Boulaq Abo El Ela",
+      "geol4": "Boulaq 4",
+      "unit_type": "Apartment",
+      "lower_limit": "660000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Boulaq Abo El Ela",
+      "geol4": "Sanan Basha",
+      "unit_type": "Apartment",
+      "lower_limit": "750000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Boulaq Abo El Ela",
+      "geol4": "Boulaq 3",
+      "unit_type": "Apartment",
+      "lower_limit": "800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Dar al-Salaam",
+      "geol4": "Al Malaah",
+      "unit_type": "Apartment",
+      "lower_limit": "950000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Dar al-Salaam",
+      "geol4": "El Gezira",
+      "unit_type": "Apartment",
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Darb al-Ahmar",
+      "geol4": "Ali Basha St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helmeya al-Gadeda",
+      "geol4": "Mohamed Ali St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helmeya al-Gadeda",
+      "geol4": "Sekat Abd Al Rahman BK",
+      "unit_type": "Apartment",
+      "lower_limit": "1000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "El Khalifa",
+      "unit_type": "Apartment",
+      "lower_limit": "900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "El Khalifa",
+      "geol4": "El Imam El Shafei",
+      "unit_type": "Apartment",
+      "lower_limit": "1800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "El Khalifa",
+      "geol4": "El Qalaa",
+      "unit_type": "Apartment",
+      "lower_limit": "1900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Badr City",
+      "geol4": "El Magd Mall",
+      "unit_type": "Apartment",
+      "lower_limit": "1400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Badr City",
+      "geol4": "Eagle Mall",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Badr City",
+      "geol4": "Badr Industrial Zone",
+      "unit_type": "Apartment",
+      "lower_limit": "2200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Badr City",
+      "geol4": "El Motamayez District",
+      "unit_type": "Apartment",
+      "lower_limit": "1200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Badr City",
+      "geol4": "Verde Mall",
+      "unit_type": "Apartment",
+      "lower_limit": "1600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Badr City",
+      "geol4": "Governorate Housing",
+      "unit_type": "Apartment",
+      "lower_limit": "1400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "El Zaher",
+      "unit_type": "Apartment",
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "El Zaher",
+      "geol4": "Al Qbeisi",
+      "unit_type": "Apartment",
+      "lower_limit": "1800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "El Zaher",
+      "geol4": "Sidi Madin",
+      "unit_type": "Apartment",
+      "lower_limit": "1200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "El Zaher",
+      "geol4": "Al Sakakini",
+      "unit_type": "Apartment",
+      "lower_limit": "1300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "El Zaher",
+      "geol4": "Berket Az Zatli",
+      "unit_type": "Apartment",
+      "lower_limit": "1100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "El Zaher",
+      "geol4": "Al Shamkeri",
+      "unit_type": "Apartment",
+      "lower_limit": "1700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "El Zaher",
+      "geol4": "Darb Al Akmaeya",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "El Zaher",
+      "geol4": "El Nasr",
+      "unit_type": "Apartment",
+      "lower_limit": "1100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Ghamra",
+      "unit_type": "Apartment",
+      "lower_limit": "900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Hadayek al-Kobba",
+      "geol4": "El-Qobba Bridge",
+      "unit_type": "Apartment",
+      "lower_limit": "800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Hadayek al-Kobba",
+      "geol4": "Masaken Al Amireyah Al Ganoubeyah",
+      "unit_type": "Apartment",
+      "lower_limit": "700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Hadayek al-Kobba",
+      "geol4": "Al Waili Al Kabir",
+      "unit_type": "Apartment",
+      "lower_limit": "950000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Hadayek al-Kobba",
+      "geol4": "Al Khasa",
+      "unit_type": "Apartment",
+      "lower_limit": "850000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helmeyat El Zaytoun",
+      "geol4": "Al Horeya Lane",
+      "unit_type": "Apartment",
+      "lower_limit": "880000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helmeyat El Zaytoun",
+      "geol4": "Al Rahman Mosque St.",
+      "unit_type": "Apartment",
+      "lower_limit": "800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helmeyat El Zaytoun",
+      "geol4": "Abd Al Fattah Gheith St.",
+      "unit_type": "Apartment",
+      "lower_limit": "780000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helmeyat El Zaytoun",
+      "geol4": "Badawi Mohammed Saeed St.",
+      "unit_type": "Apartment",
+      "lower_limit": "820000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helmeyat El Zaytoun",
+      "geol4": "Feleb Hanna St.",
+      "unit_type": "Apartment",
+      "lower_limit": "750000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helmeyat El Zaytoun",
+      "geol4": "Ali Shehata St.",
+      "unit_type": "Apartment",
+      "lower_limit": "680000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helmeyat El Zaytoun",
+      "geol4": "Al Ghoubashi St.",
+      "unit_type": "Apartment",
+      "lower_limit": "600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helmeyat El Zaytoun",
+      "geol4": "Muslim St.",
+      "unit_type": "Apartment",
+      "lower_limit": "720000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helmeyat El Zaytoun",
+      "geol4": "Al Mebiad Lane",
+      "unit_type": "Apartment",
+      "lower_limit": "650000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helmeyat El Zaytoun",
+      "geol4": "Al Entag St.",
+      "unit_type": "Apartment",
+      "lower_limit": "700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helmeyat El Zaytoun",
+      "geol4": "Abd Al Latif Shaaban St.",
+      "unit_type": "Apartment",
+      "lower_limit": "770000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helmeyat El Zaytoun",
+      "geol4": "Abd Al Rahman Amin St.",
+      "unit_type": "Apartment",
+      "lower_limit": "680000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helmeyat El Zaytoun",
+      "geol4": "Ahmed Hamdy St.",
+      "unit_type": "Apartment",
+      "lower_limit": "850000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helmeyat El Zaytoun",
+      "geol4": "Ahmed Nasr Al Deen Lane",
+      "unit_type": "Apartment",
+      "lower_limit": "790000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helmeyat El Zaytoun",
+      "geol4": "Zaghloul St.",
+      "unit_type": "Apartment",
+      "lower_limit": "620000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helmeyat El Zaytoun",
+      "geol4": "Abd Al Aziz Abou El Ola St.",
+      "unit_type": "Apartment",
+      "lower_limit": "700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helmeyat El Zaytoun",
+      "geol4": "Ali Masoud Lane",
+      "unit_type": "Apartment",
+      "lower_limit": "800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helmeyat El Zaytoun",
+      "geol4": "Abdou Rizk St.",
+      "unit_type": "Apartment",
+      "lower_limit": "580000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helmeyat El Zaytoun",
+      "geol4": "Al Halwany St.",
+      "unit_type": "Apartment",
+      "lower_limit": "720000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helmeyat El Zaytoun",
+      "geol4": "Sabaa Al Leel Lane",
+      "unit_type": "Apartment",
+      "lower_limit": "750000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helmeyat El Zaytoun",
+      "geol4": "Mostafa Shahin St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helmeyat El Zaytoun",
+      "geol4": "Mohammed Ibrahim Ateya St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Hadayek al-Kobba",
+      "geol4": "Hamamat El Qobba",
+      "unit_type": "Apartment",
+      "lower_limit": "1100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Hadayek al-Kobba",
+      "geol4": "Saray El Qobba",
+      "unit_type": "Apartment",
+      "lower_limit": "2800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helwan",
+      "geol4": "Kafr Al Olow",
+      "unit_type": "Apartment",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Nozha",
+      "geol4": "El Hegaz Square",
+      "unit_type": "Apartment",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Nozha",
+      "geol4": "Saint Fatima Square",
+      "unit_type": "Apartment",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Nozha",
+      "geol4": "Triumph Square",
+      "unit_type": "Apartment",
+      "lower_limit": "3800000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Nozha",
+      "geol4": "El Hegaz Square",
+      "unit_type": "Retail",
+      "lower_limit": "9000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Nozha",
+      "geol4": "Triumph Square",
+      "unit_type": "Office Space",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Sheraton",
+      "geol4": "Ocean Blue Heliopolis",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Sheraton",
+      "geol4": "El Safa St.",
+      "unit_type": "Apartment",
+      "lower_limit": "3400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Sheraton",
+      "geol4": "El Saaqah St.",
+      "unit_type": "Apartment",
+      "lower_limit": "3100000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Sheraton",
+      "geol4": "Ocean Blue Heliopolis",
+      "unit_type": "Retail",
+      "lower_limit": "10800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Al Wafa Wa Al Amal",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Al Wafa Wa Al Amal",
+      "unit_type": "Retail",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Belqas",
+      "geol4": "Al Matafi St.",
+      "unit_type": "Apartment",
+      "lower_limit": "850000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Gadeela Area",
+      "unit_type": "Apartment",
+      "lower_limit": "1800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Madinat Al Salam",
+      "unit_type": "Apartment",
+      "lower_limit": "1600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Madinat Al Zahraa",
+      "unit_type": "Apartment",
+      "lower_limit": "1900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Meet Hadar",
+      "unit_type": "Apartment",
+      "lower_limit": "1450000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Port Saeed St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Ezbat Aql",
+      "unit_type": "Apartment",
+      "lower_limit": "1300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Ezbat Al Shal",
+      "unit_type": "Apartment",
+      "lower_limit": "1200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Al Galaa St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Toreel Area",
+      "unit_type": "Apartment",
+      "lower_limit": "2200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Al Muroor",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Al Husaneya",
+      "unit_type": "Apartment",
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Sandoub",
+      "unit_type": "Apartment",
+      "lower_limit": "1400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Al Gamaa District",
+      "unit_type": "Apartment",
+      "lower_limit": "2100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Al Khawagat St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Ring Road",
+      "unit_type": "Apartment",
+      "lower_limit": "1700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Kanat Al Sweis St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Seyaam St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "El Zaafaran District",
+      "unit_type": "Apartment",
+      "lower_limit": "1950000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Al Gomhoria St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Taqseem 6th October",
+      "unit_type": "Apartment",
+      "lower_limit": "1650000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Al Mostshfa Al Aam St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2150000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Al Segn St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2050000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Al Mashayah St.",
+      "unit_type": "Apartment",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Abd El-Salam Aref Ext.",
+      "unit_type": "Apartment",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Ibn Zeid District",
+      "unit_type": "Apartment",
+      "lower_limit": "2750000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Al Bahr Al Sagheer St.",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Koliet Al Adaab St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1850000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Taqseem Bashtameer",
+      "unit_type": "Apartment",
+      "lower_limit": "1750000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Al-Derasat St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1920000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Al Nakhla St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Mohammed Abdou St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2350000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Al Mashayah Al Sofleya Ext.",
+      "unit_type": "Apartment",
+      "lower_limit": "3100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Fahkr Al Din St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2850000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "10 St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2450000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Gehan Al Sadat St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2550000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Taqseem Al Moroor",
+      "unit_type": "Apartment",
+      "lower_limit": "2180000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Saad Al Sherbiny St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2650000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Matafi St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1580000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Bank Masr St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2950000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Al Seka El Gedida St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1980000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Al Hoda Wa Al Nor St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1780000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Al Segl Al Madany St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2080000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Taqseem Tarteer",
+      "unit_type": "Apartment",
+      "lower_limit": "2250000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Al Hawaar St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1820000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Al Thanaweya St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1950000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Mogamaa Al Mahakem St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2620000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Taqseem Al khatab",
+      "unit_type": "Apartment",
+      "lower_limit": "2380000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Mohammed Fathy",
+      "unit_type": "Apartment",
+      "lower_limit": "2520000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mit El Ezz",
+      "unit_type": "Apartment",
+      "lower_limit": "700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Minya",
+      "geol3": "Minya City",
+      "geol4": "Ard Soltan",
+      "unit_type": "Apartment",
+      "lower_limit": "1200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Minya",
+      "geol3": "Minya City",
+      "geol4": "Al Husaini St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Minya",
+      "geol3": "Minya City",
+      "geol4": "Ebn Khaseeb St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Minya",
+      "geol3": "Minya City",
+      "geol4": "Sekket Tala",
+      "unit_type": "Apartment",
+      "lower_limit": "1100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Minya",
+      "geol3": "Minya City",
+      "geol4": "Cornich St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Minya",
+      "geol3": "Minya City",
+      "geol4": "City Downtown",
+      "unit_type": "Apartment",
+      "lower_limit": "1800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Minya",
+      "geol3": "New Minya",
+      "geol4": "District 6",
+      "unit_type": "Apartment",
+      "lower_limit": "1450000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Minya",
+      "geol3": "New Minya",
+      "geol4": "District 2",
+      "unit_type": "Apartment",
+      "lower_limit": "1250000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Minya",
+      "geol3": "New Minya",
+      "geol4": "District 1",
+      "unit_type": "Apartment",
+      "lower_limit": "1150000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Minya",
+      "geol3": "New Minya",
+      "geol4": "District 4",
+      "unit_type": "Apartment",
+      "lower_limit": "1350000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Minya",
+      "geol3": "New Minya",
+      "geol4": "Porto Al Menya",
+      "unit_type": "Apartment",
+      "lower_limit": "1600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Minya",
+      "geol3": "Malawi",
+      "geol4": "Riyad St.",
+      "unit_type": "Apartment",
+      "lower_limit": "900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Minya",
+      "geol3": "Matay",
+      "geol4": "Matai El Balad",
+      "unit_type": "Apartment",
+      "lower_limit": "750000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Monufia",
+      "geol3": "Ashmon",
+      "geol4": "Derwa",
+      "unit_type": "Apartment",
+      "lower_limit": "800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Monufia",
+      "geol3": "Ashmon",
+      "geol4": "Shatanof",
+      "unit_type": "Apartment",
+      "lower_limit": "750000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Monufia",
+      "geol3": "Shebin al-Koum",
+      "geol4": "El Batanon",
+      "unit_type": "Apartment",
+      "lower_limit": "1100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Monufia",
+      "geol3": "Shebin al-Koum",
+      "geol4": "Al Bar El Sharqi",
+      "unit_type": "Apartment",
+      "lower_limit": "1300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Monufia",
+      "geol3": "Quesna",
+      "geol4": "Al Galaa St.",
+      "unit_type": "Apartment",
+      "lower_limit": "950000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Monufia",
+      "geol3": "Quesna",
+      "geol4": "Jihan St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1050000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Monufia",
+      "geol3": "Mit El Ezz",
+      "unit_type": "Apartment",
+      "lower_limit": "850000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Touristic Center",
+      "unit_type": "Chalet",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "El Hadaba District",
+      "unit_type": "Chalet",
+      "lower_limit": "2800000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Mubarak Neighborhood",
+      "unit_type": "Chalet",
+      "lower_limit": "1900000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Lazuli",
+      "unit_type": "Chalet",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "La Quinta Heights",
+      "unit_type": "Chalet",
+      "lower_limit": "3800000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Al Ahyaa District",
+      "unit_type": "Chalet",
+      "lower_limit": "2100000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Arabia Area",
+      "unit_type": "Chalet",
+      "lower_limit": "2900000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "El Sakkala District",
+      "unit_type": "Chalet",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "La Mer Residence",
+      "unit_type": "Chalet",
+      "lower_limit": "3300000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Juliana Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Al Dau Strand",
+      "unit_type": "Chalet",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "El Dahar District",
+      "unit_type": "Chalet",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "El Horeya District",
+      "unit_type": "Chalet",
+      "lower_limit": "2300000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Intercontinental District",
+      "unit_type": "Chalet",
+      "lower_limit": "3400000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Jasmine Palace Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "4200000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Eagles Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3100000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Sunrise Garden Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3850000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Sunrise Mamlouk Palace",
+      "unit_type": "Chalet",
+      "lower_limit": "3700000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Oasis Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Club Golden 5",
+      "unit_type": "Chalet",
+      "lower_limit": "2700000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Westside Village",
+      "unit_type": "Chalet",
+      "lower_limit": "2400000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Sunrise Holidays",
+      "unit_type": "Chalet",
+      "lower_limit": "3250000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Mirage New Hawaii",
+      "unit_type": "Chalet",
+      "lower_limit": "2750000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Montillon Grand Horizon",
+      "unit_type": "Chalet",
+      "lower_limit": "2950000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Rabella Village",
+      "unit_type": "Chalet",
+      "lower_limit": "2650000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Abrim Residence",
+      "unit_type": "Chalet",
+      "lower_limit": "2200000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Turtles Beach",
+      "unit_type": "Chalet",
+      "lower_limit": "2450000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Grand Plaza",
+      "unit_type": "Chalet",
+      "lower_limit": "3450000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Malaki Club",
+      "unit_type": "Chalet",
+      "lower_limit": "3350000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "The Desert Rose",
+      "unit_type": "Chalet",
+      "lower_limit": "4050000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "One7 Residence",
+      "unit_type": "Chalet",
+      "lower_limit": "4150000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Sea Light Hurghada",
+      "unit_type": "Chalet",
+      "lower_limit": "3550000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Zahabia Hotel & Beach",
+      "unit_type": "Chalet",
+      "lower_limit": "2880000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Ali Baba Palace",
+      "unit_type": "Chalet",
+      "lower_limit": "3650000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Jasmine Village",
+      "unit_type": "Chalet",
+      "lower_limit": "2750000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Pharaoh Club Saint Maria Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3050000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Festival Le Jardin Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3480000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Tiba Garden",
+      "unit_type": "Chalet",
+      "lower_limit": "2150000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Aqua Palms Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2280000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Reemyvera Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3220000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Sunny Days Al Palacio",
+      "unit_type": "Chalet",
+      "lower_limit": "2980000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Selena Bay Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3380000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Sunny Days Palma De Mirette",
+      "unit_type": "Chalet",
+      "lower_limit": "3080000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Jewels Sahara Boutique Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3180000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Papas Beach Club",
+      "unit_type": "Chalet",
+      "lower_limit": "2600000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Arabia Azur Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3150000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Geisum Village",
+      "unit_type": "Chalet",
+      "lower_limit": "2480000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Mövenpick Resort Hurghada",
+      "unit_type": "Chalet",
+      "lower_limit": "3850000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Nubia Aqua Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2580000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "White Beach Albatros",
+      "unit_type": "Chalet",
+      "lower_limit": "3950000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Nefert Bay Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3280000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Le Pacha Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3020000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Lavanda Beach",
+      "unit_type": "Chalet",
+      "lower_limit": "3420000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Florenza Khamsin Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2620000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Sindbad Club Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3680000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Comfort Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2920000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Titanic Aqua Park Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3750000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Regina Royal Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2720000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Toya Palace",
+      "unit_type": "Chalet",
+      "lower_limit": "2320000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Panorama Bungalows Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3120000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Royal Lagoons Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3520000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Diamond Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2620000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "King Tut Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2750000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Scandic Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3220000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Roma Beach Club",
+      "unit_type": "Chalet",
+      "lower_limit": "3050000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Triton Empire Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2850000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Emerald Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3320000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Sphinx Resort Hurghada",
+      "unit_type": "Chalet",
+      "lower_limit": "2220000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Festival Riviera Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3550000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Albatros Palace",
+      "unit_type": "Chalet",
+      "lower_limit": "4200000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Magawish Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3620000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Palma Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2900000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Sunny Home",
+      "unit_type": "Chalet",
+      "lower_limit": "2180000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Hilton Hurghada Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3780000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Bougainville Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3480000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Charm Life Paradise Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3180000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Samra Bay Marina",
+      "unit_type": "Chalet",
+      "lower_limit": "3900000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Baron Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "4150000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Festival Shedwan Golden Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3280000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Marina Residence",
+      "unit_type": "Chalet",
+      "lower_limit": "3880000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Marlin Inn Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "The Three Corners Royal Star Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3380000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Lobby Bar",
+      "unit_type": "Chalet",
+      "lower_limit": "2050000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Al Dorra Residence",
+      "unit_type": "Chalet",
+      "lower_limit": "2950000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Jaz Bluemarine Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "4050000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Minamark resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2820000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Nagwa Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2600000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Sand Beach",
+      "unit_type": "Chalet",
+      "lower_limit": "2480000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Desert Pearl",
+      "unit_type": "Chalet",
+      "lower_limit": "2380000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Jaz Aquamarine",
+      "unit_type": "Chalet",
+      "lower_limit": "4100000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Dana Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3850000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Citadel Azur Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3750000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Lillyland Beach Club Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3680000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Sindbad Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3320000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Grand Seas Resort Hostmark",
+      "unit_type": "Chalet",
+      "lower_limit": "3220000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Storia Del Mare",
+      "unit_type": "Chalet",
+      "lower_limit": "3120000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Harmony Lagoon Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3020000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Hurghada Marina",
+      "unit_type": "Chalet",
+      "lower_limit": "4200000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Bella Vista",
+      "unit_type": "Chalet",
+      "lower_limit": "2900000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Seagull Beach Resort Hurghada",
+      "unit_type": "Chalet",
+      "lower_limit": "3450000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Marriott Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3550000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Sentido Mamlouk Palace Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3950000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Marine Sports Club",
+      "unit_type": "Chalet",
+      "lower_limit": "2650000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Sheraton Rd",
+      "unit_type": "Apartment",
+      "lower_limit": "2280000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Mahalla al-Kobra",
+      "geol4": "Industrial City",
+      "unit_type": "Apartment",
+      "lower_limit": "1100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Mahalla al-Kobra",
+      "geol4": "Mahallet Al Borg",
+      "unit_type": "Apartment",
+      "lower_limit": "950000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Mahalla al-Kobra",
+      "geol4": "Al Hayatem",
+      "unit_type": "Apartment",
+      "lower_limit": "1200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Mahalla al-Kobra",
+      "geol4": "Al Gamhouriya",
+      "unit_type": "Apartment",
+      "lower_limit": "1050000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Mahalla al-Kobra",
+      "geol4": "Al Jaberiya",
+      "unit_type": "Apartment",
+      "lower_limit": "1350000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Mahalla al-Kobra",
+      "geol4": "Mansheyat Mubarak",
+      "unit_type": "Apartment",
+      "lower_limit": "1200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Mahalla al-Kobra",
+      "geol4": "Souk Al Laban",
+      "unit_type": "Apartment",
+      "lower_limit": "1150000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Mahalla al-Kobra",
+      "geol4": "Al Saba'a Banat",
+      "unit_type": "Apartment",
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Mahalla al-Kobra",
+      "geol4": "Mansheyat Al Nasr",
+      "unit_type": "Apartment",
+      "lower_limit": "1400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Mahalla al-Kobra",
+      "geol4": "Al Mansheya AL Qadeema",
+      "unit_type": "Apartment",
+      "lower_limit": "1600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Mahalla al-Kobra",
+      "geol4": "Abu Shaheen",
+      "unit_type": "Apartment",
+      "lower_limit": "1250000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Mahalla al-Kobra",
+      "geol4": "Abu Radi",
+      "unit_type": "Apartment",
+      "lower_limit": "1100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Mahalla al-Kobra",
+      "geol4": "Al Mansheya AL Gadeeda",
+      "unit_type": "Apartment",
+      "lower_limit": "1650000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Mahalla al-Kobra",
+      "geol4": "Dayer El Nahia",
+      "unit_type": "Apartment",
+      "lower_limit": "1000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Mahalla al-Kobra",
+      "geol4": "Sandafa",
+      "unit_type": "Apartment",
+      "lower_limit": "1300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "Al Nahas St",
+      "unit_type": "Apartment",
+      "lower_limit": "1180000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "Cornich Tanta",
+      "unit_type": "Apartment",
+      "lower_limit": "1550000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "Mohammad Farid",
+      "unit_type": "Apartment",
+      "lower_limit": "1380000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "Al Fateh St",
+      "unit_type": "Apartment",
+      "lower_limit": "1450000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "Stadium Area",
+      "unit_type": "Apartment",
+      "lower_limit": "900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "Al Gaish St",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "Ali Mubarak St",
+      "unit_type": "Apartment",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "Al Mehatta Square",
+      "unit_type": "Apartment",
+      "lower_limit": "2300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "Ahmad Murad St",
+      "unit_type": "Apartment",
+      "lower_limit": "2400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "Al Gala'a St",
+      "unit_type": "Apartment",
+      "lower_limit": "2800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "Ajizy",
+      "unit_type": "Apartment",
+      "lower_limit": "2900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "1st District",
+      "unit_type": "Apartment",
+      "lower_limit": "2600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "1st District",
+      "geol5": "Al Bitarawesh St",
+      "unit_type": "Apartment",
+      "lower_limit": "3100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "1st District",
+      "geol5": "Ibn Al Farid St",
+      "unit_type": "Apartment",
+      "lower_limit": "2700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "1st District",
+      "geol5": "Abou Bakr Al Sedeek St",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "1st District",
+      "geol5": "Saad Al Deen St",
+      "unit_type": "Apartment",
+      "lower_limit": "2200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "1st District",
+      "geol5": "Al Nady St",
+      "unit_type": "Apartment",
+      "lower_limit": "2100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "1st District",
+      "geol5": "Al Nahas St",
+      "unit_type": "Apartment",
+      "lower_limit": "2350000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "1st District",
+      "geol5": "Youssef Al Seddik St",
+      "unit_type": "Apartment",
+      "lower_limit": "2450000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "1st District",
+      "geol5": "Teraat Senarah St",
+      "unit_type": "Apartment",
+      "lower_limit": "2550000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "1st District",
+      "geol5": "Kafr Essam",
+      "unit_type": "Apartment",
+      "lower_limit": "2650000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "1st District",
+      "geol5": "Soliman St",
+      "unit_type": "Apartment",
+      "lower_limit": "2850000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "1st District",
+      "geol5": "Nady Al Moaalemeen",
+      "unit_type": "Apartment",
+      "lower_limit": "2750000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "1st District",
+      "geol5": "Othman Mohammed St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2950000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "2nd District",
+      "unit_type": "Apartment",
+      "lower_limit": "2300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "2nd District",
+      "geol5": "Omar Ibn Abd Al Aziz St",
+      "unit_type": "Apartment",
+      "lower_limit": "2250000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "2nd District",
+      "geol5": "Al Helw St",
+      "unit_type": "Apartment",
+      "lower_limit": "2400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "2nd District",
+      "geol5": "Al Motawakel St",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "2nd District",
+      "geol5": "Al Amin St",
+      "unit_type": "Apartment",
+      "lower_limit": "2600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "2nd District",
+      "geol5": "Hasan Radwan St",
+      "unit_type": "Apartment",
+      "lower_limit": "2150000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "2nd District",
+      "geol5": "Haroun Al Rasheed St",
+      "unit_type": "Apartment",
+      "lower_limit": "2300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "2nd District",
+      "geol5": "Tout Ankh Amoun St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "2nd District",
+      "geol5": "Al Soultan Mourad St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "2nd District",
+      "geol5": "Hassan Ibn Thabit St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "2nd District",
+      "geol5": "Katenny St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "2nd District",
+      "geol5": "Sedky St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "2nd District",
+      "geol5": "Saeed St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Santa",
+      "geol4": "Al Gomhureya St",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Kafr al-Zayat",
+      "geol4": "Afifi Area",
+      "unit_type": "Apartment",
+      "lower_limit": "3100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Kafr al-Zayat",
+      "geol4": "Industrial District",
+      "unit_type": "Apartment",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Kafr al-Zayat",
+      "geol4": "Abu Bakr El Seddiq",
+      "unit_type": "Apartment",
+      "lower_limit": "3300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Kafr al-Zayat",
+      "geol4": "Al Mansheya",
+      "unit_type": "Apartment",
+      "lower_limit": "3400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Aswan",
+      "geol3": "Aswan City",
+      "geol4": "Al Sadaqa",
+      "unit_type": "Apartment",
+      "lower_limit": "800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Aswan",
+      "geol3": "Aswan City",
+      "geol4": "Al Mahmudeya",
+      "unit_type": "Apartment",
+      "lower_limit": "1200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Aswan",
+      "geol3": "Aswan City",
+      "geol4": "Al Aqqad",
+      "unit_type": "Apartment",
+      "lower_limit": "1400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Aswan",
+      "geol3": "Aswan City",
+      "geol4": "Cornich El Neel",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Aswan",
+      "geol3": "Aswan City",
+      "geol4": "New Aswan",
+      "unit_type": "Apartment",
+      "lower_limit": "1600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Aswan",
+      "geol3": "Aswan City",
+      "geol4": "Airport St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Aswan",
+      "geol3": "Aswan City",
+      "geol4": "Al Khazzan St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Aswan",
+      "geol3": "Edfu",
+      "geol4": "Al Qesareya",
+      "unit_type": "Apartment",
+      "lower_limit": "650000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Aswan",
+      "geol3": "Edfu",
+      "geol4": "El Gomhureya St.",
+      "unit_type": "Apartment",
+      "lower_limit": "750000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Aswan",
+      "geol3": "Edfu",
+      "geol4": "23 july St.",
+      "unit_type": "Apartment",
+      "lower_limit": "850000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Aswan",
+      "geol3": "Edfu",
+      "geol4": "26 july St.",
+      "unit_type": "Apartment",
+      "lower_limit": "900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Aswan",
+      "geol3": "Edfu",
+      "geol4": "Al Sheikh Al Bayumi St.",
+      "unit_type": "Apartment",
+      "lower_limit": "700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Asyut",
+      "geol3": "Asyut City",
+      "geol4": "Al Sadat District",
+      "unit_type": "Apartment",
+      "lower_limit": "1250000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Asyut",
+      "geol3": "Asyut City",
+      "geol4": "Al Adly St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1450000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Asyut",
+      "geol3": "Asyut City",
+      "geol4": "Al Helali St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Asyut",
+      "geol3": "Asyut City",
+      "geol4": "Al Namees St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Asyut",
+      "geol3": "Asyut City",
+      "geol4": "Al Arbaeen",
+      "unit_type": "Apartment",
+      "lower_limit": "1150000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Asyut",
+      "geol3": "Asyut City",
+      "geol4": "Al-Azhar District",
+      "unit_type": "Apartment",
+      "lower_limit": "1350000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Asyut",
+      "geol3": "Asyut City",
+      "geol4": "Al Moalemeen",
+      "unit_type": "Apartment",
+      "lower_limit": "1700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Beheira",
+      "geol3": "Rashid",
+      "geol4": "Al Burg",
+      "unit_type": "Apartment",
+      "lower_limit": "900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Beheira",
+      "geol3": "Rashid",
+      "geol4": "Edfina",
+      "unit_type": "Apartment",
+      "lower_limit": "850000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Beheira",
+      "geol3": "Rashid",
+      "geol4": "Al Hammad",
+      "unit_type": "Apartment",
+      "lower_limit": "800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Beheira",
+      "geol3": "Damanhour",
+      "geol4": "Clock Square",
+      "unit_type": "Apartment",
+      "lower_limit": "1800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Beheira",
+      "geol3": "Damanhour",
+      "geol4": "Al Gomhureya St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Beheira",
+      "geol3": "Damanhour",
+      "geol4": "Salah El Din",
+      "unit_type": "Apartment",
+      "lower_limit": "1700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Beheira",
+      "geol3": "Atlas Farms",
+      "unit_type": "Apartment",
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Beheira",
+      "geol3": "Kafr al-Dawwar",
+      "geol4": "Port Saeed St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1350000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Beni Suef",
+      "geol3": "Beni Suef City",
+      "geol4": "Al Zohoor",
+      "unit_type": "Apartment",
+      "lower_limit": "900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Beni Suef",
+      "geol3": "Beni Suef City",
+      "geol4": "Al Hareth Square",
+      "unit_type": "Apartment",
+      "lower_limit": "1100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Beni Suef",
+      "geol3": "Beni Suef City",
+      "geol4": "Al Horreya",
+      "unit_type": "Apartment",
+      "lower_limit": "1000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Beni Suef",
+      "geol3": "Beni Suef City",
+      "geol4": "Al Gomhureya St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Beni Suef",
+      "geol3": "Beni Suef City",
+      "geol4": "Abdel Salam Aref St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Beni Suef",
+      "geol3": "Beni Suef City",
+      "geol4": "Ahmad Orabi St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Beni Suef",
+      "geol3": "Beni Suef City",
+      "geol4": "District 4",
+      "unit_type": "Apartment",
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Beni Suef",
+      "geol3": "Beni Suef City",
+      "geol4": "District 5",
+      "unit_type": "Apartment",
+      "lower_limit": "1600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Damietta",
+      "geol3": "Damietta City",
+      "geol4": "City Downtown",
+      "unit_type": "Apartment",
+      "lower_limit": "1800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Damietta",
+      "geol3": "Damietta City",
+      "geol4": "Cornich St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Damietta",
+      "geol3": "Damietta City",
+      "geol4": "Al Galaa St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Damietta",
+      "geol3": "Damietta City",
+      "geol4": "Al Najda St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Damietta",
+      "geol3": "New Damietta",
+      "geol4": "District 1",
+      "unit_type": "Apartment",
+      "lower_limit": "1600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Damietta",
+      "geol3": "New Damietta",
+      "geol4": "District 3",
+      "unit_type": "Apartment",
+      "lower_limit": "1700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Damietta",
+      "geol3": "New Damietta",
+      "geol4": "District 2",
+      "unit_type": "Apartment",
+      "lower_limit": "1650000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Damietta",
+      "geol3": "New Damietta",
+      "geol4": "Cornich St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Damietta",
+      "geol3": "New Damietta",
+      "geol4": "District 4",
+      "unit_type": "Apartment",
+      "lower_limit": "1750000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Damietta",
+      "geol3": "New Damietta",
+      "geol4": "El Adawy St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1950000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Damietta",
+      "geol3": "New Damietta",
+      "geol4": "District 5",
+      "unit_type": "Apartment",
+      "lower_limit": "1850000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Damietta",
+      "geol3": "New Damietta",
+      "geol4": "6th District",
+      "unit_type": "Apartment",
+      "lower_limit": "1920000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Damietta",
+      "geol3": "New Damietta",
+      "geol4": "Sea Dar",
+      "unit_type": "Apartment",
+      "lower_limit": "2200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Damietta",
+      "geol3": "New Damietta",
+      "geol4": "13A",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Damietta",
+      "geol3": "New Damietta",
+      "geol4": "Moria Mall",
+      "unit_type": "Apartment",
+      "lower_limit": "2300000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Damietta",
+      "geol3": "New Damietta",
+      "geol4": "Moria Mall",
+      "unit_type": "Retail",
+      "lower_limit": "7200000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Damietta",
+      "geol3": "New Damietta",
+      "geol4": "Moria Mall",
+      "unit_type": "Office Space",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Damietta",
+      "geol3": "New Damietta",
+      "geol4": "Moria Mall",
+      "unit_type": "Clinic",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "North Youth Housing",
+      "unit_type": "Duplex",
+      "lower_limit": "4300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "W Residences Cairo",
+      "unit_type": "Duplex",
+      "lower_limit": "5900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "North Investors",
+      "unit_type": "Duplex",
+      "lower_limit": "5900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "North Investors",
+      "unit_type": "Duplex",
+      "lower_limit": "5900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "North Investors",
+      "unit_type": "Duplex",
+      "lower_limit": "5900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "North Investors",
+      "unit_type": "Duplex",
+      "lower_limit": "5900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "North Investors",
+      "unit_type": "Duplex",
+      "lower_limit": "5900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "North Investors",
+      "unit_type": "Duplex",
+      "lower_limit": "5900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "North Investors",
+      "unit_type": "Duplex",
+      "lower_limit": "5900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "North Investors",
+      "unit_type": "Duplex",
+      "lower_limit": "5100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "South Investors",
+      "unit_type": "Duplex",
+      "lower_limit": "6400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "South Investors",
+      "unit_type": "Duplex",
+      "lower_limit": "6400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "South Investors",
+      "unit_type": "Duplex",
+      "lower_limit": "6400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "South of Academy",
+      "unit_type": "Duplex",
+      "lower_limit": "7200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "South of Academy",
+      "unit_type": "Duplex",
+      "lower_limit": "7200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "South of Academy",
+      "unit_type": "Duplex",
+      "lower_limit": "7200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "South of Academy",
+      "unit_type": "Duplex",
+      "lower_limit": "7200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "South of Academy",
+      "unit_type": "Duplex",
+      "lower_limit": "7200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "South of Academy",
+      "unit_type": "Duplex",
+      "lower_limit": "7200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Rehab City",
+      "geol5": " Sixth Phase",
+      "unit_type": "Duplex",
+      "lower_limit": "5500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Rehab City",
+      "geol5": "Third Phase",
+      "unit_type": "Duplex",
+      "lower_limit": "5400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Rehab City",
+      "geol5": "Fifth Phase",
+      "unit_type": "Duplex",
+      "lower_limit": "9700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Rehab City",
+      "geol5": "Forth Phase",
+      "unit_type": "Duplex",
+      "lower_limit": "4700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "Rio Complex Mall",
+      "unit_type": "Duplex",
+      "lower_limit": "4600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Intown",
+      "unit_type": "Duplex",
+      "lower_limit": "4800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Future Commercial Center",
+      "unit_type": "Duplex",
+      "lower_limit": "4400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Al Hadaba Al Wosta",
+      "geol5": "Family Home",
+      "unit_type": "Duplex",
+      "lower_limit": "3300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Al Hadaba Al Wosta",
+      "geol5": "El Masria Heights",
+      "unit_type": "Duplex",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Al Hadaba Al Wosta",
+      "geol5": "Baron School St",
+      "unit_type": "Duplex",
+      "lower_limit": "4300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Al Hadaba Al Wosta",
+      "geol5": "Kosor Misr",
+      "unit_type": "Duplex",
+      "lower_limit": "3800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Al Hadaba Al Wosta",
+      "geol5": "Al Rawdah Resort",
+      "unit_type": "Duplex",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Al Hadaba Al Wosta",
+      "geol5": "Lake View Mokattam",
+      "unit_type": "Duplex",
+      "lower_limit": "3900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Al Hadaba Al Olya",
+      "geol5": "Masjid Al Hani St.",
+      "unit_type": "Duplex",
+      "lower_limit": "4100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Al Hadaba Al Olya",
+      "geol5": "Diplomats District",
+      "unit_type": "Duplex",
+      "lower_limit": "4400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Uptown Cairo",
+      "geol5": "Hilltop Golf Villas",
+      "unit_type": "Duplex",
+      "lower_limit": "6000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Uptown Cairo",
+      "geol5": "Alba Aliyah",
+      "unit_type": "Duplex",
+      "lower_limit": "5400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Uptown Cairo",
+      "geol5": "Reyna",
+      "unit_type": "Duplex",
+      "lower_limit": "5600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Uptown Cairo",
+      "geol5": "Isadore",
+      "unit_type": "Duplex",
+      "lower_limit": "7200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Uptown Cairo",
+      "geol5": "The Sierras",
+      "unit_type": "Duplex",
+      "lower_limit": "6200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Uptown Cairo",
+      "geol5": "Alto",
+      "unit_type": "Duplex",
+      "lower_limit": "5900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Uptown Cairo",
+      "geol5": "Sonesta Hills",
+      "unit_type": "Duplex",
+      "lower_limit": "6400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Uptown Cairo",
+      "geol5": "The Fourteen Golf Residences",
+      "unit_type": "Duplex",
+      "lower_limit": "6700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Uptown Cairo",
+      "geol5": "Eleva",
+      "unit_type": "Duplex",
+      "lower_limit": "5700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "North Youth Housing",
+      "unit_type": "Apartment",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "W Residences Cairo",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "North Investors",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "North Investors",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "North Investors",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "North Investors",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "North Investors",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "North Investors",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "North Investors",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "North Investors",
+      "unit_type": "Apartment",
+      "lower_limit": "3800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "South Investors",
+      "unit_type": "Apartment",
+      "lower_limit": "4800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "South Investors",
+      "unit_type": "Apartment",
+      "lower_limit": "4800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "South Investors",
+      "unit_type": "Apartment",
+      "lower_limit": "4800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "South of Academy",
+      "unit_type": "Apartment",
+      "lower_limit": "5400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "South of Academy",
+      "unit_type": "Apartment",
+      "lower_limit": "5400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "South of Academy",
+      "unit_type": "Apartment",
+      "lower_limit": "5400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "South of Academy",
+      "unit_type": "Apartment",
+      "lower_limit": "5400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "South of Academy",
+      "unit_type": "Apartment",
+      "lower_limit": "5400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "South of Academy",
+      "unit_type": "Apartment",
+      "lower_limit": "5400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Rehab City",
+      "geol5": " Sixth Phase",
+      "unit_type": "Apartment",
+      "lower_limit": "4100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Rehab City",
+      "geol5": "Third Phase",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Rehab City",
+      "geol5": "Fifth Phase",
+      "unit_type": "Apartment",
+      "lower_limit": "7200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Rehab City",
+      "geol5": "Forth Phase",
+      "unit_type": "Apartment",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "Rio Complex Mall",
+      "unit_type": "Apartment",
+      "lower_limit": "3400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Intown",
+      "unit_type": "Apartment",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Future Commercial Center",
+      "unit_type": "Apartment",
+      "lower_limit": "3300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Al Hadaba Al Wosta",
+      "geol5": "Family Home",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Al Hadaba Al Wosta",
+      "geol5": "El Masria Heights",
+      "unit_type": "Apartment",
+      "lower_limit": "2600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Al Hadaba Al Wosta",
+      "geol5": "Baron School St",
+      "unit_type": "Apartment",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Al Hadaba Al Wosta",
+      "geol5": "Kosor Misr",
+      "unit_type": "Apartment",
+      "lower_limit": "2800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Al Hadaba Al Wosta",
+      "geol5": "Al Rawdah Resort",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Al Hadaba Al Wosta",
+      "geol5": "Lake View Mokattam",
+      "unit_type": "Apartment",
+      "lower_limit": "2900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Al Hadaba Al Olya",
+      "geol5": "Masjid Al Hani St.",
+      "unit_type": "Apartment",
+      "lower_limit": "3100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Al Hadaba Al Olya",
+      "geol5": "Diplomats District",
+      "unit_type": "Apartment",
+      "lower_limit": "3300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Uptown Cairo",
+      "geol5": "Hilltop Golf Villas",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Uptown Cairo",
+      "geol5": "Alba Aliyah",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Uptown Cairo",
+      "geol5": "Reyna",
+      "unit_type": "Apartment",
+      "lower_limit": "4200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Uptown Cairo",
+      "geol5": "Isadore",
+      "unit_type": "Apartment",
+      "lower_limit": "5400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Uptown Cairo",
+      "geol5": "The Sierras",
+      "unit_type": "Apartment",
+      "lower_limit": "4600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Uptown Cairo",
+      "geol5": "Alto",
+      "unit_type": "Apartment",
+      "lower_limit": "4400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Uptown Cairo",
+      "geol5": "Sonesta Hills",
+      "unit_type": "Apartment",
+      "lower_limit": "4800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Uptown Cairo",
+      "geol5": "The Fourteen Golf Residences",
+      "unit_type": "Apartment",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Uptown Cairo",
+      "geol5": "Eleva",
+      "unit_type": "Apartment",
+      "lower_limit": "4300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helwan",
+      "geol4": "Helwan El-Balad",
+      "unit_type": "Apartment",
+      "lower_limit": "1400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helwan",
+      "geol4": "Wadi Houf",
+      "unit_type": "Apartment",
+      "lower_limit": "1600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helwan",
+      "geol4": "Manshiyat Helwan El Gedida",
+      "unit_type": "Apartment",
+      "lower_limit": "1100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helwan",
+      "geol4": "Al Masaken Aleqtisadiah",
+      "unit_type": "Apartment",
+      "lower_limit": "1200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helwan",
+      "geol4": "Helwan El Sharkeya",
+      "unit_type": "Apartment",
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helwan",
+      "geol4": "Ain Helwan",
+      "unit_type": "Apartment",
+      "lower_limit": "1300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Rod al-Farag",
+      "geol4": "Rod El Farag Al Balad",
+      "unit_type": "Apartment",
+      "lower_limit": "1000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Rod al-Farag",
+      "geol4": "Toson",
+      "unit_type": "Apartment",
+      "lower_limit": "900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Rod al-Farag",
+      "geol4": "Gaziret Badran",
+      "unit_type": "Apartment",
+      "lower_limit": "1100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Maadi",
+      "geol4": "Maadi Medical City",
+      "unit_type": "Apartment",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Maadi",
+      "geol4": "Maadi Gate",
+      "unit_type": "Apartment",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Marg",
+      "geol4": "Mohamed Ibrahim Al Shafei St.",
+      "unit_type": "Apartment",
+      "lower_limit": "750000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Marg",
+      "geol4": "Ibrahim Mohammedi St.",
+      "unit_type": "Apartment",
+      "lower_limit": "800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Marg",
+      "geol4": "Al Anbiya St.",
+      "unit_type": "Apartment",
+      "lower_limit": "700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Marg",
+      "geol4": "Sami Al Bagori St.",
+      "unit_type": "Apartment",
+      "lower_limit": "650000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Marg",
+      "geol4": "Al Razaz St.",
+      "unit_type": "Apartment",
+      "lower_limit": "850000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Marg",
+      "geol4": "Nour Al Houda Mosque St.",
+      "unit_type": "Apartment",
+      "lower_limit": "780000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Marg",
+      "geol4": "Sayed Al Sayed Hamada St.",
+      "unit_type": "Apartment",
+      "lower_limit": "680000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Marg",
+      "geol4": "Fawzi Hashem St.",
+      "unit_type": "Apartment",
+      "lower_limit": "820000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Marg",
+      "geol4": "Kafr El Basha",
+      "unit_type": "Apartment",
+      "lower_limit": "720000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Al Nawady Area",
+      "unit_type": "Apartment",
+      "lower_limit": "3900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Al Nawady Area",
+      "unit_type": "Duplex",
+      "lower_limit": "5200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Axis Elhoria",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Axis Elhoria",
+      "unit_type": "Duplex",
+      "lower_limit": "6000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "El Etihad District",
+      "unit_type": "Apartment",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "El Etihad District",
+      "unit_type": "Duplex",
+      "lower_limit": "4700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "El Nady District",
+      "unit_type": "Apartment",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "El Nady District",
+      "unit_type": "Duplex",
+      "lower_limit": "4800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Housing the 70 Meter Area",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Housing the 70 Meter Area",
+      "unit_type": "Duplex",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Oasis District",
+      "unit_type": "Apartment",
+      "lower_limit": "3400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Oasis District",
+      "unit_type": "Duplex",
+      "lower_limit": "4600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Rio Business Hub",
+      "unit_type": "Apartment",
+      "lower_limit": "4200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Rio Business Hub",
+      "unit_type": "Duplex",
+      "lower_limit": "5600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Sky View",
+      "unit_type": "Apartment",
+      "lower_limit": "4400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Sky View",
+      "unit_type": "Duplex",
+      "lower_limit": "5900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Solaria Mall",
+      "unit_type": "Apartment",
+      "lower_limit": "4300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Solaria Mall",
+      "unit_type": "Duplex",
+      "lower_limit": "5700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Stella Location",
+      "unit_type": "Apartment",
+      "lower_limit": "4600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Stella Location",
+      "unit_type": "Duplex",
+      "lower_limit": "6200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Terrace Mall",
+      "unit_type": "Apartment",
+      "lower_limit": "4100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Terrace Mall",
+      "unit_type": "Duplex",
+      "lower_limit": "5500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Youth Housing 63 Meter",
+      "unit_type": "Apartment",
+      "lower_limit": "2800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Youth Housing 63 Meter",
+      "unit_type": "Duplex",
+      "lower_limit": "3800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "10th Sector",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "13th Sector",
+      "unit_type": "Apartment",
+      "lower_limit": "2800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "2nd Sector",
+      "unit_type": "Apartment",
+      "lower_limit": "2100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "3rd Sector",
+      "unit_type": "Apartment",
+      "lower_limit": "2200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "6th Sector",
+      "unit_type": "Apartment",
+      "lower_limit": "2400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "7th Sector",
+      "unit_type": "Apartment",
+      "lower_limit": "2600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "Eighth Sector",
+      "unit_type": "Apartment",
+      "lower_limit": "2700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "Club Town",
+      "unit_type": "Apartment",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "Degla Class",
+      "unit_type": "Apartment",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "Degla Elegance",
+      "unit_type": "Apartment",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "Diamond Tower",
+      "unit_type": "Apartment",
+      "lower_limit": "3400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "Villamora",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "White Tower",
+      "unit_type": "Apartment",
+      "lower_limit": "3300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Heliopolis",
+      "geol4": "1st District",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Heliopolis",
+      "geol4": "2nd District",
+      "unit_type": "Apartment",
+      "lower_limit": "2700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Heliopolis",
+      "geol4": "5th District",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Heliopolis",
+      "geol4": "6th District",
+      "unit_type": "Apartment",
+      "lower_limit": "3100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Heliopolis",
+      "geol4": "9th District",
+      "unit_type": "Apartment",
+      "lower_limit": "3400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Heliopolis",
+      "geol4": "Al Gamea Square",
+      "unit_type": "Apartment",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Heliopolis",
+      "geol4": "Entertainment District",
+      "unit_type": "Apartment",
+      "lower_limit": "3800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Heliopolis",
+      "geol4": "Helioeye",
+      "unit_type": "Apartment",
+      "lower_limit": "4100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "1st Zone",
+      "unit_type": "Apartment",
+      "lower_limit": "2900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "6th District",
+      "unit_type": "Apartment",
+      "lower_limit": "3100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "7th District",
+      "unit_type": "Apartment",
+      "lower_limit": "3300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "8th Zone",
+      "unit_type": "Apartment",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "9th Zone",
+      "unit_type": "Apartment",
+      "lower_limit": "3700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Al Nadi Al Ahly",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Al Sharekat",
+      "unit_type": "Apartment",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "El Estad",
+      "unit_type": "Apartment",
+      "lower_limit": "4200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Harmony Town",
+      "unit_type": "Apartment",
+      "lower_limit": "3400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Masaken Al Mohandesin",
+      "unit_type": "Apartment",
+      "lower_limit": "3900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Nadi Al Sekka Al Hadid",
+      "unit_type": "Apartment",
+      "lower_limit": "3800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Nasr City Towers",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "New Oasis",
+      "unit_type": "Apartment",
+      "lower_limit": "3100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Rabaa Al Adaweyah",
+      "unit_type": "Apartment",
+      "lower_limit": "4800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Sun View",
+      "unit_type": "Apartment",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Victoria Park",
+      "unit_type": "Apartment",
+      "lower_limit": "3300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mostakbal City",
+      "geol4": "The Marquette",
+      "unit_type": "Apartment",
+      "lower_limit": "3800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "1st District",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "1st Zone",
+      "unit_type": "Apartment",
+      "lower_limit": "2400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "2nd District",
+      "unit_type": "Apartment",
+      "lower_limit": "2600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "2nd Zone",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "3rd District",
+      "unit_type": "Apartment",
+      "lower_limit": "2700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "3rd Zone",
+      "unit_type": "Apartment",
+      "lower_limit": "2600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "4th District",
+      "unit_type": "Apartment",
+      "lower_limit": "2800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "4th Zone",
+      "unit_type": "Apartment",
+      "lower_limit": "2700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "5th District",
+      "unit_type": "Apartment",
+      "lower_limit": "2900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "5th Zone",
+      "unit_type": "Apartment",
+      "lower_limit": "2800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "6th Zone",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "7th District",
+      "unit_type": "Apartment",
+      "lower_limit": "3100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "7th Zone",
+      "unit_type": "Apartment",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "8th District",
+      "unit_type": "Apartment",
+      "lower_limit": "3300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "8th Zone",
+      "unit_type": "Apartment",
+      "lower_limit": "3400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "9th District",
+      "unit_type": "Apartment",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "9th Zone",
+      "unit_type": "Apartment",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Family Housing",
+      "unit_type": "Apartment",
+      "lower_limit": "3700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Al Nawady Area",
+      "unit_type": "Apartment",
+      "lower_limit": "3900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "10th Sector",
+      "unit_type": "Duplex",
+      "lower_limit": "3300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "13th Sector",
+      "unit_type": "Duplex",
+      "lower_limit": "3700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "2nd Sector",
+      "unit_type": "Duplex",
+      "lower_limit": "2800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "3rd Sector",
+      "unit_type": "Duplex",
+      "lower_limit": "2900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "6th Sector",
+      "unit_type": "Duplex",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "7th Sector",
+      "unit_type": "Duplex",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "Eighth Sector",
+      "unit_type": "Duplex",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "Club Town",
+      "unit_type": "Duplex",
+      "lower_limit": "4300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "Degla Class",
+      "unit_type": "Duplex",
+      "lower_limit": "4700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "Degla Elegance",
+      "unit_type": "Duplex",
+      "lower_limit": "4800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "Diamond Tower",
+      "unit_type": "Duplex",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "Villamora",
+      "unit_type": "Duplex",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "White Tower",
+      "unit_type": "Duplex",
+      "lower_limit": "4400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Heliopolis",
+      "geol4": "1st District",
+      "unit_type": "Duplex",
+      "lower_limit": "3300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Heliopolis",
+      "geol4": "2nd District",
+      "unit_type": "Duplex",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Heliopolis",
+      "geol4": "5th District",
+      "unit_type": "Duplex",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Heliopolis",
+      "geol4": "6th District",
+      "unit_type": "Duplex",
+      "lower_limit": "4100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Heliopolis",
+      "geol4": "9th District",
+      "unit_type": "Duplex",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Heliopolis",
+      "geol4": "Al Gamea Square",
+      "unit_type": "Duplex",
+      "lower_limit": "4800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Heliopolis",
+      "geol4": "Entertainment District",
+      "unit_type": "Duplex",
+      "lower_limit": "5100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Heliopolis",
+      "geol4": "Helioeye",
+      "unit_type": "Duplex",
+      "lower_limit": "5500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "1st Zone",
+      "unit_type": "Duplex",
+      "lower_limit": "3900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "6th District",
+      "unit_type": "Duplex",
+      "lower_limit": "4100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "7th District",
+      "unit_type": "Duplex",
+      "lower_limit": "4400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "8th Zone",
+      "unit_type": "Duplex",
+      "lower_limit": "4700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "9th Zone",
+      "unit_type": "Duplex",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Al Nadi Al Ahly",
+      "unit_type": "Duplex",
+      "lower_limit": "5400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Al Sharekat",
+      "unit_type": "Duplex",
+      "lower_limit": "4800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "El Estad",
+      "unit_type": "Duplex",
+      "lower_limit": "5600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Harmony Town",
+      "unit_type": "Duplex",
+      "lower_limit": "4600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Masaken Al Mohandesin",
+      "unit_type": "Duplex",
+      "lower_limit": "5200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Nadi Al Sekka Al Hadid",
+      "unit_type": "Duplex",
+      "lower_limit": "5100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Nasr City Towers",
+      "unit_type": "Duplex",
+      "lower_limit": "6000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "New Oasis",
+      "unit_type": "Duplex",
+      "lower_limit": "4100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Rabaa Al Adaweyah",
+      "unit_type": "Duplex",
+      "lower_limit": "6400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Sun View",
+      "unit_type": "Duplex",
+      "lower_limit": "4700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Victoria Park",
+      "unit_type": "Duplex",
+      "lower_limit": "4400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mostakbal City",
+      "geol4": "The Marquette",
+      "unit_type": "Duplex",
+      "lower_limit": "5100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "1st District",
+      "unit_type": "Duplex",
+      "lower_limit": "3300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "1st Zone",
+      "unit_type": "Duplex",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "2nd District",
+      "unit_type": "Duplex",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "2nd Zone",
+      "unit_type": "Duplex",
+      "lower_limit": "3300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "3rd District",
+      "unit_type": "Duplex",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "3rd Zone",
+      "unit_type": "Duplex",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "4th District",
+      "unit_type": "Duplex",
+      "lower_limit": "3700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "4th Zone",
+      "unit_type": "Duplex",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "5th District",
+      "unit_type": "Duplex",
+      "lower_limit": "3900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "5th Zone",
+      "unit_type": "Duplex",
+      "lower_limit": "3700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "6th Zone",
+      "unit_type": "Duplex",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "7th District",
+      "unit_type": "Duplex",
+      "lower_limit": "4100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "7th Zone",
+      "unit_type": "Duplex",
+      "lower_limit": "4300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "8th District",
+      "unit_type": "Duplex",
+      "lower_limit": "4400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "8th Zone",
+      "unit_type": "Duplex",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "9th District",
+      "unit_type": "Duplex",
+      "lower_limit": "4700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "9th Zone",
+      "unit_type": "Duplex",
+      "lower_limit": "4800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Family Housing",
+      "unit_type": "Duplex",
+      "lower_limit": "4900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Al Nawady Area",
+      "unit_type": "Duplex",
+      "lower_limit": "5200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "6th District",
+      "geol5": "Ncity Core",
+      "unit_type": "Apartment",
+      "lower_limit": "3300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "9th Zone",
+      "geol5": "Hosny Abd Al Rahman St",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Zahraa Madinat Nasr",
+      "geol5": "Gardenia City Walk Mall",
+      "unit_type": "Apartment",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Zahraa Madinat Nasr",
+      "geol5": "Armed Forces Buildings",
+      "unit_type": "Apartment",
+      "lower_limit": "3700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "10th District",
+      "geol5": "Al Shahid Hamdy Al Halawany St.",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "7th District",
+      "geol5": "Al Hadiqah Al Dawliyah",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "9th Zone",
+      "geol5": "Ahmed Hassan St",
+      "unit_type": "Apartment",
+      "lower_limit": "2700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Heliopolis",
+      "geol4": "2nd District",
+      "geol5": "Plot 93",
+      "unit_type": "Apartment",
+      "lower_limit": "2600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Heliopolis",
+      "geol4": "6th District",
+      "geol5": "Plot 33",
+      "unit_type": "Apartment",
+      "lower_limit": "2800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Heliopolis",
+      "geol4": "6th District",
+      "geol5": "New Korba",
+      "unit_type": "Apartment",
+      "lower_limit": "2900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Heliopolis",
+      "geol4": "6th District",
+      "geol5": "Massa",
+      "unit_type": "Apartment",
+      "lower_limit": "2950000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Heliopolis",
+      "geol4": "5th District",
+      "geol5": "Korpenta",
+      "unit_type": "Apartment",
+      "lower_limit": "3100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Heliopolis",
+      "geol4": "1st District",
+      "geol5": "Group 65",
+      "unit_type": "Apartment",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Heliopolis",
+      "geol4": "6th District",
+      "geol5": "Group 65",
+      "unit_type": "Apartment",
+      "lower_limit": "3300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Heliopolis",
+      "geol4": "6th District",
+      "geol5": "Group 64",
+      "unit_type": "Apartment",
+      "lower_limit": "3400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Heliopolis",
+      "geol4": "6th District",
+      "geol5": "Group 62",
+      "unit_type": "Apartment",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Heliopolis",
+      "geol4": "2nd District",
+      "geol5": "Group 23",
+      "unit_type": "Apartment",
+      "lower_limit": "3800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Heliopolis",
+      "geol4": "2nd District",
+      "geol5": "Group 21",
+      "unit_type": "Apartment",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Heliopolis",
+      "geol4": "1st District",
+      "geol5": "Group 11",
+      "unit_type": "Apartment",
+      "lower_limit": "3700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "6th District",
+      "geol5": "Al Zohour",
+      "unit_type": "Apartment",
+      "lower_limit": "2400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "5th District",
+      "geol5": "Zizinia Flowers",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "3rd District",
+      "geol5": "Spring Valley",
+      "unit_type": "Apartment",
+      "lower_limit": "2600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "2nd District",
+      "geol5": "Neighborhood W",
+      "unit_type": "Apartment",
+      "lower_limit": "2700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "2nd District",
+      "geol5": "Neighborhood K",
+      "unit_type": "Apartment",
+      "lower_limit": "2800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "2nd District",
+      "geol5": "Neighborhood D",
+      "unit_type": "Apartment",
+      "lower_limit": "2300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "2nd District",
+      "geol5": "Neighborhood C",
+      "unit_type": "Apartment",
+      "lower_limit": "2400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "2nd District",
+      "geol5": "Neighborhood B",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "2nd District",
+      "geol5": "Neighborhood A",
+      "unit_type": "Apartment",
+      "lower_limit": "2600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "2nd District",
+      "geol5": "Mercado Mall",
+      "unit_type": "Apartment",
+      "lower_limit": "2700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "3rd District",
+      "geol5": "Loaloat Al Shorouk",
+      "unit_type": "Apartment",
+      "lower_limit": "2600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "5th District",
+      "geol5": "Le Park",
+      "unit_type": "Apartment",
+      "lower_limit": "2800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "5th District",
+      "geol5": "Italian Square",
+      "unit_type": "Apartment",
+      "lower_limit": "2900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "3rd District",
+      "geol5": "Housing Luxury Residences",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "5th District",
+      "geol5": "Gawharat Al Shorouk",
+      "unit_type": "Apartment",
+      "lower_limit": "3100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "1st District",
+      "geol5": "City Club Mall",
+      "unit_type": "Apartment",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "5th District",
+      "geol5": "Calimera",
+      "unit_type": "Apartment",
+      "lower_limit": "3300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "5th District",
+      "geol5": "Andalusia",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "6th Zone ",
+      "geol5": "Al Shorouk Road",
+      "unit_type": "Apartment",
+      "lower_limit": "2700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "3rd District",
+      "geol5": "7th Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Family Housing",
+      "geol5": "7th Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "1st Zone ",
+      "geol5": "6th Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "9th Zone ",
+      "geol5": "6th Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "2700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "3rd District",
+      "geol5": "6th Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "2800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Family Housing",
+      "geol5": "6th Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "2900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "1st Zone ",
+      "geol5": "5th Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "9th Zone ",
+      "geol5": "5th Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "1st District",
+      "geol5": "5th Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "3rd District",
+      "geol5": "5th Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "4200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Family Housing",
+      "geol5": "5th Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "1st Zone ",
+      "geol5": "4th Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "2600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "3rd Zone ",
+      "geol5": "4th Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "4th Zone ",
+      "geol5": "4th Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "5th Zone ",
+      "geol5": "4th Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "2700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "7th Zone ",
+      "geol5": "4th Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "2800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "8th Zone ",
+      "geol5": "4th Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "2900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "9th Zone ",
+      "geol5": "4th Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "1st District",
+      "geol5": "4th Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "3rd District",
+      "geol5": "4th Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "4th District ",
+      "geol5": "4th Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "4400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "1st Zone ",
+      "geol5": "3rd Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "4300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "3rd Zone ",
+      "geol5": "3rd Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "4100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "4th Zone ",
+      "geol5": "3rd Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "4600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "5th Zone ",
+      "geol5": "3rd Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "4700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "7th Zone ",
+      "geol5": "3rd Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "8th Zone ",
+      "geol5": "3rd Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "9th Zone ",
+      "geol5": "3rd Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "1st District",
+      "geol5": "3rd Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "4th District ",
+      "geol5": "3rd Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Family Housing",
+      "geol5": "3rd Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "1st Zone ",
+      "geol5": "2nd Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "2nd Zone ",
+      "geol5": "2nd Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "4th Zone ",
+      "geol5": "2nd Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "5th Zone ",
+      "geol5": "2nd Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "7th Zone ",
+      "geol5": "2nd Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "8th Zone ",
+      "geol5": "2nd Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "9th Zone ",
+      "geol5": "2nd Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "1st District",
+      "geol5": "2nd Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "2nd District",
+      "geol5": "2nd Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "3rd District",
+      "geol5": "2nd Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "4th District ",
+      "geol5": "2nd Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "7th District",
+      "geol5": "2nd Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "8th District",
+      "geol5": "2nd Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "9th District",
+      "geol5": "2nd Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Family Housing",
+      "geol5": "2nd Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "2nd Zone ",
+      "geol5": "1st Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "3rd Zone ",
+      "geol5": "1st Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "4th Zone ",
+      "geol5": "1st Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "3900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "5th Zone ",
+      "geol5": "1st Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "7th Zone ",
+      "geol5": "1st Neighborhood",
+      "unit_type": "Retail",
+      "lower_limit": "10800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "8th Zone ",
+      "geol5": "1st Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "2900000"
     }
   ]
 }
