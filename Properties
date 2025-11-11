@@ -20894,7 +20894,7 @@
       "geol3": "Shorouk City",
       "geol4": "EL Patio Prime",
       "unit_type": "Apartment",
-      "lower_limit": "9000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Villas For Sale",
@@ -20902,7 +20902,7 @@
       "geol3": "Shorouk City",
       "geol4": "EL Patio Prime",
       "unit_type": "Town House",
-      "lower_limit": "15000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -20910,7 +20910,7 @@
       "geol3": "Shorouk City",
       "geol4": "EL Patio Prime",
       "unit_type": "Twin House",
-      "lower_limit": "15000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -58454,7 +58454,7 @@
       "geol3": "New Heliopolis",
       "geol4": "Talala",
       "unit_type": "Apartment",
-      "lower_limit": "4000000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Villas For Sale",
@@ -58462,7 +58462,7 @@
       "geol3": "New Heliopolis",
       "geol4": "Talala",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "15000000"
+      "lower_limit": "13000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -58478,7 +58478,7 @@
       "geol3": "New Heliopolis",
       "geol4": "Talala",
       "unit_type": "Town House",
-      "lower_limit": "12000000"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -66514,6 +66514,22 @@
       "geol4": "6 October- Wadi El Natroun Road",
       "unit_type": "Duplex",
       "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Maadi",
+      "geol4": "Corniche El Maadi",
+      "unit_type": "Duplex",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Maadi",
+      "geol4": "Corniche El Maadi",
+      "unit_type": "Apartment",
+      "lower_limit": "1800000"
     },
     {
       "cat": "Villas For Sale",
