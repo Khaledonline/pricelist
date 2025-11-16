@@ -8482,7 +8482,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "Apartment",
-      "lower_limit": "6000000"
+      "lower_limit": "5500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -8491,7 +8491,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "10000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -8500,7 +8500,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "Duplex",
-      "lower_limit": "7000000"
+      "lower_limit": "6500000"
     },
     {
       "cat": "Villas For Sale",
@@ -8509,7 +8509,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "Town House",
-      "lower_limit": "10000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Villas For Sale",
@@ -8518,7 +8518,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "10000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -8545,7 +8545,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "Twin House",
-      "lower_limit": "10000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -10147,7 +10147,7 @@
       "geol4": "5th Settlement",
       "geol5": "The MarQ Compound",
       "unit_type": "Apartment",
-      "lower_limit": "8000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Villas For Sale",
@@ -10156,7 +10156,7 @@
       "geol4": "5th Settlement",
       "geol5": "The MarQ Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "15000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Villas For Sale",
@@ -10165,7 +10165,7 @@
       "geol4": "5th Settlement",
       "geol5": "The MarQ Compound",
       "unit_type": "Town House",
-      "lower_limit": "14000000"
+      "lower_limit": "11000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -10183,7 +10183,7 @@
       "geol4": "5th Settlement",
       "geol5": "The MarQ Compound",
       "unit_type": "Twin House",
-      "lower_limit": "14000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -10192,7 +10192,7 @@
       "geol4": "5th Settlement",
       "geol5": "The MarQ Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "10000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -11181,7 +11181,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "La Rosa",
-      "unit_type": "Standalone Villa",
+      "unit_type": "Stand Alone Villa",
       "lower_limit": "19000000"
     },
     {
@@ -11235,7 +11235,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Teba",
-      "unit_type": "Standalone Villa",
+      "unit_type": "Stand Alone Villa",
       "lower_limit": "18000000"
     },
     {
@@ -11244,7 +11244,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Life View",
-      "unit_type": "Standalone Villa",
+      "unit_type": "Stand Alone Villa",
       "lower_limit": "12000000"
     },
     {
@@ -11253,7 +11253,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "The Villa",
-      "unit_type": "Standalone Villa",
+      "unit_type": "Stand Alone Villa",
       "lower_limit": "30000000"
     },
     {
@@ -11280,7 +11280,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Solay",
-      "unit_type": "Standalone Villa",
+      "unit_type": "Stand Alone Villa",
       "lower_limit": "25000000"
     },
     {
@@ -11343,7 +11343,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Noi",
-      "unit_type": "Standalone Villa",
+      "unit_type": "Stand Alone Villa",
       "lower_limit": "15000000"
     },
     {
@@ -32794,7 +32794,7 @@
       "geol3": "6th of October",
       "geol4": "Mountain View iCity Compound",
       "unit_type": "Apartment",
-      "lower_limit": "5000000"
+      "lower_limit": "4500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -32802,7 +32802,7 @@
       "geol3": "6th of October",
       "geol4": "Mountain View iCity Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "8000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -32818,7 +32818,7 @@
       "geol3": "6th of October",
       "geol4": "Mountain View iCity Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "10000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Villas For Sale",
@@ -32826,7 +32826,7 @@
       "geol3": "6th of October",
       "geol4": "Mountain View iCity Compound",
       "unit_type": "Twin House",
-      "lower_limit": "10000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Villas For Sale",
@@ -32834,7 +32834,7 @@
       "geol3": "6th of October",
       "geol4": "Mountain View iCity Compound",
       "unit_type": "Town House",
-      "lower_limit": "10000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -32842,7 +32842,7 @@
       "geol3": "6th of October",
       "geol4": "Mountain View iCity Compound",
       "unit_type": "Retail",
-      "lower_limit": "7000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -32850,7 +32850,7 @@
       "geol3": "6th of October",
       "geol4": "Mountain View iCity Compound",
       "unit_type": "Office Space",
-      "lower_limit": "6000000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -58188,7 +58188,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Rafts",
-      "unit_type": "Standalone Villa",
+      "unit_type": "Stand Alone Villa",
       "lower_limit": "20000000"
     },
     {
@@ -58640,7 +58640,7 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Ismailia",
       "geol3": "Gandola Village",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Chalet",
       "lower_limit": "1000000"
     },
@@ -58744,7 +58744,7 @@
       "cat": "Apartments for Sale",
       "geol2": "6th of October",
       "geol3": "Boulevard",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "2500000"
     },
@@ -66065,7 +66065,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Zayed Gardens Villas",
-      "unit_type": "Standalone Villa",
+      "unit_type": "Stand Alone Villa",
       "lower_limit": "13100000"
     },
     {
@@ -66129,7 +66129,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Nile Valley Gardens",
-      "unit_type": "Standalone Villa",
+      "unit_type": "Stand Alone Villa",
       "lower_limit": "11000000"
     },
     {
@@ -66185,7 +66185,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Ruya City",
-      "unit_type": "Standalone Villa",
+      "unit_type": "Stand Alone Villa",
       "lower_limit": "11800000"
     },
     {
@@ -66353,7 +66353,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Qomra",
-      "unit_type": "Standalone Villa",
+      "unit_type": "Stand Alone Villa",
       "lower_limit": "13900000"
     },
     {
@@ -66553,7 +66553,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Damac Park Avenue",
-      "unit_type": "Standalone Villa",
+      "unit_type": "Stand Alone Villa",
       "lower_limit": "13500000"
     },
     {
@@ -66737,7 +66737,7 @@
       "geol2": "Giza",
       "geol3": "Hadayek October",
       "geol4": "Mirage",
-      "unit_type": "Standalone Villa",
+      "unit_type": "Stand Alone Villa",
       "lower_limit": "11200000"
     },
     {
@@ -67507,7 +67507,7 @@
       "geol3": "6th of October",
       "geol4": "Cairo Alexandria Desert Road",
       "geol5": "Cairo West Residence",
-      "unit_type": "Standalone Villa",
+      "unit_type": "Stand Alone Villa",
       "lower_limit": "21600000"
     },
     {
@@ -67615,7 +67615,7 @@
       "geol3": "6th of October",
       "geol4": "Cairo Alexandria Desert Road",
       "geol5": "Palm Heights",
-      "unit_type": "Standalone Villa",
+      "unit_type": "Stand Alone Villa",
       "lower_limit": "24300000"
     },
     {
@@ -67712,7 +67712,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Elan",
-      "unit_type": "Standalone Villa",
+      "unit_type": "Stand Alone Villa",
       "lower_limit": "18000000"
     },
     {
@@ -67792,7 +67792,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Royal Gardens",
-      "unit_type": "Standalone Villa",
+      "unit_type": "Stand Alone Villa",
       "lower_limit": "14400000"
     },
     {
@@ -67942,7 +67942,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "New Zayed",
       "geol5": "Aster",
-      "unit_type": "Standalone Villa",
+      "unit_type": "Stand Alone Villa",
       "lower_limit": "16200000"
     },
     {
@@ -68069,7 +68069,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "1st District",
       "geol5": "C'est La Vie",
-      "unit_type": "Standalone Villa",
+      "unit_type": "Stand Alone Villa",
       "lower_limit": "14400000"
     },
     {
@@ -68105,7 +68105,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "2nd District",
       "geol5": "Diplomats",
-      "unit_type": "Standalone Villa",
+      "unit_type": "Stand Alone Villa",
       "lower_limit": "12600000"
     },
     {
@@ -72797,7 +72797,7 @@
       "geol4": "Al Hadaba Al Olya",
       "geol5": "Masjid Al Hani St.",
       "unit_type": "Apartment",
-      "lower_limit": "3100000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -72959,7 +72959,7 @@
       "geol3": "Rod al-Farag",
       "geol4": "Gaziret Badran",
       "unit_type": "Apartment",
-      "lower_limit": "1100000"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -72967,7 +72967,7 @@
       "geol3": "Maadi",
       "geol4": "Maadi Medical City",
       "unit_type": "Apartment",
-      "lower_limit": "3600000"
+      "lower_limit": "3500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -72975,7 +72975,7 @@
       "geol3": "Maadi",
       "geol4": "Maadi Gate",
       "unit_type": "Apartment",
-      "lower_limit": "3200000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -73167,7 +73167,7 @@
       "geol3": "Shorouk City",
       "geol4": "Sky View",
       "unit_type": "Apartment",
-      "lower_limit": "4400000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -73175,7 +73175,7 @@
       "geol3": "Shorouk City",
       "geol4": "Sky View",
       "unit_type": "Duplex",
-      "lower_limit": "5900000"
+      "lower_limit": "4500000"
     },
     {
       "cat": "Apartments for Sale",
