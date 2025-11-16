@@ -68003,6 +68003,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Abdeen",
+      "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "1000000"
     },
@@ -68010,6 +68011,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Abdeen",
+      "geol4": "Unknown",
       "unit_type": "Duplex",
       "lower_limit": "1500000"
     },
@@ -68017,6 +68019,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Abdeen",
+      "geol4": "Unknown",
       "unit_type": "Studio",
       "lower_limit": "1500000"
     },
@@ -68024,6 +68027,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Abdeen",
+      "geol4": "Unknown",
       "unit_type": "Penthouse",
       "lower_limit": "4000000"
     },
@@ -68031,6 +68035,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "Abdeen",
+      "geol4": "Unknown",
       "unit_type": "Retail",
       "lower_limit": "2000000"
     },
@@ -68038,6 +68043,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "Abdeen",
+      "geol4": "Unknown",
       "unit_type": "Office Space",
       "lower_limit": "3600000"
     },
@@ -68045,6 +68051,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "Abdeen",
+      "geol4": "Unknown",
       "unit_type": "Clinic",
       "lower_limit": "2700000"
     },
@@ -68052,6 +68059,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "Abdeen",
+      "geol4": "Unknown",
       "unit_type": "Land",
       "lower_limit": "5000000"
     },
@@ -68927,6 +68935,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Cairo - Ismailia Desert Road",
+      "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "750000"
     },
@@ -69190,6 +69199,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Bab El louk",
+      "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "650000"
     },
@@ -69349,6 +69359,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "El Khalifa",
+      "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "900000"
     },
@@ -69420,6 +69431,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "El Zaher",
+      "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "1500000"
     },
@@ -69483,6 +69495,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Ghamra",
+      "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "900000"
     },
@@ -69972,7 +69985,7 @@
       "geol3": "Mansura",
       "geol4": "Taqseem 6th October",
       "unit_type": "Apartment",
-      "lower_limit": "1650000"
+      "lower_limit": "1600000"
     },
     {
       "cat": "Apartments for Sale",
@@ -69988,7 +70001,7 @@
       "geol3": "Mansura",
       "geol4": "Al Segn St.",
       "unit_type": "Apartment",
-      "lower_limit": "2050000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -70060,7 +70073,7 @@
       "geol3": "Mansura",
       "geol4": "Mohammed Abdou St.",
       "unit_type": "Apartment",
-      "lower_limit": "2350000"
+      "lower_limit": "2300000"
     },
     {
       "cat": "Apartments for Sale",
@@ -70076,7 +70089,7 @@
       "geol3": "Mansura",
       "geol4": "Fahkr Al Din St.",
       "unit_type": "Apartment",
-      "lower_limit": "2850000"
+      "lower_limit": "2800000"
     },
     {
       "cat": "Apartments for Sale",
@@ -70084,7 +70097,7 @@
       "geol3": "Mansura",
       "geol4": "10 St.",
       "unit_type": "Apartment",
-      "lower_limit": "2450000"
+      "lower_limit": "2400000"
     },
     {
       "cat": "Apartments for Sale",
@@ -70108,7 +70121,7 @@
       "geol3": "Mansura",
       "geol4": "Saad Al Sherbiny St.",
       "unit_type": "Apartment",
-      "lower_limit": "2650000"
+      "lower_limit": "2600000"
     },
     {
       "cat": "Apartments for Sale",
@@ -70132,7 +70145,7 @@
       "geol3": "Mansura",
       "geol4": "Al Seka El Gedida St.",
       "unit_type": "Apartment",
-      "lower_limit": "1980000"
+      "lower_limit": "1900000"
     },
     {
       "cat": "Apartments for Sale",
@@ -70188,7 +70201,7 @@
       "geol3": "Mansura",
       "geol4": "Taqseem Al khatab",
       "unit_type": "Apartment",
-      "lower_limit": "2380000"
+      "lower_limit": "2350000"
     },
     {
       "cat": "Apartments for Sale",
@@ -70196,12 +70209,13 @@
       "geol3": "Mansura",
       "geol4": "Mohammed Fathy",
       "unit_type": "Apartment",
-      "lower_limit": "2520000"
+      "lower_limit": "2500000"
     },
     {
       "cat": "Apartments for Sale",
       "geol2": "Dakahlia",
       "geol3": "Mit El Ezz",
+      "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "700000"
     },
@@ -70361,6 +70375,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Monufia",
       "geol3": "Mit El Ezz",
+      "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "850000"
     },
@@ -71880,6 +71895,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Beheira",
       "geol3": "Atlas Farms",
+      "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "1500000"
     },
@@ -75631,6 +75647,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Fayoum",
       "geol3": "Abgeeg",
+      "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "1000000"
     },
@@ -75638,6 +75655,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Fayoum",
       "geol3": "Al Nasereya",
+      "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "1100000"
     },
@@ -75733,6 +75751,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Luxor",
       "geol3": "Al Marasi St.",
+      "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "1400000"
     },
@@ -75740,6 +75759,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Luxor",
       "geol3": "TV St.",
+      "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "1600000"
     },
@@ -75747,6 +75767,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Luxor",
       "geol3": "Ahmad Orabi St.",
+      "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "1800000"
     },
@@ -75754,6 +75775,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Luxor",
       "geol3": "Station St.",
+      "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "1900000"
     },
@@ -75761,6 +75783,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Luxor",
       "geol3": "Al Madamud",
+      "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "1200000"
     },
@@ -75768,6 +75791,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Luxor",
       "geol3": "Sequoia Luxor",
+      "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "1700000"
     },
