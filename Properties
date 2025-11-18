@@ -23926,7 +23926,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hacienda White",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Hacienda White",
       "unit_type": "Standalone Villa",
       "lower_limit": "15000000"
     },
@@ -23934,7 +23935,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hacienda White",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Hacienda White",
       "unit_type": "Studio",
       "lower_limit": "4000000"
     },
@@ -23942,7 +23944,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hacienda White",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Hacienda White",
       "unit_type": "Apartment",
       "lower_limit": "5000000"
     },
@@ -23950,7 +23953,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hacienda White",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Hacienda White",
       "unit_type": "Chalet",
       "lower_limit": "5000000"
     },
@@ -23958,7 +23962,8 @@
       "cat": "Villas For Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hacienda White",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Hacienda White",
       "unit_type": "Twin House",
       "lower_limit": "15000000"
     },
@@ -23966,7 +23971,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hacienda White",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Hacienda White",
       "unit_type": "Town House",
       "lower_limit": "15000000"
     },
@@ -23974,7 +23980,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hacienda White",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Hacienda White",
       "unit_type": "Duplex",
       "lower_limit": "15000000"
     },
@@ -23982,7 +23989,8 @@
       "cat": "Villas For Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hacienda White",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Hacienda White",
       "unit_type": "Town House",
       "lower_limit": "15000000"
     },
@@ -23990,7 +23998,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hacienda White",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Hacienda White",
       "unit_type": "Penthouse",
       "lower_limit": "15000000"
     },
@@ -23998,7 +24007,8 @@
       "cat": "Villas For Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Hacienda White",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Hacienda White",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "15000000"
     },
@@ -26875,7 +26885,7 @@
       "geol3": "6th of October",
       "geol4": "Keeva Compound",
       "unit_type": "Apartment",
-      "lower_limit": "3000000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -26891,7 +26901,7 @@
       "geol3": "6th of October",
       "geol4": "Keeva Compound",
       "unit_type": "Town House",
-      "lower_limit": "7000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -26899,7 +26909,7 @@
       "geol3": "6th of October",
       "geol4": "Keeva Compound",
       "unit_type": "Duplex",
-      "lower_limit": "5000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -26915,7 +26925,7 @@
       "geol3": "6th of October",
       "geol4": "Keeva Compound",
       "unit_type": "Twin House",
-      "lower_limit": "7000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -26923,7 +26933,7 @@
       "geol3": "6th of October",
       "geol4": "Keeva Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "10000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -45309,14 +45319,6 @@
       "lower_limit": "3000000"
     },
     {
-      "cat": "Villas For Sale",
-      "geol2": "Alexandria",
-      "geol3": "tain view",
-      "geol4": "Unknown",
-      "unit_type": "Stand Alone Villa",
-      "lower_limit": "4000000"
-    },
-    {
       "cat": "Commercial for Sale",
       "geol2": "Alexandria",
       "geol3": "Amreya",
@@ -47974,14 +47976,6 @@
     },
     {
       "cat": "Apartments for Sale",
-      "geol2": "Fayoum",
-      "geol3": "Ibshway",
-      "geol4": "Unknown",
-      "unit_type": "Apartment",
-      "lower_limit": "250000"
-    },
-    {
-      "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Imbaba",
       "geol4": "Unknown",
@@ -48130,7 +48124,7 @@
       "geol3": "Kafr Abdo",
       "geol4": "Unknown",
       "unit_type": "Restaurant & Cafe",
-      "lower_limit": "5000000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -48146,7 +48140,7 @@
       "geol3": "Kafr Abdo",
       "geol4": "Unknown",
       "unit_type": "Duplex",
-      "lower_limit": "5000000"
+      "lower_limit": "1200000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -48154,7 +48148,7 @@
       "geol3": "Kafr Abdo",
       "geol4": "Unknown",
       "unit_type": "Penthouse",
-      "lower_limit": "8000000"
+      "lower_limit": "800000"
     },
     {
       "cat": "Villas For Sale",
@@ -48162,7 +48156,7 @@
       "geol3": "Kafr Abdo",
       "geol4": "Unknown",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "15000000"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -48170,7 +48164,7 @@
       "geol3": "Kafr Abdo",
       "geol4": "Unknown",
       "unit_type": "Town House",
-      "lower_limit": "10000000"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -48178,7 +48172,7 @@
       "geol3": "Kafr Abdo",
       "geol4": "Unknown",
       "unit_type": "Standalone Villa",
-      "lower_limit": "15000000"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -57743,7 +57737,7 @@
       "geol2": "Matruh",
       "geol3": "North Coast",
       "geol4": "Orchidia",
-      "unit_type": "Stand Alone Villa",
+      "unit_type": "Standalone Villa",
       "lower_limit": "7000000"
     },
     {
@@ -75872,6 +75866,58 @@
       "geol5": "Yardin",
       "unit_type": "Town House",
       "lower_limit": "10000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shubra",
+      "geol4": "El Sahel",
+      "unit_type": "Apartment",
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shubra",
+      "geol4": "El Sahel",
+      "geol5": "Al Khazendarah",
+      "unit_type": "Retail",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shubra",
+      "geol4": "El Sahel",
+      "geol5": "Sherif",
+      "unit_type": "Apartment",
+      "lower_limit": "1900000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shubra",
+      "geol4": "El Sahel",
+      "geol5": "Saint Teresa",
+      "unit_type": "Office Space",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shubra",
+      "geol4": "El Sahel",
+      "geol5": "Borham",
+      "unit_type": "Apartment",
+      "lower_limit": "1700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "New Sphinx City",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
     }
   ]
 }
