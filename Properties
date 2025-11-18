@@ -4267,15 +4267,6 @@
       "lower_limit": "3000000"
     },
     {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "5th Settlement",
-      "geol5": "Unknown",
-      "unit_type": "Apartment",
-      "lower_limit": "3000000"
-    },
-    {
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
@@ -15418,7 +15409,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Bayside",
       "unit_type": "Chalet",
@@ -19204,7 +19195,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Diamond Resort",
       "unit_type": "Studio",
@@ -19212,7 +19203,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Diamond Resort",
       "unit_type": "Chalet",
@@ -19220,7 +19211,7 @@
     },
     {
       "cat": "Apartments for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Diamond Resort",
       "unit_type": "Apartment",
@@ -19228,7 +19219,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Diamond Resort",
       "unit_type": "Standalone Villa",
@@ -21514,7 +21505,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Fantasia Ras Sedr",
       "unit_type": "Chalet",
@@ -22642,7 +22633,7 @@
     },
     {
       "cat": "Apartments for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Golden Beach Ras Sedr",
       "unit_type": "Apartment",
@@ -22650,7 +22641,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Golden Beach Ras Sedr",
       "unit_type": "Chalet",
@@ -23013,7 +23004,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Greek Island",
       "unit_type": "Chalet",
@@ -27421,7 +27412,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "La Hacienda Ras Sedr",
       "unit_type": "Penthouse",
@@ -27429,7 +27420,7 @@
     },
     {
       "cat": "Apartments for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "La Hacienda Ras Sedr",
       "unit_type": "Studio",
@@ -27437,7 +27428,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "La Hacienda Ras Sedr",
       "unit_type": "Chalet",
@@ -27445,7 +27436,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "La Hacienda Ras Sedr",
       "unit_type": "Standalone Villa",
@@ -27453,7 +27444,7 @@
     },
     {
       "cat": "Villas For Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "La Hacienda Ras Sedr",
       "unit_type": "Twin House",
@@ -27581,7 +27572,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "La Sirena Ras Sedr",
       "unit_type": "Chalet",
@@ -27589,7 +27580,7 @@
     },
     {
       "cat": "Apartments for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "La Sirena Ras Sedr",
       "unit_type": "Penthouse",
@@ -27597,7 +27588,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "La Sirena Ras Sedr",
       "unit_type": "Duplex",
@@ -27605,7 +27596,7 @@
     },
     {
       "cat": "Villas For Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "La Sirena Ras Sedr",
       "unit_type": "Stand Alone Villa",
@@ -27613,7 +27604,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "La Sirena Ras Sedr",
       "unit_type": "Standalone Villa",
@@ -27621,7 +27612,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "La Vento",
       "unit_type": "Chalet",
@@ -27705,7 +27696,7 @@
       "geol3": "New Heliopolis",
       "geol4": "La Vida",
       "unit_type": "Apartment",
-      "lower_limit": "1800000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Villas For Sale",
@@ -28587,7 +28578,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Lasirena Bay",
       "unit_type": "Chalet",
@@ -28595,7 +28586,7 @@
     },
     {
       "cat": "Apartments for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Lasirena Bay",
       "unit_type": "Penthouse",
@@ -28603,7 +28594,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Lasirena Bay",
       "unit_type": "Standalone Villa",
@@ -30307,7 +30298,7 @@
       "geol4": "Alamein",
       "geol5": "Marina 1",
       "unit_type": "Duplex",
-      "lower_limit": "500000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -30361,7 +30352,7 @@
       "geol4": "Alamein",
       "geol5": "Marina 2",
       "unit_type": "Duplex",
-      "lower_limit": "500000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -30371,6 +30362,15 @@
       "geol5": "Marina 2",
       "unit_type": "Apartment",
       "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "Marina 2",
+      "unit_type": "Duplex",
+      "lower_limit": "7000000"
     },
     {
       "cat": "Villas For Sale",
@@ -30413,9 +30413,18 @@
       "geol2": "Matruh",
       "geol3": "North Coast",
       "geol4": "Alamein",
-      "geol5": "Marina 3",
+      "geol5": "Marina 2",
       "unit_type": "Apartment",
       "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "Marina 3",
+      "unit_type": "Duplex",
+      "lower_limit": "7000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -30641,6 +30650,15 @@
       "geol5": "Marina 6",
       "unit_type": "Twin house",
       "lower_limit": "15000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "Marina 6",
+      "unit_type": "Duplex",
+      "lower_limit": "9000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -31536,7 +31554,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Matarma Bay",
       "unit_type": "Chalet",
@@ -31544,7 +31562,7 @@
     },
     {
       "cat": "Apartments for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Matarma Bay",
       "unit_type": "Apartment",
@@ -31552,7 +31570,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Matarma Bay",
       "unit_type": "Studio",
@@ -33194,7 +33212,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Mousa Coast",
       "unit_type": "Studio",
@@ -33202,7 +33220,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Mousa Coast",
       "unit_type": "Chalet",
@@ -33210,7 +33228,7 @@
     },
     {
       "cat": "Apartments for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Mousa Coast",
       "unit_type": "Penthouse",
@@ -33218,7 +33236,7 @@
     },
     {
       "cat": "Apartments for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Mousa Coast",
       "unit_type": "Duplex",
@@ -33226,7 +33244,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Mousa Coast",
       "unit_type": "Duplex",
@@ -33370,7 +33388,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Dahab",
       "geol4": "Nadira",
       "unit_type": "Chalet",
@@ -33378,7 +33396,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Dahab",
       "geol4": "Nadira",
       "unit_type": "Studio",
@@ -34448,7 +34466,7 @@
     },
     {
       "cat": "Apartments for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Nozha Beach",
       "unit_type": "Studio",
@@ -34456,7 +34474,7 @@
     },
     {
       "cat": "Apartments for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Nozha Beach",
       "unit_type": "Penthouse",
@@ -34464,7 +34482,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Nozha Beach",
       "unit_type": "Chalet",
@@ -34472,7 +34490,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Nozha Beach",
       "unit_type": "Duplex",
@@ -35913,7 +35931,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Paradise Ras Sedr",
       "unit_type": "Chalet",
@@ -38665,7 +38683,7 @@
     },
     {
       "cat": "Villas For Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Rivera Beach Ras Sedr",
       "unit_type": "Stand Alone Villa",
@@ -38673,7 +38691,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Rivera Beach Ras Sedr",
       "unit_type": "Twin house",
@@ -38681,7 +38699,7 @@
     },
     {
       "cat": "Apartments for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Rivera Beach Ras Sedr",
       "unit_type": "Duplex",
@@ -38857,7 +38875,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Rosa",
       "unit_type": "Chalet",
@@ -38865,7 +38883,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Rosa",
       "unit_type": "Standalone Villa",
@@ -39468,7 +39486,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Santa Claus Ras Sedr",
       "unit_type": "Duplex",
@@ -39476,7 +39494,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Santa Claus Ras Sedr",
       "unit_type": "Chalet",
@@ -41577,7 +41595,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Spring Land",
       "unit_type": "Chalet",
@@ -41585,7 +41603,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Spring Land",
       "unit_type": "Standalone Villa",
@@ -42360,7 +42378,7 @@
       "geol3": "Gouna",
       "geol4": "Swan Lake Gouna",
       "unit_type": "Chalet",
-      "lower_limit": "4000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -42612,7 +42630,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Tavira",
       "unit_type": "Chalet",
@@ -42620,7 +42638,7 @@
     },
     {
       "cat": "Apartments for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Tavira",
       "unit_type": "Apartment",
@@ -46440,7 +46458,7 @@
     },
     {
       "cat": "Apartments for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Dahab",
       "geol4": "Unknown",
       "unit_type": "Studio",
@@ -50880,7 +50898,7 @@
     },
     {
       "cat": "Apartments for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Unknown",
       "unit_type": "Apartment",
@@ -50888,7 +50906,7 @@
     },
     {
       "cat": "Apartments for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Unknown",
       "unit_type": "Duplex",
@@ -50896,7 +50914,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Unknown",
       "unit_type": "Studio",
@@ -50904,7 +50922,7 @@
     },
     {
       "cat": "Villas For Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Unknown",
       "unit_type": "Twin House",
@@ -50912,7 +50930,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Unknown",
       "unit_type": "Standalone Villa",
@@ -50920,7 +50938,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Unknown",
       "unit_type": "Duplex",
@@ -50928,7 +50946,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Unknown",
       "unit_type": "Chalet",
@@ -50936,7 +50954,7 @@
     },
     {
       "cat": "Apartments for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Unknown",
       "unit_type": "Studio",
@@ -50944,7 +50962,7 @@
     },
     {
       "cat": "Villas For Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Unknown",
       "unit_type": "Stand Alone Villa",
@@ -50952,7 +50970,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Unknown",
       "unit_type": "Twin house",
@@ -50960,7 +50978,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Unknown",
       "unit_type": "Penthouse",
@@ -50968,7 +50986,7 @@
     },
     {
       "cat": "Villas For Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Unknown",
       "unit_type": "Town House",
@@ -51672,7 +51690,7 @@
     },
     {
       "cat": "Apartments for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Sharm al-Sheikh",
       "geol4": "Unknown",
       "unit_type": "Studio",
@@ -51680,7 +51698,7 @@
     },
     {
       "cat": "Apartments for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Sharm al-Sheikh",
       "geol4": "Unknown",
       "unit_type": "Apartment",
@@ -51688,7 +51706,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Sharm al-Sheikh",
       "geol4": "Unknown",
       "unit_type": "Chalet",
@@ -51696,7 +51714,7 @@
     },
     {
       "cat": "Apartments for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Sharm al-Sheikh",
       "geol4": "Unknown",
       "unit_type": "Duplex",
@@ -51704,7 +51722,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Sharm al-Sheikh",
       "geol4": "Unknown",
       "unit_type": "Penthouse",
@@ -51712,7 +51730,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Sharm al-Sheikh",
       "geol4": "Unknown",
       "unit_type": "Studio",
@@ -51720,7 +51738,7 @@
     },
     {
       "cat": "Commercial for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Sharm al-Sheikh",
       "geol4": "Unknown",
       "unit_type": "Full Commercial Building",
@@ -51728,7 +51746,7 @@
     },
     {
       "cat": "Villas For Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Sharm al-Sheikh",
       "geol4": "Unknown",
       "unit_type": "Stand Alone Villa",
@@ -51736,7 +51754,7 @@
     },
     {
       "cat": "Villas For Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Sharm al-Sheikh",
       "geol4": "Unknown",
       "unit_type": "Twin House",
@@ -53120,7 +53138,7 @@
     },
     {
       "cat": "Apartments for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Tor Sinai",
       "geol4": "Unknown",
       "unit_type": "Apartment",
@@ -56957,7 +56975,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "White Bay",
       "unit_type": "Chalet",
@@ -57937,7 +57955,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Grand Beach",
       "unit_type": "Chalet",
@@ -58057,7 +58075,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Palm Beach",
       "unit_type": "Chalet",
@@ -59093,7 +59111,7 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "South Sinai",
+      "geol2": "Sinai",
       "geol3": "Ras Sedr",
       "geol4": "Blue Lagoon",
       "unit_type": "Chalet",
@@ -72298,15 +72316,6 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "5th Settlement",
-      "geol5": "South Investors",
-      "unit_type": "Apartment",
-      "lower_limit": "4800000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
       "geol4": "Rehab City",
       "geol5": " Sixth Phase",
       "unit_type": "Apartment",
@@ -74815,7 +74824,7 @@
       "geol3": "New Damietta",
       "geol4": "Beit Al Watan",
       "geol5": "Lora",
-      "unit_type": "Apartment",
+      "unit_type": "Chalet",
       "lower_limit": "2500000"
     },
     {
@@ -74824,7 +74833,7 @@
       "geol3": "New Damietta",
       "geol4": "Beit Al Watan",
       "geol5": "Rovana",
-      "unit_type": "Apartment",
+      "unit_type": "Chalet",
       "lower_limit": "2600000"
     },
     {
@@ -74833,7 +74842,7 @@
       "geol3": "New Damietta",
       "geol4": "Beit Al Watan",
       "geol5": "Tulip",
-      "unit_type": "Apartment",
+      "unit_type": "Chalet",
       "lower_limit": "2700000"
     },
     {
@@ -74878,7 +74887,7 @@
       "geol3": "North Coast",
       "geol4": "Alamein",
       "geol5": "La Quinta",
-      "unit_type": "Apartment",
+      "unit_type": "Chalet",
       "lower_limit": "3200000"
     },
     {
@@ -74905,7 +74914,7 @@
       "geol3": "Hurghada",
       "geol4": "Sheraton Rd",
       "geol5": "El Mafarek St.",
-      "unit_type": "Apartment",
+      "unit_type": "Chalet",
       "lower_limit": "2300000"
     },
     {
@@ -74914,7 +74923,7 @@
       "geol3": "Hurghada",
       "geol4": "Sheraton Rd",
       "geol5": "El Seyrfi St.",
-      "unit_type": "Apartment",
+      "unit_type": "Chalet",
       "lower_limit": "2400000"
     },
     {
@@ -74923,7 +74932,7 @@
       "geol3": "Hurghada",
       "geol4": "Sheraton Rd",
       "geol5": "Shery St.",
-      "unit_type": "Apartment",
+      "unit_type": "Chalet",
       "lower_limit": "2500000"
     },
     {
@@ -74932,7 +74941,7 @@
       "geol3": "Hurghada",
       "geol4": "Sheraton Rd",
       "geol5": "The View",
-      "unit_type": "Apartment",
+      "unit_type": "Chalet",
       "lower_limit": "3000000"
     },
     {
@@ -74941,7 +74950,7 @@
       "geol3": "Hurghada",
       "geol4": "Sheraton Rd",
       "geol5": "Touristic Central St.",
-      "unit_type": "Apartment",
+      "unit_type": "Chalet",
       "lower_limit": "2800000"
     },
     {
@@ -75918,6 +75927,1852 @@
       "geol4": "New Sphinx City",
       "unit_type": "Apartment",
       "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Port Said",
+      "geol3": "Zohour",
+      "geol4": "Porto Said",
+      "unit_type": "Apartment",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Port Said",
+      "geol3": "Zohour",
+      "geol4": "Porto Said",
+      "unit_type": "Studio",
+      "lower_limit": "1800000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Port Said",
+      "geol3": "Zohour",
+      "geol4": "Porto Said",
+      "unit_type": "Retail",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Port Said",
+      "geol3": "Zohour",
+      "geol4": "Porto Said",
+      "unit_type": "Office Space",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Port Said",
+      "geol3": "Zohour",
+      "geol4": "Porto Said",
+      "unit_type": "Chalet",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Port Said",
+      "geol3": "Zohour",
+      "geol4": "Porto Said",
+      "unit_type": "Studio",
+      "lower_limit": "1800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Granda Alshorouk",
+      "unit_type": "Apartment",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Granda Alshorouk",
+      "unit_type": "Duplex",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Granda Alshorouk",
+      "unit_type": "Penthouse",
+      "lower_limit": "5500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Granda Alshorouk",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "14000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Granda Alshorouk",
+      "unit_type": "Town House",
+      "lower_limit": "9000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Granda Alshorouk",
+      "unit_type": "Twin House",
+      "lower_limit": "10500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Mall The Five",
+      "unit_type": "Retail",
+      "lower_limit": "10500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Mall The Five",
+      "unit_type": "Office Space",
+      "lower_limit": "5500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Eagle Hub",
+      "unit_type": "Retail",
+      "lower_limit": "8500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Eagle Hub",
+      "unit_type": "Clinic",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Celebration West Beach",
+      "unit_type": "Chalet",
+      "lower_limit": "5500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Celebration West Beach",
+      "unit_type": "Duplex",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Celebration West Beach",
+      "unit_type": "Studio",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Celebration West Beach",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Steight",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Steight",
+      "unit_type": "Duplex",
+      "lower_limit": "6500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Hyde Park Views",
+      "unit_type": "Apartment",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Hyde Park Views",
+      "unit_type": "Duplex",
+      "lower_limit": "7000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Efid city",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "21500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Efid city",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Efid city",
+      "unit_type": "Duplex",
+      "lower_limit": "5500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Efid city",
+      "unit_type": "Town House",
+      "lower_limit": "12500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "West Park",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "West Park",
+      "unit_type": "Duplex",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Green Town",
+      "unit_type": "Apartment",
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Green Town",
+      "unit_type": "Duplex",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nozha",
+      "geol4": "Unknown",
+      "unit_type": "Studio",
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nozha",
+      "geol4": "Unknown",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nozha",
+      "geol4": "Unknown",
+      "unit_type": "Duplex",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nozha",
+      "geol4": "Unknown",
+      "unit_type": "Office Space",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nozha",
+      "geol4": "Unknown",
+      "unit_type": "Retail",
+      "lower_limit": "6000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "9inth Hub Mall",
+      "unit_type": "Retail",
+      "lower_limit": "7500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "9inth Hub Mall",
+      "unit_type": "Office Space",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "FLW Residence",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "FLW Residence",
+      "unit_type": "Duplex",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Pyramids City 5",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Pyramids City 5",
+      "unit_type": "Duplex",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Pyramids City 5",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "13500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Pyramids City 5",
+      "unit_type": "Retail",
+      "lower_limit": "10500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "West Courts",
+      "unit_type": "Apartment",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "West Courts",
+      "unit_type": "Duplex",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Avira Residence",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Avira Residence",
+      "unit_type": "Duplex",
+      "lower_limit": "5500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Durrat Al Qahira",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Durrat Al Qahira",
+      "unit_type": "Duplex",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Tierra",
+      "unit_type": "Apartment",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Tierra",
+      "unit_type": "Duplex",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Mostakbal City",
+      "geol4": "Eastvale Sodic",
+      "unit_type": "Town House",
+      "lower_limit": "10500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Mostakbal City",
+      "geol4": "Eastvale Sodic",
+      "unit_type": "Twin House",
+      "lower_limit": "12500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Mostakbal City",
+      "geol4": "Eastvale Sodic",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "18000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mostakbal City",
+      "geol4": "Eastvale Sodic",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Hurghada",
+      "geol4": "Hayat Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Hurghada",
+      "geol4": "Hayat Beach Resort",
+      "unit_type": "Studio",
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Hurghada",
+      "geol4": "Hayat Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Lumia Lagoons",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Lumia Lagoons",
+      "unit_type": "Duplex",
+      "lower_limit": "6000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Lumia Lagoons",
+      "unit_type": "Retail",
+      "lower_limit": "10500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Lumia Lagoons",
+      "unit_type": "Office Space",
+      "lower_limit": "5500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Stella Di Mare",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Stella Di Mare",
+      "unit_type": "Town House",
+      "lower_limit": "9000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Cloud Side",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "18000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Cloud Side",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "SVN SHADES",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "19500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "SVN SHADES",
+      "unit_type": "Apartment",
+      "lower_limit": "5500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Twin tower",
+      "unit_type": "Office Space",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Twin tower",
+      "unit_type": "Retail",
+      "lower_limit": "9000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "Lasirena Palm Beach",
+      "unit_type": "Chalet",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "Lasirena Palm Beach",
+      "unit_type": "Duplex",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "Lasirena Palm Beach",
+      "unit_type": "Studio",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Kin",
+      "unit_type": "Apartment",
+      "lower_limit": "5500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Kin",
+      "unit_type": "Duplex",
+      "lower_limit": "7000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Kin",
+      "unit_type": "Penthouse",
+      "lower_limit": "8500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Nexus Industrial Parks",
+      "unit_type": "Retail",
+      "lower_limit": "9000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Nexus Industrial Parks",
+      "unit_type": "Office Space",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Mosalsal 1",
+      "unit_type": "Apartment",
+      "lower_limit": "1300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Mosalsal 1",
+      "unit_type": "Duplex",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Mosalsal 1",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "8000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Mukhabarat Land",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Mukhabarat Land",
+      "unit_type": "Duplex",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Seven Residence",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Seven Residence",
+      "unit_type": "Duplex",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Beit Al Watan",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "12500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Steight",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Steight",
+      "unit_type": "Duplex",
+      "lower_limit": "6500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Livelli Mall",
+      "unit_type": "Retail",
+      "lower_limit": "9000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Brackets Mall",
+      "unit_type": "Office Space",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Triangle",
+      "unit_type": "Apartment",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Triangle",
+      "unit_type": "Duplex",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "V TERRACE MALL",
+      "unit_type": "Retail",
+      "lower_limit": "8500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Kor",
+      "unit_type": "Retail",
+      "lower_limit": "10000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Kor",
+      "unit_type": "Office Space",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Loaloa",
+      "unit_type": "Apartment",
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Loaloa",
+      "unit_type": "Duplex",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Brackets Mall",
+      "unit_type": "Retail",
+      "lower_limit": "8500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Brackets Mall",
+      "unit_type": "Office Space",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "KERNEL BUSINESS HUB",
+      "unit_type": "Office Space",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Livelli Mall",
+      "unit_type": "Retail",
+      "lower_limit": "9000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "North Plus Mall",
+      "unit_type": "Retail",
+      "lower_limit": "10500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Sway",
+      "unit_type": "Apartment",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Sway",
+      "unit_type": "Duplex",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "The Yard Mall",
+      "unit_type": "Retail",
+      "lower_limit": "11500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Arena Mall",
+      "unit_type": "Retail",
+      "lower_limit": "9500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Eagle Hub",
+      "unit_type": "Clinic",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Mercado mall",
+      "unit_type": "Retail",
+      "lower_limit": "9500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Town Center El-Shorouk Mall",
+      "unit_type": "Retail",
+      "lower_limit": "10000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Al Wahat Al Baharia",
+      "geol4": "Unknown",
+      "unit_type": "Apartment",
+      "lower_limit": "1000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Safaga",
+      "geol4": "Abu Soma Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Safaga",
+      "geol4": "Amwaj Blue Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Safaga",
+      "geol4": "Caribbean World",
+      "unit_type": "Chalet",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Safaga",
+      "geol4": "Coral Sun Beach",
+      "unit_type": "Chalet",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Safaga",
+      "geol4": "Imperial Shams Abu Soma Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Safaga",
+      "geol4": "Intercontinental Abu Soma",
+      "unit_type": "Chalet",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Safaga",
+      "geol4": "Lamar Resort Abu Soma",
+      "unit_type": "Chalet",
+      "lower_limit": "4800000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Safaga",
+      "geol4": "Orca Village",
+      "unit_type": "Studio",
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Safaga",
+      "geol4": "Port Ghalib",
+      "unit_type": "Retail",
+      "lower_limit": "10500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Safaga",
+      "geol4": "Port Ghalib",
+      "unit_type": "Office Space",
+      "lower_limit": "5500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Safaga",
+      "geol4": "Port Ghalib",
+      "unit_type": "Chalet",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Safaga",
+      "geol4": "Shams Prestige Abu Soma",
+      "unit_type": "Chalet",
+      "lower_limit": "3800000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Safaga",
+      "geol4": "The Breakers Diving & Surfing Lodge Resort",
+      "unit_type": "Studio",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Safaga",
+      "geol4": "The Westen Soma Bay",
+      "unit_type": "Chalet",
+      "lower_limit": "5500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Qusair",
+      "geol4": "Fanadir Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Qusair",
+      "geol4": "Onatti Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Qusair",
+      "geol4": "Rohanou Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2800000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Qusair",
+      "geol4": "Sentido Oriental Dream Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Sahl Hasheesh",
+      "geol4": "Al Andalous Residence",
+      "unit_type": "Chalet",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Sahl Hasheesh",
+      "geol4": "Amaros",
+      "unit_type": "Chalet",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Sahl Hasheesh",
+      "geol4": "Baron Palace",
+      "unit_type": "Chalet",
+      "lower_limit": "6500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Sahl Hasheesh",
+      "geol4": "Bay Condos",
+      "unit_type": "Chalet",
+      "lower_limit": "5500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Sahl Hasheesh",
+      "geol4": "Bay View",
+      "unit_type": "Chalet",
+      "lower_limit": "6000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Sahl Hasheesh",
+      "geol4": "Bay Village",
+      "unit_type": "Chalet",
+      "lower_limit": "5800000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Sahl Hasheesh",
+      "geol4": "Calma Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Sahl Hasheesh",
+      "geol4": "Jamaran",
+      "unit_type": "Retail",
+      "lower_limit": "8500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Sahl Hasheesh",
+      "geol4": "Jamaran",
+      "unit_type": "Chalet",
+      "lower_limit": "7500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Sahl Hasheesh",
+      "geol4": "Red Coral",
+      "unit_type": "Chalet",
+      "lower_limit": "4200000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Sahl Hasheesh",
+      "geol4": "Sun Gate Residence",
+      "unit_type": "Chalet",
+      "lower_limit": "5200000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Sahl Hasheesh",
+      "geol4": "Sunset Pearl",
+      "unit_type": "Chalet",
+      "lower_limit": "4800000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Sahl Hasheesh",
+      "geol4": "The K",
+      "unit_type": "Studio",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Sahl Hasheesh",
+      "geol4": "Tropitel",
+      "unit_type": "Chalet",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "Aster El-Galala",
+      "unit_type": "Chalet",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "Aurora",
+      "unit_type": "Chalet",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "Cape Bay Sokhna",
+      "unit_type": "Chalet",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "Centara",
+      "unit_type": "Chalet",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "Downtown Sokhna Hotel",
+      "unit_type": "Chalet",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "El Galala Plaza Mall",
+      "unit_type": "Chalet",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "Grand Heights",
+      "unit_type": "Chalet",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "Holiday Beach",
+      "unit_type": "Chalet",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "Hor Moheb",
+      "unit_type": "Chalet",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "Lasirena Mini Egypt",
+      "unit_type": "Chalet",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "Life Park",
+      "unit_type": "Chalet",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "Misr Sinien",
+      "unit_type": "Chalet",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "Moon View Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "Movenpick Sokhna",
+      "unit_type": "Chalet",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "Ocean Blue",
+      "unit_type": "Chalet",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "Ramada",
+      "unit_type": "Chalet",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "Rocket Beach Al Nada",
+      "unit_type": "Chalet",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "Sand Beach 2",
+      "unit_type": "Chalet",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Agami",
+      "geol4": "El Daraisa",
+      "unit_type": "Apartment",
+      "lower_limit": "1800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Amreya",
+      "geol4": "Adh Dheraa Al Bahri",
+      "unit_type": "Apartment",
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Amreya",
+      "geol4": "Al Amereyah Gharb",
+      "unit_type": "Apartment",
+      "lower_limit": "1400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Amreya",
+      "geol4": "Al Amereyah Sharq",
+      "unit_type": "Apartment",
+      "lower_limit": "1600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Amreya",
+      "geol4": "Mirghim Industrial Area",
+      "unit_type": "Apartment",
+      "lower_limit": "1200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Amreya",
+      "geol4": "Qetaa Mariout",
+      "unit_type": "Apartment",
+      "lower_limit": "1300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Asafra",
+      "geol4": "Suliman Al Farsi St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Bolkly",
+      "geol4": "Ahmed Kamal St.",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Fleming",
+      "geol4": "Ahmed Shawky St",
+      "unit_type": "Apartment",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Fleming",
+      "geol4": "Merosa",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Gomrok",
+      "geol4": "El Anfoshy",
+      "unit_type": "Apartment",
+      "lower_limit": "2200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Moharam Bik",
+      "geol4": "Palm Hills",
+      "unit_type": "Apartment",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Osmania Residence",
+      "geol4": "Unknown",
+      "unit_type": "Apartment",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Osmania Residence",
+      "geol4": "Unknown",
+      "unit_type": "Duplex",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Osmania Residence",
+      "geol4": "Unknown",
+      "unit_type": "Penthouse",
+      "lower_limit": "5500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Osmania Residence",
+      "geol4": "Unknown",
+      "unit_type": "Retail",
+      "lower_limit": "8000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "Abu Tig Marina",
+      "unit_type": "Chalet",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "Ancient Hill",
+      "unit_type": "Chalet",
+      "lower_limit": "6000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "Arena Inn",
+      "unit_type": "Chalet",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "Art Island",
+      "unit_type": "Chalet",
+      "lower_limit": "8000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "Bali",
+      "unit_type": "Chalet",
+      "lower_limit": "5500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "Captains Inn",
+      "unit_type": "Chalet",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "East Golf",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "22500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "Fanadir Bay 2",
+      "unit_type": "Chalet",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "Fanadir Marina",
+      "unit_type": "Chalet",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "Golf",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "18000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "Hill Villas",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "27000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "Hills",
+      "unit_type": "Chalet",
+      "lower_limit": "7500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "Joubal Lagoon Phase 2",
+      "unit_type": "Chalet",
+      "lower_limit": "6500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "Kafr Downtown",
+      "unit_type": "Chalet",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "Kamaran",
+      "unit_type": "Chalet",
+      "lower_limit": "7000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "La Maison Bleue",
+      "unit_type": "Chalet",
+      "lower_limit": "10500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "Labranda Club Paradisio",
+      "unit_type": "Chalet",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "Mansions",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "36000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "Mosaique Hotel",
+      "unit_type": "Chalet",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "Nines",
+      "unit_type": "Chalet",
+      "lower_limit": "6000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "New Marina",
+      "unit_type": "Chalet",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "New Nubia",
+      "unit_type": "Chalet",
+      "lower_limit": "5500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "Nubia",
+      "unit_type": "Chalet",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "Sabina Lagoon Twin Villas",
+      "unit_type": "Twin House",
+      "lower_limit": "15500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "Shedwan Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "Sultan Bey",
+      "unit_type": "Chalet",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "Turtle's Inn",
+      "unit_type": "Chalet",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "Upper Nubia",
+      "unit_type": "Chalet",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "White Villas",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "19500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Makadi Bay",
+      "geol4": "Al Nabila Grand Bay Makadi",
+      "unit_type": "Chalet",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Makadi Bay",
+      "geol4": "Cleopatra Luxury Resort Makadi Bay",
+      "unit_type": "Chalet",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Makadi Bay",
+      "geol4": "Harmony Makadi Bay Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Makadi Bay",
+      "geol4": "Jaz Makadi Saraya Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Makadi Bay",
+      "geol4": "Jaz Makadi Star",
+      "unit_type": "Chalet",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Makadi Bay",
+      "geol4": "Jaz Makadina",
+      "unit_type": "Chalet",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Makadi Bay",
+      "geol4": "Jewel Makadi Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3800000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Makadi Bay",
+      "geol4": "Makadi Garden Azur Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2800000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Makadi Bay",
+      "geol4": "Makadi Orascom Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Makadi Bay",
+      "geol4": "Royal Azur",
+      "unit_type": "Chalet",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Makadi Bay",
+      "geol4": "Stella Makadi Gardens",
+      "unit_type": "Chalet",
+      "lower_limit": "2200000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Makadi Bay",
+      "geol4": "Steigenberger Makadi",
+      "unit_type": "Chalet",
+      "lower_limit": "5500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Makadi Bay",
+      "geol4": "Sunwing Waterworld Makadi",
+      "unit_type": "Chalet",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Makadi Bay",
+      "geol4": "Sunrise Royal Makadi Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "4800000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Makadi Bay",
+      "geol4": "Tia Heights",
+      "unit_type": "Chalet",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Marsa Alam",
+      "geol4": "Marsa Naqari",
+      "unit_type": "Chalet",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Marsa Alam",
+      "geol4": "wadi lahmi",
+      "unit_type": "Chalet",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Marsa Alam",
+      "geol4": "Marsa Naqari",
+      "geol5": "Oriental Coast",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "9000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Marsa Alam",
+      "geol4": "Marsa Naqari",
+      "geol5": "Oriental Coast",
+      "unit_type": "Chalet",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Marsa Alam",
+      "geol4": "Marsa Naqari",
+      "geol5": "Oriental Coast",
+      "unit_type": "Duplex",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Marsa Alam",
+      "geol4": "Marsa Naqari",
+      "geol5": "Oriental Coast",
+      "unit_type": "Studio",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Red Sea",
+      "geol3": "Marsa Alam",
+      "geol4": "Marsa Naqari",
+      "geol5": "Oriental Coast",
+      "unit_type": "Town House",
+      "lower_limit": "9000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Red Sea",
+      "geol3": "Marsa Alam",
+      "geol4": "Marsa Naqari",
+      "geol5": "Oriental Coast",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "9000000"
     }
   ]
 }
