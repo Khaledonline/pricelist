@@ -8386,6 +8386,15 @@
       "lower_limit": "10000000"
     },
     {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Mountain View Executive Compound",
+      "unit_type": "Twin House",
+      "lower_limit": "10000000"
+    },
+    {
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
@@ -20289,7 +20298,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "El Karma 4 Compound",
       "unit_type": "Apartment",
-      "lower_limit": "3000000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -20297,7 +20306,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "El Karma 4 Compound",
       "unit_type": "Duplex",
-      "lower_limit": "7000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -20305,7 +20314,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "El Karma 4 Compound",
       "unit_type": "Town House",
-      "lower_limit": "10000000"
+      "lower_limit": "13000000"
     },
     {
       "cat": "Villas For Sale",
@@ -20313,7 +20322,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "El Karma 4 Compound",
       "unit_type": "Twin House",
-      "lower_limit": "10000000"
+      "lower_limit": "13000000"
     },
     {
       "cat": "Villas For Sale",
@@ -20321,7 +20330,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "El Karma 4 Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "12000000"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -20337,7 +20346,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "El Karma Compound",
       "unit_type": "Duplex",
-      "lower_limit": "7000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -20353,7 +20362,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "El Karma Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "12000000"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Villas For Sale",
@@ -20361,7 +20370,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "El Karma Compound",
       "unit_type": "Town House",
-      "lower_limit": "12000000"
+      "lower_limit": "13000000"
     },
     {
       "cat": "Villas For Sale",
@@ -20369,7 +20378,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "El Karma Compound",
       "unit_type": "Twin House",
-      "lower_limit": "12000000"
+      "lower_limit": "13000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -23009,6 +23018,14 @@
       "geol4": "Greek Island",
       "unit_type": "Chalet",
       "lower_limit": "1000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sinai",
+      "geol3": "Ras Sedr",
+      "geol4": "Greek Island",
+      "unit_type": "Apartment",
+      "lower_limit": "1500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -36241,7 +36258,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "Piacera",
       "unit_type": "Chalet",
-      "lower_limit": "2300000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -58124,9 +58141,19 @@
     {
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
-      "geol3": "Alamein",
-      "geol4": "Sakan Masr",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "Sakan Masr",
       "unit_type": "Chalet",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "Sakan Masr",
+      "unit_type": "Apartment",
       "lower_limit": "3000000"
     },
     {
@@ -74955,14 +74982,6 @@
     },
     {
       "cat": "Vacation Homes for Sale",
-      "geol2": "Red Sea",
-      "geol3": "Marsa Alam",
-      "geol4": "Marsa Naqari Oriental Coast",
-      "unit_type": "Chalet",
-      "lower_limit": "3800000"
-    },
-    {
-      "cat": "Vacation Homes for Sale",
       "geol2": "Suez",
       "geol3": "Ain Sukhna",
       "geol4": "Almanal 2",
@@ -77773,6 +77792,69 @@
       "geol5": "Oriental Coast",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "9000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Obour City",
+      "geol4": "New Obour City",
+      "geol5": "Al Qadisiyah",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Obour City",
+      "geol4": "New Obour City",
+      "geol5": "Al Qadisiyah",
+      "unit_type": "Duplex",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Obour City",
+      "geol4": "New Obour City",
+      "geol5": "Talaa City",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Obour City",
+      "geol4": "New Obour City",
+      "geol5": "Talaa City",
+      "unit_type": "Duplex",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Obour City",
+      "geol4": "New Obour City",
+      "geol5": "El Nakhil Mall",
+      "unit_type": "Retail",
+      "lower_limit": "7000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Obour City",
+      "geol4": "New Obour City",
+      "geol5": "El Nakhil Mall",
+      "unit_type": "Office Space",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Obour City",
+      "geol4": "New Obour City",
+      "geol5": "Talaa City",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "8500000"
     }
   ]
 }
