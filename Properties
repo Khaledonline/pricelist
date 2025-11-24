@@ -20250,7 +20250,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "El Karma 2 Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "15000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -20266,7 +20266,7 @@
       "geol3": "6th of October",
       "geol4": "El Karma 3 Compound",
       "unit_type": "Town House",
-      "lower_limit": "15000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Villas For Sale",
@@ -20274,7 +20274,7 @@
       "geol3": "6th of October",
       "geol4": "El Karma 3 Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "15000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -20314,7 +20314,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "El Karma 4 Compound",
       "unit_type": "Town House",
-      "lower_limit": "13000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Villas For Sale",
@@ -20322,7 +20322,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "El Karma 4 Compound",
       "unit_type": "Twin House",
-      "lower_limit": "13000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Villas For Sale",
@@ -20330,7 +20330,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "El Karma 4 Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "16000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -20362,7 +20362,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "El Karma Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "16000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Villas For Sale",
@@ -20370,7 +20370,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "El Karma Compound",
       "unit_type": "Town House",
-      "lower_limit": "13000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Villas For Sale",
@@ -20378,7 +20378,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "El Karma Compound",
       "unit_type": "Twin House",
-      "lower_limit": "13000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -30154,7 +30154,7 @@
       "geol4": "Sidi Abdel Rahman",
       "geol5": "Marassi",
       "unit_type": "Apartment",
-      "lower_limit": "3000000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -30163,7 +30163,7 @@
       "geol4": "Sidi Abdel Rahman",
       "geol5": "Marassi",
       "unit_type": "Chalet",
-      "lower_limit": "4000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -51023,7 +51023,7 @@
       "geol3": "Ras Soma",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "1500000"
+      "lower_limit": "3500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -51031,7 +51031,7 @@
       "geol3": "Ras Soma",
       "geol4": "Unknown",
       "unit_type": "Chalet",
-      "lower_limit": "2000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Apartments for Sale",
