@@ -65949,6 +65949,246 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "100000"
+    },
+    {
+      "brand": "Jaguar",
+      "model": "XE",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1850000"
+    },
+    {
+      "brand": "Honda",
+      "model": "Civic",
+      "year": "1989",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "110000"
+    },
+    {
+      "brand": "BMW",
+      "model": "740",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2800000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "GLC",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "4350000"
+    },
+    {
+      "brand": "Changhe",
+      "model": "Super Panda",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "155000"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Urban Cruiser",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1400000"
+    },
+    {
+      "brand": "Daihatsu",
+      "model": "Mira",
+      "year": "2001",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "230000"
+    },
+    {
+      "brand": "Citroen",
+      "model": "Berlingo",
+      "year": "2003",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "200000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "GLA",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3500000"
+    },
+    {
+      "brand": "Aston Martin",
+      "model": "Vantage",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "9500000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "GLA 180",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1975000"
+    },
+    {
+      "brand": "Ford",
+      "model": "Taunus",
+      "year": "1982",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "99000"
+    },
+    {
+      "brand": "Volvo",
+      "model": "EX30",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1675000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "GLA",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2900000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "Topolino",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "650000"
+    },
+    {
+      "brand": "BMW",
+      "model": "X5 M",
+      "year": "2017",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1750000"
+    },
+    {
+      "brand": "Mazda",
+      "model": "3",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1490000"
+    },
+    {
+      "brand": "Speranza",
+      "model": "A620",
+      "year": "2013",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "450000"
+    },
+    {
+      "brand": "Lexus",
+      "model": "Es",
+      "year": "2004",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "500000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "1300",
+      "year": "2008",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "190000"
+    },
+    {
+      "brand": "Lexus",
+      "model": "LX",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "5500000"
+    },
+    {
+      "brand": "Citroen",
+      "model": "C5 Aircross",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1600000"
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "Giulia",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1750000"
+    },
+    {
+      "brand": "Aston Martin",
+      "model": "Rapide S",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "6500000"
     }
   ]
 }
