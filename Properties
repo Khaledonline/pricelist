@@ -4448,6 +4448,15 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
+      "geol5": "Acacia Compound",
+      "unit_type": "Penthouse",
+      "lower_limit": "9000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
       "geol5": "Agora Compound",
       "unit_type": "Apartment",
       "lower_limit": "4000000"
