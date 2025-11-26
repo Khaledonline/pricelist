@@ -24052,7 +24052,7 @@
       "geol3": "6th of October",
       "geol4": "Hadaba Compound",
       "unit_type": "Twin House",
-      "lower_limit": "6000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -24063,12 +24063,20 @@
       "lower_limit": "2500000"
     },
     {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Hadaba Compound",
+      "unit_type": "Duplex",
+      "lower_limit": "4500000"
+    },
+    {
       "cat": "Villas For Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Hadaba Compound",
       "unit_type": "Town House",
-      "lower_limit": "6000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -78372,7 +78380,7 @@
       "geol4": "Ras El Soda",
       "geol5": "New Miami",
       "unit_type": "Apartment",
-      "lower_limit": "2500000"
+      "lower_limit": "750000"
     },
     {
       "cat": "Commercial for Sale",
@@ -78381,7 +78389,7 @@
       "geol4": "Shortet Al Mina",
       "geol5": "Al Daerah Al Gomrokeyah",
       "unit_type": "Retail",
-      "lower_limit": "4500000"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -78390,7 +78398,7 @@
       "geol4": "Ras El Soda",
       "geol5": "New El Andalus City",
       "unit_type": "Office Space",
-      "lower_limit": "3500000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -78398,7 +78406,7 @@
       "geol3": "Arish",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "1500000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -78406,7 +78414,7 @@
       "geol3": "Bir el abd",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "900000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -78414,7 +78422,7 @@
       "geol3": "Sheikh Zuweid",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "1200000"
+      "lower_limit": "800000"
     },
     {
       "cat": "Apartments for Sale",
@@ -78422,21 +78430,13 @@
       "geol3": "Hasana",
       "geol4": "Unknown",
       "unit_type": "Apartment",
-      "lower_limit": "600000"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Apartments for Sale",
       "geol2": "Sinai",
       "geol3": "Nekhel",
       "geol4": "Unknown",
-      "unit_type": "Apartment",
-      "lower_limit": "700000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Giza",
-      "geol3": "6th of October",
-      "geol4": "Tabaea",
       "unit_type": "Apartment",
       "lower_limit": "2500000"
     },
@@ -78445,8 +78445,16 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Tabaea",
+      "unit_type": "Apartment",
+      "lower_limit": "1000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Tabaea",
       "unit_type": "Duplex",
-      "lower_limit": "3500000"
+      "lower_limit": "750000"
     },
     {
       "cat": "Apartments for Sale",
@@ -78462,7 +78470,7 @@
       "geol3": "6th of October",
       "geol4": "Tesla Residence",
       "unit_type": "Duplex",
-      "lower_limit": "4000000"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -78470,7 +78478,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Centrada Plaza",
       "unit_type": "Retail",
-      "lower_limit": "10000000"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -78478,7 +78486,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Centrada Plaza",
       "unit_type": "Office Space",
-      "lower_limit": "5000000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Villas For Sale",
@@ -78486,7 +78494,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Exit 14",
       "unit_type": "Retail",
-      "lower_limit": "6000000"
+      "lower_limit": "1000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -78494,7 +78502,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Exit 14",
       "unit_type": "Office Space",
-      "lower_limit": "4000000"
+      "lower_limit": "750000"
     },
     {
       "cat": "Apartments for Sale",
@@ -78502,7 +78510,7 @@
       "geol3": "Nasr City",
       "geol4": "Shalya",
       "unit_type": "Apartment",
-      "lower_limit": "3000000"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -78510,7 +78518,7 @@
       "geol3": "6th of October",
       "geol4": "WestVille",
       "unit_type": "Apartment",
-      "lower_limit": "3500000"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -78518,7 +78526,7 @@
       "geol3": "6th of October",
       "geol4": "WestVille",
       "unit_type": "Duplex",
-      "lower_limit": "4000000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Villas For Sale",
@@ -78526,7 +78534,7 @@
       "geol3": "6th of October",
       "geol4": "WestVille",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "14000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -78534,7 +78542,7 @@
       "geol3": "Hadayek October",
       "geol4": "Dahshur Residences",
       "unit_type": "Apartment",
-      "lower_limit": "1250000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -78542,7 +78550,7 @@
       "geol3": "Hadayek October",
       "geol4": "Dahshur Residences",
       "unit_type": "Duplex",
-      "lower_limit": "1800000"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Villas For Sale",
@@ -78550,7 +78558,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Ruya club",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "10500000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -78558,7 +78566,7 @@
       "geol3": "Hurghada",
       "geol4": "Kamaran",
       "unit_type": "Chalet",
-      "lower_limit": "3500000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -78566,7 +78574,7 @@
       "geol3": "Hurghada",
       "geol4": "Kamaran",
       "unit_type": "Duplex",
-      "lower_limit": "4000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -78574,7 +78582,7 @@
       "geol3": "Hurghada",
       "geol4": "Kamaran",
       "unit_type": "Studio",
-      "lower_limit": "1500000"
+      "lower_limit": "5000000"
     }
   ]
 }
