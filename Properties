@@ -20931,12 +20931,28 @@
       "lower_limit": "15000000"
     },
     {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "El Patio Sola",
+      "unit_type": "Town House",
+      "lower_limit": "15000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "El Patio Sola",
+      "unit_type": "Twin House",
+      "lower_limit": "16000000"
+    },
+    {
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
       "geol4": "El Patio Sola",
       "unit_type": "Apartment",
-      "lower_limit": "9000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -20945,6 +20961,22 @@
       "geol4": "El Patio Sola",
       "unit_type": "Penthouse",
       "lower_limit": "10000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "El Patio Sola",
+      "unit_type": "Duplex",
+      "lower_limit": "17500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "El Patio Sola",
+      "unit_type": "Roof",
+      "lower_limit": "17500000"
     },
     {
       "cat": "Villas For Sale",
@@ -65546,15 +65578,6 @@
       "geol2": "Matruh",
       "geol3": "North Coast",
       "geol4": "Alamein",
-      "geol5": "La Quinta",
-      "unit_type": "Chalet",
-      "lower_limit": "4000000"
-    },
-    {
-      "cat": "Vacation Homes for Sale",
-      "geol2": "Matruh",
-      "geol3": "North Coast",
-      "geol4": "Alamein",
       "geol5": "Marina Venecia",
       "unit_type": "Chalet",
       "lower_limit": "5000000"
@@ -75223,14 +75246,6 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shubra",
-      "geol4": "El Sahel",
-      "unit_type": "Apartment",
-      "lower_limit": "1900000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Shubra",
       "geol4": "Al Shamashargi",
       "unit_type": "Apartment",
       "lower_limit": "1700000"
@@ -76436,8 +76451,8 @@
       "geol2": "Red Sea",
       "geol3": "Hurghada",
       "geol4": "Hayat Beach Resort",
-      "unit_type": "Chalet",
-      "lower_limit": "3000000"
+      "unit_type": "Duplex",
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -76664,36 +76679,12 @@
       "lower_limit": "12500000"
     },
     {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "Steight",
-      "unit_type": "Apartment",
-      "lower_limit": "4500000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "Steight",
-      "unit_type": "Duplex",
-      "lower_limit": "6500000"
-    },
-    {
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "Livelli Mall",
       "unit_type": "Retail",
       "lower_limit": "9000000"
-    },
-    {
-      "cat": "Commercial for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "Brackets Mall",
-      "unit_type": "Office Space",
-      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -76779,14 +76770,6 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Livelli Mall",
-      "unit_type": "Retail",
-      "lower_limit": "9000000"
-    },
-    {
-      "cat": "Commercial for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
       "geol4": "North Plus Mall",
       "unit_type": "Retail",
       "lower_limit": "10500000"
@@ -76822,14 +76805,6 @@
       "geol4": "Arena Mall",
       "unit_type": "Retail",
       "lower_limit": "9500000"
-    },
-    {
-      "cat": "Commercial for Sale",
-      "geol2": "Cairo",
-      "geol3": "Shorouk City",
-      "geol4": "Eagle Hub",
-      "unit_type": "Clinic",
-      "lower_limit": "3500000"
     },
     {
       "cat": "Commercial for Sale",
