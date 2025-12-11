@@ -12897,7 +12897,7 @@
       "geol3": "New Capital City",
       "geol4": "Al Maqsad",
       "unit_type": "Apartment",
-      "lower_limit": "4000000"
+      "lower_limit": "3500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -32578,6 +32578,14 @@
       "lower_limit": "10000000"
     },
     {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Moon Land Compound",
+      "unit_type": "Apartment",
+      "lower_limit": "4000000"
+    },
+    {
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Capital City",
@@ -46849,7 +46857,7 @@
       "geol3": "Dokki",
       "geol4": "Unknown",
       "unit_type": "Retail",
-      "lower_limit": "10000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Commercial for Sale",
