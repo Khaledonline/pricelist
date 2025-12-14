@@ -36620,7 +36620,7 @@
       "geol4": "Alamein",
       "geol5": "Porto Golf Marina",
       "unit_type": "Standalone Villa",
-      "lower_limit": "4000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -36629,7 +36629,16 @@
       "geol4": "Alamein",
       "geol5": "Porto Golf Marina",
       "unit_type": "Studio",
-      "lower_limit": "1000000"
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "Porto Golf Marina",
+      "unit_type": "Duplex",
+      "lower_limit": "4500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -36647,7 +36656,7 @@
       "geol4": "Alamein",
       "geol5": "Porto Golf Marina",
       "unit_type": "Apartment",
-      "lower_limit": "1000000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -36665,7 +36674,7 @@
       "geol4": "Alamein",
       "geol5": "Porto Golf Marina",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "4000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -36674,7 +36683,7 @@
       "geol4": "Alamein",
       "geol5": "Porto Golf Marina",
       "unit_type": "Twin house",
-      "lower_limit": "4000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -36683,7 +36692,7 @@
       "geol4": "Alamein",
       "geol5": "Porto Golf Marina",
       "unit_type": "Chalet",
-      "lower_limit": "1000000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Villas For Sale",
@@ -36692,7 +36701,7 @@
       "geol4": "Alamein",
       "geol5": "Porto Golf Marina",
       "unit_type": "Twin House",
-      "lower_limit": "4000000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Commercial for Sale",
