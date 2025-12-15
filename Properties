@@ -318,7 +318,7 @@
       "geol3": "6th of October",
       "geol4": "1st District",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "7000000"
+      "lower_limit": "ب7,000,000"
     },
     {
       "cat": "Commercial for Sale",
@@ -23263,7 +23263,42 @@
       "geol3": "6th of October",
       "geol4": "Green Belt",
       "unit_type": "Apartment",
-      "lower_limit": "1300000"
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Green Belt",
+      "geol5": "The Ark",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "16000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Green Belt",
+      "unit_type": "Duplex",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Green Belt",
+      "geol5": "The Ark",
+      "unit_type": "Twin House",
+      "lower_limit": "16000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Green Belt",
+      "geol5": "The Ark",
+      "unit_type": "Town House",
+      "lower_limit": "16000000"
     },
     {
       "cat": "Villas For Sale",
@@ -23271,7 +23306,7 @@
       "geol3": "6th of October",
       "geol4": "Green Belt",
       "unit_type": "Twin House",
-      "lower_limit": "8000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -23279,7 +23314,7 @@
       "geol3": "6th of October",
       "geol4": "Green Belt",
       "unit_type": "Town House",
-      "lower_limit": "8000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -23287,7 +23322,7 @@
       "geol3": "6th of October",
       "geol4": "Green Belt",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "8000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Commercial for Sale",
