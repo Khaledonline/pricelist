@@ -14264,6 +14264,15 @@
       "geol3": "North Coast",
       "geol4": "Alamein",
       "geol5": "Aqua View",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "Aqua View",
       "unit_type": "Studio",
       "lower_limit": "1000000"
     },
