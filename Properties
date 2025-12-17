@@ -5177,7 +5177,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
-      "geol5": "rar",
+      "geol5": "Azzar Compound",
       "unit_type": "Apartment",
       "lower_limit": "5000000"
     },
@@ -38631,6 +38631,14 @@
       "geol4": "Reve du nil",
       "unit_type": "Apartment",
       "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Maadi",
+      "geol4": "Reve du nil",
+      "unit_type": "Hotel Apartment",
+      "lower_limit": "7000000"
     },
     {
       "cat": "Villas For Sale",
