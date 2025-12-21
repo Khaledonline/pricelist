@@ -8428,7 +8428,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View Hyde Park Compound",
       "unit_type": "Apartment",
-      "lower_limit": "6000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Villas For Sale",
@@ -8437,7 +8437,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View Hyde Park Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "12000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -8464,7 +8464,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View Hyde Park Compound",
       "unit_type": "Town House",
-      "lower_limit": "10000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Villas For Sale",
@@ -8473,7 +8473,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View Hyde Park Compound",
       "unit_type": "Twin House",
-      "lower_limit": "10000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -38679,7 +38679,7 @@
       "geol3": "Maadi",
       "geol4": "Reve du nil",
       "unit_type": "Hotel Apartment",
-      "lower_limit": "7000000"
+      "lower_limit": "done"
     },
     {
       "cat": "Villas For Sale",
@@ -54151,6 +54151,14 @@
       "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "1000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Katameya",
+      "geol4": "Unknown",
+      "unit_type": "Duplex",
+      "lower_limit": "1500000"
     },
     {
       "cat": "Commercial for Sale",
