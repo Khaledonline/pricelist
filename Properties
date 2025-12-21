@@ -8437,7 +8437,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View Hyde Park Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "10000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -37157,6 +37157,14 @@
       "lower_limit": "5000000"
     },
     {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Promenade Residence Compound",
+      "unit_type": "Town House",
+      "lower_limit": "6000000"
+    },
+    {
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
@@ -57107,7 +57115,7 @@
       "geol3": "6th of October",
       "geol4": "West Somid Compound",
       "unit_type": "Apartment",
-      "lower_limit": "1700000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -57147,7 +57155,7 @@
       "geol3": "6th of October",
       "geol4": "West Somid Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "10000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -78523,15 +78531,15 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": "Tabaea",
+      "geol4": "Tabeaa",
       "unit_type": "Apartment",
-      "lower_limit": "2500000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
-      "geol4": "Tabaea",
+      "geol4": "Tabeaa",
       "unit_type": "Duplex",
       "lower_limit": "3500000"
     },
