@@ -18894,7 +18894,7 @@
       "geol3": "New Capital City",
       "geol4": "De Joya",
       "unit_type": "Clinic",
-      "lower_limit": "2000000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -18926,7 +18926,7 @@
       "geol3": "New Capital City",
       "geol4": "De Joya",
       "unit_type": "Apartment",
-      "lower_limit": "1700000"
+      "lower_limit": "2500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -21409,6 +21409,30 @@
       "geol3": "New Capital City",
       "geol4": "Entrada",
       "unit_type": "Duplex",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Entrada",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "14000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Entrada",
+      "unit_type": "Town House",
+      "lower_limit": "8000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Entrada",
+      "unit_type": "Retail",
       "lower_limit": "3000000"
     },
     {
@@ -24493,7 +24517,7 @@
     {
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
-      "geol3": "Al Maadi",
+      "geol3": "Maadi",
       "geol4": "Hayat Degla",
       "unit_type": "Apartment",
       "lower_limit": "2500000"
@@ -52886,7 +52910,7 @@
       "geol3": "Soma Bay",
       "geol4": "Unknown",
       "unit_type": "Chalet",
-      "lower_limit": "4000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -56701,6 +56725,14 @@
       "lower_limit": "8000000"
     },
     {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Soma Bay",
+      "geol4": "Wadi Jebal",
+      "unit_type": "Chalet",
+      "lower_limit": "5000000"
+    },
+    {
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "6th of October",
@@ -59865,7 +59897,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Ghamra",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "900000"
     },
@@ -59873,7 +59905,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Ghamra",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Duplex",
       "lower_limit": "1600000"
     },
@@ -59881,7 +59913,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "Ghamra",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Clinic",
       "lower_limit": "1900000"
     },
@@ -59889,7 +59921,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "Ghamra",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Retail",
       "lower_limit": "2500000"
     },
@@ -61569,7 +61601,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Cairo - Ismailia Desert Road",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "800000"
     },
@@ -62585,7 +62617,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "Bab El louk",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Clinic",
       "lower_limit": "2800000"
     },
@@ -62593,7 +62625,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "Bab El louk",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Retail",
       "lower_limit": "4000000"
     },
@@ -62601,7 +62633,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Bab El louk",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "1500000"
     },
@@ -62609,7 +62641,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Bab El louk",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Duplex",
       "lower_limit": "2300000"
     },
@@ -63249,7 +63281,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "El Khalifa",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "650000"
     },
@@ -63521,7 +63553,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Abou Al Nomros",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Clinic",
       "lower_limit": "1000000"
     },
@@ -63529,7 +63561,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Abou Al Nomros",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Retail",
       "lower_limit": "1500000"
     },
@@ -63537,7 +63569,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Abou Al Nomros",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "500000"
     },
@@ -63545,7 +63577,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Abou Al Nomros",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Duplex",
       "lower_limit": "800000"
     },
@@ -64545,7 +64577,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Rabea El Gizy St.",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Clinic",
       "lower_limit": "2000000"
     },
@@ -64553,7 +64585,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Rabea El Gizy St.",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Retail",
       "lower_limit": "2800000"
     },
@@ -64561,7 +64593,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Rabea El Gizy St.",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "1000000"
     },
@@ -64569,7 +64601,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Rabea El Gizy St.",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Duplex",
       "lower_limit": "1500000"
     },
@@ -64577,7 +64609,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Al Omraneyah",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Clinic",
       "lower_limit": "1800000"
     },
@@ -64585,7 +64617,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Al Omraneyah",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Retail",
       "lower_limit": "2500000"
     },
@@ -64593,7 +64625,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Al Omraneyah",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "900000"
     },
@@ -64601,7 +64633,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Al Omraneyah",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Duplex",
       "lower_limit": "1300000"
     },
@@ -64705,7 +64737,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Meet Okba",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Clinic",
       "lower_limit": "1800000"
     },
@@ -64713,7 +64745,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Meet Okba",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Retail",
       "lower_limit": "2500000"
     },
@@ -64721,7 +64753,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Meet Okba",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "900000"
     },
@@ -64729,7 +64761,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Meet Okba",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Duplex",
       "lower_limit": "1300000"
     },
@@ -64737,7 +64769,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Sakkara",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Clinic",
       "lower_limit": "1000000"
     },
@@ -64745,7 +64777,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Sakkara",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Retail",
       "lower_limit": "1500000"
     },
@@ -64753,7 +64785,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Sakkara",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "500000"
     },
@@ -64761,7 +64793,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Sakkara",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Duplex",
       "lower_limit": "800000"
     },
@@ -64865,7 +64897,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Sakiat Mekki",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "1500000"
     },
@@ -64873,7 +64905,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Sakiat Mekki",
-      "geol4": "",
+      "geol4": "Unknown",
       "unit_type": "Retail",
       "lower_limit": "2000000"
     },
