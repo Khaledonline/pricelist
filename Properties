@@ -38679,7 +38679,7 @@
       "geol3": "Maadi",
       "geol4": "Reve du nil",
       "unit_type": "Hotel Apartment",
-      "lower_limit": "4000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Villas For Sale",
@@ -61626,14 +61626,6 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Cairo - Ismailia Desert Road",
-      "geol4": "Unknown",
-      "unit_type": "Apartment",
-      "lower_limit": "800000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Cairo - Ismailia Desert Road",
       "geol4": "Palm Resort 1",
       "unit_type": "Apartment",
       "lower_limit": "1500000"
@@ -63235,14 +63227,6 @@
       "geol2": "Cairo",
       "geol3": "Helmeya al-Gadeda",
       "geol4": "Mohamed Ali St.",
-      "unit_type": "Apartment",
-      "lower_limit": "900000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Helmeya al-Gadeda",
-      "geol4": "Mohamed Ali St.",
       "unit_type": "Duplex",
       "lower_limit": "1400000"
     },
@@ -63261,14 +63245,6 @@
       "geol4": "Sekat Abd Al Rahman BK",
       "unit_type": "Retail",
       "lower_limit": "2800000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Helmeya al-Gadeda",
-      "geol4": "Sekat Abd Al Rahman BK",
-      "unit_type": "Apartment",
-      "lower_limit": "850000"
     },
     {
       "cat": "Apartments for Sale",
@@ -69072,14 +69048,6 @@
     {
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
-      "geol3": "Cairo - Ismailia Desert Road",
-      "geol4": "Palm Resort 1",
-      "unit_type": "Apartment",
-      "lower_limit": "800000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
       "geol3": "Ain Shams",
       "geol4": "Abd Al Rahman Youssef Lane",
       "unit_type": "Apartment",
@@ -69089,33 +69057,9 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Ain Shams",
-      "geol4": "Abbas St.",
-      "unit_type": "Apartment",
-      "lower_limit": "720000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Ain Shams",
       "geol4": "Maghawry St.",
       "unit_type": "Apartment",
       "lower_limit": "700000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Ain Shams",
-      "geol4": "Hussein Abd Al Raheem St.",
-      "unit_type": "Apartment",
-      "lower_limit": "820000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Ain Shams",
-      "geol4": "No. 4 St.",
-      "unit_type": "Apartment",
-      "lower_limit": "650000"
     },
     {
       "cat": "Apartments for Sale",
@@ -69132,94 +69076,6 @@
       "geol4": "Hasan Harbi St.",
       "unit_type": "Apartment",
       "lower_limit": "550000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Ain Shams",
-      "geol4": "Al Sheikh Ebeid St.",
-      "unit_type": "Apartment",
-      "lower_limit": "600000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Ain Shams",
-      "geol4": "Al Hadari Lane",
-      "unit_type": "Apartment",
-      "lower_limit": "520000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Ain Shams",
-      "geol4": "Mansheyet El-Tahrir",
-      "unit_type": "Apartment",
-      "lower_limit": "620000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Ain Shams",
-      "geol4": "Helmy Gergis Lane",
-      "unit_type": "Apartment",
-      "lower_limit": "780000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Ain Shams",
-      "geol4": "Halawa St.",
-      "unit_type": "Apartment",
-      "lower_limit": "740000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Ain Shams",
-      "geol4": "Zahraa Ain Shams",
-      "unit_type": "Apartment",
-      "lower_limit": "760000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Ain Shams",
-      "geol4": "Mohammed Gamal Al Deen St.",
-      "unit_type": "Apartment",
-      "lower_limit": "500000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Ain Shams",
-      "geol4": "Al Arbaaon St.",
-      "unit_type": "Apartment",
-      "lower_limit": "640000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Ain Shams",
-      "geol4": "Ezzat Ibrahim Lane",
-      "unit_type": "Apartment",
-      "lower_limit": "480000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Ain Shams",
-      "geol4": "Hafez Farghaly St.",
-      "unit_type": "Apartment",
-      "lower_limit": "880000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Ain Shams",
-      "geol4": "Hammad Lane",
-      "unit_type": "Apartment",
-      "lower_limit": "720000"
     },
     {
       "cat": "Apartments for Sale",
@@ -69272,70 +69128,6 @@
     {
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
-      "geol3": "Bab al-Shereia",
-      "geol4": "Al Farakha Lane",
-      "unit_type": "Apartment",
-      "lower_limit": "420000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Bab al-Shereia",
-      "geol4": "Motawae Alley",
-      "unit_type": "Apartment",
-      "lower_limit": "500000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Bab al-Shereia",
-      "geol4": "Abd Allah Al Shaheed Lane",
-      "unit_type": "Apartment",
-      "lower_limit": "380000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Bab al-Shereia",
-      "geol4": "Sengar Al Srour St.",
-      "unit_type": "Apartment",
-      "lower_limit": "400000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Bab al-Shereia",
-      "geol4": "Shaarawy Lane",
-      "unit_type": "Apartment",
-      "lower_limit": "490000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Bab al-Shereia",
-      "geol4": "Qutb Lane",
-      "unit_type": "Apartment",
-      "lower_limit": "3100000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Bab al-Shereia",
-      "geol4": "El Adawy",
-      "unit_type": "Apartment",
-      "lower_limit": "580000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Bab El louk",
-      "geol4": "Unknown",
-      "unit_type": "Apartment",
-      "lower_limit": "650000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
       "geol3": "Basateen",
       "geol4": "Ezbet Fahmy",
       "unit_type": "Apartment",
@@ -69348,102 +69140,6 @@
       "geol4": "Al Basatin Al Gharbeyah",
       "unit_type": "Apartment",
       "lower_limit": "750000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Boulaq Abo El Ela",
-      "geol4": "El-Shaikh Farrag",
-      "unit_type": "Apartment",
-      "lower_limit": "680000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Boulaq Abo El Ela",
-      "geol4": "Boulaq 5",
-      "unit_type": "Apartment",
-      "lower_limit": "700000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Boulaq Abo El Ela",
-      "geol4": "Boulaq 1",
-      "unit_type": "Apartment",
-      "lower_limit": "650000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Boulaq Abo El Ela",
-      "geol4": "Nasr Path",
-      "unit_type": "Apartment",
-      "lower_limit": "600000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Boulaq Abo El Ela",
-      "geol4": "Al Alaimi",
-      "unit_type": "Apartment",
-      "lower_limit": "720000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Boulaq Abo El Ela",
-      "geol4": "Al Qalayah",
-      "unit_type": "Apartment",
-      "lower_limit": "640000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Boulaq Abo El Ela",
-      "geol4": "Sharkas",
-      "unit_type": "Apartment",
-      "lower_limit": "550000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Boulaq Abo El Ela",
-      "geol4": "Boulaq 2",
-      "unit_type": "Apartment",
-      "lower_limit": "700000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Boulaq Abo El Ela",
-      "geol4": "Souq Al Asr",
-      "unit_type": "Apartment",
-      "lower_limit": "620000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Boulaq Abo El Ela",
-      "geol4": "Boulaq 4",
-      "unit_type": "Apartment",
-      "lower_limit": "660000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Boulaq Abo El Ela",
-      "geol4": "Sanan Basha",
-      "unit_type": "Apartment",
-      "lower_limit": "750000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Boulaq Abo El Ela",
-      "geol4": "Boulaq 3",
-      "unit_type": "Apartment",
-      "lower_limit": "800000"
     },
     {
       "cat": "Apartments for Sale",
@@ -71340,126 +71036,6 @@
       "geol4": "Sheraton Rd",
       "unit_type": "Apartment",
       "lower_limit": "2280000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Gharbia",
-      "geol3": "Mahalla al-Kobra",
-      "geol4": "Industrial City",
-      "unit_type": "Apartment",
-      "lower_limit": "1100000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Gharbia",
-      "geol3": "Mahalla al-Kobra",
-      "geol4": "Mahallet Al Borg",
-      "unit_type": "Apartment",
-      "lower_limit": "950000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Gharbia",
-      "geol3": "Mahalla al-Kobra",
-      "geol4": "Al Hayatem",
-      "unit_type": "Apartment",
-      "lower_limit": "1200000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Gharbia",
-      "geol3": "Mahalla al-Kobra",
-      "geol4": "Al Gamhouriya",
-      "unit_type": "Apartment",
-      "lower_limit": "1050000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Gharbia",
-      "geol3": "Mahalla al-Kobra",
-      "geol4": "Al Jaberiya",
-      "unit_type": "Apartment",
-      "lower_limit": "1350000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Gharbia",
-      "geol3": "Mahalla al-Kobra",
-      "geol4": "Mansheyat Mubarak",
-      "unit_type": "Apartment",
-      "lower_limit": "1200000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Gharbia",
-      "geol3": "Mahalla al-Kobra",
-      "geol4": "Souk Al Laban",
-      "unit_type": "Apartment",
-      "lower_limit": "1150000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Gharbia",
-      "geol3": "Mahalla al-Kobra",
-      "geol4": "Al Saba'a Banat",
-      "unit_type": "Apartment",
-      "lower_limit": "1500000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Gharbia",
-      "geol3": "Mahalla al-Kobra",
-      "geol4": "Mansheyat Al Nasr",
-      "unit_type": "Apartment",
-      "lower_limit": "1400000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Gharbia",
-      "geol3": "Mahalla al-Kobra",
-      "geol4": "Al Mansheya AL Qadeema",
-      "unit_type": "Apartment",
-      "lower_limit": "1600000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Gharbia",
-      "geol3": "Mahalla al-Kobra",
-      "geol4": "Abu Shaheen",
-      "unit_type": "Apartment",
-      "lower_limit": "1250000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Gharbia",
-      "geol3": "Mahalla al-Kobra",
-      "geol4": "Abu Radi",
-      "unit_type": "Apartment",
-      "lower_limit": "1100000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Gharbia",
-      "geol3": "Mahalla al-Kobra",
-      "geol4": "Al Mansheya AL Gadeeda",
-      "unit_type": "Apartment",
-      "lower_limit": "1650000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Gharbia",
-      "geol3": "Mahalla al-Kobra",
-      "geol4": "Dayer El Nahia",
-      "unit_type": "Apartment",
-      "lower_limit": "1000000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Gharbia",
-      "geol3": "Mahalla al-Kobra",
-      "geol4": "Sandafa",
-      "unit_type": "Apartment",
-      "lower_limit": "1300000"
     },
     {
       "cat": "Apartments for Sale",
