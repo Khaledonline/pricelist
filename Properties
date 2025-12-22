@@ -41522,6 +41522,14 @@
       "lower_limit": "2500000"
     },
     {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Soma Bay",
+      "geol4": "Soma Coves",
+      "unit_type": "Chalet",
+      "lower_limit": "8000000"
+    },
+    {
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
