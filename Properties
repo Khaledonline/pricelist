@@ -59736,7 +59736,7 @@
       "geol4": "R8",
       "geol5": "Lagoons",
       "unit_type": "Town House",
-      "lower_limit": "12000000"
+      "lower_limit": "11000000"
     },
     {
       "cat": "Villas For Sale",
@@ -59745,7 +59745,7 @@
       "geol4": "R8",
       "geol5": "Lagoons",
       "unit_type": "Twin house",
-      "lower_limit": "14000000"
+      "lower_limit": "13000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -59753,7 +59753,7 @@
       "geol3": "New Cairo",
       "geol4": "Eastlane Mall",
       "unit_type": "Clinic",
-      "lower_limit": "4000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -59761,7 +59761,7 @@
       "geol3": "New Cairo",
       "geol4": "Eastlane Mall",
       "unit_type": "Retail",
-      "lower_limit": "4000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -59769,7 +59769,7 @@
       "geol3": "New Cairo",
       "geol4": "Eastlane Mall",
       "unit_type": "Office Space",
-      "lower_limit": "4000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -77556,14 +77556,6 @@
     {
       "cat": "Apartments for Sale",
       "geol2": "Alexandria",
-      "geol3": "Roushdy",
-      "geol4": "Ahmed Kamal St.",
-      "unit_type": "Apartment",
-      "lower_limit": "4000000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Alexandria",
       "geol3": "San Stefano",
       "geol4": "Al Fath St.",
       "unit_type": "Apartment",
@@ -78535,22 +78527,6 @@
     },
     {
       "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Heliopolis",
-      "geol4": "Helioeye",
-      "unit_type": "Apartment",
-      "lower_limit": "4000000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Heliopolis",
-      "geol4": "Helioeye",
-      "unit_type": "Duplex",
-      "lower_limit": "5500000"
-    },
-    {
-      "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Jazal",
@@ -79038,6 +79014,110 @@
       "geol4": "8th District",
       "unit_type": "Duplex",
       "lower_limit": "5500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Litz Mall",
+      "unit_type": "Retail",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Capital East 2",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Evergreen",
+      "unit_type": "Apartment",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Evergreen",
+      "unit_type": "Town House",
+      "lower_limit": "12000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "La Manga",
+      "unit_type": "Town House",
+      "lower_limit": "10000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Nine 08",
+      "unit_type": "Apartment",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Malaz",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Stay'N Residence",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Samaya Residence",
+      "unit_type": "Apartment",
+      "lower_limit": "2800000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Alamat Town",
+      "unit_type": "Retail",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Sage Lakes ",
+      "unit_type": "Town House",
+      "lower_limit": "8000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Mosalsal 3",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Abeer Gardens\r",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000"
     }
   ]
 }
