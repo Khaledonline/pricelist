@@ -36648,7 +36648,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1,400,000"
+      "lower_bound_ci_99": "4,800,000"
     },
     {
       "brand": "Mercedes-Benz",
@@ -39558,7 +39558,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "4,700,000"
+      "lower_bound_ci_99": "4,200,000"
     },
     {
       "brand": "Mercedes-Benz",
@@ -69049,6 +69049,106 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "20000000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "SEL 300",
+      "year": "1994",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "240000"
+    },
+    {
+      "brand": "Suzuki",
+      "model": "Jimny",
+      "year": "2008",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "425000"
+    },
+    {
+      "brand": "MG",
+      "model": "GT",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1050000"
+    },
+    {
+      "brand": "Honda",
+      "model": "Civic",
+      "year": "2000",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "360000"
+    },
+    {
+      "brand": "Baic",
+      "model": "X7",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1150000"
+    },
+    {
+      "brand": "Volkswagen",
+      "model": "Beetle",
+      "year": "2008",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "590000"
+    },
+    {
+      "brand": "Opel",
+      "model": "Corsa",
+      "year": "2009",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "410000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "EQS 450",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "4700000"
+    },
+    {
+      "brand": "Volkswagen",
+      "model": "Passat",
+      "year": "1993",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "795000"
+    },
+    {
+      "brand": "Kia",
+      "model": "Rio",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "750000"
     }
   ]
 }
