@@ -318,7 +318,7 @@
       "geol3": "6th of October",
       "geol4": "1st District",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "ب7,000,000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -17923,7 +17923,7 @@
       "geol3": "New Capital City",
       "geol4": "Celia",
       "unit_type": "Town House",
-      "lower_limit": " DU"
+      "lower_limit": "17000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -79099,7 +79099,7 @@
       "cat": "Villas For Sale",
       "geol2": "Cairo",
       "geol3": "New Capital City",
-      "geol4": "Sage Lakes ",
+      "geol4": "Sage Lakes",
       "unit_type": "Town House",
       "lower_limit": "8000000"
     },
@@ -79115,7 +79115,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Giza",
       "geol3": "Hadayek October",
-      "geol4": "Abeer Gardens\r",
+      "geol4": "Abeer Gardens",
       "unit_type": "Apartment",
       "lower_limit": "2000000"
     }
