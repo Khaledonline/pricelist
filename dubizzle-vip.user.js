@@ -1,15 +1,13 @@
 // ==UserScript==
 // @name         Dubizzle – Smart Info Box
 // @namespace    https://github.com/Khaledonline
-// @version      1.0.0
-// @description  Injects smart info boxes for cars, properties, mobiles, laptops and prices on Dubizzle listings
+// @version      1.0.1
+// @description  Injects smart info boxes on Dubizzle listings (SPA-safe)
 // @author       Khaled
 // @match        https://www.dubizzle.com.eg/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=dubizzle.com.eg
 // @updateURL    https://raw.githubusercontent.com/Khaledonline/pricelist/refs/heads/main/dubizzle-vip.user.js
 // @downloadURL  https://raw.githubusercontent.com/Khaledonline/pricelist/refs/heads/main/dubizzle-vip.user.js
 // @grant        none
-// @run-at       document-idle
 // ==/UserScript==
 
 (function () {
@@ -360,4 +358,3 @@
     });
 
 })();
-
