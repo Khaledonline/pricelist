@@ -6,8 +6,8 @@
 // @author       Khaled
 // @match        https://www.dubizzle.com.eg/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=dubizzle.com.eg
-// @updateURL    https://raw.githubusercontent.com/Khaledonline/pricelist/refs/heads/main/Cars/dubizzle-vip.user.js
-// @downloadURL  https://raw.githubusercontent.com/Khaledonline/pricelist/refs/heads/main/Cars/dubizzle-vip.user.js
+// @updateURL    https://raw.githubusercontent.com/Khaledonline/pricelist/refs/heads/main/dubizzle-vip.user.js
+// @downloadURL  https://raw.githubusercontent.com/Khaledonline/pricelist/refs/heads/main/dubizzle-vip.user.js
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
@@ -360,3 +360,4 @@
     });
 
 })();
+
