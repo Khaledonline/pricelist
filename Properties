@@ -16986,7 +16986,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "unit_type": "Duplex",
-      "lower_limit": "4000000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -16994,7 +16994,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "unit_type": "Retail",
-      "lower_limit": "1500000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -18050,7 +18050,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "unit_type": "Restaurant & Cafe",
-      "lower_limit": "4000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -28912,7 +28912,7 @@
       "geol4": "Alamein",
       "geol5": "Latin District",
       "unit_type": "Chalet",
-      "lower_limit": "5000000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -28921,7 +28921,7 @@
       "geol4": "Alamein",
       "geol5": "Latin District",
       "unit_type": "Apartment",
-      "lower_limit": "4200000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -31755,7 +31755,7 @@
       "geol4": "Alamein",
       "geol5": "Mazarine",
       "unit_type": "Apartment",
-      "lower_limit": "9000000"
+      "lower_limit": "6500000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -40616,14 +40616,6 @@
       "geol4": "Siela Resort",
       "unit_type": "Duplex",
       "lower_limit": "2500000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "Silva",
-      "unit_type": "Apartment",
-      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -59190,14 +59182,6 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Medical Park Elite",
-      "unit_type": "Clinic",
-      "lower_limit": "6000000"
-    },
-    {
-      "cat": "Commercial for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
       "geol4": "Medical Park Premier",
       "unit_type": "Clinic",
       "lower_limit": "5000000"
@@ -68268,7 +68252,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Sharqia",
       "geol3": "10th of Ramadan",
-      "geol4": "El Ordoneya Area",
+      "geol4": "El Ordoneya Area ",
       "unit_type": "Apartment",
       "lower_limit": "1800000"
     },
@@ -71662,7 +71646,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "Rehab City",
-      "geol5": "Sixth Phase",
+      "geol5": " Sixth Phase",
       "unit_type": "Duplex",
       "lower_limit": "5500000"
     },
@@ -71896,7 +71880,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "Rehab City",
-      "geol5": "Sixth Phase",
+      "geol5": " Sixth Phase",
       "unit_type": "Apartment",
       "lower_limit": "4100000"
     },
@@ -73710,7 +73694,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "6th Zone",
+      "geol4": "6th Zone ",
       "geol5": "Al Shorouk Road",
       "unit_type": "Apartment",
       "lower_limit": "2700000"
@@ -73737,7 +73721,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "1st Zone",
+      "geol4": "1st Zone ",
       "geol5": "6th Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "3700000"
@@ -73746,7 +73730,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "9th Zone",
+      "geol4": "9th Zone ",
       "geol5": "6th Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "2700000"
@@ -73773,7 +73757,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "1st Zone",
+      "geol4": "1st Zone ",
       "geol5": "5th Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "3000000"
@@ -73782,7 +73766,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "9th Zone",
+      "geol4": "9th Zone ",
       "geol5": "5th Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "3100000"
@@ -73818,7 +73802,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "1st Zone",
+      "geol4": "1st Zone ",
       "geol5": "4th Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "2600000"
@@ -73827,7 +73811,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "3rd Zone",
+      "geol4": "3rd Zone ",
       "geol5": "4th Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "3000000"
@@ -73836,7 +73820,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "4th Zone",
+      "geol4": "4th Zone ",
       "geol5": "4th Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "3100000"
@@ -73845,7 +73829,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "5th Zone",
+      "geol4": "5th Zone ",
       "geol5": "4th Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "2700000"
@@ -73854,7 +73838,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "7th Zone",
+      "geol4": "7th Zone ",
       "geol5": "4th Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "2800000"
@@ -73863,7 +73847,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "8th Zone",
+      "geol4": "8th Zone ",
       "geol5": "4th Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "2900000"
@@ -73872,7 +73856,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "9th Zone",
+      "geol4": "9th Zone ",
       "geol5": "4th Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "3300000"
@@ -73899,7 +73883,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "4th District",
+      "geol4": "4th District ",
       "geol5": "4th Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "4400000"
@@ -73908,7 +73892,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "1st Zone",
+      "geol4": "1st Zone ",
       "geol5": "3rd Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "4300000"
@@ -73917,7 +73901,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "3rd Zone",
+      "geol4": "3rd Zone ",
       "geol5": "3rd Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "4100000"
@@ -73926,7 +73910,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "4th Zone",
+      "geol4": "4th Zone ",
       "geol5": "3rd Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "4600000"
@@ -73935,7 +73919,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "5th Zone",
+      "geol4": "5th Zone ",
       "geol5": "3rd Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "4700000"
@@ -73944,7 +73928,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "7th Zone",
+      "geol4": "7th Zone ",
       "geol5": "3rd Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "3200000"
@@ -73953,7 +73937,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "8th Zone",
+      "geol4": "8th Zone ",
       "geol5": "3rd Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "3400000"
@@ -73962,7 +73946,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "9th Zone",
+      "geol4": "9th Zone ",
       "geol5": "3rd Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "3600000"
@@ -73980,7 +73964,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "4th District",
+      "geol4": "4th District ",
       "geol5": "3rd Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "3500000"
@@ -73998,7 +73982,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "1st Zone",
+      "geol4": "1st Zone ",
       "geol5": "2nd Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "3600000"
@@ -74007,7 +73991,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "2nd Zone",
+      "geol4": "2nd Zone ",
       "geol5": "2nd Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "3700000"
@@ -74016,7 +74000,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "4th Zone",
+      "geol4": "4th Zone ",
       "geol5": "2nd Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "3700000"
@@ -74025,7 +74009,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "5th Zone",
+      "geol4": "5th Zone ",
       "geol5": "2nd Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "3600000"
@@ -74034,7 +74018,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "7th Zone",
+      "geol4": "7th Zone ",
       "geol5": "2nd Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "3800000"
@@ -74043,7 +74027,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "8th Zone",
+      "geol4": "8th Zone ",
       "geol5": "2nd Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "3900000"
@@ -74052,7 +74036,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "9th Zone",
+      "geol4": "9th Zone ",
       "geol5": "2nd Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "3800000"
@@ -74088,7 +74072,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "4th District",
+      "geol4": "4th District ",
       "geol5": "2nd Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "3900000"
@@ -74133,7 +74117,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "2nd Zone",
+      "geol4": "2nd Zone ",
       "geol5": "1st Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "3700000"
@@ -74142,7 +74126,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "3rd Zone",
+      "geol4": "3rd Zone ",
       "geol5": "1st Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "3800000"
@@ -74151,7 +74135,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "4th Zone",
+      "geol4": "4th Zone ",
       "geol5": "1st Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "3900000"
@@ -74160,7 +74144,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "5th Zone",
+      "geol4": "5th Zone ",
       "geol5": "1st Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "4000000"
@@ -74169,7 +74153,7 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "Shorouk City",
-      "geol4": "7th Zone",
+      "geol4": "7th Zone ",
       "geol5": "1st Neighborhood",
       "unit_type": "Retail",
       "lower_limit": "10800000"
@@ -74178,7 +74162,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Zahraa Al Maadi",
-      "geol4": "8th Zone",
+      "geol4": "8th Zone ",
       "geol5": "1st Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "2900000"
@@ -74310,7 +74294,7 @@
       "geol2": "Cairo",
       "geol3": "Nasr City",
       "geol4": "1st Zone",
-      "geol5": "Abbas Al Akkad St.",
+      "geol5": " Abbas Al Akkad St.",
       "unit_type": "Apartment",
       "lower_limit": "3800000"
     },
@@ -75908,7 +75892,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Tierra",
+      "geol4": "6th Settlement",
+      "geol5": "Tierra",
       "unit_type": "Apartment",
       "lower_limit": "3500000"
     },
@@ -75916,7 +75901,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Tierra",
+      "geol4": "6th Settlement",
+      "geol5": "Tierra",
       "unit_type": "Duplex",
       "lower_limit": "4500000"
     },
@@ -76124,7 +76110,8 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Nexus Industrial Parks",
+      "geol4": "5th Settlement",
+      "geol5": "Nexus Industrial Parks",
       "unit_type": "Retail",
       "lower_limit": "9000000"
     },
@@ -76132,7 +76119,8 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Nexus Industrial Parks",
+      "geol4": "5th Settlement",
+      "geol5": "Nexus Industrial Parks",
       "unit_type": "Office Space",
       "lower_limit": "4500000"
     },
@@ -77851,7 +77839,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Alexandria",
       "geol3": "Montazah",
-      "geol4": "Ras El Soda",
+      "geol4": "Ras El Soda ",
       "geol5": "El Shamy",
       "unit_type": "Apartment",
       "lower_limit": "2200000"
@@ -79255,7 +79243,7 @@
       "geol4": "5th Settlement",
       "geol5": "Lake View Residence 2",
       "unit_type": "Hotel Apartment",
-      "lower_limit": "8000000"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -79821,6 +79809,568 @@
       "geol4": "Ixora Compound",
       "unit_type": "Studio",
       "lower_limit": "1500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "unit_type": "Garage",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "The Yard Mall",
+      "unit_type": "Retail",
+      "lower_limit": "8500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "unit_type": "iVilla",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "unit_type": "Full Commercial Building",
+      "lower_limit": "25000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "3rd Settlement",
+      "unit_type": "Factory",
+      "lower_limit": "20000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "AZAD Compound",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "15000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "X Mall",
+      "unit_type": "Restaurant & Cafe",
+      "lower_limit": "8000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Teba",
+      "unit_type": "Twin House",
+      "lower_limit": "17000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Silva",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Medical Park Elite",
+      "unit_type": "Clinic",
+      "lower_limit": "6000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Nexus Industrial Parks",
+      "unit_type": "Warehouse",
+      "lower_limit": "10000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Nexus Industrial Parks",
+      "unit_type": "Factory",
+      "lower_limit": "30000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "6th Settlement",
+      "geol5": "Glen",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "14000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "9inth Hub Mall",
+      "unit_type": "Clinic",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Al Andalous",
+      "unit_type": "Roof",
+      "lower_limit": "2400000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Agami",
+      "geol4": "Al Bitash",
+      "unit_type": "Restaurant & Cafe",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Al Joman",
+      "unit_type": "Duplex",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Al Nasayem Compound",
+      "unit_type": "Twin House",
+      "lower_limit": "7000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Al Wahat Road",
+      "unit_type": "Office Space",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "New Alamein City",
+      "unit_type": "Duplex",
+      "lower_limit": "6000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Smoha",
+      "geol4": "Antoniadis City",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "Ashgar Darna",
+      "unit_type": "Office Space",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Bahja",
+      "unit_type": "Hotel Apartment",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Blue Vert",
+      "unit_type": "Penthouse",
+      "lower_limit": "7000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Boulevard",
+      "unit_type": "Clinic",
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Boulevard",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "19000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Bridges Mall",
+      "unit_type": "Office Space",
+      "lower_limit": "1000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo University Compound",
+      "unit_type": "Penthouse",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Sahl Hasheesh",
+      "geol4": "Cala",
+      "unit_type": "Penthouse",
+      "lower_limit": "13500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Sahl Hasheesh",
+      "geol4": "Cala",
+      "unit_type": "Studio",
+      "lower_limit": "6500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Central Avenue",
+      "unit_type": "Retail",
+      "lower_limit": "15000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Cloudside",
+      "unit_type": "Apartment",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Mostakbal City",
+      "geol4": "East vale sodic",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "25000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Engineers Oasis Compound",
+      "unit_type": "Penthouse",
+      "lower_limit": "6000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Gamal Abd Al-Nasser Axis",
+      "unit_type": "Showroom",
+      "lower_limit": "14000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Green 5 Compound",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Green City",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "12000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Greens Compound",
+      "unit_type": "Penthouse",
+      "lower_limit": "9000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Sheraton",
+      "geol4": "Isola",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "17000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Jirian",
+      "unit_type": "Town House",
+      "lower_limit": "10000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Katameya",
+      "geol4": "Katameya Gate",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Kazan Plaza",
+      "unit_type": "Retail",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Agami",
+      "geol4": "Kilo 21",
+      "unit_type": "Factory",
+      "lower_limit": "9000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Agami",
+      "geol4": "Kilo 21",
+      "unit_type": "Restaurant & Cafe",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sinai",
+      "geol3": "Ras Sedr",
+      "geol4": "La Sirena Ras Sedr",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sinai",
+      "geol3": "Ras Sedr",
+      "geol4": "La Sirena Ras Sedr",
+      "unit_type": "Duplex",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "La Vista 1",
+      "unit_type": "Twin House",
+      "lower_limit": "28000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Hurghada",
+      "geol4": "Majra Resort",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Menorca",
+      "unit_type": "Town House",
+      "lower_limit": "11000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Mohammed Naguib Axis",
+      "unit_type": "Clinic",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Mostakbal City",
+      "geol4": "Mountain View",
+      "unit_type": "iVilla",
+      "lower_limit": "12000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Mountain View Chillout Park Compound",
+      "unit_type": "iVilla",
+      "lower_limit": "12000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "New Sphinx City",
+      "unit_type": "Chalet",
+      "lower_limit": "5400000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "New Zayed",
+      "unit_type": "Town House",
+      "lower_limit": "6000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Nile Business City",
+      "unit_type": "Office Space",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Nine 08",
+      "unit_type": "Clinic",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Katameya",
+      "geol4": "One Katameya",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Ons",
+      "unit_type": "Apartment",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Palm Hills",
+      "unit_type": "Office Space",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "Palmera",
+      "unit_type": "Chalet",
+      "lower_limit": "2800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Queen land",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Ray Residence",
+      "unit_type": "Town House",
+      "lower_limit": "13000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Obour City",
+      "geol4": "Reveal",
+      "unit_type": "Duplex",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Obour City",
+      "geol4": "Reveal",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Rovan",
+      "unit_type": "Penthouse",
+      "lower_limit": "7000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Mostakbal City",
+      "geol4": "Sarai",
+      "unit_type": "iVilla",
+      "lower_limit": "11000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Sidi Abdel Rahman",
+      "unit_type": "Penthouse",
+      "lower_limit": "11000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Sidi Abdel Rahman",
+      "unit_type": "Chalet",
+      "lower_limit": "9000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Sky Ramp",
+      "unit_type": "Pharmacy",
+      "lower_limit": "10000000"
     }
   ]
 }
