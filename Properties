@@ -57144,7 +57144,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Zahra",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Zahra",
       "unit_type": "Studio",
       "lower_limit": "1200000"
     },
@@ -57152,7 +57153,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Zahra",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Zahra",
       "unit_type": "Studio",
       "lower_limit": "1200000"
     },
@@ -57160,7 +57162,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Zahra",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Zahra",
       "unit_type": "Duplex",
       "lower_limit": "5000000"
     },
@@ -57168,7 +57171,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Zahra",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Zahra",
       "unit_type": "Chalet",
       "lower_limit": "3000000"
     },
@@ -57176,7 +57180,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Zahra",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Zahra",
       "unit_type": "Duplex",
       "lower_limit": "5000000"
     },
@@ -57184,7 +57189,8 @@
       "cat": "Villas For Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Zahra",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Zahra",
       "unit_type": "Town House",
       "lower_limit": "9000000"
     },
@@ -57192,7 +57198,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Zahra",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Zahra",
       "unit_type": "Town House",
       "lower_limit": "9000000"
     },
@@ -57200,7 +57207,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Zahra",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Zahra",
       "unit_type": "Standalone Villa",
       "lower_limit": "9000000"
     },
@@ -57208,7 +57216,8 @@
       "cat": "Villas For Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "Zahra",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Zahra",
       "unit_type": "Twin House",
       "lower_limit": "9000000"
     },
@@ -59182,7 +59191,8 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Medical Park Premier",
+      "geol4": "5th Settlement",
+      "geol5": "Medical Park Premier",
       "unit_type": "Clinic",
       "lower_limit": "5000000"
     },
@@ -75649,7 +75659,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Hyde Park Views",
+      "geol4": "5th Settlement",
+      "geol5": "Hyde Park Views",
       "unit_type": "Apartment",
       "lower_limit": "5000000"
     },
@@ -75657,7 +75668,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Hyde Park Views",
+      "geol4": "5th Settlement",
+      "geol5": "Hyde Park Views",
       "unit_type": "Duplex",
       "lower_limit": "7000000"
     },
@@ -80531,6 +80543,24 @@
       "geol4": true,
       "unit_type": "Apartment",
       "lower_limit": "2500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "6th Settlement",
+      "geol5": "Jiwar Compound",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "9000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "Rehab Mall 1",
+      "unit_type": "Retail",
+      "lower_limit": "5000000"
     }
   ]
 }
