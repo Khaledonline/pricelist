@@ -56161,7 +56161,7 @@
       "geol3": "Sheraton",
       "geol4": "Valore Sheraton",
       "unit_type": "Studio",
-      "lower_limit": "2000000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -56169,7 +56169,7 @@
       "geol3": "Sheraton",
       "geol4": "Valore Sheraton",
       "unit_type": "Apartment",
-      "lower_limit": "4000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Commercial for Sale",
