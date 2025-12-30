@@ -24754,6 +24754,14 @@
       "lower_limit": "10000000"
     },
     {
+      "cat": "Villas For Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Horus & El Remal El Zahabeya",
+      "unit_type": "Villa",
+      "lower_limit": "8000000"
+    },
+    {
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
