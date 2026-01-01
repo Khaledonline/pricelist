@@ -9912,16 +9912,6 @@
     },
     {
       "brand": "Chery",
-      "model": "Arrizo 5",
-      "year": "2025",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "725,000"
-    },
-    {
-      "brand": "Chery",
       "model": "Envy",
       "year": "2019",
       "listings_count": "0",
@@ -13349,16 +13339,6 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "675,000"
-    },
-    {
-      "brand": "Citroen",
-      "model": "C4 Grand Picasso",
-      "year": "2019",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "990,000"
     },
     {
       "brand": "Citroen",
@@ -43918,7 +43898,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "964,678"
+      "lower_bound_ci_99": "800000"
     },
     {
       "brand": "MINI",
@@ -43928,7 +43908,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1,144,077"
+      "lower_bound_ci_99": "900,000"
     },
     {
       "brand": "MINI",
@@ -44178,7 +44158,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "2,650,000"
+      "lower_bound_ci_99": "1,650,000"
     },
     {
       "brand": "MINI",
@@ -44188,7 +44168,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "680,000"
+      "lower_bound_ci_99": "500,000"
     },
     {
       "brand": "MINI",
@@ -44398,7 +44378,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1,100,000"
+      "lower_bound_ci_99": "900,000"
     },
     {
       "brand": "MINI",
@@ -44538,7 +44518,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1790000"
+      "lower_bound_ci_99": "1300000"
     },
     {
       "brand": "MINI",
@@ -44678,7 +44658,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "2200000"
+      "lower_bound_ci_99": "1200000"
     },
     {
       "brand": "MINI",
@@ -65728,7 +65708,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "250,000"
+      "lower_bound_ci_99": "100,000"
     },
     {
       "brand": "Volkswagen",
@@ -68848,7 +68828,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "800000"
+      "lower_bound_ci_99": "200000"
     },
     {
       "brand": "Fiat",
