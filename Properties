@@ -14323,6 +14323,14 @@
       "lower_limit": "2000000"
     },
     {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Arkan Palm 206",
+      "unit_type": "Hotel Apartment",
+      "lower_limit": "18000000"
+    },
+    {
       "cat": "Commercial for Sale",
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
