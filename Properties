@@ -69,7 +69,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "11th District",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1000000"
     },
     {
@@ -141,7 +141,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "12th District",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1500000"
     },
     {
@@ -261,7 +261,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "1st District",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -357,7 +357,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "1st District",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -656,7 +656,7 @@
       "geol3": "New Cairo",
       "geol4": "1st Settlement",
       "geol5": "Cairo Business Park",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "7000000"
     },
     {
@@ -728,7 +728,7 @@
       "geol3": "New Cairo",
       "geol4": "1st Settlement",
       "geol5": "Eastside Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -836,7 +836,7 @@
       "geol3": "New Cairo",
       "geol4": "1st Settlement",
       "geol5": "El Banafseg 1",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -1304,7 +1304,7 @@
       "geol3": "New Cairo",
       "geol4": "1st Settlement",
       "geol5": "El Koronfel",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -1385,7 +1385,7 @@
       "geol3": "New Cairo",
       "geol4": "1st Settlement",
       "geol5": "El Yasmeen 1",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -1682,7 +1682,7 @@
       "geol3": "New Cairo",
       "geol4": "1st Settlement",
       "geol5": "Golden Heights Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "7000000"
     },
     {
@@ -1727,7 +1727,7 @@
       "geol3": "New Cairo",
       "geol4": "1st Settlement",
       "geol5": "Hayati Residence Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "6000000"
     },
     {
@@ -1808,7 +1808,7 @@
       "geol3": "New Cairo",
       "geol4": "1st Settlement",
       "geol5": "Kinda Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -2105,7 +2105,7 @@
       "geol3": "New Cairo",
       "geol4": "1st Settlement",
       "geol5": "Mountain View 1 Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "8000000"
     },
     {
@@ -2456,7 +2456,7 @@
       "geol3": "New Cairo",
       "geol4": "1st Settlement",
       "geol5": "Porto Cairo Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -2609,7 +2609,7 @@
       "geol3": "New Cairo",
       "geol4": "1st Settlement",
       "geol5": "Saada Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "8000000"
     },
     {
@@ -2690,7 +2690,7 @@
       "geol3": "New Cairo",
       "geol4": "1st Settlement",
       "geol5": "Stei8ht Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -2762,7 +2762,7 @@
       "geol3": "New Cairo",
       "geol4": "1st Settlement",
       "geol5": "Stella New Cairo Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -2906,7 +2906,7 @@
       "geol3": "New Cairo",
       "geol4": "1st Settlement",
       "geol5": "Swan Lake Residences",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "8000000"
     },
     {
@@ -2969,7 +2969,7 @@
       "geol3": "New Cairo",
       "geol4": "1st Settlement",
       "geol5": "The View Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -3086,7 +3086,7 @@
       "geol3": "New Cairo",
       "geol4": "1st Settlement",
       "geol5": "Yellow residence Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -3273,7 +3273,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "2nd District",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -3281,7 +3281,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "1st Settlement",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -3337,7 +3337,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "3rd District",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -3454,7 +3454,7 @@
       "geol3": "New Cairo",
       "geol4": "3rd Settlement",
       "geol5": "Arabella Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "10000000"
     },
     {
@@ -3497,7 +3497,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "4th District",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1200000"
     },
     {
@@ -3670,7 +3670,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "90 Avenue Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "6000000"
     },
     {
@@ -3994,7 +3994,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "1st District",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -4030,7 +4030,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "2nd District",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "6000000"
     },
     {
@@ -4084,7 +4084,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "3rd District",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -4219,7 +4219,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "5th District",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -4573,7 +4573,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Al Andalous",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -4744,7 +4744,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Al Narges",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "40000000"
     },
     {
@@ -4834,7 +4834,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "American University Housing",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -5113,7 +5113,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Avaris Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -5140,7 +5140,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "AZAD Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "7000000"
     },
     {
@@ -5230,7 +5230,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Banafsag Omarat",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2500000"
     },
     {
@@ -5302,7 +5302,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Bank Center",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -5383,7 +5383,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Boutique Village Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -5419,7 +5419,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Business Plus Complex",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -5437,7 +5437,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "C-Yard",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -5464,7 +5464,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Cairo Business Plaza",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "7000000"
     },
     {
@@ -5491,7 +5491,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Cairo Festival City",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -5743,7 +5743,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Creek Town Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "7000000"
     },
     {
@@ -5842,7 +5842,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "District 5 Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -5887,7 +5887,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Downtown Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -5950,7 +5950,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Dyar Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "6000000"
     },
     {
@@ -6058,7 +6058,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Eastown Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "7000000"
     },
     {
@@ -6175,7 +6175,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "El Lotus",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -6274,7 +6274,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "El Yasmeen 7",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2500000"
     },
     {
@@ -6337,7 +6337,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "El Yasmeen 8",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2500000"
     },
     {
@@ -6409,7 +6409,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Fifth Square Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "6000000"
     },
     {
@@ -6553,7 +6553,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Future Gate Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "8000000"
     },
     {
@@ -6589,7 +6589,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "G7 Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -6643,7 +6643,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Galleria Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -6778,7 +6778,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Gardenia Heights",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -6886,7 +6886,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Golden Gate",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "7000000"
     },
     {
@@ -6958,7 +6958,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Golden Square",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -7120,7 +7120,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Hayat Heights Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -7237,7 +7237,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Hyde Park New Cairo Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "7000000"
     },
     {
@@ -7714,7 +7714,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Lake View Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "15000000"
     },
     {
@@ -7804,7 +7804,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Lake view Residence Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "15000000"
     },
     {
@@ -7876,7 +7876,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "layan Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -7948,7 +7948,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Les Rois Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "10000000"
     },
     {
@@ -8110,7 +8110,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Mivida Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "10000000"
     },
     {
@@ -8263,7 +8263,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Moray",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "15000000"
     },
     {
@@ -8533,7 +8533,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "7000000"
     },
     {
@@ -8650,7 +8650,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "New Narges",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -8686,7 +8686,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "North 90 Street",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -8794,7 +8794,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "One Ninety Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -9010,7 +9010,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Palm Hills Katameya Extension Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "15000000"
     },
     {
@@ -9046,7 +9046,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Palm Hills New Cairo Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -9262,7 +9262,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Porto New Cairo - Nyoum Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -9325,7 +9325,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Radium Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -9370,7 +9370,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Regents Park Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "6000000"
     },
     {
@@ -9514,7 +9514,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Sky Condos Sodic Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "10000000"
     },
     {
@@ -9622,7 +9622,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "South 90 Street",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -9703,7 +9703,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "South Investors",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -9757,7 +9757,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "South of Academy",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -9937,7 +9937,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "The Address East Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1500000"
     },
     {
@@ -10009,7 +10009,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "The Ark Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -10126,7 +10126,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "The Icon Residence Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -10162,7 +10162,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "The MarQ Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "6000000"
     },
     {
@@ -10414,7 +10414,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "The Waterway Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "10000000"
     },
     {
@@ -10450,7 +10450,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Three Sixty",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3500000"
     },
     {
@@ -10576,7 +10576,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Trivium",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -10612,7 +10612,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Uvenues",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "50000000"
     },
     {
@@ -10630,7 +10630,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Valencia Valley Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2500000"
     },
     {
@@ -10981,7 +10981,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "White residence Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "6000000"
     },
     {
@@ -11008,7 +11008,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "X Plaza Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -11440,7 +11440,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "East Hill Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3500000"
     },
     {
@@ -11485,7 +11485,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Stride",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -11597,7 +11597,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "6th District",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -11667,7 +11667,7 @@
       "geol3": "New Cairo",
       "geol4": "6th Settlement",
       "geol5": "Alca New Cairo Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "6000000"
     },
     {
@@ -11757,7 +11757,7 @@
       "geol3": "New Cairo",
       "geol4": "6th Settlement",
       "geol5": "Nest Cairo Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -11865,7 +11865,7 @@
       "geol3": "New Cairo",
       "geol4": "6th Settlement",
       "geol5": "Zed East Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -12018,7 +12018,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "7th District",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1000000"
     },
     {
@@ -12338,7 +12338,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Aeon Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -12394,7 +12394,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Agora Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -12558,7 +12558,7 @@
       "geol2": "Cairo",
       "geol3": "Shorouk City",
       "geol4": "Al Burouj",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "7000000"
     },
     {
@@ -12758,7 +12758,7 @@
       "geol2": "Cairo",
       "geol3": "Mokattam",
       "geol4": "Al Hadaba Al Wosta",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1500000"
     },
     {
@@ -12846,7 +12846,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "Al Maqsad",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2500000"
     },
     {
@@ -12942,7 +12942,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Al Motamayez District",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -13527,7 +13527,7 @@
       "geol3": "North Coast",
       "geol4": "Alamein",
       "geol5": "Alamein Towers",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "12000000"
     },
     {
@@ -13751,7 +13751,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Allegria Residence",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -14187,7 +14187,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "Andalus",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1500000"
     },
     {
@@ -14264,7 +14264,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Arc Business Park",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -14352,7 +14352,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Arkan Palm 205",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "6000000"
     },
     {
@@ -14408,7 +14408,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Arkan Plaza",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3500000"
     },
     {
@@ -14624,7 +14624,7 @@
       "geol2": "Cairo",
       "geol3": "Mokattam",
       "geol4": "Asmarat Heights",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -14728,7 +14728,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Atrio Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -15174,7 +15174,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Badya Palm Hills Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "6000000"
     },
     {
@@ -15342,7 +15342,7 @@
       "geol2": "Cairo",
       "geol3": "Katameya",
       "geol4": "Bavaria Town",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -15473,7 +15473,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -15945,7 +15945,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Beverly Hills Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -16214,7 +16214,7 @@
       "geol2": "Cairo",
       "geol3": "Mostakbal City",
       "geol4": "Bloomfields",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -16736,7 +16736,7 @@
       "geol2": "Cairo",
       "geol3": "Nasr City",
       "geol4": "Bsqure mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -16957,7 +16957,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Cairo Alexandria Desert Road",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -17005,7 +17005,7 @@
       "geol2": "Cairo",
       "geol3": "Katameya",
       "geol4": "Cairo Festival City Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -17045,7 +17045,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Cairo Gate",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "6000000"
     },
     {
@@ -17117,7 +17117,7 @@
       "geol2": "Cairo",
       "geol3": "Nasr City",
       "geol4": "Cairo Town Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -17157,7 +17157,7 @@
       "geol2": "Giza",
       "geol3": "Giza District",
       "geol4": "Cairo University",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1000000"
     },
     {
@@ -17354,7 +17354,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Capital Business Park",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "7000000"
     },
     {
@@ -17394,7 +17394,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "Capital Gardens",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -17466,7 +17466,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Capital Towers",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -17656,7 +17656,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "Catalan",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -17973,7 +17973,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Central Avenue",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3500000"
     },
     {
@@ -17997,7 +17997,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "Central Business District",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2500000"
     },
     {
@@ -18045,7 +18045,7 @@
       "geol2": "Cairo",
       "geol3": "Shorouk City",
       "geol4": "City One",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1000000"
     },
     {
@@ -18383,7 +18383,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Continental Residence Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "10000000"
     },
     {
@@ -18568,7 +18568,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Crown central",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "10000000"
     },
     {
@@ -18632,7 +18632,7 @@
       "geol2": "Cairo",
       "geol3": "Katameya",
       "geol4": "Crystal Plaza",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -18832,7 +18832,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "De Joya 1",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -18904,7 +18904,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "De Joya Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -18984,7 +18984,7 @@
       "geol2": "Cairo",
       "geol3": "Maadi",
       "geol4": "Degla",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "15000000"
     },
     {
@@ -19691,7 +19691,7 @@
       "geol3": "North Coast",
       "geol4": "Alamein",
       "geol5": "Downtown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -19744,7 +19744,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "Downtown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -19920,7 +19920,7 @@
       "geol2": "Giza",
       "geol3": "Hadayek October",
       "geol4": "Eco West",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1000000"
     },
     {
@@ -20423,7 +20423,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "El Khamayel Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -20479,7 +20479,7 @@
       "geol2": "Cairo",
       "geol3": "Maadi",
       "geol4": "El Maadi",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2500000"
     },
     {
@@ -21043,7 +21043,7 @@
       "geol2": "Cairo",
       "geol3": "Shorouk City",
       "geol4": "El Shorouk 2000",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -21467,7 +21467,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Ever west Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -21587,7 +21587,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "Financial District",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3500000"
     },
     {
@@ -21659,7 +21659,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Forty West - Sodic Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -21803,7 +21803,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "Front Gate",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -22019,7 +22019,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "Gamal Abd Al-Nasser Axis",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -22587,7 +22587,7 @@
       "geol2": "Cairo",
       "geol3": "Heliopolis",
       "geol4": "Go Heliopolis Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -22723,7 +22723,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "Golden Tower",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -22731,7 +22731,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Golf Central",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "14000000"
     },
     {
@@ -22854,7 +22854,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "Government District",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -24122,7 +24122,7 @@
       "geol2": "Giza",
       "geol3": "Hadayek October",
       "geol4": "Hadayek 6th of October",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -24266,7 +24266,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Hadayek Al Mohandessin Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -24770,7 +24770,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Hyde Park Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -24914,7 +24914,7 @@
       "geol2": "Cairo",
       "geol3": "Sheraton",
       "geol4": "I-Sheraton",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -25707,7 +25707,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Jazebeya",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -25934,7 +25934,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "Jeval Business Complex",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -26613,7 +26613,7 @@
       "geol2": "Cairo",
       "geol3": "Katameya",
       "geol4": "Katameya Heights Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "10000000"
     },
     {
@@ -26661,7 +26661,7 @@
       "geol2": "Cairo",
       "geol3": "Katameya",
       "geol4": "Stone Park Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -26877,7 +26877,7 @@
       "geol2": "Cairo",
       "geol3": "Katameya",
       "geol4": "Kattameya Gate",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -26965,7 +26965,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Kazan Plaza",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -27005,7 +27005,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Keeva Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -27157,7 +27157,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Kite Residence",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2500000"
     },
     {
@@ -28954,7 +28954,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "El Karma 4 Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2500000"
     },
     {
@@ -29869,7 +29869,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Mall 1O1",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -29893,7 +29893,7 @@
       "geol2": "Cairo",
       "geol3": "Heliopolis",
       "geol4": "Mall 6ixty",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -29925,7 +29925,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Mall Allora hub",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -29941,7 +29941,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Mall Juno Plaza",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -29981,7 +29981,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Mall Spade Plaza",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -29997,7 +29997,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "Mall Top 90",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -30013,7 +30013,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Mall West Gate",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "7000000"
     },
     {
@@ -31627,7 +31627,7 @@
       "geol2": "Cairo",
       "geol3": "Downtown Cairo",
       "geol4": "Maspero Business Towers",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "6000000"
     },
     {
@@ -31855,7 +31855,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Mehwar Plaza Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -32233,7 +32233,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "Mohamed Bin Zayed North Axis",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -32273,7 +32273,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "Mohamed Bin Zayed South Axis",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -32313,7 +32313,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "Mohammed Naguib Axis",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -32601,7 +32601,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "MORAYA NEW CAPITAL",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -32945,7 +32945,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Mountain View iCity Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -33357,7 +33357,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "MU23",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1200000"
     },
     {
@@ -33453,7 +33453,7 @@
       "geol2": "Alexandria",
       "geol3": "Smoha",
       "geol4": "Murooj",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -33815,7 +33815,7 @@
       "geol2": "Cairo",
       "geol3": "Maadi",
       "geol4": "New Maadi",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1500000"
     },
     {
@@ -33967,7 +33967,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "New October",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -34039,7 +34039,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "New Zayed Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -34507,7 +34507,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Northern Expansions",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "7000000"
     },
     {
@@ -34771,7 +34771,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "O West Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -34875,7 +34875,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "October Hills 2 Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "10000000"
     },
     {
@@ -35027,7 +35027,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "OIA",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -35059,7 +35059,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "One Bay Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -35099,7 +35099,7 @@
       "geol2": "Cairo",
       "geol3": "Katameya",
       "geol4": "One Kattameya",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "10000000"
     },
     {
@@ -35243,7 +35243,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "ORO",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -35625,7 +35625,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Palm hills golf extension Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "10000000"
     },
     {
@@ -35713,7 +35713,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Palm hills golf views Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "6000000"
     },
     {
@@ -36012,7 +36012,7 @@
       "geol2": "Giza",
       "geol3": "Hadayek October",
       "geol4": "Paradise Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1000000"
     },
     {
@@ -36036,7 +36036,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "Paris Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -36116,7 +36116,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Park Street",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -36581,7 +36581,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Plaza Vida Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2500000"
     },
     {
@@ -37200,7 +37200,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "PX Palm Hills",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "8000000"
     },
     {
@@ -37288,7 +37288,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "Pyramids Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -37328,7 +37328,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Pyramids Wales Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -37570,7 +37570,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "R3",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1200000"
     },
     {
@@ -37626,7 +37626,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "R7",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1200000"
     },
     {
@@ -37987,7 +37987,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Rawdat Zayed Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -38027,7 +38027,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "Ray Residence",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -38059,7 +38059,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Ray West",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -38107,7 +38107,7 @@
       "geol2": "Cairo",
       "geol3": "Zahraa Al Maadi",
       "geol4": "Rayhanah Avenue",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -38115,7 +38115,7 @@
       "geol2": "Cairo",
       "geol3": "Zahraa Al Maadi",
       "geol4": "Rayhanah Plaza",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -38147,7 +38147,7 @@
       "geol2": "Cairo",
       "geol3": "Zahraa Al Maadi",
       "geol4": "Rayhanah Residence",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -38331,7 +38331,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "Rehab City",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -38653,7 +38653,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Ritzy Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -38853,7 +38853,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "Rock Gold Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -38869,7 +38869,7 @@
       "geol2": "Cairo",
       "geol3": "Obour City",
       "geol4": "Rock Ville",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1500000"
     },
     {
@@ -39101,7 +39101,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Royal City Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -39255,7 +39255,7 @@
       "geol3": "North Coast",
       "geol4": "Ras Al Hekma",
       "geol5": "Safia",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -39480,7 +39480,7 @@
       "geol2": "Cairo",
       "geol3": "Katameya",
       "geol4": "Sama",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -39612,7 +39612,7 @@
       "geol2": "Cairo",
       "geol3": "Mostakbal City",
       "geol4": "Sarai",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -39732,7 +39732,7 @@
       "geol2": "Alexandria",
       "geol3": "Moharam Bik",
       "geol4": "Sawari",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2500000"
     },
     {
@@ -39820,7 +39820,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "Scarta",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -40858,7 +40858,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Sky Ramp",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -40930,7 +40930,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Skywalk",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "6000000"
     },
     {
@@ -40946,7 +40946,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Smart Village",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -40962,7 +40962,7 @@
       "geol2": "Cairo",
       "geol3": "New Heliopolis",
       "geol4": "Sodic East",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3200000"
     },
     {
@@ -41034,7 +41034,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Sodic Westown Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -41613,7 +41613,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Space mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -41709,7 +41709,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "Stella Compounds",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -42584,7 +42584,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "Taj Tower",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -43059,7 +43059,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "The Address",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -43115,7 +43115,7 @@
       "geol2": "Cairo",
       "geol3": "Katameya",
       "geol4": "The Brooks",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "9070000"
     },
     {
@@ -43179,7 +43179,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "The Capital Way",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4500000"
     },
     {
@@ -43235,7 +43235,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "The Courtyards Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3500000"
     },
     {
@@ -43283,7 +43283,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "The Crown Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "10000000"
     },
     {
@@ -43451,7 +43451,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "The Gate Plaza",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -43555,7 +43555,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "The Gryd",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -43772,7 +43772,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "The Pier mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -43780,7 +43780,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "The Polygon",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "6000000"
     },
     {
@@ -43796,7 +43796,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "The portal",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "15000000"
     },
     {
@@ -43828,7 +43828,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "The Strip - Sodic Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "7500000"
     },
     {
@@ -43844,7 +43844,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "The Strip II - Sodic Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "7500000"
     },
     {
@@ -43908,7 +43908,7 @@
       "geol2": "Matruh",
       "geol3": "North Coast",
       "geol4": "The Waterway",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "10000000"
     },
     {
@@ -44140,7 +44140,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "Town Gate New Capital Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1500000"
     },
     {
@@ -44212,7 +44212,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "Track 14",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -44244,7 +44244,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Trivium Zayed",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -44324,7 +44324,7 @@
       "geol2": "Cairo",
       "geol3": "Obour City",
       "geol4": "Turath Villas",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1500000"
     },
     {
@@ -44372,7 +44372,7 @@
       "geol2": "Sharqia",
       "geol3": "10th of Ramadan",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1500000"
     },
     {
@@ -44476,7 +44476,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -44676,7 +44676,7 @@
       "geol2": "Giza",
       "geol3": "Abu Rawash",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "8000000"
     },
     {
@@ -44892,7 +44892,7 @@
       "geol2": "Alexandria",
       "geol3": "Agami",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "650000"
     },
     {
@@ -44932,7 +44932,7 @@
       "geol2": "Giza",
       "geol3": "Agouza",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1500000"
     },
     {
@@ -45164,7 +45164,7 @@
       "geol2": "Alexandria",
       "geol3": "Al Ibrahimiyyah",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "700000"
     },
     {
@@ -45436,7 +45436,7 @@
       "geol2": "Port Said",
       "geol3": "Arab District",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1200000"
     },
     {
@@ -45620,7 +45620,7 @@
       "geol2": "Asyut",
       "geol3": "Asyut City",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "500000"
     },
     {
@@ -46124,7 +46124,7 @@
       "geol2": "Alexandria",
       "geol3": "Bolkly",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1000000"
     },
     {
@@ -46324,7 +46324,7 @@
       "geol2": "Alexandria",
       "geol3": "Camp Caesar",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1000000"
     },
     {
@@ -46372,7 +46372,7 @@
       "geol2": "Alexandria",
       "geol3": "Cleopatra",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "600000"
     },
     {
@@ -46484,7 +46484,7 @@
       "geol2": "Giza",
       "geol3": "Dahshur",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "500000"
     },
     {
@@ -46580,7 +46580,7 @@
       "geol2": "Damietta",
       "geol3": "Damietta City",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "850000"
     },
     {
@@ -46740,7 +46740,7 @@
       "geol2": "Giza",
       "geol3": "Dokki",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -46828,7 +46828,7 @@
       "geol2": "Giza",
       "geol3": "Faisal",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "200000"
     },
     {
@@ -47036,7 +47036,7 @@
       "geol2": "Fayoum",
       "geol3": "Fayoum City",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1000000"
     },
     {
@@ -47060,7 +47060,7 @@
       "geol2": "Alexandria",
       "geol3": "Fleming",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "600000"
     },
     {
@@ -47212,7 +47212,7 @@
       "geol2": "Alexandria",
       "geol3": "Gianaclis",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -47284,7 +47284,7 @@
       "geol2": "Giza",
       "geol3": "Giza District",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1000000"
     },
     {
@@ -47324,7 +47324,7 @@
       "geol2": "Alexandria",
       "geol3": "Glim",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "700000"
     },
     {
@@ -47612,7 +47612,7 @@
       "geol2": "Giza",
       "geol3": "Hadayek October",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "700000"
     },
     {
@@ -47724,7 +47724,7 @@
       "geol2": "Giza",
       "geol3": "Haram",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -47844,7 +47844,7 @@
       "geol2": "Red Sea",
       "geol3": "Hurghada",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1500000"
     },
     {
@@ -48124,7 +48124,7 @@
       "geol2": "Alexandria",
       "geol3": "Kafr Abdo",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1000000"
     },
     {
@@ -48212,7 +48212,7 @@
       "geol2": "Beheira",
       "geol3": "Kafr al-Dawwar",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "300000"
     },
     {
@@ -48500,7 +48500,7 @@
       "geol2": "Alexandria",
       "geol3": "Laurent",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1000000"
     },
     {
@@ -48788,7 +48788,7 @@
       "geol2": "Port Said",
       "geol3": "Manakh District",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1500000"
     },
     {
@@ -48828,7 +48828,7 @@
       "geol2": "Alexandria",
       "geol3": "Mandara",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -48876,7 +48876,7 @@
       "geol2": "Alexandria",
       "geol3": "Manshiyya",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1000000"
     },
     {
@@ -48948,7 +48948,7 @@
       "geol2": "Dakahlia",
       "geol3": "Mansura",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1000000"
     },
     {
@@ -49060,7 +49060,7 @@
       "geol2": "Giza",
       "geol3": "Markaz al-Giza",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1000000"
     },
     {
@@ -49292,7 +49292,7 @@
       "geol2": "Alexandria",
       "geol3": "Miami",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1000000"
     },
     {
@@ -49516,7 +49516,7 @@
       "geol2": "Giza",
       "geol3": "Mohandessin",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1500000"
     },
     {
@@ -49588,7 +49588,7 @@
       "geol2": "Alexandria",
       "geol3": "Moharam Bik",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "800000"
     },
     {
@@ -49884,7 +49884,7 @@
       "geol2": "Damietta",
       "geol3": "New Damietta",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1000000"
     },
     {
@@ -50092,7 +50092,7 @@
       "geol2": "Minya",
       "geol3": "New Minya",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "500000"
     },
     {
@@ -50164,7 +50164,7 @@
       "geol2": "Cairo",
       "geol3": "Abasiya",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -50396,7 +50396,7 @@
       "geol2": "Cairo",
       "geol3": "Ain Shams",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "600000"
     },
     {
@@ -50468,7 +50468,7 @@
       "geol2": "Cairo",
       "geol3": "Al Manial",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -50588,7 +50588,7 @@
       "geol2": "Cairo",
       "geol3": "Almazah",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -50692,7 +50692,7 @@
       "geol2": "Alexandria",
       "geol3": "Raml Station",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "480000"
     },
     {
@@ -51036,7 +51036,7 @@
       "geol2": "Cairo",
       "geol3": "Badr City",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "800000"
     },
     {
@@ -51068,7 +51068,7 @@
       "geol2": "Alexandria",
       "geol3": "Roushdy",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "450000"
     },
     {
@@ -51140,7 +51140,7 @@
       "geol2": "Alexandria",
       "geol3": "Saba Pasha",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "650000"
     },
     {
@@ -51180,7 +51180,7 @@
       "geol2": "Monufia",
       "geol3": "Sadat",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "280000"
     },
     {
@@ -51452,7 +51452,7 @@
       "geol2": "Alexandria",
       "geol3": "San Stefano",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "750000"
     },
     {
@@ -51588,7 +51588,7 @@
       "geol2": "Alexandria",
       "geol3": "Schutz",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "600000"
     },
     {
@@ -51764,7 +51764,7 @@
       "geol2": "Port Said",
       "geol3": "Sharq District",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "200000"
     },
     {
@@ -51844,7 +51844,7 @@
       "geol2": "Monufia",
       "geol3": "Shebin al-Koum",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "350000"
     },
     {
@@ -51924,7 +51924,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1200000"
     },
     {
@@ -52124,7 +52124,7 @@
       "geol2": "Cairo",
       "geol3": "Downtown Cairo",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1500000"
     },
     {
@@ -52228,7 +52228,7 @@
       "geol2": "Cairo",
       "geol3": "Garden City",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2500000"
     },
     {
@@ -52292,7 +52292,7 @@
       "geol2": "Qalyubia",
       "geol3": "Shubra al-Khaimah",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "350000"
     },
     {
@@ -52356,7 +52356,7 @@
       "geol2": "Alexandria",
       "geol3": "Sidi Beshr",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "800000"
     },
     {
@@ -52428,7 +52428,7 @@
       "geol2": "Alexandria",
       "geol3": "Sidi Gaber",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1000000"
     },
     {
@@ -52564,7 +52564,7 @@
       "geol2": "Alexandria",
       "geol3": "Smoha",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1500000"
     },
     {
@@ -52780,7 +52780,7 @@
       "geol2": "Alexandria",
       "geol3": "Sporting",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1500000"
     },
     {
@@ -52828,7 +52828,7 @@
       "geol2": "Alexandria",
       "geol3": "Stanley",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1000000"
     },
     {
@@ -52916,7 +52916,7 @@
       "geol2": "Sohag",
       "geol3": "Tahta",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "350000"
     },
     {
@@ -52972,7 +52972,7 @@
       "geol2": "Dakahlia",
       "geol3": "Talkha",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "300000"
     },
     {
@@ -53028,7 +53028,7 @@
       "geol2": "Gharbia",
       "geol3": "Tanta",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "300000"
     },
     {
@@ -53108,7 +53108,7 @@
       "geol2": "Cairo",
       "geol3": "Gesr Al Suez",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1500000"
     },
     {
@@ -53196,7 +53196,7 @@
       "geol2": "Alexandria",
       "geol3": "Victoria",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "450000"
     },
     {
@@ -53452,7 +53452,7 @@
       "geol2": "Cairo",
       "geol3": "Hadayek al-Kobba",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -53572,7 +53572,7 @@
       "geol2": "Alexandria",
       "geol3": "Zezenia",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "450000"
     },
     {
@@ -53660,7 +53660,7 @@
       "geol2": "Cairo",
       "geol3": "Hadayeq El Zeitoun",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1000000"
     },
     {
@@ -53780,7 +53780,7 @@
       "geol2": "Cairo",
       "geol3": "Heliopolis",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1500000"
     },
     {
@@ -53876,7 +53876,7 @@
       "geol2": "Cairo",
       "geol3": "Helmeyat El Zaytoun",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1500000"
     },
     {
@@ -53980,7 +53980,7 @@
       "geol2": "Cairo",
       "geol3": "Katameya",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -54084,7 +54084,7 @@
       "geol2": "Cairo",
       "geol3": "Maadi",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1500000"
     },
     {
@@ -54172,7 +54172,7 @@
       "geol2": "Cairo",
       "geol3": "Madinaty",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -54348,7 +54348,7 @@
       "geol2": "Cairo",
       "geol3": "Mokattam",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1000000"
     },
     {
@@ -54460,7 +54460,7 @@
       "geol2": "Cairo",
       "geol3": "Mostakbal City",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2780855"
     },
     {
@@ -54588,7 +54588,7 @@
       "geol2": "Cairo",
       "geol3": "Nasr City",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1000000"
     },
     {
@@ -54716,7 +54716,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -54804,7 +54804,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1000000"
     },
     {
@@ -55020,7 +55020,7 @@
       "geol2": "Cairo",
       "geol3": "New Nozha",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1000000"
     },
     {
@@ -55084,7 +55084,7 @@
       "geol2": "Cairo",
       "geol3": "Obour City",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1000000"
     },
     {
@@ -55196,7 +55196,7 @@
       "geol2": "Cairo",
       "geol3": "Qasr al-Nil",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1800000"
     },
     {
@@ -55308,7 +55308,7 @@
       "geol2": "Cairo",
       "geol3": "Sayeda Zeinab",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "480000"
     },
     {
@@ -55420,7 +55420,7 @@
       "geol2": "Cairo",
       "geol3": "Sheraton",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -55468,7 +55468,7 @@
       "geol2": "Cairo",
       "geol3": "Shorouk City",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1500000"
     },
     {
@@ -55612,7 +55612,7 @@
       "geol2": "Cairo",
       "geol3": "Shubra",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "350000"
     },
     {
@@ -55692,7 +55692,7 @@
       "geol2": "Cairo",
       "geol3": "Zahraa Al Maadi",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3100000"
     },
     {
@@ -55772,7 +55772,7 @@
       "geol2": "Cairo",
       "geol3": "Zamalek",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "650000"
     },
     {
@@ -56108,7 +56108,7 @@
       "geol2": "Cairo",
       "geol3": "Sheraton",
       "geol4": "Valore Sheraton",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -56406,7 +56406,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "Vision Tower 1",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -56456,7 +56456,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "VYE Sodic Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -56953,7 +56953,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "West Somid Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -57366,7 +57366,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Zayed Dunes Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -57510,7 +57510,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "ZED West Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -57558,7 +57558,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "ZIA Business Complex",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "8000000"
     },
     {
@@ -57989,7 +57989,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Walk of Cairo",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "20000000"
     },
     {
@@ -58013,7 +58013,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Mall Five Fifty Five",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "8000000"
     },
     {
@@ -58037,7 +58037,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Centro Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -58619,7 +58619,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Summit",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -58795,7 +58795,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "kargo Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "10000000"
     },
     {
@@ -59537,7 +59537,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "Eastlane Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "7000000"
     },
     {
@@ -59585,7 +59585,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "EDNC",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "20000000"
     },
     {
@@ -59593,7 +59593,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "Cinco Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "6000000"
     },
     {
@@ -59633,7 +59633,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "Golden hub",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -60560,7 +60560,7 @@
       "geol2": "Matruh",
       "geol3": "North Coast",
       "geol4": "Alamein",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -65800,7 +65800,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Mega Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4700000"
     },
     {
@@ -65904,7 +65904,7 @@
       "geol2": "Cairo",
       "geol3": "Obour City",
       "geol4": "NXT Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -66176,7 +66176,7 @@
       "geol2": "Cairo",
       "geol3": "Katameya",
       "geol4": "Business one",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2800000"
     },
     {
@@ -66224,7 +66224,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "West Point Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2800000"
     },
     {
@@ -66240,7 +66240,7 @@
       "geol2": "Giza",
       "geol3": "Hadayek October",
       "geol4": "Connect 4 plaza",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3600000"
     },
     {
@@ -66384,7 +66384,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Up West",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2500000"
     },
     {
@@ -67058,7 +67058,7 @@
       "geol3": "Northern Expansions",
       "geol4": "Northern Expansions",
       "geol5": "District 300",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -67487,7 +67487,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "IL Punto",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3800000"
     },
     {
@@ -67648,7 +67648,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "26th of July Corridor",
       "geol5": "Al Guezira plaza",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -67675,7 +67675,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Waslet Dahshur",
       "geol5": "Za Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5800000"
     },
     {
@@ -67795,7 +67795,7 @@
       "geol2": "Cairo",
       "geol3": "Abdeen",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3600000"
     },
     {
@@ -69208,7 +69208,7 @@
       "geol2": "Cairo",
       "geol3": "New Nozha",
       "geol4": "Triumph Square",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4500000"
     },
     {
@@ -71411,7 +71411,7 @@
       "geol2": "Damietta",
       "geol3": "New Damietta",
       "geol4": "Moria Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3600000"
     },
     {
@@ -74087,7 +74087,7 @@
       "geol3": "Heliopolis",
       "geol4": "Ard El Golf",
       "geol5": "Yousri Nabih St.",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5400000"
     },
     {
@@ -74775,7 +74775,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Waslet Dahshur",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -74847,7 +74847,7 @@
       "geol2": "Cairo",
       "geol3": "Nasr City",
       "geol4": "Al Tayaran St.",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5400000"
     },
     {
@@ -75166,7 +75166,7 @@
       "geol3": "Shubra",
       "geol4": "El Sahel",
       "geol5": "Saint Teresa",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -75215,7 +75215,7 @@
       "geol2": "Port Said",
       "geol3": "Zohour",
       "geol4": "Porto Said",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4500000"
     },
     {
@@ -75295,7 +75295,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "Mall The Five",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5500000"
     },
     {
@@ -75473,7 +75473,7 @@
       "geol2": "Cairo",
       "geol3": "Nozha",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3500000"
     },
     {
@@ -75497,7 +75497,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "9inth Hub Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4500000"
     },
     {
@@ -75710,7 +75710,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "Lumia Lagoons",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5500000"
     },
     {
@@ -75766,7 +75766,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Twin tower",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -75840,7 +75840,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Nexus Industrial Parks",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4500000"
     },
     {
@@ -75952,7 +75952,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "Kor",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -75984,7 +75984,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "Brackets Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4500000"
     },
     {
@@ -75992,7 +75992,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "KERNEL BUSINESS HUB",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -76136,7 +76136,7 @@
       "geol2": "Red Sea",
       "geol3": "Safaga",
       "geol4": "Port Ghalib",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5500000"
     },
     {
@@ -77052,7 +77052,7 @@
       "geol3": "Obour City",
       "geol4": "New Obour City",
       "geol5": "El Nakhil Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3500000"
     },
     {
@@ -77445,7 +77445,7 @@
       "geol2": "Suez",
       "geol3": "Faisal District",
       "geol4": "Al Herafyeen",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2500000"
     },
     {
@@ -77588,7 +77588,7 @@
       "geol3": "Montazah",
       "geol4": "Ras El Soda",
       "geol5": "New El Andalus City",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3500000"
     },
     {
@@ -77676,7 +77676,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Centrada Plaza",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -77692,7 +77692,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Exit 14",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -77934,7 +77934,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Sleek mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -78024,7 +78024,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Central Park",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5500000"
     },
     {
@@ -78163,7 +78163,7 @@
       "geol2": "Beni Suef",
       "geol3": "Beni Suef City",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1500000"
     },
     {
@@ -78284,7 +78284,7 @@
       "geol2": "Alexandria",
       "geol3": "Seyouf",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -78399,7 +78399,7 @@
       "geol2": "Giza",
       "geol3": "Haram",
       "geol4": "El Lebeny Axis",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3500000"
     },
     {
@@ -78692,7 +78692,7 @@
       "geol2": "Alexandria",
       "geol3": "Asafra",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1000000"
     },
     {
@@ -79078,7 +79078,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Silver Gate Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -79261,7 +79261,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "El Hosary Square",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -79469,7 +79469,7 @@
       "geol2": "Cairo",
       "geol3": "Katameya",
       "geol4": "One Katameya",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -79679,7 +79679,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Al Wahat Road",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -79704,7 +79704,7 @@
       "geol2": "Cairo",
       "geol3": "Zahraa Al Maadi",
       "geol4": "Ashgar Darna",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -79744,7 +79744,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Bridges Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1000000"
     },
     {
@@ -79968,7 +79968,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "Nile Business City",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -80000,7 +80000,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Palm Hills",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2500000"
     },
     {
@@ -80112,7 +80112,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "The Gate Plaza Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -80136,7 +80136,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "THRU",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2500000"
     },
     {
@@ -80466,7 +80466,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Nine 08",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2000000"
     },
     {
@@ -80491,7 +80491,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Galleria Moon Valley Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4500000"
     },
     {
@@ -80643,7 +80643,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "The Courtyard",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3500000"
     },
     {
@@ -80774,7 +80774,7 @@
       "geol2": "Cairo",
       "geol3": "Katameya",
       "geol4": "Katameya Gate",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2500000"
     },
     {
@@ -80848,7 +80848,7 @@
       "geol3": "New Cairo",
       "geol4": "1st Settlement",
       "geol5": "El Yasmeen 4",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -80930,7 +80930,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "Rivan",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "6000000"
     },
     {
@@ -80938,7 +80938,7 @@
       "geol2": "Alexandria",
       "geol3": "Raml Station",
       "geol4": "Latin District",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5000000"
     },
     {
@@ -81121,7 +81121,7 @@
       "geol2": "Cairo",
       "geol3": "Obour City",
       "geol4": "New Obour City",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1200000"
     },
     {
@@ -81349,7 +81349,7 @@
       "geol2": "Alexandria",
       "geol3": "Agami",
       "geol4": "Al Hanouvel",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "800000"
     },
     {
@@ -81381,7 +81381,7 @@
       "geol2": "Cairo",
       "geol3": "Shorouk City",
       "geol4": "Panorama El Shorouk",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4000000"
     },
     {
@@ -81523,7 +81523,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "Al Yasmine",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2500000"
     },
     {
@@ -81793,7 +81793,7 @@
       "geol2": "Cairo",
       "geol3": "Maadi",
       "geol4": "Hayat Degla",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -81874,7 +81874,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "C9 Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3000000"
     },
     {
@@ -81908,6 +81908,22 @@
       "geol4": "Hilton civil seven",
       "unit_type": "Hotel Apartment",
       "lower_limit": "10000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Borg al-Arab",
+      "geol4": "Alexandria International Airport Borg El Arab",
+      "unit_type": "Apartment",
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Alexandria",
+      "geol3": "Borg al-Arab",
+      "geol4": "Alexandria International Airport Borg El Arab",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "3500000"
     }
   ]
 }
