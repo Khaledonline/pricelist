@@ -58826,9 +58826,19 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Al Waha",
+      "geol4": "5th Settlement",
+      "geol5": "Al Waha",
       "unit_type": "Clinic",
       "lower_limit": "2000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Al Waha",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -65758,16 +65768,18 @@
     {
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
-      "geol3": "5th Settlement",
-      "geol4": "Oriana Compound",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Oriana Compound",
       "unit_type": "Apartment",
       "lower_limit": "14000000"
     },
     {
       "cat": "Villas For Sale",
       "geol2": "Cairo",
-      "geol3": "5th Settlement",
-      "geol4": "Oriana Compound",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Oriana Compound",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "20000000"
     },
@@ -75911,7 +75923,8 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Livelli Mall",
+      "geol4": "5th Settlement",
+      "geol5": "Livelli Mall",
       "unit_type": "Retail",
       "lower_limit": "9000000"
     },
