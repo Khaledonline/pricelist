@@ -70169,6 +70169,206 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "450000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Galant",
+      "year": "1988",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "100000"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Corolla",
+      "year": "1977",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "80000"
+    },
+    {
+      "brand": "Jaguar",
+      "model": "F-type",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3700000"
+    },
+    {
+      "brand": "Changan",
+      "model": "Benni mini",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "190000"
+    },
+    {
+      "brand": "Daihatsu",
+      "model": "Charade",
+      "year": "1985",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "110000"
+    },
+    {
+      "brand": "Suzuki",
+      "model": "Alto",
+      "year": "1986",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "130000"
+    },
+    {
+      "brand": "Shineray",
+      "model": "X30",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "490000"
+    },
+    {
+      "brand": "Great Wall",
+      "model": "Hover",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "400000"
+    },
+    {
+      "brand": "Jac",
+      "model": "A13",
+      "year": "2013",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "220000"
+    },
+    {
+      "brand": "Volvo",
+      "model": "XC40 Recharge",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2450000"
+    },
+    {
+      "brand": "Honda",
+      "model": "Accord",
+      "year": "1982",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "130000"
+    },
+    {
+      "brand": "Citroen",
+      "model": "Jumper",
+      "year": "2003",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "600000"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Land Cruiser",
+      "year": "2007",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "850000"
+    },
+    {
+      "brand": "Dongfeng",
+      "model": "Mage",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1190000"
+    },
+    {
+      "brand": "Mazda",
+      "model": "3",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1490000"
+    },
+    {
+      "brand": "BMW",
+      "model": "X5",
+      "year": "2010",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1050000"
+    },
+    {
+      "brand": "Geely",
+      "model": "Emgrand",
+      "year": "2017",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "280000"
+    },
+    {
+      "brand": "Daewoo",
+      "model": "Tico",
+      "year": "1995",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "55000"
+    },
+    {
+      "brand": "Volkswagen",
+      "model": "Amarok",
+      "year": "2013",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "500000"
+    },
+    {
+      "brand": "Aito",
+      "model": "M9",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "334000"
     }
   ]
 }
