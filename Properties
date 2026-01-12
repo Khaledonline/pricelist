@@ -29913,7 +29913,7 @@
       "lower_limit": "3000000"
     },
     {
-      "cat": "Vacation Homes for Sale",
+      "cat": "Villas For Sale",
       "geol2": "Red Sea",
       "geol3": "Gouna",
       "geol4": "Mangroovy",
@@ -29921,7 +29921,7 @@
       "lower_limit": "4000000"
     },
     {
-      "cat": "Vacation Homes for Sale",
+      "cat": "Villas For Sale",
       "geol2": "Red Sea",
       "geol3": "Gouna",
       "geol4": "Mangroovy",
@@ -29929,7 +29929,7 @@
       "lower_limit": "5000000"
     },
     {
-      "cat": "Vacation Homes for Sale",
+      "cat": "Villas For Sale",
       "geol2": "Red Sea",
       "geol3": "Gouna",
       "geol4": "Mangroovy",
@@ -83958,7 +83958,7 @@
       "geol3": "New Capital City",
       "geol4": "Sage Lakes",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "21600000"
+      "lower_limit": "12600000"
     },
     {
       "cat": "Villas For Sale",
@@ -84014,7 +84014,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Ivy",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "20000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Villas For Sale",
@@ -84202,7 +84202,7 @@
       "geol3": "Gouna",
       "geol4": "West Golf Gouna",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "24000000"
+      "lower_limit": "14000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -84242,7 +84242,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "La Vista 4",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "20000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -84632,7 +84632,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "La Vista 3",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "32500000"
+      "lower_limit": "12500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -84758,7 +84758,7 @@
       "geol3": "Borg al-Arab",
       "geol4": "Malaz",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "21500000"
+      "lower_limit": "7500000"
     },
     {
       "cat": "Villas For Sale",
@@ -84767,14 +84767,6 @@
       "geol4": "Sodic Westown Compound",
       "unit_type": "iVilla",
       "lower_limit": "15500000"
-    },
-    {
-      "cat": "Villas For Sale",
-      "geol2": "Red Sea",
-      "geol3": "Gouna",
-      "geol4": "Mangroovy",
-      "unit_type": "Town House",
-      "lower_limit": "14500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -84807,7 +84799,7 @@
       "geol4": "1st Settlement",
       "geol5": "El Banafseg 10",
       "unit_type": "Retail",
-      "lower_limit": "12500000"
+      "lower_limit": "4500000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -84874,7 +84866,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Prive",
       "unit_type": "Retail",
-      "lower_limit": "13500000"
+      "lower_limit": "5500000"
     },
     {
       "cat": "Villas For Sale",
@@ -84891,7 +84883,7 @@
       "geol3": "Gouna",
       "geol4": "Mangroovy",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "34000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -84916,7 +84908,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "La Vista Topaz of Ain Sokhna",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "21500000"
+      "lower_limit": "15500000"
     },
     {
       "cat": "Villas For Sale",
@@ -84924,7 +84916,7 @@
       "geol3": "Ain Sukhna",
       "geol4": "La Vista 2",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "24500000"
+      "lower_limit": "15500000"
     },
     {
       "cat": "Villas For Sale",
@@ -84981,7 +84973,7 @@
       "geol3": "6th of October",
       "geol4": "Dirra City",
       "unit_type": "Roof",
-      "lower_limit": "2000000"
+      "lower_limit": "2500000"
     },
     {
       "cat": "Apartments for Sale",
