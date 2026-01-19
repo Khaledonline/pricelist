@@ -14104,26 +14104,10 @@
       "lower_limit": "12000000"
     },
     {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "Andalus",
-      "unit_type": "Apartment",
-      "lower_limit": "1200000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "Andalus",
-      "unit_type": "Duplex",
-      "lower_limit": "3000000"
-    },
-    {
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Andalus",
+      "geol4": "Al Andalous",
       "unit_type": "Office",
       "lower_limit": "1500000"
     },
@@ -14131,7 +14115,7 @@
       "cat": "Villas For Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Andalus",
+      "geol4": "Al Andalous",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "7000000"
     },
@@ -19775,7 +19759,8 @@
       "cat": "Villas For Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "East ville",
+      "geol4": "5th Settlement",
+      "geol5": "Eastville",
       "unit_type": "Twin house",
       "lower_limit": "15000000"
     },
@@ -19783,7 +19768,8 @@
       "cat": "Villas For Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "East ville",
+      "geol4": "5th Settlement",
+      "geol5": "Eastville",
       "unit_type": "Town House",
       "lower_limit": "12000000"
     },
@@ -19855,7 +19841,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Eelaf",
+      "geol4": "5th Settlement",
+      "geol5": "Eelaf",
       "unit_type": "Apartment",
       "lower_limit": "5000000"
     },
@@ -31354,7 +31341,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "MarVille New Zayed",
       "unit_type": "Apartment",
-      "lower_limit": "2000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -31362,7 +31349,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "MarVille New Zayed",
       "unit_type": "Duplex",
-      "lower_limit": "4000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Villas For Sale",
@@ -31370,7 +31357,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "MarVille New Zayed",
       "unit_type": "Town House",
-      "lower_limit": "12000000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Villas For Sale",
@@ -32054,7 +32041,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Mist",
+      "geol4": "5th Settlement",
+      "geol5": "Mist",
       "unit_type": "Apartment",
       "lower_limit": "2500000"
     },
@@ -33716,7 +33704,8 @@
       "cat": "Villas For Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "New Maryland",
+      "geol4": "5th Settlement",
+      "geol5": "New Maryland",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "20000000"
     },
@@ -35024,7 +35013,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Orkidia",
+      "geol4": "5th Settlement",
+      "geol5": "Orkidia",
       "unit_type": "Apartment",
       "lower_limit": "5000000"
     },
@@ -36044,14 +36034,6 @@
       "geol4": "Parkdale New Zayed Compound",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "7000000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "‎Pearl des Rois",
-      "unit_type": "Apartment",
-      "lower_limit": "5000000"
     },
     {
       "cat": "Villas For Sale",
@@ -38682,7 +38664,8 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Rock Gold Mall",
+      "geol4": "5th Settlement",
+      "geol5": "Rock Gold Mall",
       "unit_type": "Office",
       "lower_limit": "4000000"
     },
@@ -38690,7 +38673,8 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Rock Gold Mall",
+      "geol4": "5th Settlement",
+      "geol5": "Rock Gold Mall",
       "unit_type": "Retail",
       "lower_limit": "3000000"
     },
@@ -43376,7 +43360,8 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "The Gryd",
+      "geol4": "5th Settlement",
+      "geol5": "The Gryd",
       "unit_type": "Clinic",
       "lower_limit": "5000000"
     },
@@ -43384,7 +43369,8 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "The Gryd",
+      "geol4": "5th Settlement",
+      "geol5": "The Gryd",
       "unit_type": "Office",
       "lower_limit": "4000000"
     },
@@ -43392,7 +43378,8 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "The Gryd",
+      "geol4": "5th Settlement",
+      "geol5": "The Gryd",
       "unit_type": "Restaurant & Cafe",
       "lower_limit": "9000000"
     },
@@ -43432,7 +43419,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "The Lark Residence",
+      "geol4": "5th Settlement",
+      "geol5": "The Lark Residence",
       "unit_type": "Studio",
       "lower_limit": "3000000"
     },
@@ -43440,7 +43428,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "The Lark Residence",
+      "geol4": "5th Settlement",
+      "geol5": "The Lark Residence",
       "unit_type": "Apartment",
       "lower_limit": "4000000"
     },
@@ -43448,7 +43437,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "The Lark Residence",
+      "geol4": "5th Settlement",
+      "geol5": "The Lark Residence",
       "unit_type": "Penthouse",
       "lower_limit": "7000000"
     },
@@ -43456,7 +43446,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "The Lark Residence",
+      "geol4": "5th Settlement",
+      "geol5": "The Lark Residence",
       "unit_type": "Duplex",
       "lower_limit": "7000000"
     },
@@ -43889,7 +43880,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Tiba Rose",
+      "geol4": "5th Settlement",
+      "geol5": "Tiba Rose",
       "unit_type": "Apartment",
       "lower_limit": "3000000"
     },
@@ -43897,7 +43889,8 @@
       "cat": "Villas For Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Tiba Rose",
+      "geol4": "5th Settlement",
+      "geol5": "Tiba Rose",
       "unit_type": "Town House",
       "lower_limit": "18000000"
     },
@@ -43905,7 +43898,8 @@
       "cat": "Villas For Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Tiba Rose",
+      "geol4": "5th Settlement",
+      "geol5": "Tiba Rose",
       "unit_type": "Twin house",
       "lower_limit": "18000000"
     },
@@ -57315,7 +57309,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Zizinia Family",
+      "geol4": "5th Settlement",
+      "geol5": "Zizinia Family",
       "unit_type": "Apartment",
       "lower_limit": "3000000"
     },
@@ -58240,7 +58235,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Ramblas",
+      "geol4": "5th Settlement",
+      "geol5": "Ramblas",
       "unit_type": "Apartment",
       "lower_limit": "8000000"
     },
@@ -58248,7 +58244,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Zmora East",
+      "geol4": "5th Settlement",
+      "geol5": "Zmora East",
       "unit_type": "Apartment",
       "lower_limit": "8000000"
     },
@@ -58448,7 +58445,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Shababeek",
+      "geol4": "5th Settlement",
+      "geol5": "Shababeek",
       "unit_type": "Apartment",
       "lower_limit": "6000000"
     },
@@ -58456,7 +58454,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Cavali",
+      "geol4": "5th Settlement",
+      "geol5": "Cavali",
       "unit_type": "Apartment",
       "lower_limit": "4000000"
     },
@@ -58520,7 +58519,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Together",
+      "geol4": "5th Settlement",
+      "geol5": "Together",
       "unit_type": "Apartment",
       "lower_limit": "10000000"
     },
@@ -58643,7 +58643,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Riverton",
+      "geol4": "5th Settlement",
+      "geol5": "Riverton",
       "unit_type": "Apartment",
       "lower_limit": "6000000"
     },
@@ -58651,7 +58652,8 @@
       "cat": "Villas For Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Riverton",
+      "geol4": "5th Settlement",
+      "geol5": "Riverton",
       "unit_type": "Town House",
       "lower_limit": "18000000"
     },
@@ -58659,15 +58661,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "EL Patio Riva",
-      "unit_type": "Apartment",
-      "lower_limit": "8000000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "Town square",
+      "geol4": "5th Settlement",
+      "geol5": "Town square",
       "unit_type": "Apartment",
       "lower_limit": "6000000"
     },
@@ -58675,7 +58670,8 @@
       "cat": "Villas For Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Town square",
+      "geol4": "5th Settlement",
+      "geol5": "Town square",
       "unit_type": "Town House",
       "lower_limit": "12000000"
     },
@@ -59232,7 +59228,8 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Eastlane Mall",
+      "geol4": "5th Settlement",
+      "geol5": "Eastlane Mall",
       "unit_type": "Clinic",
       "lower_limit": "10000000"
     },
@@ -59240,7 +59237,8 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Eastlane Mall",
+      "geol4": "5th Settlement",
+      "geol5": "Eastlane Mall",
       "unit_type": "Retail",
       "lower_limit": "10000000"
     },
@@ -59248,7 +59246,8 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Eastlane Mall",
+      "geol4": "5th Settlement",
+      "geol5": "Eastlane Mall",
       "unit_type": "Office",
       "lower_limit": "7000000"
     },
@@ -59296,7 +59295,8 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "EDNC",
+      "geol4": "5th Settlement",
+      "geol5": "EDNC",
       "unit_type": "Office",
       "lower_limit": "20000000"
     },
@@ -59304,7 +59304,8 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Cinco Mall",
+      "geol4": "5th Settlement",
+      "geol5": "Cinco Mall",
       "unit_type": "Office",
       "lower_limit": "6000000"
     },
@@ -59312,7 +59313,8 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Cinco Mall",
+      "geol4": "5th Settlement",
+      "geol5": "Cinco Mall",
       "unit_type": "Retail",
       "lower_limit": "10000000"
     },
@@ -59320,7 +59322,8 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Cinco Mall",
+      "geol4": "5th Settlement",
+      "geol5": "Cinco Mall",
       "unit_type": "Clinic",
       "lower_limit": "10000000"
     },
@@ -78523,7 +78526,7 @@
       "geol4": "6th Settlement",
       "geol5": "Jiwar Compound",
       "unit_type": "Duplex",
-      "lower_limit": "6000000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Villas For Sale",
@@ -78573,16 +78576,7 @@
       "geol4": "6th Settlement",
       "geol5": "Jiwar Compound",
       "unit_type": "Apartment",
-      "lower_limit": "3400000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "5th Settlement",
-      "geol5": "Shababeek",
-      "unit_type": "Apartment",
-      "lower_limit": "3000000"
+      "lower_limit": "3500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -82323,15 +82317,6 @@
       "lower_limit": "4000000"
     },
     {
-      "cat": "Commercial for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "5th Settlement",
-      "geol5": "The Gryd",
-      "unit_type": "Clinic",
-      "lower_limit": "4000000"
-    },
-    {
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
@@ -83505,15 +83490,6 @@
       "lower_limit": "2400000"
     },
     {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "5th Settlement",
-      "geol5": "Cavali",
-      "unit_type": "Apartment",
-      "lower_limit": "5000000"
-    },
-    {
       "cat": "Villas For Sale",
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
@@ -84088,15 +84064,6 @@
       "lower_limit": "15500000"
     },
     {
-      "cat": "Villas For Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "5th Settlement",
-      "geol5": "Riverton",
-      "unit_type": "Town House",
-      "lower_limit": "12500000"
-    },
-    {
       "cat": "Apartments for Sale",
       "geol2": "Red Sea",
       "geol3": "Gouna",
@@ -84593,7 +84560,7 @@
       "geol4": "6th Settlement",
       "geol5": "Jiwar Compound",
       "unit_type": "Studio",
-      "lower_limit": "4000000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -84838,7 +84805,7 @@
       "geol4": "6th Settlement",
       "geol5": "Glen",
       "unit_type": "Apartment",
-      "lower_limit": "8800000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Villas For Sale",
@@ -85237,24 +85204,6 @@
       "geol5": "‎Pearl des Rois",
       "unit_type": "Apartment",
       "lower_limit": "5000000"
-    },
-    {
-      "cat": "Commercial for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "5th Settlement",
-      "geol5": "EDNC",
-      "unit_type": "Office",
-      "lower_limit": "10000000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "5th Settlement",
-      "geol5": "Zmora East",
-      "unit_type": "Apartment",
-      "lower_limit": "10000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -86105,7 +86054,7 @@
       "geol4": "6th Settlement",
       "geol5": "Jiwar Compound",
       "unit_type": "iVilla",
-      "lower_limit": "11163000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Villas For Sale",
@@ -86287,7 +86236,7 @@
       "geol3": "New Capital City",
       "geol4": "New Garden City",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "18450000"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -87118,15 +87067,6 @@
       "lower_limit": "5500000"
     },
     {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "5th Settlement",
-      "geol5": "Riverton",
-      "unit_type": "Apartment",
-      "lower_limit": "5000000"
-    },
-    {
       "cat": "Villas For Sale",
       "geol2": "Cairo",
       "geol3": "New Capital City",
@@ -87652,15 +87592,6 @@
       "geol4": "Dejoya",
       "unit_type": "Clinic",
       "lower_limit": "3500000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "5th Settlement",
-      "geol5": "The Lark Residence",
-      "unit_type": "Apartment",
-      "lower_limit": "5500000"
     },
     {
       "cat": "Commercial for Sale",
