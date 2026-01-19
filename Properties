@@ -36096,7 +36096,7 @@
     {
       "cat": "Apartments for Sale",
       "geol2": "Alexandria",
-      "geol3": "Sidi Gaber",
+      "geol3": "Smoha",
       "geol4": "Pharma City Compound",
       "unit_type": "Apartment",
       "lower_limit": "3500000"
@@ -53933,7 +53933,7 @@
       "geol3": "Madinaty",
       "geol4": "Unknown",
       "unit_type": "Pharmacy",
-      "lower_limit": "100000000"
+      "lower_limit": "30000000"
     },
     {
       "cat": "Villas For Sale",
@@ -53957,7 +53957,7 @@
       "geol3": "Madinaty",
       "geol4": "Unknown",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "100000000"
+      "lower_limit": "50000000"
     },
     {
       "cat": "Apartments for Sale",
