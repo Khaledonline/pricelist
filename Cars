@@ -2758,7 +2758,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1,005,590"
+      "lower_bound_ci_99": "1000000"
     },
     {
       "brand": "BMW",
@@ -2768,7 +2768,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1,058,000"
+      "lower_bound_ci_99": "1000000"
     },
     {
       "brand": "BMW",
@@ -2778,7 +2778,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1,094,437"
+      "lower_bound_ci_99": "1000000"
     },
     {
       "brand": "BMW",
@@ -2788,7 +2788,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1,102,942"
+      "lower_bound_ci_99": "1000000"
     },
     {
       "brand": "BMW",
@@ -8788,7 +8788,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "8,400,000"
+      "lower_bound_ci_99": "12000000"
     },
     {
       "brand": "Cadillac",
@@ -8808,7 +8808,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "14,400,000"
+      "lower_bound_ci_99": "11000000"
     },
     {
       "brand": "Cadillac",
@@ -8818,7 +8818,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "13,800,000"
+      "lower_bound_ci_99": "11000000"
     },
     {
       "brand": "Cadillac",
@@ -8838,7 +8838,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1,700,000"
+      "lower_bound_ci_99": "1500000"
     },
     {
       "brand": "Cadillac",
@@ -8868,7 +8868,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "9860000"
+      "lower_bound_ci_99": "12000000"
     },
     {
       "brand": "Cadillac",
@@ -8878,7 +8878,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1900000"
+      "lower_bound_ci_99": "3500000"
     },
     {
       "brand": "Cadillac",
@@ -8888,7 +8888,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "3350000"
+      "lower_bound_ci_99": "8000000"
     },
     {
       "brand": "Cadillac",
@@ -8898,7 +8898,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1750000"
+      "lower_bound_ci_99": "4500000"
     },
     {
       "brand": "Cadillac",
@@ -8908,7 +8908,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "3600000"
+      "lower_bound_ci_99": "6000000"
     },
     {
       "brand": "Cadillac",
@@ -72378,7 +72378,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "250000"
+      "lower_bound_ci_99": "230000"
     },
     {
       "brand": "Citroen",
@@ -72399,6 +72399,166 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "450000"
+    },
+    {
+      "brand": "MINI",
+      "model": "Convertible",
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "550000"
+    },
+    {
+      "brand": "BMW",
+      "model": "IX1",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "900000"
+    },
+    {
+      "brand": "Ford",
+      "model": "Taurus",
+      "year": "1995",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "160000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Pickup",
+      "year": "2007",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "220000"
+    },
+    {
+      "brand": "Bentley",
+      "model": "Continental GT",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3000000"
+    },
+    {
+      "brand": "BMW",
+      "model": "M2",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "4000000"
+    },
+    {
+      "brand": "Foton",
+      "model": "C2",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "800000"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Yaris",
+      "year": "2002",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "400000"
+    },
+    {
+      "brand": "Ssang Yong",
+      "model": "Tivoli XLV",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "900000"
+    },
+    {
+      "brand": "Audi",
+      "model": "A7",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1800000"
+    },
+    {
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "year": "1982",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "130000"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Prado",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2250000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "E180",
+      "year": "2015",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1400000"
+    },
+    {
+      "brand": "Hyundai",
+      "model": "Elantra",
+      "year": "2001",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "350000"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Corona",
+      "year": "1985",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "90000"
+    },
+    {
+      "brand": "Volkswagen",
+      "model": "Golf R",
+      "year": "2017",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "900000"
     }
   ]
 }
