@@ -72508,7 +72508,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "130000"
+      "lower_bound_ci_99": "100000"
     },
     {
       "brand": "Toyota",
@@ -72538,7 +72538,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "350000"
+      "lower_bound_ci_99": "240000"
     },
     {
       "brand": "Toyota",
@@ -72568,7 +72568,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "200000"
+      "lower_bound_ci_99": "180000"
     },
     {
       "brand": "Changhe",
@@ -72578,7 +72578,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "100000"
+      "lower_bound_ci_99": "90000"
     },
     {
       "brand": "Chevrolet",
@@ -72588,7 +72588,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "370000"
+      "lower_bound_ci_99": "320000"
     },
     {
       "brand": "Honda",
@@ -72628,7 +72628,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "350000"
+      "lower_bound_ci_99": "250000"
     },
     {
       "brand": "BYD",
@@ -72638,7 +72638,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1679000"
+      "lower_bound_ci_99": "1500000"
     },
     {
       "brand": "Lynk & Co",
@@ -72651,16 +72651,6 @@
       "lower_bound_ci_99": "1250000"
     },
     {
-      "brand": "Zeekr",
-      "model": "01",
-      "year": "2025",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "2750000"
-    },
-    {
       "brand": "Citroen",
       "model": "C4 Picasso",
       "year": "2015",
@@ -72668,7 +72658,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "650000"
+      "lower_bound_ci_99": "580000"
     },
     {
       "brand": "Peugeot",
@@ -72678,7 +72668,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "125000"
+      "lower_bound_ci_99": "120000"
     },
     {
       "brand": "Kia",
@@ -72699,6 +72689,126 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "55000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Bluebird",
+      "year": "1984",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "40000"
+    },
+    {
+      "brand": "Abarth",
+      "model": "595",
+      "year": "2017",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1400000"
+    },
+    {
+      "brand": "Chery",
+      "model": "Arrizo 8",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1100000"
+    },
+    {
+      "brand": "Jeep",
+      "model": "Wrangler Sahara",
+      "year": "2015",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "850000"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Sequoia",
+      "year": "2014",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "500000"
+    },
+    {
+      "brand": "Jeep",
+      "model": "Wrangler 4xe",
+      "year": "2010",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "800000"
+    },
+    {
+      "brand": "BMW",
+      "model": "Z4 M40",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "4200000"
+    },
+    {
+      "brand": "Hyundai",
+      "model": "H100",
+      "year": "1994",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "200000"
+    },
+    {
+      "brand": "Hyundai",
+      "model": "H100",
+      "year": "2004",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "280000"
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Pickup",
+      "year": "1999",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "300000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Mirage",
+      "year": "1996",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "180000"
+    },
+    {
+      "brand": "Ford",
+      "model": "Explorer",
+      "year": "2017",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1700000"
     }
   ]
 }
