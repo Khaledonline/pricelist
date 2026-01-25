@@ -72808,7 +72808,207 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1700000"
+      "lower_bound_ci_99": "1200000"
+    },
+    {
+      "brand": "Peugeot",
+      "model": "207 SW",
+      "year": "2009",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "320000"
+    },
+    {
+      "brand": "Mazda",
+      "model": "6",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "950000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "SEL 280",
+      "year": "1981",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "180000"
+    },
+    {
+      "brand": "Cupra",
+      "model": "Formentor",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1950000"
+    },
+    {
+      "brand": "BMW",
+      "model": "318",
+      "year": "1981",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "90000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Colt",
+      "year": "1997",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "210000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Toledo",
+      "year": "2006",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "320000"
+    },
+    {
+      "brand": "Lada",
+      "model": "2104",
+      "year": "1988",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "55000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "E63",
+      "year": "2017",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2000000"
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Sprint",
+      "year": "1991",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "110000"
+    },
+    {
+      "brand": "Hyundai",
+      "model": "Accent",
+      "year": "1989",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "140000"
+    },
+    {
+      "brand": "Lada",
+      "model": "124",
+      "year": "1987",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "35000"
+    },
+    {
+      "brand": "Changhe",
+      "model": "Super Panda",
+      "year": "2009",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "160000"
+    },
+    {
+      "brand": "Geely",
+      "model": "Emgrand X7",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "210000"
+    },
+    {
+      "brand": "Domy",
+      "model": "X5",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "550000"
+    },
+    {
+      "brand": "Geely",
+      "model": "Emgrand 7",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "820000"
+    },
+    {
+      "brand": "Volvo",
+      "model": "s80",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "750000"
+    },
+    {
+      "brand": "Suzuki",
+      "model": "Van",
+      "year": "1985",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "90000"
+    },
+    {
+      "brand": "Audi",
+      "model": "Q2",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2000000"
+    },
+    {
+      "brand": "Buick",
+      "model": "Park Avenue",
+      "year": "1993",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "250000"
     }
   ]
 }
