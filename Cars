@@ -74159,6 +74159,186 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "150000"
+    },
+    {
+      "brand": "Audi",
+      "model": "Q2",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1150000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "Vito",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "6400000"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Prado",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3400000"
+    },
+    {
+      "brand": "Mazda",
+      "model": "626",
+      "year": "1980",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "75000"
+    },
+    {
+      "brand": "Geely",
+      "model": "X Pandido",
+      "year": "2013",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "270000"
+    },
+    {
+      "brand": "Volvo",
+      "model": "940",
+      "year": "1997",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "230000"
+    },
+    {
+      "brand": "Kia",
+      "model": "Carnival",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1350000"
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "147",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "350000"
+    },
+    {
+      "brand": "Citroen",
+      "model": "DS3",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "600000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "GLK 350",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1325000"
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "SU7",
+      "year": "2000",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2100000"
+    },
+    {
+      "brand": "Citroen",
+      "model": "Berlingo",
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "380000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "March",
+      "year": "2000",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "280000"
+    },
+    {
+      "brand": "Aito",
+      "model": "M9",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "200000"
+    },
+    {
+      "brand": "Brilliance",
+      "model": "FSV",
+      "year": "2000",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "180000"
+    },
+    {
+      "brand": "BYD",
+      "model": "Atto 3",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1340000"
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "Spider",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "85000"
+    },
+    {
+      "brand": "Aito",
+      "model": "M9",
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "250000"
     }
   ]
 }
