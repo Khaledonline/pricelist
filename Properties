@@ -97267,6 +97267,30 @@
       "geol4": "Stella Di Mare",
       "unit_type": "Duplex",
       "lower_limit": "5000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "Zezenia 10th of Ramadan",
+      "unit_type": "Factory",
+      "lower_limit": "10000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Zezenia",
+      "geol4": "Unknown",
+      "unit_type": "Apartment",
+      "lower_limit": "6000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Zezenia",
+      "geol4": "Unknown",
+      "unit_type": "Retail",
+      "lower_limit": "10000000"
     }
   ]
 }
