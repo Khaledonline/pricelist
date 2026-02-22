@@ -1,0 +1,31 @@
+{
+  "Property egypt ": [
+    {
+      "cat": "Apartment",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "Taj City Compound",
+      "unit_type": "Apartment",
+      "price_per_meter": 4500000
+    },
+    {
+      "cat": "Apartment",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Unknown",
+      "unit_type": "Apartment",
+      "price_per_meter": 40000
+    },
+    {
+      "cat": "Villa",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Beverly Hills",
+      "geol5": "Unknown",
+      "unit_type": "Stand Alone Villa",
+      "price_per_meter": 35000
+    }
+  ]
+}
