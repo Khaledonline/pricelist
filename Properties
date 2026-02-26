@@ -310,7 +310,7 @@
       "geol3": "6th of October",
       "geol4": "1st District",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "6500000"
+      "lower_limit": "20500000"
     },
     {
       "cat": "Villas For Sale",
@@ -666,7 +666,7 @@
       "geol4": "1st Settlement",
       "geol5": "Cairo Business Park",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "200000000"
+      "lower_limit": "80000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -3096,7 +3096,7 @@
       "geol4": "1st Settlement",
       "geol5": "Yellow residence Compound",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "200000000"
+      "lower_limit": "90000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -5744,7 +5744,7 @@
       "geol4": "5th Settlement",
       "geol5": "Creek Town Compound",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "150000000"
+      "lower_limit": "80000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -7769,7 +7769,7 @@
       "geol4": "5th Settlement",
       "geol5": "Lake View Compound",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "120000000"
+      "lower_limit": "80000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -7805,7 +7805,7 @@
       "geol4": "5th Settlement",
       "geol5": "Lake view Residence Compound",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "120000000"
+      "lower_limit": "80000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -14363,7 +14363,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Arkan Plaza",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "200000000"
+      "lower_limit": "80000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -39556,7 +39556,7 @@
       "geol3": "Maadi",
       "geol4": "Sarayat El Maadi",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "100000000"
+      "lower_limit": "50000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -47198,7 +47198,7 @@
       "geol3": "Gomrok",
       "geol4": "Unknown",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "100000000"
+      "lower_limit": "40000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -97391,7 +97391,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mivida Compound",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "225000000"
+      "lower_limit": "90000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -99463,7 +99463,7 @@
       "geol4": "5th Settlement",
       "geol5": "5A",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "585000000"
+      "lower_limit": "50000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -100208,7 +100208,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "The Strip - Sodic Compound",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "198000000"
+      "lower_limit": "50000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -100224,7 +100224,7 @@
       "geol3": "6th of October",
       "geol4": "11th District",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "225000000"
+      "lower_limit": "50000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -101142,6 +101142,490 @@
       "geol4": "El Ashgar District Compound",
       "unit_type": "Hotel Apartment",
       "lower_limit": "8000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Shirbin",
+      "geol4": "Unknown",
+      "unit_type": "Apartment",
+      "lower_limit": "750000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Boulaq Abo El Ela",
+      "geol4": "Boulaq 1",
+      "unit_type": "Full Commercial Building",
+      "lower_limit": "7000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Sinai",
+      "geol3": "Ras Sedr",
+      "geol4": "Tavira",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Ismailia",
+      "geol3": "Abu Swear",
+      "geol4": "Unknown",
+      "unit_type": "Apartment",
+      "lower_limit": "1000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Northern Expansions",
+      "geol5": "Gamal Abdel Nasser St.",
+      "unit_type": "Penthouse",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Heliopolis",
+      "geol4": "Ard El Golf",
+      "unit_type": "Office",
+      "lower_limit": "22000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Al Waha City",
+      "unit_type": "Clinic",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Al Waha City",
+      "unit_type": "Pharmacy",
+      "lower_limit": "22500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "6th Settlement",
+      "geol5": "Saada Boutique",
+      "unit_type": "Town House",
+      "lower_limit": "30500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Stella Sidi abd elrahman",
+      "unit_type": "Duplex",
+      "lower_limit": "13500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "6th Settlement",
+      "geol5": "Saada Boutique",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "65500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "6th Settlement",
+      "geol5": "Saada Boutique",
+      "unit_type": "Twin House",
+      "lower_limit": "47500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Nile Business City",
+      "unit_type": "Hotel Apartment",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Rehab City",
+      "unit_type": "Medical Facility",
+      "lower_limit": "18000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Soma Bay",
+      "geol4": "Reef Town",
+      "unit_type": "Hotel Apartment",
+      "lower_limit": "12500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Katameya",
+      "geol4": "Sarayat El Katameya",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "31500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Marg",
+      "geol4": "Kafr Abu Seer",
+      "geol5": "6 October St.",
+      "unit_type": "Retail",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "11th District",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "27500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Al Ibrahimiyyah",
+      "geol4": "Unknown",
+      "unit_type": "Restaurant & Cafe",
+      "lower_limit": "6000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Second urban area",
+      "unit_type": "Full Commercial Building",
+      "lower_limit": "43000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Makadi Bay",
+      "geol4": "Makadi Orascom Resort",
+      "unit_type": "Apartment",
+      "lower_limit": "10000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Smoha",
+      "geol4": "Taweneyat Smouha",
+      "unit_type": "Apartment",
+      "lower_limit": "8500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Katameya Creeks Compound",
+      "unit_type": "Penthouse",
+      "lower_limit": "40500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R5",
+      "geol5": "Sign One Mall",
+      "unit_type": "Retail",
+      "lower_limit": "9000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "JW Marriott",
+      "unit_type": "Office",
+      "lower_limit": "13000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Nmq",
+      "unit_type": "Clinic",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Crystal Lagoon",
+      "unit_type": "Chalet",
+      "lower_limit": "13000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "El Yasmeen 3",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "39500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Q Bay",
+      "unit_type": "Town House",
+      "lower_limit": "15000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "6th Settlement",
+      "geol5": "Vea",
+      "unit_type": "Town House",
+      "lower_limit": "15000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "Empire",
+      "unit_type": "Twin House",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Borg al-Arab",
+      "geol4": "Soly Vie",
+      "unit_type": "Chalet",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Maadi",
+      "geol4": "Unknown",
+      "unit_type": "Twin House",
+      "lower_limit": "18000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Nile Business City",
+      "unit_type": "Retail",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Farah 2",
+      "unit_type": "Chalet",
+      "lower_limit": "12500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Solimar Green 2",
+      "unit_type": "Twin House",
+      "lower_limit": "10500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Sahl Hasheesh",
+      "geol4": "Wadi Jebal",
+      "unit_type": "Penthouse",
+      "lower_limit": "23500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Hay Gharb",
+      "geol4": "Unknown",
+      "unit_type": "Apartment",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Dejoya",
+      "unit_type": "Town House",
+      "lower_limit": "15500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Grand Heights",
+      "unit_type": "Twin House",
+      "lower_limit": "16000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Uptown Cairo",
+      "geol5": "Eleva",
+      "unit_type": "Twin House",
+      "lower_limit": "30000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "WestVille",
+      "unit_type": "Hotel Apartment",
+      "lower_limit": "6000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "6th Settlement",
+      "geol5": "Vea",
+      "unit_type": "Apartment",
+      "lower_limit": "15000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Queen land",
+      "unit_type": "Hotel Apartment",
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Mostashareen",
+      "unit_type": "Penthouse",
+      "lower_limit": "6000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "EL Shouyfat",
+      "unit_type": "Office",
+      "lower_limit": "24500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Zayard Villa",
+      "unit_type": "Twin House",
+      "lower_limit": "10500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "Kamaran",
+      "unit_type": "Town House",
+      "lower_limit": "17500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "The Crown Compound",
+      "unit_type": "iVilla",
+      "lower_limit": "22000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Mountain View",
+      "unit_type": "Office",
+      "lower_limit": "11000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "Mirage City Compound",
+      "unit_type": "Duplex",
+      "lower_limit": "12500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Bellagio Compound",
+      "unit_type": "Apartment",
+      "lower_limit": "34000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Town Center El-Shorouk Mall",
+      "unit_type": "Clinic",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mostakbal City",
+      "geol4": "Sarai",
+      "geol5": "Day2Night",
+      "unit_type": "Clinic",
+      "lower_limit": "6000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "The Capital Way",
+      "unit_type": "Restaurant & Cafe",
+      "lower_limit": "6000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "La Verte City Compound",
+      "unit_type": "Duplex",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "El Reef El Orouby Compound",
+      "unit_type": "Chalet",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek al-Ahram",
+      "geol4": "Gate 1 - Khofo",
+      "unit_type": "Office",
+      "lower_limit": "2000000"
     }
   ]
 }
