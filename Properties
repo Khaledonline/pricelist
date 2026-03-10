@@ -103365,6 +103365,250 @@
       "geol4": "Al Narges",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "8500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "MU23",
+      "geol5": "Aurora",
+      "unit_type": "Apartment",
+      "lower_limit": "14500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Heliopolis",
+      "geol4": "Valore El-Thawra",
+      "unit_type": "Apartment",
+      "lower_limit": "11500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Salam City",
+      "geol4": "El Herafeen",
+      "geol5": "Berket  Al Nasr",
+      "unit_type": "Apartment",
+      "lower_limit": "750000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Notion",
+      "unit_type": "Apartment",
+      "lower_limit": "5500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "I West",
+      "unit_type": "Penthouse",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "G West",
+      "unit_type": "Penthouse",
+      "lower_limit": "10500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "26th of July Corridor",
+      "geol5": "Al Guezira plaza",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Masaya",
+      "unit_type": "Hotel Apartment",
+      "lower_limit": "11000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Hurghada",
+      "geol4": "Lavanda Beach",
+      "unit_type": "Studio",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": true,
+      "unit_type": "Retail",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Mivida Compound",
+      "unit_type": "Showroom",
+      "lower_limit": "32000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "District 5 Compound",
+      "unit_type": "Retail",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "District 5 Compound",
+      "unit_type": "Clinic",
+      "lower_limit": "3000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Mint Mall",
+      "unit_type": "Clinic",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "C9 Mall",
+      "unit_type": "Full Commercial Building",
+      "lower_limit": "27000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "West Mark",
+      "unit_type": "Restaurant & Cafe",
+      "lower_limit": "16000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "1st District",
+      "geol5": "C'est La Vie",
+      "unit_type": "Retail",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "1st District",
+      "geol5": "C'est La Vie",
+      "unit_type": "Clinic",
+      "lower_limit": "6000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "1st District",
+      "geol5": "C'est La Vie",
+      "unit_type": "Office Space",
+      "lower_limit": "7500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "IRA",
+      "unit_type": "Office Space",
+      "lower_limit": "15000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Qalyubia",
+      "geol3": "Banha",
+      "geol4": "Al Mansheya",
+      "unit_type": "Retail",
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Qena",
+      "geol3": "Nag Hammadi",
+      "geol4": "Unknown",
+      "unit_type": "Factory",
+      "lower_limit": "45000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Rayhana",
+      "unit_type": "Twin House",
+      "lower_limit": "17500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Joya Mall",
+      "unit_type": "Town House",
+      "lower_limit": "14500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Masaya",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "78500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Mohandesin",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Red Sea",
+      "geol3": "Hurghada",
+      "geol4": "Kamaran",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "13500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Red Sea",
+      "geol3": "Makadi Bay",
+      "geol4": "Jaz Makadina",
+      "unit_type": "Town House",
+      "lower_limit": "13000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Red Sea",
+      "geol3": "Hurghada",
+      "geol4": "Kamaran",
+      "unit_type": "Twin House",
+      "lower_limit": "9000000"
     }
   ]
 }
