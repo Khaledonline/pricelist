@@ -80089,6 +80089,86 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "250000"
+    },
+    {
+      "brand": "Leapmotor",
+      "model": "C16",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1450000"
+    },
+    {
+      "brand": "Hyundai",
+      "model": "Avante",
+      "year": "1999",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "195000"
+    },
+    {
+      "brand": "Peugeot",
+      "model": "505",
+      "year": "1999",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "95000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Patrol",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3650000"
+    },
+    {
+      "brand": "BMW",
+      "model": "530",
+      "year": "2005",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "600000"
+    },
+    {
+      "brand": "Porsche",
+      "model": "Cayman",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "8900000"
+    },
+    {
+      "brand": "Acura",
+      "model": "MDX",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2510000"
+    },
+    {
+      "brand": "BMW",
+      "model": "X3",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3500000"
     }
   ]
 }
