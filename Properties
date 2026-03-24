@@ -105325,7 +105325,7 @@
       "geol4": "5th Settlement",
       "geol5": "AZAD Compound",
       "unit_type": "Twin House",
-      "lower_limit": "38500000"
+      "lower_limit": "30500000"
     },
     {
       "cat": "Villas For Sale",
@@ -105334,7 +105334,39 @@
       "geol4": "3rd Settlement",
       "geol5": "Saada compound",
       "unit_type": "Twin House",
-      "lower_limit": "25500000"
+      "lower_limit": "20500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Obour City",
+      "geol4": "Lake house",
+      "unit_type": "Duplex",
+      "lower_limit": "6500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Hurghada",
+      "geol4": "Intercontinental District",
+      "unit_type": "Roof",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Rafts",
+      "unit_type": "Clinic",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Red Sea",
+      "geol3": "Hurghada",
+      "geol4": "Al Ahyaa District",
+      "unit_type": "Twin House",
+      "lower_limit": "12000000"
     }
   ]
 }
