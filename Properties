@@ -8480,7 +8480,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "Apartment",
-      "lower_limit": "11500000"
+      "lower_limit": "8500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -8543,7 +8543,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "Twin House",
-      "lower_limit": "26000000"
+      "lower_limit": "25000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -78475,7 +78475,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "iVilla",
-      "lower_limit": "12500000"
+      "lower_limit": "9500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -105855,15 +105855,6 @@
       "geol4": "Unknown",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "8500000"
-    },
-    {
-      "cat": "Villas For Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "Rehab City",
-      "geol5": "Forth Phase",
-      "unit_type": "Twin House",
-      "lower_limit": "24500000"
     },
     {
       "cat": "Villas For Sale",
