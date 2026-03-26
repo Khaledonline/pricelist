@@ -2070,7 +2070,7 @@
       "geol4": "1st Settlement",
       "geol5": "Mountain View 1 Compound",
       "unit_type": "Apartment",
-      "lower_limit": "7000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -2079,7 +2079,7 @@
       "geol4": "1st Settlement",
       "geol5": "Mountain View 1 Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "18000000"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -2088,7 +2088,7 @@
       "geol4": "1st Settlement",
       "geol5": "Mountain View 1 Compound",
       "unit_type": "Duplex",
-      "lower_limit": "10000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Villas For Sale",
@@ -2097,7 +2097,7 @@
       "geol4": "1st Settlement",
       "geol5": "Mountain View 1 Compound",
       "unit_type": "Town House",
-      "lower_limit": "18000000"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -2106,7 +2106,7 @@
       "geol4": "1st Settlement",
       "geol5": "Mountain View 1 Compound",
       "unit_type": "Office",
-      "lower_limit": "8000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Villas For Sale",
@@ -2115,7 +2115,7 @@
       "geol4": "1st Settlement",
       "geol5": "Mountain View 1 Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "18000000"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Villas For Sale",
@@ -2124,7 +2124,7 @@
       "geol4": "1st Settlement",
       "geol5": "Mountain View 1 Compound",
       "unit_type": "Twin House",
-      "lower_limit": "18000000"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -2133,7 +2133,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View 1.1",
       "unit_type": "Apartment",
-      "lower_limit": "6000000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -2142,7 +2142,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View 1.1",
       "unit_type": "Duplex",
-      "lower_limit": "9000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Villas For Sale",
@@ -2151,7 +2151,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View 1.1",
       "unit_type": "Town House",
-      "lower_limit": "16000000"
+      "lower_limit": "14000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -2160,7 +2160,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View 1.1",
       "unit_type": "Penthouse",
-      "lower_limit": "16000000"
+      "lower_limit": "14000000"
     },
     {
       "cat": "Villas For Sale",
@@ -2169,7 +2169,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View 1.1",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "16000000"
+      "lower_limit": "12500000"
     },
     {
       "cat": "Villas For Sale",
@@ -2178,7 +2178,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View 1.1",
       "unit_type": "Twin House",
-      "lower_limit": "16000000"
+      "lower_limit": "14000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -2187,7 +2187,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View 1.1",
       "unit_type": "Retail",
-      "lower_limit": "7000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -3716,7 +3716,7 @@
       "geol4": "5th Settlement",
       "geol5": "Beit Al Watan",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "16500000"
+      "lower_limit": "14500000"
     },
     {
       "cat": "Villas For Sale",
@@ -3734,7 +3734,7 @@
       "geol4": "5th Settlement",
       "geol5": "EL Patio 2",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "22500000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Villas For Sale",
@@ -3761,7 +3761,7 @@
       "geol4": "5th Settlement",
       "geol5": "EL Patio 3",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "22500000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -3797,7 +3797,7 @@
       "geol4": "5th Settlement",
       "geol5": "EL Patio 7",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "10500000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Villas For Sale",
@@ -3860,7 +3860,7 @@
       "geol4": "5th Settlement",
       "geol5": "El Patio Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "22500000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -3878,7 +3878,7 @@
       "geol4": "5th Settlement",
       "geol5": "EL Patio ORO Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "13500000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Villas For Sale",
@@ -3977,7 +3977,7 @@
       "geol4": "5th Settlement",
       "geol5": "1st District",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "13000000"
+      "lower_limit": "11500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -4058,7 +4058,7 @@
       "geol4": "5th Settlement",
       "geol5": "2nd District",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "13000000"
+      "lower_limit": "11500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -4112,7 +4112,7 @@
       "geol4": "5th Settlement",
       "geol5": "3rd District",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "13000000"
+      "lower_limit": "11500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -4139,7 +4139,7 @@
       "geol4": "5th Settlement",
       "geol5": "4th District",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "10000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -4175,7 +4175,7 @@
       "geol4": "5th Settlement",
       "geol5": "5th District",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "12000000"
+      "lower_limit": "10500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -4412,7 +4412,7 @@
       "geol4": "5th Settlement",
       "geol5": "Acacia Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "36000000"
+      "lower_limit": "32000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -4583,7 +4583,7 @@
       "geol4": "5th Settlement",
       "geol5": "Al Andalous",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "22500000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -4619,7 +4619,7 @@
       "geol4": "5th Settlement",
       "geol5": "Al Defaa Al Watany Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "22500000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -4655,7 +4655,7 @@
       "geol4": "5th Settlement",
       "geol5": "Al Diyar Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "36000000"
+      "lower_limit": "32000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -4745,7 +4745,7 @@
       "geol4": "5th Settlement",
       "geol5": "Al Narges",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "30500000"
+      "lower_limit": "27000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -4763,7 +4763,7 @@
       "geol4": "5th Settlement",
       "geol5": "Al-Jazeera Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "25000000"
+      "lower_limit": "22500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -4799,7 +4799,7 @@
       "geol4": "5th Settlement",
       "geol5": "American University Housing",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "8000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -4907,7 +4907,7 @@
       "geol4": "5th Settlement",
       "geol5": "Arabella Park",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "12000000"
+      "lower_limit": "10500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -4970,7 +4970,7 @@
       "geol4": "5th Settlement",
       "geol5": "Aria",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "10000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Villas For Sale",
@@ -5033,7 +5033,7 @@
       "geol4": "5th Settlement",
       "geol5": "Aster Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "10000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -5060,7 +5060,7 @@
       "geol4": "5th Settlement",
       "geol5": "Aswar Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "18000000"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -5195,7 +5195,7 @@
       "geol4": "5th Settlement",
       "geol5": "Azzar Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "42000000"
+      "lower_limit": "37500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -5339,7 +5339,7 @@
       "geol4": "5th Settlement",
       "geol5": "Bellagio Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "18000000"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -5402,7 +5402,7 @@
       "geol4": "5th Settlement",
       "geol5": "Bright City Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "60000000"
+      "lower_limit": "27000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -5519,7 +5519,7 @@
       "geol4": "5th Settlement",
       "geol5": "Cairo Festival City",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "20000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -5546,7 +5546,7 @@
       "geol4": "5th Settlement",
       "geol5": "Casa Verde Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "18000000"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -5627,7 +5627,7 @@
       "geol4": "5th Settlement",
       "geol5": "City Gate Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "20000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -5663,7 +5663,7 @@
       "geol4": "5th Settlement",
       "geol5": "Concord Gardens Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "40000000"
+      "lower_limit": "25000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -5708,7 +5708,7 @@
       "geol4": "5th Settlement",
       "geol5": "Creek Town Compound",
       "unit_type": "Twin House",
-      "lower_limit": "28500000"
+      "lower_limit": "25500000"
     },
     {
       "cat": "Villas For Sale",
@@ -5717,7 +5717,7 @@
       "geol4": "5th Settlement",
       "geol5": "Creek Town Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "48000000"
+      "lower_limit": "22500000"
     },
     {
       "cat": "Villas For Sale",
@@ -5744,7 +5744,7 @@
       "geol4": "5th Settlement",
       "geol5": "Creek Town Compound",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "145000000"
+      "lower_limit": "85000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -5780,7 +5780,7 @@
       "geol4": "5th Settlement",
       "geol5": "Diplomats Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "8000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -5852,7 +5852,7 @@
       "geol4": "5th Settlement",
       "geol5": "District 5 Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "12000000"
+      "lower_limit": "10500000"
     },
     {
       "cat": "Villas For Sale",
@@ -5978,7 +5978,7 @@
       "geol4": "5th Settlement",
       "geol5": "Dyar Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "22000000"
+      "lower_limit": "19500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -6086,7 +6086,7 @@
       "geol4": "5th Settlement",
       "geol5": "Eastshire Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "15000000"
+      "lower_limit": "13500000"
     },
     {
       "cat": "Villas For Sale",
@@ -6239,7 +6239,7 @@
       "geol4": "5th Settlement",
       "geol5": "EL Shouyfat",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "12000000"
+      "lower_limit": "10500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -6257,7 +6257,7 @@
       "geol4": "5th Settlement",
       "geol5": "El Yasmeen 7",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "15000000"
+      "lower_limit": "13500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -6347,7 +6347,7 @@
       "geol4": "5th Settlement",
       "geol5": "El Yasmeen 8",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "15000000"
+      "lower_limit": "13500000"
     },
     {
       "cat": "Villas For Sale",
@@ -6473,7 +6473,7 @@
       "geol4": "5th Settlement",
       "geol5": "Fifth Square Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "12000000"
+      "lower_limit": "10500000"
     },
     {
       "cat": "Villas For Sale",
@@ -6491,7 +6491,7 @@
       "geol4": "5th Settlement",
       "geol5": "Fleur De Ville Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "20000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -6527,7 +6527,7 @@
       "geol4": "5th Settlement",
       "geol5": "Fountain Park Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "18000000"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -6617,7 +6617,7 @@
       "geol4": "5th Settlement",
       "geol5": "Galleria Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "10000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Villas For Sale",
@@ -6707,7 +6707,7 @@
       "geol4": "5th Settlement",
       "geol5": "Galleria Moon Valley Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "20000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Villas For Sale",
@@ -6797,7 +6797,7 @@
       "geol4": "5th Settlement",
       "geol5": "Gardenia Springs Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "20000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -6824,7 +6824,7 @@
       "geol4": "5th Settlement",
       "geol5": "Garnet Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "12000000"
+      "lower_limit": "10500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -6905,7 +6905,7 @@
       "geol4": "5th Settlement",
       "geol5": "Golden Gate",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "14000000"
+      "lower_limit": "12500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -6995,7 +6995,7 @@
       "geol4": "5th Settlement",
       "geol5": "Golden Square",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "20000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -7058,7 +7058,7 @@
       "geol4": "5th Settlement",
       "geol5": "Grand Residence Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "16000000"
+      "lower_limit": "14500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -7067,7 +7067,7 @@
       "geol4": "5th Settlement",
       "geol5": "Guezira Green Park Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "25000000"
+      "lower_limit": "22500000"
     },
     {
       "cat": "Villas For Sale",
@@ -7094,7 +7094,7 @@
       "geol4": "5th Settlement",
       "geol5": "Hayah Residence",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "18000000"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -7157,7 +7157,7 @@
       "geol4": "5th Settlement",
       "geol5": "Helio Park New Cairo Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "15000000"
+      "lower_limit": "13500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -7292,7 +7292,7 @@
       "geol4": "5th Settlement",
       "geol5": "Hyde Park New Cairo Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "35000000"
+      "lower_limit": "31500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -7337,7 +7337,7 @@
       "geol4": "5th Settlement",
       "geol5": "Ivoire East Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "14000000"
+      "lower_limit": "12500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -7355,7 +7355,7 @@
       "geol4": "5th Settlement",
       "geol5": "Janaty Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "8000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -7463,7 +7463,7 @@
       "geol4": "5th Settlement",
       "geol5": "Katameya Dunes Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "20000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Villas For Sale",
@@ -7472,7 +7472,7 @@
       "geol4": "5th Settlement",
       "geol5": "Katameya Hills Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "25000000"
+      "lower_limit": "22500000"
     },
     {
       "cat": "Villas For Sale",
@@ -7517,7 +7517,7 @@
       "geol4": "5th Settlement",
       "geol5": "Kattameya Gardens Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "12000000"
+      "lower_limit": "10500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -7535,7 +7535,7 @@
       "geol4": "5th Settlement",
       "geol5": "Kattameya Palms Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "16000000"
+      "lower_limit": "14500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -7643,7 +7643,7 @@
       "geol4": "5th Settlement",
       "geol5": "La Rose Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "12000000"
+      "lower_limit": "10500000"
     },
     {
       "cat": "Villas For Sale",
@@ -7670,7 +7670,7 @@
       "geol4": "5th Settlement",
       "geol5": "La Terra Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "20000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -7688,7 +7688,7 @@
       "geol4": "5th Settlement",
       "geol5": "Lago Vista Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "20000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Villas For Sale",
@@ -7760,7 +7760,7 @@
       "geol4": "5th Settlement",
       "geol5": "Lake View Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "15000000"
+      "lower_limit": "13500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -7841,7 +7841,7 @@
       "geol4": "5th Settlement",
       "geol5": "Lake view Residence Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "40000000"
+      "lower_limit": "36000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -7859,7 +7859,7 @@
       "geol4": "5th Settlement",
       "geol5": "Lake view Residence Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "18000000"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -7886,7 +7886,7 @@
       "geol4": "5th Settlement",
       "geol5": "layan Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "12000000"
+      "lower_limit": "10500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -7949,7 +7949,7 @@
       "geol4": "5th Settlement",
       "geol5": "Les Rois Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "14000000"
+      "lower_limit": "12500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -7976,7 +7976,7 @@
       "geol4": "5th Settlement",
       "geol5": "Marvel City Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "18000000"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Villas For Sale",
@@ -7985,7 +7985,7 @@
       "geol4": "5th Settlement",
       "geol5": "Maxim Country Club Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "15000000"
+      "lower_limit": "13500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -8030,7 +8030,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mena Residence Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "18000000"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -8165,7 +8165,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mivida Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "62000000"
+      "lower_limit": "31500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -8219,7 +8219,7 @@
       "geol4": "5th Settlement",
       "geol5": "Moon Valley Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "15000000"
+      "lower_limit": "13500000"
     },
     {
       "cat": "Villas For Sale",
@@ -8291,7 +8291,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View 2 Compound",
       "unit_type": "Apartment",
-      "lower_limit": "7000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -8300,7 +8300,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View 2 Compound",
       "unit_type": "Duplex",
-      "lower_limit": "10000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Villas For Sale",
@@ -8309,7 +8309,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View 2 Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "18000000"
+      "lower_limit": "14000000"
     },
     {
       "cat": "Villas For Sale",
@@ -8318,7 +8318,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View 2 Compound",
       "unit_type": "Twin House",
-      "lower_limit": "18000000"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -8327,7 +8327,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View 3 Compound",
       "unit_type": "Apartment",
-      "lower_limit": "7000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -8336,7 +8336,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View 3 Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "18000000"
+      "lower_limit": "14000000"
     },
     {
       "cat": "Villas For Sale",
@@ -8345,7 +8345,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View 3 Compound",
       "unit_type": "Twin House",
-      "lower_limit": "18000000"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -8354,7 +8354,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View Executive Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "10000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Villas For Sale",
@@ -8363,7 +8363,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View Executive Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "10000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -8372,7 +8372,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View Executive Compound",
       "unit_type": "Duplex",
-      "lower_limit": "10000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Villas For Sale",
@@ -8381,7 +8381,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View Executive Compound",
       "unit_type": "Town House",
-      "lower_limit": "10000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Villas For Sale",
@@ -8390,51 +8390,6 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View Executive Compound",
       "unit_type": "Twin House",
-      "lower_limit": "10000000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "5th Settlement",
-      "geol5": "Mountain View Executive Compound",
-      "unit_type": "Apartment",
-      "lower_limit": "6000000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "5th Settlement",
-      "geol5": "Mountain View Hyde Park Compound",
-      "unit_type": "Studio",
-      "lower_limit": "4000000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "5th Settlement",
-      "geol5": "Mountain View Hyde Park Compound",
-      "unit_type": "Apartment",
-      "lower_limit": "7000000"
-    },
-    {
-      "cat": "Villas For Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "5th Settlement",
-      "geol5": "Mountain View Hyde Park Compound",
-      "unit_type": "Stand Alone Villa",
-      "lower_limit": "18000000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "5th Settlement",
-      "geol5": "Mountain View Hyde Park Compound",
-      "unit_type": "Penthouse",
       "lower_limit": "9000000"
     },
     {
@@ -8442,9 +8397,54 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
+      "geol5": "Mountain View Executive Compound",
+      "unit_type": "Apartment",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Mountain View Hyde Park Compound",
+      "unit_type": "Studio",
+      "lower_limit": "3500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Mountain View Hyde Park Compound",
+      "unit_type": "Apartment",
+      "lower_limit": "6000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Mountain View Hyde Park Compound",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "14000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Mountain View Hyde Park Compound",
+      "unit_type": "Penthouse",
+      "lower_limit": "8000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
       "geol5": "Mountain View Hyde Park Compound",
       "unit_type": "Duplex",
-      "lower_limit": "8000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Villas For Sale",
@@ -8453,7 +8453,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View Hyde Park Compound",
       "unit_type": "Town House",
-      "lower_limit": "18000000"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Villas For Sale",
@@ -8462,7 +8462,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View Hyde Park Compound",
       "unit_type": "Twin House",
-      "lower_limit": "18000000"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -8471,7 +8471,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "Studio",
-      "lower_limit": "6000000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -8480,7 +8480,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "Apartment",
-      "lower_limit": "13000000"
+      "lower_limit": "11500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -8489,7 +8489,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "14000000"
+      "lower_limit": "12500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -8498,7 +8498,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "Duplex",
-      "lower_limit": "6500000"
+      "lower_limit": "5500000"
     },
     {
       "cat": "Villas For Sale",
@@ -8507,7 +8507,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "Town House",
-      "lower_limit": "19000000"
+      "lower_limit": "17000000"
     },
     {
       "cat": "Villas For Sale",
@@ -8516,7 +8516,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "34000000"
+      "lower_limit": "24000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -8525,7 +8525,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "Office",
-      "lower_limit": "11000000"
+      "lower_limit": "9500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -8534,7 +8534,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "Retail",
-      "lower_limit": "22000000"
+      "lower_limit": "19500000"
     },
     {
       "cat": "Villas For Sale",
@@ -8543,7 +8543,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "Twin House",
-      "lower_limit": "29000000"
+      "lower_limit": "26000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -8552,7 +8552,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "20000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -8561,7 +8561,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "Restaurant & Cafe",
-      "lower_limit": "15000000"
+      "lower_limit": "13500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -8570,7 +8570,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "Clinic",
-      "lower_limit": "15000000"
+      "lower_limit": "13500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -8750,7 +8750,7 @@
       "geol4": "5th Settlement",
       "geol5": "North 90 Street",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "15000000"
+      "lower_limit": "13500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -8939,7 +8939,7 @@
       "geol4": "5th Settlement",
       "geol5": "Palm Hills Katameya Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "18000000"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -8966,7 +8966,7 @@
       "geol4": "5th Settlement",
       "geol5": "Palm Hills Katameya Extension Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "15000000"
+      "lower_limit": "13500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -9038,7 +9038,7 @@
       "geol4": "5th Settlement",
       "geol5": "Palm Hills New Cairo Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "18000000"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -9074,7 +9074,7 @@
       "geol4": "5th Settlement",
       "geol5": "Paradise",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "20000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -9092,7 +9092,7 @@
       "geol4": "5th Settlement",
       "geol5": "Patio Town Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "12000000"
+      "lower_limit": "10500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -9146,7 +9146,7 @@
       "geol4": "5th Settlement",
       "geol5": "Peerage Residence Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "15000000"
+      "lower_limit": "13500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -9227,7 +9227,7 @@
       "geol4": "5th Settlement",
       "geol5": "Porto New Cairo - Nyoum Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "8000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -9254,7 +9254,7 @@
       "geol4": "5th Settlement",
       "geol5": "Promenade New Cairo Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "7000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -9353,7 +9353,7 @@
       "geol4": "5th Settlement",
       "geol5": "Ritage Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "15000000"
+      "lower_limit": "13500000"
     },
     {
       "cat": "Villas For Sale",
@@ -9380,7 +9380,7 @@
       "geol4": "5th Settlement",
       "geol5": "Riviera Heights Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "15000000"
+      "lower_limit": "13500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -9425,7 +9425,7 @@
       "geol4": "5th Settlement",
       "geol5": "Sephora Heights",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "10000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -9515,7 +9515,7 @@
       "geol4": "5th Settlement",
       "geol5": "Solana east",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "35000000"
+      "lower_limit": "31500000"
     },
     {
       "cat": "Villas For Sale",
@@ -9560,7 +9560,7 @@
       "geol4": "5th Settlement",
       "geol5": "South 90 Street",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "12000000"
+      "lower_limit": "10500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -9686,7 +9686,7 @@
       "geol4": "5th Settlement",
       "geol5": "South Investors",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "12000000"
+      "lower_limit": "10500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -9776,7 +9776,7 @@
       "geol4": "5th Settlement",
       "geol5": "South of Academy",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "10000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -9812,7 +9812,7 @@
       "geol4": "5th Settlement",
       "geol5": "Tamr Henna Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "18000000"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Villas For Sale",
@@ -9866,7 +9866,7 @@
       "geol4": "5th Settlement",
       "geol5": "Telal East",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "11000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -9920,7 +9920,7 @@
       "geol4": "5th Settlement",
       "geol5": "The Address East Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "20000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -9974,7 +9974,7 @@
       "geol4": "5th Settlement",
       "geol5": "The Ark Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "15000000"
+      "lower_limit": "13500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -10028,7 +10028,7 @@
       "geol4": "5th Settlement",
       "geol5": "The Crest Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "15000000"
+      "lower_limit": "13500000"
     },
     {
       "cat": "Villas For Sale",
@@ -10091,7 +10091,7 @@
       "geol4": "5th Settlement",
       "geol5": "The MarQ Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "12000000"
+      "lower_limit": "10500000"
     },
     {
       "cat": "Villas For Sale",
@@ -10145,7 +10145,7 @@
       "geol4": "5th Settlement",
       "geol5": "The Median Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "10000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -10244,7 +10244,7 @@
       "geol4": "5th Settlement",
       "geol5": "The Square Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "20000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -10307,7 +10307,7 @@
       "geol4": "5th Settlement",
       "geol5": "The Village Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "12000000"
+      "lower_limit": "10500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -10388,7 +10388,7 @@
       "geol4": "5th Settlement",
       "geol5": "The Waterway Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "18000000"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -10415,7 +10415,7 @@
       "geol4": "5th Settlement",
       "geol5": "Trio Gardens Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "12000000"
+      "lower_limit": "10500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -10469,7 +10469,7 @@
       "geol4": "5th Settlement",
       "geol5": "Trio Villa Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "9000000"
+      "lower_limit": "8000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -10604,7 +10604,7 @@
       "geol4": "5th Settlement",
       "geol5": "Valencia Valley Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "12000000"
+      "lower_limit": "10500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -10667,7 +10667,7 @@
       "geol4": "5th Settlement",
       "geol5": "VGK Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "20000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -10748,7 +10748,7 @@
       "geol4": "5th Settlement",
       "geol5": "Village Gardens Katameya Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "18000000"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -10811,7 +10811,7 @@
       "geol4": "5th Settlement",
       "geol5": "Village Gate Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "20000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -10838,7 +10838,7 @@
       "geol4": "5th Settlement",
       "geol5": "Villar Residence Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "15000000"
+      "lower_limit": "13500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -10892,7 +10892,7 @@
       "geol4": "5th Settlement",
       "geol5": "Villette Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "14000000"
+      "lower_limit": "12500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -11063,7 +11063,7 @@
       "geol4": "5th Settlement",
       "geol5": "Zizinia Gardens Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "10000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Villas For Sale",
@@ -11108,7 +11108,7 @@
       "geol4": "5th Settlement",
       "geol5": "Zizinia Rose Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "15000000"
+      "lower_limit": "13500000"
     },
     {
       "cat": "Villas For Sale",
@@ -11117,7 +11117,7 @@
       "geol4": "5th Settlement",
       "geol5": "La Rosa",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "19000000"
+      "lower_limit": "17000000"
     },
     {
       "cat": "Villas For Sale",
@@ -11171,7 +11171,7 @@
       "geol4": "5th Settlement",
       "geol5": "Teba",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "18000000"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Villas For Sale",
@@ -11180,7 +11180,7 @@
       "geol4": "5th Settlement",
       "geol5": "Life View",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "12000000"
+      "lower_limit": "10500000"
     },
     {
       "cat": "Villas For Sale",
@@ -11189,7 +11189,7 @@
       "geol4": "5th Settlement",
       "geol5": "The Villa",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "30000000"
+      "lower_limit": "27000000"
     },
     {
       "cat": "Villas For Sale",
@@ -11216,7 +11216,7 @@
       "geol4": "5th Settlement",
       "geol5": "Solay",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "25000000"
+      "lower_limit": "22500000"
     },
     {
       "cat": "Villas For Sale",
@@ -11288,7 +11288,7 @@
       "geol4": "5th Settlement",
       "geol5": "Noi",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "15000000"
+      "lower_limit": "13500000"
     },
     {
       "cat": "Villas For Sale",
@@ -11360,7 +11360,7 @@
       "geol4": "5th Settlement",
       "geol5": "Lake View Boutique",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "35000000"
+      "lower_limit": "31500000"
     },
     {
       "cat": "Villas For Sale",
@@ -21504,7 +21504,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "12000000"
+      "lower_limit": "10500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -33022,7 +33022,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Mountain View Ras Al Hekma",
       "unit_type": "Duplex",
-      "lower_limit": "5000000"
+      "lower_limit": "4500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -33031,7 +33031,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Mountain View Ras Al Hekma",
       "unit_type": "Apartment",
-      "lower_limit": "4000000"
+      "lower_limit": "3500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -33040,7 +33040,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Mountain View Ras Al Hekma",
       "unit_type": "Duplex",
-      "lower_limit": "5000000"
+      "lower_limit": "4500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -33049,7 +33049,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Mountain View Ras Al Hekma",
       "unit_type": "Penthouse",
-      "lower_limit": "6000000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -33058,7 +33058,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Mountain View Ras Al Hekma",
       "unit_type": "Penthouse",
-      "lower_limit": "6000000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -33067,7 +33067,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Mountain View Ras Al Hekma",
       "unit_type": "Chalet",
-      "lower_limit": "2000000"
+      "lower_limit": "1500000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -33076,7 +33076,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Mountain View Ras Al Hekma",
       "unit_type": "Town House",
-      "lower_limit": "7000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -33085,7 +33085,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Mountain View Ras Al Hekma",
       "unit_type": "Town House",
-      "lower_limit": "7000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -33094,7 +33094,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Mountain View Ras Al Hekma",
       "unit_type": "Twin house",
-      "lower_limit": "7000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -33103,7 +33103,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Mountain View Ras Al Hekma",
       "unit_type": "Twin House",
-      "lower_limit": "7000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -33112,7 +33112,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Mountain View Ras Al Hekma",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "7000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -33121,7 +33121,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Mountain View Ras Al Hekma",
       "unit_type": "Standalone Villa",
-      "lower_limit": "7000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -33740,7 +33740,7 @@
       "geol4": "5th Settlement",
       "geol5": "New Maryland",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "20000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -58050,7 +58050,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Skala Mountain View Ras El Hikma",
       "unit_type": "Chalet",
-      "lower_limit": "8000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -59434,7 +59434,7 @@
       "geol4": "5th Settlement",
       "geol5": "97 Hills",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "35000000"
+      "lower_limit": "31500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -65328,7 +65328,7 @@
       "geol4": "5th Settlement",
       "geol5": "Oriana Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "20000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -73803,7 +73803,7 @@
       "geol4": "Mountain View Sokhna 2",
       "geol5": "Mountain View Sokhna 2",
       "unit_type": "Chalet",
-      "lower_limit": "4000000"
+      "lower_limit": "3500000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -77564,7 +77564,7 @@
       "geol4": "5th Settlement",
       "geol5": "Katameya Creeks Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "19000000"
+      "lower_limit": "17000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -78270,7 +78270,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View Executive Compound",
       "unit_type": "iVilla",
-      "lower_limit": "10000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -78367,7 +78367,7 @@
       "geol4": "5th Settlement",
       "geol5": "Katameya Gardens Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "28000000"
+      "lower_limit": "25000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -78393,7 +78393,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View Hyde Park Compound",
       "unit_type": "iVilla",
-      "lower_limit": "11000000"
+      "lower_limit": "9500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -78475,7 +78475,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "iVilla",
-      "lower_limit": "14000000"
+      "lower_limit": "12500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -78518,7 +78518,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View 1.1",
       "unit_type": "iVilla",
-      "lower_limit": "14000000"
+      "lower_limit": "12500000"
     },
     {
       "cat": "Villas For Sale",
@@ -78609,7 +78609,7 @@
       "geol4": "1st Settlement",
       "geol5": "Mountain View 1 Compound",
       "unit_type": "iVilla",
-      "lower_limit": "15000000"
+      "lower_limit": "13500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -78925,7 +78925,7 @@
       "geol4": "5th Settlement",
       "geol5": "New Andalous",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "16000000"
+      "lower_limit": "14500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -79032,7 +79032,7 @@
       "geol4": "5th Settlement",
       "geol5": "AZAD Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "15000000"
+      "lower_limit": "13500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -79914,7 +79914,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Skala Mountain View",
       "unit_type": "Chalet",
-      "lower_limit": "6000000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -81409,7 +81409,7 @@
       "geol4": "5th Settlement",
       "geol5": "Gardenia Heights",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "19000000"
+      "lower_limit": "17000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -81854,7 +81854,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Skala Mountain View",
       "unit_type": "Penthouse",
-      "lower_limit": "7000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -82249,7 +82249,7 @@
       "geol4": "5th Settlement",
       "geol5": "Azzar 2",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "17000000"
+      "lower_limit": "15500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -82275,7 +82275,7 @@
       "geol4": "5th Settlement",
       "geol5": "Gardenia Heights 3",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "14000000"
+      "lower_limit": "12500000"
     },
     {
       "cat": "Villas For Sale",
@@ -82767,7 +82767,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Skala Mountain View",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "22000000"
+      "lower_limit": "19500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -83133,7 +83133,7 @@
       "geol4": "5th Settlement",
       "geol5": "Midtown Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "21000000"
+      "lower_limit": "19000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -83184,7 +83184,7 @@
       "geol4": "5th Settlement",
       "geol5": "Al Dyar Residence",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "21000000"
+      "lower_limit": "19000000"
     },
     {
       "cat": "Villas For Sale",
@@ -83359,7 +83359,7 @@
       "geol4": "5th Settlement",
       "geol5": "Central Park",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "19000000"
+      "lower_limit": "17000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -83604,7 +83604,7 @@
       "geol4": "5th Settlement",
       "geol5": "La Mirada Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "19000000"
+      "lower_limit": "17000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -83742,7 +83742,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Skala Mountain View",
       "unit_type": "Town House",
-      "lower_limit": "11000000"
+      "lower_limit": "9500000"
     },
     {
       "cat": "Villas For Sale",
@@ -84046,7 +84046,7 @@
       "geol4": "5th Settlement",
       "geol5": "Hyde Park Views",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "29000000"
+      "lower_limit": "26000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -85263,7 +85263,7 @@
       "geol4": "5th Settlement",
       "geol5": "97 Hills",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "23000000"
+      "lower_limit": "20500000"
     },
     {
       "cat": "Villas For Sale",
@@ -85280,7 +85280,7 @@
       "geol4": "5th Settlement",
       "geol5": "Zmora East",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "20000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -85530,7 +85530,7 @@
       "geol4": "5th Settlement",
       "geol5": "El Lotus",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "21500000"
+      "lower_limit": "19500000"
     },
     {
       "cat": "Villas For Sale",
@@ -86959,15 +86959,6 @@
       "lower_limit": "2500000"
     },
     {
-      "cat": "Villas For Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "5th Settlement",
-      "geol5": "New Maryland",
-      "unit_type": "Stand Alone Villa",
-      "lower_limit": "21500000"
-    },
-    {
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "Zahraa Al Maadi",
@@ -87333,7 +87324,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Mountain View Ras Al Hekma",
       "unit_type": "iVilla",
-      "lower_limit": "13500000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -87684,7 +87675,7 @@
       "geol4": "5th Settlement",
       "geol5": "Hayat Heights Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "18500000"
+      "lower_limit": "16500000"
     },
     {
       "cat": "Villas For Sale",
@@ -87752,7 +87743,7 @@
       "geol4": "5th Settlement",
       "geol5": "Guezira Green Park Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "25000000"
+      "lower_limit": "22500000"
     },
     {
       "cat": "Villas For Sale",
@@ -87819,7 +87810,7 @@
       "geol4": "Sidi Abdel Rahman",
       "geol5": "Crysta Mountain View",
       "unit_type": "Chalet",
-      "lower_limit": "4500000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Villas For Sale",
@@ -88125,7 +88116,7 @@
       "geol4": "5th Settlement",
       "geol5": "Eastown Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "20000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -88282,7 +88273,7 @@
       "geol4": "5th Settlement",
       "geol5": "Shababeek",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "14500000"
+      "lower_limit": "13000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -88291,7 +88282,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View 1.1",
       "unit_type": "Office",
-      "lower_limit": "6000000"
+      "lower_limit": "5000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -88300,7 +88291,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View 1.1",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "19500000"
+      "lower_limit": "17500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -88523,7 +88514,7 @@
       "geol4": "5th Settlement",
       "geol5": "Emerald Park Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "47500000"
+      "lower_limit": "42500000"
     },
     {
       "cat": "Villas For Sale",
@@ -88861,7 +88852,7 @@
       "geol4": "5th Settlement",
       "geol5": "Tiba Rose",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "20500000"
+      "lower_limit": "18500000"
     },
     {
       "cat": "Villas For Sale",
@@ -88927,7 +88918,7 @@
       "geol4": "5th Settlement",
       "geol5": "Zizinia Family",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "25500000"
+      "lower_limit": "23000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -89101,7 +89092,7 @@
       "geol4": "5th Settlement",
       "geol5": "Kin",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "14000000"
+      "lower_limit": "12500000"
     },
     {
       "cat": "Villas For Sale",
@@ -89373,7 +89364,7 @@
       "geol4": "5th Settlement",
       "geol5": "Triangle",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "19000000"
+      "lower_limit": "17000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -90096,7 +90087,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View Executive Compound",
       "unit_type": "Retail",
-      "lower_limit": "10035000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Villas For Sale",
@@ -90181,7 +90172,7 @@
       "geol4": "5th Settlement",
       "geol5": "One Piece",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "16000000"
+      "lower_limit": "14500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -91239,7 +91230,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View 3 Compound",
       "unit_type": "Town House",
-      "lower_limit": "21500000"
+      "lower_limit": "19000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -91938,7 +91929,7 @@
       "geol4": "5th Settlement",
       "geol5": "Katameya Palms Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "22500000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Villas For Sale",
@@ -92955,7 +92946,7 @@
       "geol4": "5th Settlement",
       "geol5": "East Cairo Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "17000000"
+      "lower_limit": "15500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -93201,7 +93192,7 @@
       "geol4": "Mountain View Sokhna",
       "geol5": "Mountain View Sokhna 2",
       "unit_type": "Chalet",
-      "lower_limit": "6500000"
+      "lower_limit": "5500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -95501,7 +95492,7 @@
       "geol4": "5th Settlement",
       "geol5": "Lake View Residence 2",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "14800000"
+      "lower_limit": "13500000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -95931,7 +95922,7 @@
       "geol4": "5th Settlement",
       "geol5": "Sky Condos Sodic Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "58500000"
+      "lower_limit": "52500000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -95966,7 +95957,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "Roof",
-      "lower_limit": "7000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Villas For Sale",
@@ -97123,7 +97114,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View 1.1",
       "unit_type": "Restaurant & Cafe",
-      "lower_limit": "5500000"
+      "lower_limit": "4500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -103050,7 +103041,7 @@
       "geol4": "1st Settlement",
       "geol5": "Mountain View 1 Compound",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "26500000"
+      "lower_limit": "23500000"
     },
     {
       "cat": "Commercial for Sale",
@@ -103740,7 +103731,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "Cabin",
-      "lower_limit": "4000000"
+      "lower_limit": "3500000"
     },
     {
       "cat": "Villas For Sale",
@@ -103783,7 +103774,7 @@
       "geol4": "5th Settlement",
       "geol5": "Sun Rise Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "20000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Villas For Sale",
@@ -103957,7 +103948,7 @@
       "geol4": "5th Settlement",
       "geol5": "Eastville",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "26500000"
+      "lower_limit": "24000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -104019,7 +104010,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View 2 Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "22500000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Villas For Sale",
@@ -104787,7 +104778,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View 1.1",
       "unit_type": "Roof",
-      "lower_limit": "4500000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -105567,7 +105558,7 @@
       "geol4": "Sidi Abdel Rahman",
       "geol5": "Crysta Mountain View",
       "unit_type": "Cabin",
-      "lower_limit": "11000000"
+      "lower_limit": "9500000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -105617,7 +105608,7 @@
       "geol4": "Sidi Abdel Rahman",
       "geol5": "Crysta Mountain View",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "10000000"
+      "lower_limit": "9000000"
     },
     {
       "cat": "Villas For Sale",
@@ -105864,6 +105855,15 @@
       "geol4": "Unknown",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "8500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Rehab City",
+      "geol5": "Forth Phase",
+      "unit_type": "Twin House",
+      "lower_limit": "24500000"
     },
     {
       "cat": "Villas For Sale",
