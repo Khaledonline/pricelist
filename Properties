@@ -97518,6 +97518,15 @@
       "lower_limit": "9000000"
     },
     {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "New Zayed",
+      "geol5": "LA Joie Havre",
+      "unit_type": "Twin House",
+      "lower_limit": "4000000"
+    },
+    {
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "Maadi",
