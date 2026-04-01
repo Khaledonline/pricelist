@@ -746,7 +746,7 @@
             "geol5": "Cairo Business Park",
             "unit_type": "Full Commercial Building",
             "lower_limit": "200000000",
-            "Price_Per_Meter": "Null"
+            "Price_Per_Meter": "100000"
         },
         {
             "cat": "Apartments for Sale",
@@ -60460,7 +60460,7 @@
             "geol4": "Unknown",
             "unit_type": "Pharmacy",
             "lower_limit": "30000000",
-            "Price_Per_Meter": "100000"
+            "Price_Per_Meter": "1000000"
         },
         {
             "cat": "Villas For Sale",
@@ -62063,24 +62063,6 @@
             "unit_type": "Apartment",
             "lower_limit": "350000",
             "Price_Per_Meter": "23500"
-        },
-        {
-            "cat": "Apartments for Sale",
-            "geol2": "Cairo",
-            "geol3": "",
-            "geol4": "Unknown",
-            "unit_type": "Duplex",
-            "lower_limit": "3000000",
-            "Price_Per_Meter": "Null"
-        },
-        {
-            "cat": "Villas For Sale",
-            "geol2": "Cairo",
-            "geol3": "",
-            "geol4": "Unknown",
-            "unit_type": "Stand Alone Villa",
-            "lower_limit": "5800000",
-            "Price_Per_Meter": "Null"
         },
         {
             "cat": "Apartments for Sale",
@@ -76418,7 +76400,7 @@
             "geol4": "Mubarak Area",
             "unit_type": "Apartment",
             "lower_limit": "2200000",
-            "Price_Per_Meter": "Null"
+            "Price_Per_Meter": "20000"
         },
         {
             "cat": "Apartments for Sale",
@@ -88131,7 +88113,7 @@
             "geol4": "WestVille",
             "unit_type": "Studio",
             "lower_limit": "1500000",
-            "Price_Per_Meter": "Null"
+            "Price_Per_Meter": "30000"
         },
         {
             "cat": "Apartments for Sale",
@@ -88286,8 +88268,8 @@
             "geol3": "6th of October",
             "geol4": "El Hosary Square",
             "unit_type": "Retail",
-            "lower_limit": "5000000",
-            "Price_Per_Meter": "162500"
+            "lower_limit": "4000000",
+            "Price_Per_Meter": "90500"
         },
         {
             "cat": "Villas For Sale",
@@ -107479,7 +107461,7 @@
             "geol4": "Unknown",
             "unit_type": "Garage",
             "lower_limit": "7200000",
-            "Price_Per_Meter": "4500"
+            "Price_Per_Meter": "9000"
         },
         {
             "cat": "Commercial for Sale",
@@ -111139,7 +111121,7 @@
             "geol4": "Unknown",
             "unit_type": "Factory",
             "lower_limit": "40500000",
-            "Price_Per_Meter": "150000"
+            "Price_Per_Meter": "1500000"
         },
         {
             "cat": "Apartments for Sale",
@@ -111372,7 +111354,7 @@
             "geol3": "Mostakbal City",
             "geol4": "Unknown",
             "unit_type": "Hotel Apartment",
-            "lower_limit": "45000",
+            "lower_limit": "4500000",
             "Price_Per_Meter": "Null"
         },
         {
@@ -111741,7 +111723,7 @@
             "geol3": "Helmeyat El Zaytoun",
             "geol4": "Unknown",
             "unit_type": "Showroom",
-            "lower_limit": "90000",
+            "lower_limit": "900000",
             "Price_Per_Meter": "Null"
         },
         {
@@ -113178,15 +113160,6 @@
             "geol4": "La Playa",
             "unit_type": "Chalet",
             "lower_limit": "900000",
-            "Price_Per_Meter": "13000"
-        },
-        {
-            "cat": "Apartments for Sale",
-            "geol2": "Sohag",
-            "geol3": "",
-            "geol4": "Unknown",
-            "unit_type": "Apartment",
-            "lower_limit": "1400000",
             "Price_Per_Meter": "13000"
         },
         {
