@@ -7274,7 +7274,7 @@
       "geol4": "5th Settlement",
       "geol5": "Hyde Park New Cairo Compound",
       "unit_type": "Town House",
-      "lower_limit": "23500000"
+      "lower_limit": "21500000"
     },
     {
       "cat": "Villas For Sale",
@@ -7283,7 +7283,7 @@
       "geol4": "5th Settlement",
       "geol5": "Hyde Park New Cairo Compound",
       "unit_type": "Twin House",
-      "lower_limit": "29000000"
+      "lower_limit": "21000000"
     },
     {
       "cat": "Villas For Sale",
@@ -7292,7 +7292,7 @@
       "geol4": "5th Settlement",
       "geol5": "Hyde Park New Cairo Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "31500000"
+      "lower_limit": "23500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -96129,7 +96129,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Modon",
       "unit_type": "Penthouse",
-      "lower_limit": "10800000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -96519,7 +96519,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Modon",
       "unit_type": "Apartment",
-      "lower_limit": "10000000"
+      "lower_limit": "15000000"
     },
     {
       "cat": "Villas For Sale",
@@ -96537,7 +96537,7 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Modon",
       "unit_type": "Chalet",
-      "lower_limit": "23500000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Apartments for Sale",
