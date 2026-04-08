@@ -8480,7 +8480,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "Apartment",
-      "lower_limit": "8500000"
+      "lower_limit": "7500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -8498,7 +8498,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "Duplex",
-      "lower_limit": "5500000"
+      "lower_limit": "14500000"
     },
     {
       "cat": "Villas For Sale",
@@ -8507,7 +8507,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "Town House",
-      "lower_limit": "17000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Villas For Sale",
@@ -8516,7 +8516,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "24000000"
+      "lower_limit": "14000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -8543,7 +8543,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "Twin House",
-      "lower_limit": "25000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Commercial for Sale",
@@ -8552,7 +8552,7 @@
       "geol4": "5th Settlement",
       "geol5": "Mountain View iCity Compound",
       "unit_type": "Full Commercial Building",
-      "lower_limit": "18000000"
+      "lower_limit": "80000000"
     },
     {
       "cat": "Commercial for Sale",
