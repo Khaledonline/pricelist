@@ -3689,7 +3689,7 @@
       "geol4": "5th Settlement",
       "geol5": "Beit Al Watan",
       "unit_type": "Studio",
-      "lower_limit": "2500000"
+      "lower_limit": "2000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -3698,7 +3698,7 @@
       "geol4": "5th Settlement",
       "geol5": "Beit Al Watan",
       "unit_type": "Apartment",
-      "lower_limit": "6500000"
+      "lower_limit": "3000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -91966,7 +91966,7 @@
       "geol3": "6th of October",
       "geol4": "26th of July Corridor",
       "unit_type": "Office",
-      "lower_limit": "19000000"
+      "lower_limit": "7000000"
     },
     {
       "cat": "Villas For Sale",
