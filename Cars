@@ -83129,6 +83129,56 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "250000"
+    },
+    {
+      "brand": "Kia",
+      "model": "Pride",
+      "year": "2003",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "175500"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "230",
+      "year": "1975",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "342000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Altea",
+      "year": "2007",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "270000"
+    },
+    {
+      "brand": "Buick",
+      "model": "Gran Sport",
+      "year": "1970",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "150000"
+    },
+    {
+      "brand": "Chery",
+      "model": "Tiggo 4 Pro",
+      "year": "2014",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "450000"
     }
   ]
 }
