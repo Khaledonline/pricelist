@@ -104013,7 +104013,7 @@
       "geol3": "Heliopolis",
       "geol4": "Heliopolis Square",
       "unit_type": "Apartment",
-      "lower_limit": "14000000"
+      "lower_limit": "4000000"
     },
     {
       "cat": "Villas For Sale",
@@ -104282,7 +104282,7 @@
       "geol3": "Heliopolis",
       "geol4": "Heliopolis Square",
       "unit_type": "Studio",
-      "lower_limit": "5500000"
+      "lower_limit": "3500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -106353,7 +106353,7 @@
       "geol3": "Heliopolis",
       "geol4": "Heliopolis Square",
       "unit_type": "Duplex",
-      "lower_limit": "9000000"
+      "lower_limit": "6000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -108003,9 +108003,8 @@
       "geol2": "Cairo",
       "geol3": "Heliopolis",
       "geol4": "Heliopolis Square",
-      "geol5": "Heliopolis Square",
       "unit_type": "Retail",
-      "lower_limit": "36000000"
+      "lower_limit": "10000000"
     },
     {
       "cat": "Villas For Sale",
@@ -108936,15 +108935,6 @@
       "geol4": "Moharam Bek St.",
       "unit_type": "Apartment",
       "lower_limit": "5500000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "Heliopolis",
-      "geol4": "Heliopolis Square",
-      "geol5": "Heliopolis Square",
-      "unit_type": "Apartment",
-      "lower_limit": "9500000"
     },
     {
       "cat": "Apartments for Sale",
@@ -111420,6 +111410,14 @@
       "geol4": "7th District",
       "unit_type": "iVilla",
       "lower_limit": "8500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Alexandria",
+      "geol3": "Abu Talat",
+      "geol4": "Unknown",
+      "unit_type": "iVilla",
+      "lower_limit": "1500000"
     },
     {
       "cat": "Villas For Sale",
