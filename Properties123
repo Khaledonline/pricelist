@@ -16,7 +16,7 @@
       "geol4": "10th District",
       "unit_type": "Apartment",
       "lower_limit": "1000000",
-      "Price_Per_Meter": "15800"
+      "Price_Per_Meter": "12800"
     },
     {
       "cat": "Apartments for Sale",
@@ -13852,8 +13852,8 @@
       "geol3": "Shorouk City",
       "geol4": "Al Burouj",
       "unit_type": "Apartment",
-      "lower_limit": "5000000",
-      "Price_Per_Meter": "35600"
+      "lower_limit": "10000000",
+      "Price_Per_Meter": "43600"
     },
     {
       "cat": "Apartments for Sale",
@@ -13861,8 +13861,8 @@
       "geol3": "Shorouk City",
       "geol4": "Al Burouj",
       "unit_type": "Duplex",
-      "lower_limit": "6000000",
-      "Price_Per_Meter": "34000"
+      "lower_limit": "12000000",
+      "Price_Per_Meter": "63000"
     },
     {
       "cat": "Apartments for Sale",
@@ -36520,7 +36520,7 @@
       "geol4": "Mountain View Chillout Park Compound",
       "unit_type": "Town House",
       "lower_limit": "10000000",
-      "Price_Per_Meter": "44400"
+      "Price_Per_Meter": "75400"
     },
     {
       "cat": "Apartments for Sale",
@@ -36930,8 +36930,8 @@
       "geol4": "Ras Al Hekma",
       "geol5": "Mountain View Ras Al Hekma",
       "unit_type": "Chalet",
-      "lower_limit": "1500000",
-      "Price_Per_Meter": "63200"
+      "lower_limit": "5000000",
+      "Price_Per_Meter": "73200"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -37036,7 +37036,7 @@
       "geol4": "Mousa Coast",
       "unit_type": "Studio",
       "lower_limit": "1000000",
-      "Price_Per_Meter": "26666"
+      "Price_Per_Meter": "27000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -44683,16 +44683,6 @@
       "geol5": "Seashore",
       "unit_type": "Town House",
       "lower_limit": "16000000",
-      "Price_Per_Meter": "93200"
-    },
-    {
-      "cat": "Vacation Homes for Sale",
-      "geol2": "Matruh",
-      "geol3": "North Coast",
-      "geol4": "Ras Al Hekma",
-      "geol5": "Seashore",
-      "unit_type": "Town House",
-      "lower_limit": "16000000",
       "Price_Per_Meter": "142400"
     },
     {
@@ -48233,7 +48223,7 @@
       "geol4": "The Crown Compound",
       "unit_type": "Apartment",
       "lower_limit": "3500000",
-      "Price_Per_Meter": "36400"
+      "Price_Per_Meter": "38400"
     },
     {
       "cat": "Villas For Sale",
@@ -48241,8 +48231,8 @@
       "geol3": "6th of October",
       "geol4": "The Crown Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "15000000",
-      "Price_Per_Meter": "61200"
+      "lower_limit": "19000000",
+      "Price_Per_Meter": "81200"
     },
     {
       "cat": "Villas For Sale",
@@ -48250,8 +48240,8 @@
       "geol3": "6th of October",
       "geol4": "The Crown Compound",
       "unit_type": "Town House",
-      "lower_limit": "10000000",
-      "Price_Per_Meter": "60400"
+      "lower_limit": "18000000",
+      "Price_Per_Meter": "66800"
     },
     {
       "cat": "Villas For Sale",
@@ -48259,8 +48249,8 @@
       "geol3": "6th of October",
       "geol4": "The Crown Compound",
       "unit_type": "Twin House",
-      "lower_limit": "10000000",
-      "Price_Per_Meter": "56800"
+      "lower_limit": "18000000",
+      "Price_Per_Meter": "66800"
     },
     {
       "cat": "Apartments for Sale",
@@ -48269,7 +48259,7 @@
       "geol4": "The Crown Compound",
       "unit_type": "Duplex",
       "lower_limit": "7000000",
-      "Price_Per_Meter": "29200"
+      "Price_Per_Meter": "31200"
     },
     {
       "cat": "Apartments for Sale",
@@ -48304,7 +48294,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "The Estates Compound",
       "unit_type": "Town House",
-      "lower_limit": "13000000",
+      "lower_limit": "18000000",
       "Price_Per_Meter": "58000"
     },
     {
@@ -48313,7 +48303,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "The Estates Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "12000000",
+      "lower_limit": "18000000",
       "Price_Per_Meter": "48000"
     },
     {
@@ -48322,7 +48312,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "The Estates Compound",
       "unit_type": "Duplex",
-      "lower_limit": "8000000",
+      "lower_limit": "10000000",
       "Price_Per_Meter": "40000"
     },
     {
@@ -48331,7 +48321,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "The Estates Compound",
       "unit_type": "Apartment",
-      "lower_limit": "5000000",
+      "lower_limit": "8000000",
       "Price_Per_Meter": "55600"
     },
     {
@@ -48340,7 +48330,7 @@
       "geol3": "Sheikh Zayed",
       "geol4": "The Estates Compound",
       "unit_type": "Twin House",
-      "lower_limit": "12500000",
+      "lower_limit": "17500000",
       "Price_Per_Meter": "62400"
     },
     {
@@ -63881,8 +63871,8 @@
       "geol3": "Sheikh Zayed",
       "geol4": "Zayed Dunes Compound",
       "unit_type": "Apartment",
-      "lower_limit": "4000000",
-      "Price_Per_Meter": "40800"
+      "lower_limit": "6000000",
+      "Price_Per_Meter": "60800"
     },
     {
       "cat": "Villas For Sale",
@@ -76412,7 +76402,7 @@
       "geol4": "Fouka Bay",
       "unit_type": "Chalet",
       "lower_limit": "9000000",
-      "Price_Per_Meter": "73600"
+      "Price_Per_Meter": "140600"
     },
     {
       "cat": "Apartments for Sale",
