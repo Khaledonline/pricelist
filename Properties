@@ -10847,7 +10847,7 @@
       "geol4": "5th Settlement",
       "geol5": "Villette Compound",
       "unit_type": "Apartment",
-      "lower_limit": "6000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -10856,7 +10856,7 @@
       "geol4": "5th Settlement",
       "geol5": "Villette Compound",
       "unit_type": "Duplex",
-      "lower_limit": "8000000"
+      "lower_limit": "16000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -10865,7 +10865,7 @@
       "geol4": "5th Settlement",
       "geol5": "Villette Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "9000000"
+      "lower_limit": "12000000"
     },
     {
       "cat": "Villas For Sale",
@@ -10874,7 +10874,7 @@
       "geol4": "5th Settlement",
       "geol5": "Villette Compound",
       "unit_type": "Town House",
-      "lower_limit": "12000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Villas For Sale",
@@ -10883,7 +10883,7 @@
       "geol4": "5th Settlement",
       "geol5": "Villette Compound",
       "unit_type": "Twin House",
-      "lower_limit": "12000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Villas For Sale",
@@ -10892,7 +10892,7 @@
       "geol4": "5th Settlement",
       "geol5": "Villette Compound",
       "unit_type": "Stand Alone Villa",
-      "lower_limit": "12500000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Apartments for Sale",
