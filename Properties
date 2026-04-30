@@ -10847,7 +10847,7 @@
       "geol4": "5th Settlement",
       "geol5": "Villette Compound",
       "unit_type": "Apartment",
-      "lower_limit": "12000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -10856,7 +10856,7 @@
       "geol4": "5th Settlement",
       "geol5": "Villette Compound",
       "unit_type": "Duplex",
-      "lower_limit": "16000000"
+      "lower_limit": "18000000"
     },
     {
       "cat": "Apartments for Sale",
@@ -10865,7 +10865,7 @@
       "geol4": "5th Settlement",
       "geol5": "Villette Compound",
       "unit_type": "Penthouse",
-      "lower_limit": "12000000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Villas For Sale",
@@ -10874,7 +10874,7 @@
       "geol4": "5th Settlement",
       "geol5": "Villette Compound",
       "unit_type": "Town House",
-      "lower_limit": "18000000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Villas For Sale",
@@ -10883,7 +10883,7 @@
       "geol4": "5th Settlement",
       "geol5": "Villette Compound",
       "unit_type": "Twin House",
-      "lower_limit": "18000000"
+      "lower_limit": "20000000"
     },
     {
       "cat": "Villas For Sale",
@@ -113846,6 +113846,107 @@
       "geol4": "Unknown",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "3500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Al Hadrah",
+      "geol4": "Al Jawaher St.",
+      "unit_type": "Retail",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Ain Shams",
+      "geol4": "Ahmed Esmat",
+      "geol5": "Maher Badawy St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Miami",
+      "geol4": "Nour Al Deen Mosque St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Amreya",
+      "geol4": "Street 55",
+      "unit_type": "Apartment",
+      "lower_limit": "1000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "3rd Settlement",
+      "geol5": "West Arabella Compound",
+      "unit_type": "Garage",
+      "lower_limit": "2000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Basateen",
+      "geol4": "El-Basatin Sharkeya",
+      "unit_type": "Office Space",
+      "lower_limit": "5500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Talah",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "8500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Heliopolis",
+      "geol4": "Heliopolis Square",
+      "geol5": "Heliopolis Square",
+      "unit_type": "Retail",
+      "lower_limit": "31000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "El Banafseg 5",
+      "unit_type": "Full Commercial Building",
+      "lower_limit": "45000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "Jaz Little Venice",
+      "unit_type": "Penthouse",
+      "lower_limit": "7000000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "North Edge Towers",
+      "unit_type": "Cabin",
+      "lower_limit": "12500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Nozha",
+      "geol4": "Unknown",
+      "unit_type": "Warehouse",
+      "lower_limit": "2500000"
     }
   ]
 }
