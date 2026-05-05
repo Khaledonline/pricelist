@@ -92653,7 +92653,7 @@
       "geol5": "Defaf",
       "unit_type": "Apartment",
       "lower_limit": "3500000",
-      "Price_Per_Meter": "23200"
+      "Price_Per_Meter": "35200"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -104857,7 +104857,7 @@
       "geol5": "Defaf",
       "unit_type": "iVilla",
       "lower_limit": "6600000",
-      "Price_Per_Meter": "21120"
+      "Price_Per_Meter": "31120"
     },
     {
       "cat": "Commercial for Sale",
@@ -118942,7 +118942,7 @@
       "geol5": "Defaf",
       "unit_type": "Studio",
       "lower_limit": "1500000",
-      "Price_Per_Meter": "28400"
+      "Price_Per_Meter": "30400"
     },
     {
       "cat": "Apartments for Sale",
@@ -133652,6 +133652,26 @@
       "unit_type": "Stand Alone Villa",
       "lower_limit": "14000000",
       "Price_Per_Meter": "46667"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Ras Al Hekma",
+      "geol5": "Hacienda West",
+      "unit_type": "Twin house",
+      "lower_limit": "10000000",
+      "Price_Per_Meter": "57143"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Ras Al Hekma",
+      "geol5": "Hacienda West",
+      "unit_type": "Town House",
+      "lower_limit": "10000000",
+      "Price_Per_Meter": "66667"
     }
   ]
 }
