@@ -16316,7 +16316,7 @@
       "geol4": "R7",
       "geol5": "Blue Vert",
       "unit_type": "Town House",
-      "lower_limit": "18000000"
+      "lower_limit": "11000000"
     },
     {
       "cat": "Villas For Sale",
@@ -16325,7 +16325,7 @@
       "geol4": "R7",
       "geol5": "Blue Vert",
       "unit_type": "Twin House",
-      "lower_limit": "18000000"
+      "lower_limit": "11000000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -115855,4 +115855,4 @@
       "lower_limit": "14000000"
     }
   ]
-}
+}ر
