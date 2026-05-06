@@ -55328,7 +55328,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "3700000"
+      "lower_bound_ci_99": "3100000"
     },
     {
       "brand": "ROX",
@@ -55338,7 +55338,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "3800000"
+      "lower_bound_ci_99": "3400000"
     },
     {
       "brand": "ROX",
@@ -55348,7 +55348,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "3600000"
+      "lower_bound_ci_99": "2800000"
     },
     {
       "brand": "Saipa",
@@ -84859,6 +84859,36 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "900000"
+    },
+    {
+      "brand": "ROX",
+      "model": "01",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3100000"
+    },
+    {
+      "brand": "ROX",
+      "model": "01",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3400000"
+    },
+    {
+      "brand": "ROX",
+      "model": "01",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2800000"
     }
   ]
 }
