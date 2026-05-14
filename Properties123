@@ -4310,7 +4310,7 @@
       "geol5": "EL Patio ORO Compound",
       "unit_type": "Apartment",
       "lower_limit": "8000000",
-      "Price_Per_Meter": "55000"
+      "Price_Per_Meter": "75000"
     },
     {
       "cat": "Villas For Sale",
@@ -5225,7 +5225,7 @@
       "geol5": "Al Narges",
       "unit_type": "Apartment",
       "lower_limit": "5500000",
-      "Price_Per_Meter": "29040"
+      "Price_Per_Meter": "39040"
     },
     {
       "cat": "Apartments for Sale",
@@ -9435,7 +9435,7 @@
       "geol5": "Mountain View iCity Compound",
       "unit_type": "Apartment",
       "lower_limit": "7500000",
-      "Price_Per_Meter": "40480"
+      "Price_Per_Meter": "80480"
     },
     {
       "cat": "Apartments for Sale",
@@ -16800,7 +16800,7 @@
       "geol4": "Badya Palm Hills Compound",
       "unit_type": "Apartment",
       "lower_limit": "4000000",
-      "Price_Per_Meter": "38720"
+      "Price_Per_Meter": "33720"
     },
     {
       "cat": "Villas For Sale",
@@ -30302,7 +30302,7 @@
       "geol5": "Koun",
       "unit_type": "Chalet",
       "lower_limit": "4000000",
-      "Price_Per_Meter": "65120"
+      "Price_Per_Meter": "66000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -32087,7 +32087,7 @@
       "geol5": "Latin District",
       "unit_type": "Apartment",
       "lower_limit": "4000000",
-      "Price_Per_Meter": "35200"
+      "Price_Per_Meter": "31200"
     },
     {
       "cat": "Apartments for Sale",
@@ -35825,7 +35825,7 @@
       "geol4": "Mohamed Bin Zayed North Axis",
       "unit_type": "Apartment",
       "lower_limit": "8000000",
-      "Price_Per_Meter": "70400"
+      "Price_Per_Meter": "50400"
     },
     {
       "cat": "Commercial for Sale",
@@ -40404,7 +40404,7 @@
       "geol4": "Piacera",
       "unit_type": "Chalet",
       "lower_limit": "3000000",
-      "Price_Per_Meter": "34320"
+      "Price_Per_Meter": "43000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -46609,7 +46609,7 @@
       "geol5": "Stella Heights",
       "unit_type": "Chalet",
       "lower_limit": "3000000",
-      "Price_Per_Meter": "47520"
+      "Price_Per_Meter": "48000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -62894,7 +62894,7 @@
       "geol4": "VYE Sodic Compound",
       "unit_type": "Town House",
       "lower_limit": "10000000",
-      "Price_Per_Meter": "72600"
+      "Price_Per_Meter": "82600"
     },
     {
       "cat": "Villas For Sale",
@@ -75813,7 +75813,7 @@
       "geol4": "Neighborhood 66",
       "unit_type": "Apartment",
       "lower_limit": "1420000",
-      "Price_Per_Meter": "12496"
+      "Price_Per_Meter": "13000"
     },
     {
       "cat": "Apartments for Sale",
@@ -99274,8 +99274,8 @@
       "geol3": "Waboor Elmayah",
       "geol4": "Unknown",
       "unit_type": "Office",
-      "lower_limit": "26000000",
-      "Price_Per_Meter": "457600"
+      "lower_limit": "2600000",
+      "Price_Per_Meter": "45760"
     },
     {
       "cat": "Commercial for Sale",
@@ -128937,7 +128937,7 @@
       "geol2": "Cairo",
       "geol3": "Salam City",
       "geol4": "El Herafeen",
-      "geol5": "Berket  Al Nasr",
+      "geol5": "Berket Al Nasr",
       "unit_type": "Apartment",
       "lower_limit": "750000",
       "Price_Per_Meter": "8250"
@@ -128946,7 +128946,7 @@
       "cat": "Villas For Sale",
       "geol2": "Giza",
       "geol3": "Hadayek October",
-      "geol4": "Ibni Baitak  5",
+      "geol4": "Ibni Baitak 5",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "2500000",
       "Price_Per_Meter": "9166"
@@ -129032,7 +129032,7 @@
       "geol2": "Cairo",
       "geol3": "Salam City",
       "geol4": "El Herafeen",
-      "geol5": "Berket  Al Nasr",
+      "geol5": "Berket Al Nasr",
       "unit_type": "Retail",
       "lower_limit": "1000000",
       "Price_Per_Meter": "22000"
@@ -129208,7 +129208,7 @@
       "cat": "Apartments for Sale",
       "geol2": "Alexandria",
       "geol3": "Montazah",
-      "geol4": "Al Qasem St.   Mostafa Kamel Road",
+      "geol4": "Al Qasem St. Mostafa Kamel Road",
       "unit_type": "Apartment",
       "lower_limit": "2500000",
       "Price_Per_Meter": "27500"
@@ -133069,7 +133069,7 @@
       "geol2": "Cairo",
       "geol3": "Salam City",
       "geol4": "El-Salam Sharkeya",
-      "geol5": "Cairo   Belbeis Desert Rd St.",
+      "geol5": "Cairo Belbeis Desert Rd St.",
       "unit_type": "Factory",
       "lower_limit": "31000000",
       "Price_Per_Meter": "34100"
@@ -133285,7 +133285,7 @@
       "cat": "Villas For Sale",
       "geol2": "Giza",
       "geol3": "Hadayek October",
-      "geol4": "Ibni Baitak  4",
+      "geol4": "Ibni Baitak 4",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "4500000",
       "Price_Per_Meter": "16500"
@@ -134096,7 +134096,7 @@
       "geol2": "Cairo",
       "geol3": "Salam City",
       "geol4": "El Herafeen",
-      "geol5": "Berket  Al Nasr",
+      "geol5": "Berket Al Nasr",
       "unit_type": "Hotel Apartment",
       "lower_limit": "3500000",
       "Price_Per_Meter": "77000"
