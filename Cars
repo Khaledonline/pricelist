@@ -34933,16 +34933,6 @@
     {
       "brand": "Land Rover",
       "model": "Range Rover Sport",
-      "year": "2014",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "3100000"
-    },
-    {
-      "brand": "Land Rover",
-      "model": "Range Rover Sport",
       "year": "2021",
       "listings_count": "0",
       "median_price": "0",
@@ -52428,7 +52418,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "6100000"
+      "lower_bound_ci_99": "5500000"
     },
     {
       "brand": "Porsche",
@@ -87019,6 +87009,56 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "2150000"
+    },
+    {
+      "brand": "Hyundai",
+      "model": "Elantra",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1000000"
+    },
+    {
+      "brand": "Geely",
+      "model": "EX5",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1250000"
+    },
+    {
+      "brand": "Lynk & Co",
+      "model": "3",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1350000"
+    },
+    {
+      "brand": "Geely",
+      "model": "EX5 EM-i",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1250000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Pajero",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2650000"
     }
   ]
 }
