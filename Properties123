@@ -15176,7 +15176,7 @@
       "geol4": "Aljar",
       "unit_type": "Apartment",
       "lower_limit": "5000000",
-      "Price_Per_Meter": "80950"
+      "Price_Per_Meter": "50950"
     },
     {
       "cat": "Apartments for Sale",
@@ -27467,7 +27467,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Hyde Park Central",
+      "geol4": "6th Settlement",
+      "geol5": "Hyde Park Central",
       "unit_type": "Studio",
       "lower_limit": "4000000",
       "Price_Per_Meter": "117332"
@@ -27476,10 +27477,11 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Hyde Park Central",
+      "geol4": "6th Settlement",
+      "geol5": "Hyde Park Central",
       "unit_type": "Apartment",
       "lower_limit": "7000000",
-      "Price_Per_Meter": "68640"
+      "Price_Per_Meter": "65640"
     },
     {
       "cat": "Apartments for Sale",
@@ -34057,7 +34059,7 @@
       "geol5": "Marina 5",
       "unit_type": "Chalet",
       "lower_limit": "7000000",
-      "Price_Per_Meter": "79640"
+      "Price_Per_Meter": "82640"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -60353,7 +60355,7 @@
       "geol4": "Unknown",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "8000000",
-      "Price_Per_Meter": "112880"
+      "Price_Per_Meter": "70880"
     },
     {
       "cat": "Commercial for Sale",
@@ -65067,7 +65069,7 @@
       "geol4": "Talala",
       "unit_type": "Town House",
       "lower_limit": "9000000",
-      "Price_Per_Meter": "51480"
+      "Price_Per_Meter": "40480"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -87112,15 +87114,6 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Hyde Park Central",
-      "unit_type": "Duplex",
-      "lower_limit": "8500000",
-      "Price_Per_Meter": "71720"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "EL Shouyfat",
       "unit_type": "Roof",
@@ -87806,7 +87799,8 @@
       "cat": "Villas For Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Hyde Park Central",
+      "geol4": "6th Settlement",
+      "geol5": "Hyde Park Central",
       "unit_type": "Town House",
       "lower_limit": "10000000",
       "Price_Per_Meter": "83600"
@@ -89611,7 +89605,8 @@
       "cat": "Villas For Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Hyde Park Central",
+      "geol4": "6th Settlement",
+      "geol5": "Hyde Park Central",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "29000000",
       "Price_Per_Meter": "92400"
@@ -95066,7 +95061,8 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Hyde Park Central",
+      "geol4": "6th Settlement",
+      "geol5": "Hyde Park Central",
       "unit_type": "Office",
       "lower_limit": "10000000",
       "Price_Per_Meter": "136400"
@@ -98313,7 +98309,8 @@
       "cat": "Villas For Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Hyde Park Central",
+      "geol4": "6th Settlement",
+      "geol5": "Hyde Park Central",
       "unit_type": "Twin House",
       "lower_limit": "15500000",
       "Price_Per_Meter": "117920"
@@ -100606,7 +100603,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Hyde Park Central",
+      "geol4": "6th Settlement",
+      "geol5": "Hyde Park Central",
       "unit_type": "Penthouse",
       "lower_limit": "10383015",
       "Price_Per_Meter": "64240"
@@ -111416,7 +111414,8 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Hyde Park Central",
+      "geol4": "6th Settlement",
+      "geol5": "Hyde Park Central",
       "unit_type": "Retail",
       "lower_limit": "25000000",
       "Price_Per_Meter": "440000"
@@ -127020,7 +127019,8 @@
       "cat": "Villas For Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
-      "geol4": "Hyde Park Central",
+      "geol4": "6th Settlement",
+      "geol5": "Hyde Park Central",
       "unit_type": "iVilla",
       "lower_limit": "22500000",
       "Price_Per_Meter": "99000"
@@ -127479,9 +127479,9 @@
       "geol3": "Sheikh Zayed",
       "geol4": "12th District",
       "geol5": "Mostakbal Buildings",
-      "unit_type": "Town House",
+      "unit_type": "Twin House",
       "lower_limit": "22500000",
-      "Price_Per_Meter": "165000"
+      "Price_Per_Meter": "700000"
     },
     {
       "cat": "Villas For Sale",
@@ -130544,15 +130544,6 @@
     },
     {
       "cat": "Villas For Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "Hyde Park Central",
-      "unit_type": "iVilla",
-      "lower_limit": "22500000",
-      "Price_Per_Meter": "99000"
-    },
-    {
-      "cat": "Villas For Sale",
       "geol2": "Beni Suef",
       "geol3": "New Beni Suef",
       "geol4": "Unknown",
@@ -131016,7 +131007,7 @@
       "geol5": "Mostakbal Buildings",
       "unit_type": "Town House",
       "lower_limit": "22500000",
-      "Price_Per_Meter": "165000"
+      "Price_Per_Meter": "70000"
     },
     {
       "cat": "Villas For Sale",
@@ -137631,16 +137622,6 @@
       "Price_Per_Meter": "57500"
     },
     {
-      "cat": "Villas For Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "6th Settlement",
-      "geol5": "Hyde Park Central",
-      "unit_type": "Stand Alone Villa",
-      "lower_limit": "52000000",
-      "Price_Per_Meter": "173333"
-    },
-    {
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Cairo",
@@ -137659,16 +137640,6 @@
       "unit_type": "Penthouse",
       "lower_limit": "10500000",
       "Price_Per_Meter": "52500"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "6th Settlement",
-      "geol5": "Hyde Park Central",
-      "unit_type": "Apartment",
-      "lower_limit": "10500000",
-      "Price_Per_Meter": "105000"
     },
     {
       "cat": "Villas For Sale",
@@ -137698,16 +137669,6 @@
       "unit_type": "Town House",
       "lower_limit": "9000000",
       "Price_Per_Meter": "60000"
-    },
-    {
-      "cat": "Commercial for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "6th Settlement",
-      "geol5": "Hyde Park Central",
-      "unit_type": "Office",
-      "lower_limit": "19500000",
-      "Price_Per_Meter": "390000"
     },
     {
       "cat": "Villas For Sale",
@@ -137764,16 +137725,6 @@
       "unit_type": "Retail",
       "lower_limit": "13500000",
       "Price_Per_Meter": "270000"
-    },
-    {
-      "cat": "Villas For Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "6th Settlement",
-      "geol5": "Hyde Park Central",
-      "unit_type": "Town House",
-      "lower_limit": "22500000",
-      "Price_Per_Meter": "150000"
     },
     {
       "cat": "Apartments for Sale",
@@ -138026,16 +137977,6 @@
       "unit_type": "Town House",
       "lower_limit": "14000000",
       "Price_Per_Meter": "93333"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "6th Settlement",
-      "geol5": "Hyde Park Central",
-      "unit_type": "Studio",
-      "lower_limit": "5000000",
-      "Price_Per_Meter": "166667"
     },
     {
       "cat": "Apartments for Sale",
@@ -140206,16 +140147,6 @@
       "unit_type": "Apartment",
       "lower_limit": "12500000",
       "Price_Per_Meter": "125000"
-    },
-    {
-      "cat": "Apartments for Sale",
-      "geol2": "Cairo",
-      "geol3": "New Cairo",
-      "geol4": "6th Settlement",
-      "geol5": "Hyde Park Central",
-      "unit_type": "Penthouse",
-      "lower_limit": "13500000",
-      "Price_Per_Meter": "67500"
     },
     {
       "cat": "Villas For Sale",
