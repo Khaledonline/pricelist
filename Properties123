@@ -4120,7 +4120,7 @@
       "geol5": "Beit Al Watan",
       "unit_type": "Apartment",
       "lower_limit": "3000000",
-      "Price_Per_Meter": "20680"
+      "Price_Per_Meter": "34680"
     },
     {
       "cat": "Apartments for Sale",
@@ -31443,7 +31443,7 @@
       "geol5": "La Vista Ras El Hikma",
       "unit_type": "Chalet",
       "lower_limit": "9000000",
-      "Price_Per_Meter": "80520"
+      "Price_Per_Meter": "115520"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -44230,7 +44230,7 @@
       "geol4": "Sawari",
       "unit_type": "Apartment",
       "lower_limit": "3000000",
-      "Price_Per_Meter": "51040"
+      "Price_Per_Meter": "45040"
     },
     {
       "cat": "Apartments for Sale",
@@ -141729,6 +141729,1602 @@
       "unit_type": "Residential Land",
       "lower_limit": "5000000",
       "Price_Per_Meter": "20000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "El Banafseg 5",
+      "unit_type": "Commercial Building",
+      "lower_limit": "100000000",
+      "Price_Per_Meter": "100000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Touristic Center",
+      "unit_type": "Chalet",
+      "lower_limit": "2500000",
+      "Price_Per_Meter": "35714"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "El Hadaba District",
+      "unit_type": "Chalet",
+      "lower_limit": "2800000",
+      "Price_Per_Meter": "40000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Mubarak Neighborhood",
+      "unit_type": "Chalet",
+      "lower_limit": "1900000",
+      "Price_Per_Meter": "27143"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Lazuli",
+      "unit_type": "Chalet",
+      "lower_limit": "3200000",
+      "Price_Per_Meter": "45714"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "La Quinta Heights",
+      "unit_type": "Chalet",
+      "lower_limit": "3800000",
+      "Price_Per_Meter": "54286"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Al Ahyaa District",
+      "unit_type": "Chalet",
+      "lower_limit": "2100000",
+      "Price_Per_Meter": "30000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Arabia Area",
+      "unit_type": "Chalet",
+      "lower_limit": "2900000",
+      "Price_Per_Meter": "41429"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "El Sakkala District",
+      "unit_type": "Chalet",
+      "lower_limit": "3500000",
+      "Price_Per_Meter": "50000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "La Mer Residence",
+      "unit_type": "Chalet",
+      "lower_limit": "3300000",
+      "Price_Per_Meter": "47143"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Juliana Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3600000",
+      "Price_Per_Meter": "51429"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Al Dau Strand",
+      "unit_type": "Chalet",
+      "lower_limit": "4000000",
+      "Price_Per_Meter": "57143"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "El Dahar District",
+      "unit_type": "Chalet",
+      "lower_limit": "2000000",
+      "Price_Per_Meter": "28571"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "El Horeya District",
+      "unit_type": "Chalet",
+      "lower_limit": "2300000",
+      "Price_Per_Meter": "32857"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Intercontinental District",
+      "unit_type": "Chalet",
+      "lower_limit": "3400000",
+      "Price_Per_Meter": "48571"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Jasmine Palace Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "4200000",
+      "Price_Per_Meter": "60000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Eagles Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3100000",
+      "Price_Per_Meter": "44286"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Sunrise Garden Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3850000",
+      "Price_Per_Meter": "55000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Sunrise Mamlouk Palace",
+      "unit_type": "Chalet",
+      "lower_limit": "3700000",
+      "Price_Per_Meter": "52857"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Oasis Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3000000",
+      "Price_Per_Meter": "42857"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Club Golden 5",
+      "unit_type": "Chalet",
+      "lower_limit": "2700000",
+      "Price_Per_Meter": "38571"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Westside Village",
+      "unit_type": "Chalet",
+      "lower_limit": "2400000",
+      "Price_Per_Meter": "34286"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Sunrise Holidays",
+      "unit_type": "Chalet",
+      "lower_limit": "3250000",
+      "Price_Per_Meter": "46429"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Mirage New Hawaii",
+      "unit_type": "Chalet",
+      "lower_limit": "2750000",
+      "Price_Per_Meter": "39286"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Montillon Grand Horizon",
+      "unit_type": "Chalet",
+      "lower_limit": "2950000",
+      "Price_Per_Meter": "42143"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Rabella Village",
+      "unit_type": "Chalet",
+      "lower_limit": "2650000",
+      "Price_Per_Meter": "37857"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Abrim Residence",
+      "unit_type": "Chalet",
+      "lower_limit": "2200000",
+      "Price_Per_Meter": "31429"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Turtles Beach",
+      "unit_type": "Chalet",
+      "lower_limit": "2450000",
+      "Price_Per_Meter": "35000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Grand Plaza",
+      "unit_type": "Chalet",
+      "lower_limit": "3450000",
+      "Price_Per_Meter": "49286"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Malaki Club",
+      "unit_type": "Chalet",
+      "lower_limit": "3350000",
+      "Price_Per_Meter": "47857"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "The Desert Rose",
+      "unit_type": "Chalet",
+      "lower_limit": "4050000",
+      "Price_Per_Meter": "57857"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "One7 Residence",
+      "unit_type": "Chalet",
+      "lower_limit": "4150000",
+      "Price_Per_Meter": "59286"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Sea Light Hurghada",
+      "unit_type": "Chalet",
+      "lower_limit": "3550000",
+      "Price_Per_Meter": "50714"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Zahabia Hotel & Beach",
+      "unit_type": "Chalet",
+      "lower_limit": "2880000",
+      "Price_Per_Meter": "41143"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Ali Baba Palace",
+      "unit_type": "Chalet",
+      "lower_limit": "3650000",
+      "Price_Per_Meter": "52143"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Jasmine Village",
+      "unit_type": "Chalet",
+      "lower_limit": "2750000",
+      "Price_Per_Meter": "39286"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Pharaoh Club Saint Maria Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3050000",
+      "Price_Per_Meter": "43571"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Festival Le Jardin Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3480000",
+      "Price_Per_Meter": "49714"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Tiba Garden",
+      "unit_type": "Chalet",
+      "lower_limit": "2150000",
+      "Price_Per_Meter": "30714"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Aqua Palms Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2280000",
+      "Price_Per_Meter": "32571"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Reemyvera Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3220000",
+      "Price_Per_Meter": "46000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Sunny Days Al Palacio",
+      "unit_type": "Chalet",
+      "lower_limit": "2980000",
+      "Price_Per_Meter": "42571"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Selena Bay Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3380000",
+      "Price_Per_Meter": "48286"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Sunny Days Palma De Mirette",
+      "unit_type": "Chalet",
+      "lower_limit": "3080000",
+      "Price_Per_Meter": "44000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Jewels Sahara Boutique Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3180000",
+      "Price_Per_Meter": "45429"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Papas Beach Club",
+      "unit_type": "Chalet",
+      "lower_limit": "2600000",
+      "Price_Per_Meter": "37143"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Arabia Azur Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3150000",
+      "Price_Per_Meter": "45000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Geisum Village",
+      "unit_type": "Chalet",
+      "lower_limit": "2480000",
+      "Price_Per_Meter": "35429"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Mövenpick Resort Hurghada",
+      "unit_type": "Chalet",
+      "lower_limit": "3850000",
+      "Price_Per_Meter": "55000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Nubia Aqua Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2580000",
+      "Price_Per_Meter": "36857"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "White Beach Albatros",
+      "unit_type": "Chalet",
+      "lower_limit": "3950000",
+      "Price_Per_Meter": "56429"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Nefert Bay Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3280000",
+      "Price_Per_Meter": "46857"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Le Pacha Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3020000",
+      "Price_Per_Meter": "43143"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Lavanda Beach",
+      "unit_type": "Chalet",
+      "lower_limit": "3420000",
+      "Price_Per_Meter": "48857"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Florenza Khamsin Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2620000",
+      "Price_Per_Meter": "37429"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Sindbad Club Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3680000",
+      "Price_Per_Meter": "52571"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Comfort Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2920000",
+      "Price_Per_Meter": "41714"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Titanic Aqua Park Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3750000",
+      "Price_Per_Meter": "53571"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Regina Royal Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2720000",
+      "Price_Per_Meter": "38857"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Toya Palace",
+      "unit_type": "Chalet",
+      "lower_limit": "2320000",
+      "Price_Per_Meter": "33143"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Panorama Bungalows Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3120000",
+      "Price_Per_Meter": "44571"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Royal Lagoons Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3520000",
+      "Price_Per_Meter": "50286"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Diamond Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2620000",
+      "Price_Per_Meter": "37429"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "King Tut Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2750000",
+      "Price_Per_Meter": "39286"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Scandic Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3220000",
+      "Price_Per_Meter": "46000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Roma Beach Club",
+      "unit_type": "Chalet",
+      "lower_limit": "3050000",
+      "Price_Per_Meter": "43571"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Triton Empire Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2850000",
+      "Price_Per_Meter": "40714"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Emerald Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3320000",
+      "Price_Per_Meter": "47429"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Sphinx Resort Hurghada",
+      "unit_type": "Chalet",
+      "lower_limit": "2220000",
+      "Price_Per_Meter": "31714"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Festival Riviera Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3550000",
+      "Price_Per_Meter": "50714"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Albatros Palace",
+      "unit_type": "Chalet",
+      "lower_limit": "4200000",
+      "Price_Per_Meter": "60000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Magawish Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3620000",
+      "Price_Per_Meter": "51714"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Palma Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2900000",
+      "Price_Per_Meter": "41429"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Sunny Home",
+      "unit_type": "Chalet",
+      "lower_limit": "2180000",
+      "Price_Per_Meter": "31143"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Hilton Hurghada Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3780000",
+      "Price_Per_Meter": "54000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Bougainville Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3480000",
+      "Price_Per_Meter": "49714"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Charm Life Paradise Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3180000",
+      "Price_Per_Meter": "45429"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Samra Bay Marina",
+      "unit_type": "Chalet",
+      "lower_limit": "3900000",
+      "Price_Per_Meter": "55714"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Baron Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "4150000",
+      "Price_Per_Meter": "59286"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Festival Shedwan Golden Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3280000",
+      "Price_Per_Meter": "46857"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Marina Residence",
+      "unit_type": "Chalet",
+      "lower_limit": "3880000",
+      "Price_Per_Meter": "55429"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Marlin Inn Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3000000",
+      "Price_Per_Meter": "42857"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "The Three Corners Royal Star Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3380000",
+      "Price_Per_Meter": "48286"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Lobby Bar",
+      "unit_type": "Chalet",
+      "lower_limit": "2050000",
+      "Price_Per_Meter": "29286"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Al Dorra Residence",
+      "unit_type": "Chalet",
+      "lower_limit": "2950000",
+      "Price_Per_Meter": "42143"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Jaz Bluemarine Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "4050000",
+      "Price_Per_Meter": "57857"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Minamark resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2820000",
+      "Price_Per_Meter": "40286"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Nagwa Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "2600000",
+      "Price_Per_Meter": "37143"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Sand Beach",
+      "unit_type": "Chalet",
+      "lower_limit": "2480000",
+      "Price_Per_Meter": "35429"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Desert Pearl",
+      "unit_type": "Chalet",
+      "lower_limit": "2380000",
+      "Price_Per_Meter": "34000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Jaz Aquamarine",
+      "unit_type": "Chalet",
+      "lower_limit": "4100000",
+      "Price_Per_Meter": "58571"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Dana Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3850000",
+      "Price_Per_Meter": "55000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Citadel Azur Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3750000",
+      "Price_Per_Meter": "53571"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Lillyland Beach Club Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3680000",
+      "Price_Per_Meter": "52571"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Sindbad Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3320000",
+      "Price_Per_Meter": "47429"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Grand Seas Resort Hostmark",
+      "unit_type": "Chalet",
+      "lower_limit": "3220000",
+      "Price_Per_Meter": "46000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Storia Del Mare",
+      "unit_type": "Chalet",
+      "lower_limit": "3120000",
+      "Price_Per_Meter": "44571"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Harmony Lagoon Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3020000",
+      "Price_Per_Meter": "43143"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Hurghada Marina",
+      "unit_type": "Chalet",
+      "lower_limit": "4200000",
+      "Price_Per_Meter": "60000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Bella Vista",
+      "unit_type": "Chalet",
+      "lower_limit": "2900000",
+      "Price_Per_Meter": "41429"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Seagull Beach Resort Hurghada",
+      "unit_type": "Chalet",
+      "lower_limit": "3450000",
+      "Price_Per_Meter": "49286"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Marriott Beach Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3550000",
+      "Price_Per_Meter": "50714"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Sentido Mamlouk Palace Resort",
+      "unit_type": "Chalet",
+      "lower_limit": "3950000",
+      "Price_Per_Meter": "56429"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Marine Sports Club",
+      "unit_type": "Chalet",
+      "lower_limit": "2650000",
+      "Price_Per_Meter": "37857"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Red Sea",
+      "geol3": "hurghada",
+      "geol4": "Sheraton Rd",
+      "unit_type": "Apartment",
+      "lower_limit": "2280000",
+      "Price_Per_Meter": "22800"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Hyde Park Central",
+      "unit_type": "Duplex",
+      "lower_limit": "8500000",
+      "Price_Per_Meter": "53125"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Hyde Park Central",
+      "unit_type": "Town House",
+      "lower_limit": "10000000",
+      "Price_Per_Meter": "66667"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Hyde Park Central",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "29000000",
+      "Price_Per_Meter": "96667"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Hyde Park Central",
+      "unit_type": "Office",
+      "lower_limit": "10000000",
+      "Price_Per_Meter": "200000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Hyde Park Central",
+      "unit_type": "Twin House",
+      "lower_limit": "15500000",
+      "Price_Per_Meter": "88571"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Hyde Park Central",
+      "unit_type": "Penthouse",
+      "lower_limit": "10383015",
+      "Price_Per_Meter": "51915"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Hyde Park Central",
+      "unit_type": "Retail",
+      "lower_limit": "25000000",
+      "Price_Per_Meter": "500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "Hyde Park Central",
+      "unit_type": "iVilla",
+      "lower_limit": "22500000",
+      "Price_Per_Meter": "90000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "New Venecia",
+      "unit_type": "Twin House",
+      "lower_limit": "2250000",
+      "Price_Per_Meter": "12857"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Al Safwa",
+      "unit_type": "iVilla",
+      "lower_limit": "6100000",
+      "Price_Per_Meter": "24400"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "White residence Compound",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "22000000",
+      "Price_Per_Meter": "73333"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Air Force",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "8700000",
+      "Price_Per_Meter": "29000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "At North Coast",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "9900000",
+      "Price_Per_Meter": "33000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Stella Location",
+      "unit_type": "Twin House",
+      "lower_limit": "11700000",
+      "Price_Per_Meter": "66857"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Coral Hills",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "12300000",
+      "Price_Per_Meter": "41000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "6 October- Wadi El Natroun Road",
+      "unit_type": "Twin House",
+      "lower_limit": "13000000",
+      "Price_Per_Meter": "74286"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "Malibu",
+      "unit_type": "Town House",
+      "lower_limit": "20700000",
+      "Price_Per_Meter": "138000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Hacienda Ras Elhekma",
+      "unit_type": "Town House",
+      "lower_limit": "22000000",
+      "Price_Per_Meter": "146667"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Matareya",
+      "geol4": "Shagaret Mariam",
+      "geol5": "Al Azhar Square",
+      "unit_type": "Twin House",
+      "lower_limit": "9000000",
+      "Price_Per_Meter": "51429"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Red Sea",
+      "geol3": "Hurghada",
+      "geol4": "Arabia Area",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "35000000",
+      "Price_Per_Meter": "116667"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Ismailia",
+      "geol3": "Ismailia City",
+      "geol4": "Unknown",
+      "unit_type": "Chalet",
+      "lower_limit": "2000000",
+      "Price_Per_Meter": "28571"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Al Reviera",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "18000000",
+      "Price_Per_Meter": "60000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Hammam",
+      "geol5": "Bungalows",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "9000000",
+      "Price_Per_Meter": "30000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "Mazarine",
+      "unit_type": "Cabin",
+      "lower_limit": "18000000",
+      "Price_Per_Meter": "720000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Crysta Mountain View",
+      "unit_type": "Duplex",
+      "lower_limit": "18100000",
+      "Price_Per_Meter": "113125"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Salam City",
+      "geol4": "El-Salam Sharkeya",
+      "unit_type": "Restaurant & Cafe",
+      "lower_limit": "1000000",
+      "Price_Per_Meter": "4000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek al-Ahram",
+      "geol4": "Gate 3 old - Khafre",
+      "unit_type": "Office Space",
+      "lower_limit": "1150000",
+      "Price_Per_Meter": "23000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Zizinia",
+      "geol4": "Amin Yehia St.",
+      "unit_type": "Retail",
+      "lower_limit": "1300000",
+      "Price_Per_Meter": "26000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Al Bostan",
+      "unit_type": "Restaurant & Cafe",
+      "lower_limit": "2500000",
+      "Price_Per_Meter": "10000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "9 View Mokattam",
+      "unit_type": "Clinic",
+      "lower_limit": "2700000",
+      "Price_Per_Meter": "54000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shubra",
+      "geol4": "Al Khalafawy",
+      "unit_type": "Office Space",
+      "lower_limit": "3400000",
+      "Price_Per_Meter": "68000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Syaheia 1",
+      "unit_type": "Retail",
+      "lower_limit": "4950000",
+      "Price_Per_Meter": "99000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Beheira",
+      "geol3": "Markaz Badr",
+      "geol4": "Unknown",
+      "unit_type": "Pharmacy",
+      "lower_limit": "6300000",
+      "Price_Per_Meter": "157500"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "El Fardous Compound",
+      "unit_type": "Pharmacy",
+      "lower_limit": "8800000",
+      "Price_Per_Meter": "220000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Madinaty",
+      "geol4": "Privado",
+      "unit_type": "Office Space",
+      "lower_limit": "13000000",
+      "Price_Per_Meter": "260000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Sheraton",
+      "geol4": "Masaken Sheraton",
+      "unit_type": "Warehouse",
+      "lower_limit": "13500000",
+      "Price_Per_Meter": "45000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Nozha",
+      "geol4": "El Hegaz Square",
+      "geol5": "Ammar Ibn Yasser St.",
+      "unit_type": "Retail",
+      "lower_limit": "16000000",
+      "Price_Per_Meter": "320000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "Maadi Grand City",
+      "unit_type": "Full Commercial Building",
+      "lower_limit": "45000000",
+      "Price_Per_Meter": "22500"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Future Commercial Center",
+      "unit_type": "Restaurant & Cafe",
+      "lower_limit": "31500000",
+      "Price_Per_Meter": "126000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Ibni Baitak 1",
+      "unit_type": "Medical Facility",
+      "lower_limit": "15000000",
+      "Price_Per_Meter": "15000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Nozha",
+      "geol4": "Sherif St.",
+      "unit_type": "Full Commercial Building",
+      "lower_limit": "45000000",
+      "Price_Per_Meter": "22500"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Agami",
+      "geol4": "Al Bitash",
+      "geol5": "Al Batal Ahmed Abdel Aziz St. ( Belbeis Previous )",
+      "unit_type": "Apartment",
+      "lower_limit": "400000",
+      "Price_Per_Meter": "4000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Hadayek al-Kobba",
+      "geol4": "Unknown",
+      "unit_type": "Studio",
+      "lower_limit": "400000",
+      "Price_Per_Meter": "13333"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Montazah",
+      "geol4": "Masaken Tosoon",
+      "unit_type": "Apartment",
+      "lower_limit": "1000000",
+      "Price_Per_Meter": "10000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Maadi",
+      "geol4": "Degla",
+      "unit_type": "Studio",
+      "lower_limit": "1700000",
+      "Price_Per_Meter": "56667"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Abasiya",
+      "geol4": "El Demerdash",
+      "unit_type": "Apartment",
+      "lower_limit": "1800000",
+      "Price_Per_Meter": "18000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Abasiya",
+      "geol4": "Sabil Al Khazendara St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1800000",
+      "Price_Per_Meter": "18000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Ain Shams",
+      "geol4": "Ahmed Esmat",
+      "geol5": "Al Kanisa Al Ingiliah St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1950000",
+      "Price_Per_Meter": "19500"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Hammam",
+      "geol5": "Caribbean",
+      "unit_type": "Apartment",
+      "lower_limit": "2100000",
+      "Price_Per_Meter": "21000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Miami",
+      "geol4": "Kaaed Asrab Al Behar St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2200000",
+      "Price_Per_Meter": "22000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Asafra",
+      "geol4": "Ahmed Tayseer St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2250000",
+      "Price_Per_Meter": "22500"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Hay Sharq",
+      "geol4": "Khorshed",
+      "geol5": "Gamila Abo Hreid St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2300000",
+      "Price_Per_Meter": "23000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Karma",
+      "unit_type": "Duplex",
+      "lower_limit": "2850000",
+      "Price_Per_Meter": "17812"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Moharam Bik",
+      "geol4": "Ierdes St.",
+      "unit_type": "Apartment",
+      "lower_limit": "3150000",
+      "Price_Per_Meter": "31500"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "3rd Zone",
+      "geol5": "1st Neighborhood",
+      "unit_type": "Duplex",
+      "lower_limit": "3600000",
+      "Price_Per_Meter": "22500"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Sidi Beshr",
+      "geol4": "Farouk Abdel Wahab St.",
+      "unit_type": "Apartment",
+      "lower_limit": "3650000",
+      "Price_Per_Meter": "36500"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Fleming",
+      "geol4": "Abd Al Fattah El Taweel St.",
+      "unit_type": "Apartment",
+      "lower_limit": "3950000",
+      "Price_Per_Meter": "39500"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "BOHO",
+      "unit_type": "Studio",
+      "lower_limit": "4100000",
+      "Price_Per_Meter": "136667"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "13th Sector",
+      "geol5": "1st District",
+      "unit_type": "Duplex",
+      "lower_limit": "5100000",
+      "Price_Per_Meter": "31875"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Sinai",
+      "geol3": "Ras Sedr",
+      "geol4": "Unknown",
+      "unit_type": "Hotel Apartment",
+      "lower_limit": "5400000",
+      "Price_Per_Meter": "108000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Ras Al Hekma",
+      "geol5": "Cali Coast",
+      "unit_type": "Studio",
+      "lower_limit": "6750000",
+      "Price_Per_Meter": "225000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Tebeen",
+      "geol4": "Masaken El Tebbin El Shaabeyah",
+      "geol5": "Corniche Al Nile St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000",
+      "Price_Per_Meter": "20000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Solay",
+      "unit_type": "Duplex",
+      "lower_limit": "8100000",
+      "Price_Per_Meter": "50625"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Hurghada",
+      "geol4": "Palma Resort",
+      "unit_type": "Apartment",
+      "lower_limit": "8350000",
+      "Price_Per_Meter": "83500"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "BOARDWALK",
+      "unit_type": "Duplex",
+      "lower_limit": "8700000",
+      "Price_Per_Meter": "54375"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "Baymount",
+      "unit_type": "Duplex",
+      "lower_limit": "10050000",
+      "Price_Per_Meter": "62812"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "CreekView",
+      "unit_type": "Duplex",
+      "lower_limit": "10350000",
+      "Price_Per_Meter": "64688"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "Koronfel Heights Compound",
+      "unit_type": "Penthouse",
+      "lower_limit": "15800000",
+      "Price_Per_Meter": "79000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Meadows Park Compound",
+      "unit_type": "Apartment",
+      "lower_limit": "9500000",
+      "Price_Per_Meter": "95000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Palm Hills",
+      "geol4": "Unknown",
+      "unit_type": "Penthouse",
+      "lower_limit": "20600000",
+      "Price_Per_Meter": "103000"
     }
   ]
 }
