@@ -1008,7 +1008,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "2700000"
+      "lower_bound_ci_99": "2300000"
     },
     {
       "brand": "Audi",
@@ -2878,7 +2878,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1458909"
+      "lower_bound_ci_99": "1300000"
     },
     {
       "brand": "BMW",
@@ -3218,7 +3218,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "2916682"
+      "lower_bound_ci_99": "1900000"
     },
     {
       "brand": "BMW",
@@ -14838,7 +14838,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "190000"
+      "lower_bound_ci_99": "150000"
     },
     {
       "brand": "Daewoo",
@@ -24838,7 +24838,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "380000"
+      "lower_bound_ci_99": "350000"
     },
     {
       "brand": "Hyundai",
@@ -26318,7 +26318,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1290000"
+      "lower_bound_ci_99": "1900000"
     },
     {
       "brand": "Hyundai",
@@ -36938,7 +36938,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1900000"
+      "lower_bound_ci_99": "1700000"
     },
     {
       "brand": "Mercedes-Benz",
@@ -37288,7 +37288,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "2000005"
+      "lower_bound_ci_99": "2500000"
     },
     {
       "brand": "Mercedes-Benz",
@@ -37358,7 +37358,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "3200000"
+      "lower_bound_ci_99": "2800000"
     },
     {
       "brand": "Mercedes-Benz",
@@ -38228,7 +38228,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "4100000"
+      "lower_bound_ci_99": "3600000"
     },
     {
       "brand": "Mercedes-Benz",
@@ -42348,7 +42348,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "5500000"
+      "lower_bound_ci_99": "5000000"
     },
     {
       "brand": "Mercedes-Benz",
@@ -57048,7 +57048,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "810000"
+      "lower_bound_ci_99": "650000"
     },
     {
       "brand": "Skoda",
@@ -77258,7 +77258,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "450000"
+      "lower_bound_ci_99": "350000"
     },
     {
       "brand": "Chevrolet",
@@ -87359,6 +87359,146 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "550000"
+    },
+    {
+      "brand": "DFSK",
+      "model": "Sokon",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "150000"
+    },
+    {
+      "brand": "Hyundai",
+      "model": "Veloster",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "500000"
+    },
+    {
+      "brand": "Brilliance",
+      "model": "Splendor",
+      "year": "2010",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "235000"
+    },
+    {
+      "brand": "Ssang Yong",
+      "model": "Tivoli",
+      "year": "2015",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "700000"
+    },
+    {
+      "brand": "BMW",
+      "model": "X6 M",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "7200000"
+    },
+    {
+      "brand": "Geely",
+      "model": "GX3 Pro",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "650000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Galant",
+      "year": "1981",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "108000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "GLE",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3700000"
+    },
+    {
+      "brand": "Lamborghini",
+      "model": "Urus",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "13500000"
+    },
+    {
+      "brand": "Lada",
+      "model": "1500",
+      "year": "2006",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "117000"
+    },
+    {
+      "brand": "Ferrari",
+      "model": "Portofino M",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "10400000"
+    },
+    {
+      "brand": "BMW",
+      "model": "740",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "7000000"
+    },
+    {
+      "brand": "BMW",
+      "model": "I7",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "6900000"
+    },
+    {
+      "brand": "Geely",
+      "model": "Emgrand X7",
+      "year": "2008",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "162000"
     }
   ]
 }
