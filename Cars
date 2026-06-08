@@ -3308,7 +3308,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "3435417"
+      "lower_bound_ci_99": "2435417"
     },
     {
       "brand": "BMW",
@@ -16718,7 +16718,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "550000"
+      "lower_bound_ci_99": "500000"
     },
     {
       "brand": "Dodge",
@@ -23478,7 +23478,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "2800000"
+      "lower_bound_ci_99": "2500000"
     },
     {
       "brand": "Honda",
@@ -38298,7 +38298,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "3900000"
+      "lower_bound_ci_99": "3000000"
     },
     {
       "brand": "Mercedes-Benz",
@@ -47538,7 +47538,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "13000000"
+      "lower_bound_ci_99": "10000000"
     },
     {
       "brand": "Nissan",
@@ -87929,6 +87929,176 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "485000"
+    },
+    {
+      "brand": "Toyota",
+      "model": "bz4X",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1400000"
+    },
+    {
+      "brand": "Geely",
+      "model": "Ck",
+      "year": "2005",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "85000"
+    },
+    {
+      "brand": "MINI",
+      "model": "Convertible",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2550000"
+    },
+    {
+      "brand": "Changan",
+      "model": "CS55",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1000000"
+    },
+    {
+      "brand": "BYD",
+      "model": "Dolphin",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "850000"
+    },
+    {
+      "brand": "Lamborghini",
+      "model": "Huracan",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "9000000"
+    },
+    {
+      "brand": "Renault",
+      "model": "Kadjar",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1100000"
+    },
+    {
+      "brand": "BYD",
+      "model": "Leopard 7",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2100000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "Linea",
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "250000"
+    },
+    {
+      "brand": "Dongfeng",
+      "model": "MHERO 1",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3500000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "Polonez",
+      "year": "1982",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "76500"
+    },
+    {
+      "brand": "BYD",
+      "model": "Sealion 5",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1250000"
+    },
+    {
+      "brand": "BYD",
+      "model": "Sealion 6",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1750000"
+    },
+    {
+      "brand": "BYD",
+      "model": "Shark 6",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3000000"
+    },
+    {
+      "brand": "BYD",
+      "model": "Tang L",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2550000"
+    },
+    {
+      "brand": "BMW",
+      "model": "X7 M60i",
+      "year": "2023",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "5400000"
+    },
+    {
+      "brand": "BMW",
+      "model": "Z4",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3500000"
     }
   ]
 }
