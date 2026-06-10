@@ -1278,7 +1278,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "4200000"
+      "lower_bound_ci_99": "3200000"
     },
     {
       "brand": "Audi",
@@ -3298,7 +3298,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "3416878"
+      "lower_bound_ci_99": "3000000"
     },
     {
       "brand": "BMW",
@@ -10078,7 +10078,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1250000"
+      "lower_bound_ci_99": "1000000"
     },
     {
       "brand": "Chery",
@@ -20988,7 +20988,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1000000"
+      "lower_bound_ci_99": "800000"
     },
     {
       "brand": "Ford",
@@ -21098,7 +21098,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "140000"
+      "lower_bound_ci_99": "100000"
     },
     {
       "brand": "Ford",
@@ -24588,7 +24588,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "330000"
+      "lower_bound_ci_99": "300000"
     },
     {
       "brand": "Hyundai",
@@ -29988,7 +29988,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "350000"
+      "lower_bound_ci_99": "280000"
     },
     {
       "brand": "Kia",
@@ -31458,7 +31458,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1900000"
+      "lower_bound_ci_99": "1400000"
     },
     {
       "brand": "Kia",
@@ -34208,7 +34208,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "16000000"
+      "lower_bound_ci_99": "14000000"
     },
     {
       "brand": "Land Rover",
@@ -37782,7 +37782,7 @@
     },
     {
       "brand": "Mercedes-Benz",
-      "model": "GLE-Class",
+      "model": "GLE-Class\r",
       "year": "2022",
       "listings_count": "0",
       "median_price": "0",
@@ -37792,7 +37792,7 @@
     },
     {
       "brand": "Mercedes-Benz",
-      "model": "GLK 350",
+      "model": "GLK 350\r",
       "year": "2011",
       "listings_count": "0",
       "median_price": "0",
@@ -37812,7 +37812,7 @@
     },
     {
       "brand": "Mercedes-Benz",
-      "model": "EQE 350",
+      "model": "EQE 350\r",
       "year": "2024",
       "listings_count": "0",
       "median_price": "0",
@@ -38698,7 +38698,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "6500000"
+      "lower_bound_ci_99": "5000000"
     },
     {
       "brand": "Mercedes-Benz",
@@ -43031,7 +43031,7 @@
       "lower_bound_ci_99": "6200000"
     },
     {
-      "brand": "Mercedes-Benz",
+      "brand": "Mercedes-Benz\r",
       "model": "GLC 300",
       "year": "2025",
       "listings_count": "0",
@@ -43041,7 +43041,7 @@
       "lower_bound_ci_99": "6000000"
     },
     {
-      "brand": "Mercedes-Benz",
+      "brand": "Mercedes-Benz\r",
       "model": "Viano",
       "year": "2024",
       "listings_count": "0",
@@ -43051,8 +43051,8 @@
       "lower_bound_ci_99": "5000000"
     },
     {
-      "brand": "Mercedes-Benz",
-      "model": "EQS 580",
+      "brand": "Mercedes-Benz\r",
+      "model": "EQS 580\r",
       "year": "2022",
       "listings_count": "0",
       "median_price": "0",
@@ -43061,8 +43061,8 @@
       "lower_bound_ci_99": "5500000"
     },
     {
-      "brand": "Mercedes-Benz",
-      "model": "M-Class",
+      "brand": "Mercedes-Benz\r",
+      "model": "M-Class\r",
       "year": "2013",
       "listings_count": "0",
       "median_price": "0",
@@ -43071,7 +43071,7 @@
       "lower_bound_ci_99": "1400000"
     },
     {
-      "brand": "Mercedes-Benz",
+      "brand": "Mercedes-Benz\r",
       "model": "A200",
       "year": "2010",
       "listings_count": "0",
@@ -43081,7 +43081,7 @@
       "lower_bound_ci_99": "550000"
     },
     {
-      "brand": "Mercedes-Benz",
+      "brand": "Mercedes-Benz\r",
       "model": "S300",
       "year": "1991",
       "listings_count": "0",
@@ -43091,7 +43091,7 @@
       "lower_bound_ci_99": "450000"
     },
     {
-      "brand": "Mercedes-Benz",
+      "brand": "Mercedes-Benz\r",
       "model": "G63",
       "year": "2023",
       "listings_count": "0",
@@ -43101,7 +43101,7 @@
       "lower_bound_ci_99": "8900000"
     },
     {
-      "brand": "Mercedes-Benz",
+      "brand": "Mercedes-Benz\r",
       "model": "B200",
       "year": "2019",
       "listings_count": "0",
@@ -43111,8 +43111,8 @@
       "lower_bound_ci_99": "1200000"
     },
     {
-      "brand": "Mercedes-Benz",
-      "model": "B160",
+      "brand": "Mercedes-Benz\r",
+      "model": "B160\r",
       "year": "2010",
       "listings_count": "0",
       "median_price": "0",
@@ -43121,8 +43121,8 @@
       "lower_bound_ci_99": "600000"
     },
     {
-      "brand": "Mercedes-Benz",
-      "model": "CLK-Class",
+      "brand": "Mercedes-Benz\r",
+      "model": "CLK-Class\r",
       "year": "2024",
       "listings_count": "0",
       "median_price": "0",
@@ -43131,7 +43131,7 @@
       "lower_bound_ci_99": "1800000"
     },
     {
-      "brand": "Mercedes-Benz",
+      "brand": "Mercedes-Benz\r",
       "model": "GLS",
       "year": "2024",
       "listings_count": "0",
@@ -43141,8 +43141,8 @@
       "lower_bound_ci_99": "5000000"
     },
     {
-      "brand": "Mercedes-Benz",
-      "model": "CLA 180",
+      "brand": "Mercedes-Benz\r",
+      "model": "CLA 180\r",
       "year": "2017",
       "listings_count": "0",
       "median_price": "0",
@@ -43151,7 +43151,7 @@
       "lower_bound_ci_99": "1000000"
     },
     {
-      "brand": "Mercedes-Benz",
+      "brand": "Mercedes-Benz\r",
       "model": "G63",
       "year": "2022",
       "listings_count": "0",
@@ -43161,8 +43161,8 @@
       "lower_bound_ci_99": "8000000"
     },
     {
-      "brand": "Mercedes-Benz",
-      "model": "EQA 260",
+      "brand": "Mercedes-Benz\r",
+      "model": "EQA 260\r",
       "year": "2024",
       "listings_count": "0",
       "median_price": "0",
@@ -43171,8 +43171,8 @@
       "lower_bound_ci_99": "2300000"
     },
     {
-      "brand": "Mercedes-Benz",
-      "model": "EQE 500",
+      "brand": "Mercedes-Benz\r",
+      "model": "EQE 500\r",
       "year": "2025",
       "listings_count": "0",
       "median_price": "0",
@@ -43181,7 +43181,7 @@
       "lower_bound_ci_99": "4100000"
     },
     {
-      "brand": "Mercedes-Benz",
+      "brand": "Mercedes-Benz\r",
       "model": "C200",
       "year": "2004",
       "listings_count": "0",
@@ -43191,7 +43191,7 @@
       "lower_bound_ci_99": "600000"
     },
     {
-      "brand": "Mercedes-Benz",
+      "brand": "Mercedes-Benz\r",
       "model": "B200",
       "year": "2022",
       "listings_count": "0",
@@ -43432,7 +43432,7 @@
     },
     {
       "brand": "MG",
-      "model": "MG 6",
+      "model": "MG 6\r",
       "year": "2025",
       "listings_count": "0",
       "median_price": "0",
@@ -43502,7 +43502,7 @@
     },
     {
       "brand": "MG",
-      "model": "MG 6",
+      "model": "MG 6\r",
       "year": "2022",
       "listings_count": "0",
       "median_price": "0",
@@ -45198,7 +45198,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "2900000"
+      "lower_bound_ci_99": "2500000"
     },
     {
       "brand": "Mitsubishi",
@@ -45228,7 +45228,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "3600000"
+      "lower_bound_ci_99": "2600000"
     },
     {
       "brand": "Mitsubishi",
@@ -46628,7 +46628,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "670000"
+      "lower_bound_ci_99": "570000"
     },
     {
       "brand": "Nissan",
@@ -49848,7 +49848,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "630000"
+      "lower_bound_ci_99": "530000"
     },
     {
       "brand": "Peugeot",
@@ -57388,7 +57388,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "160000"
+      "lower_bound_ci_99": "120000"
     },
     {
       "brand": "Skoda",
@@ -60132,7 +60132,7 @@
     },
     {
       "brand": "Suzuki",
-      "model": "S-Presso",
+      "model": "S-Presso\r",
       "year": "2021",
       "listings_count": "0",
       "median_price": "0",
@@ -65478,7 +65478,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "135000"
+      "lower_bound_ci_99": "90000"
     },
     {
       "brand": "Volkswagen",
@@ -67408,7 +67408,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "2300000"
+      "lower_bound_ci_99": "2800000"
     },
     {
       "brand": "Xiaomi",
@@ -68268,7 +68268,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "5300000"
+      "lower_bound_ci_99": "3300000"
     },
     {
       "brand": "Hyundai",
@@ -88189,6 +88189,146 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "5200000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "G63",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "12000000"
+    },
+    {
+      "brand": "Kaiyi",
+      "model": "X3 Pro",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "950000"
+    },
+    {
+      "brand": "Isuzu",
+      "model": "NPR",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1000000"
+    },
+    {
+      "brand": "Audi",
+      "model": "A8",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "8000000"
+    },
+    {
+      "brand": "BMW",
+      "model": "320",
+      "year": "2002",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "460000"
+    },
+    {
+      "brand": "BMW",
+      "model": "I7",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "7500000"
+    },
+    {
+      "brand": "BYD",
+      "model": "Tang",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1800000"
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Pickup",
+      "year": "1984",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "65000"
+    },
+    {
+      "brand": "Forthing",
+      "model": "U-Tour",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1750000"
+    },
+    {
+      "brand": "Forthing",
+      "model": "S7",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1390000"
+    },
+    {
+      "brand": "Hyundai",
+      "model": "Elantra Coupe",
+      "year": "1994",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "285000"
+    },
+    {
+      "brand": "Jetour",
+      "model": "X70 Plus",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "920000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Pathfinder",
+      "year": "2013",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1400000"
+    },
+    {
+      "brand": "Suzuki",
+      "model": "Swift",
+      "year": "1989",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "80000"
     }
   ]
 }
