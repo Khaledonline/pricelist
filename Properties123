@@ -48276,7 +48276,7 @@
       "geol4": "The Estates Compound",
       "unit_type": "Town House",
       "lower_limit": "18000000",
-      "Price_Per_Meter": "63800"
+      "Price_Per_Meter": "68800"
     },
     {
       "cat": "Villas For Sale",
@@ -147813,6 +147813,89 @@
       "unit_type": "Twin House",
       "lower_limit": "9450000",
       "Price_Per_Meter": "54000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Abasiya",
+      "geol4": "Al Mostashfa Al Italy St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2000000",
+      "Price_Per_Meter": "20000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Hadayek El Asema",
+      "unit_type": "Penthouse",
+      "lower_limit": "4900000",
+      "Price_Per_Meter": "24500"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Amreya",
+      "geol4": "Al Zohor Beach St.",
+      "unit_type": "Apartment",
+      "lower_limit": "850000",
+      "Price_Per_Meter": "8500"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Ain Shams",
+      "geol4": "Saad St.",
+      "unit_type": "Apartment",
+      "lower_limit": "18000000",
+      "Price_Per_Meter": "180000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Dhahria",
+      "geol4": "Street 153",
+      "unit_type": "Apartment",
+      "lower_limit": "800000",
+      "Price_Per_Meter": "8000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Sayeda Zeinab",
+      "geol4": "Al Eini",
+      "geol5": "Bostan Al Khashab St.",
+      "unit_type": "Retail",
+      "lower_limit": "15000000",
+      "Price_Per_Meter": "300000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Heliopolis",
+      "geol4": "Emdad Heliopolis",
+      "unit_type": "Factory",
+      "lower_limit": "30000000",
+      "Price_Per_Meter": "30000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Faisal",
+      "geol4": "Maryotaya",
+      "unit_type": "Full Commercial Building",
+      "lower_limit": "20000000",
+      "Price_Per_Meter": "10000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "‎Pearl des Rois",
+      "unit_type": "Office",
+      "lower_limit": "4000000",
+      "Price_Per_Meter": "82857"
     }
   ]
 }
