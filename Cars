@@ -49678,7 +49678,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "850000"
+      "lower_bound_ci_99": "750000"
     },
     {
       "brand": "Peugeot",
@@ -88949,6 +88949,56 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "320000"
+    },
+    {
+      "brand": "Porsche",
+      "model": "Cayenne",
+      "year": "2017",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3600000"
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Tahoe",
+      "year": "2014",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2500000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "128 Nova",
+      "year": "1974",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "50000"
+    },
+    {
+      "brand": "Changhe",
+      "model": "Super Panda",
+      "year": "2008",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "145000"
+    },
+    {
+      "brand": "Toyota",
+      "model": "GR Corolla",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1200000"
     }
   ]
 }
