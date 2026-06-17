@@ -3158,7 +3158,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "2522846"
+      "lower_bound_ci_99": "1800000"
     },
     {
       "brand": "BMW",
@@ -7561,7 +7561,7 @@
       "lower_bound_ci_99": "1650000"
     },
     {
-      "brand": "BMW ",
+      "brand": "BMW",
       "model": "X2",
       "year": "2020",
       "listings_count": "0",
@@ -28608,7 +28608,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "2200000"
+      "lower_bound_ci_99": "1700000"
     },
     {
       "brand": "Jeep",
@@ -34888,7 +34888,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "10900000"
+      "lower_bound_ci_99": "7900000"
     },
     {
       "brand": "Land Rover",
@@ -40658,7 +40658,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "7800000"
+      "lower_bound_ci_99": "7000000"
     },
     {
       "brand": "Mercedes-Benz",
@@ -47538,7 +47538,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "10000000"
+      "lower_bound_ci_99": "8000000"
     },
     {
       "brand": "Nissan",
@@ -75442,7 +75442,7 @@
     },
     {
       "brand": "Chery",
-      "model": "Arrizo 6 pro",
+      "model": "Arrizo 6 pro",
       "year": "2026",
       "listings_count": "0",
       "median_price": "0",
@@ -88471,16 +88471,6 @@
       "lower_bound_ci_99": "1700000"
     },
     {
-      "brand": "Dongfeng",
-      "model": "",
-      "year": "2026",
-      "listings_count": "0",
-      "median_price": "0",
-      "avg_price": "0",
-      "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "3500000"
-    },
-    {
       "brand": "Faw",
       "model": "Van",
       "year": "2010",
@@ -88999,6 +88989,156 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "1200000"
+    },
+    {
+      "brand": "BMW",
+      "model": "116",
+      "year": "1994",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "234000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "1300",
+      "year": "1965",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "50500"
+    },
+    {
+      "brand": "Citroen",
+      "model": "AX",
+      "year": "1993",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "81000"
+    },
+    {
+      "brand": "Citroen",
+      "model": "C5",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "15500000"
+    },
+    {
+      "brand": "Land Rover",
+      "model": "Defender",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "4800000"
+    },
+    {
+      "brand": "Hongqi",
+      "model": "E-HS9",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "4000000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "E230",
+      "year": "1971",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "180000"
+    },
+    {
+      "brand": "Maserati",
+      "model": "GranCabrio",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "9100000"
+    },
+    {
+      "brand": "BMW",
+      "model": "I3",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "650000"
+    },
+    {
+      "brand": "Jac",
+      "model": "JS4",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "850000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "N6",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "350000"
+    },
+    {
+      "brand": "Chery",
+      "model": "Tiggo 7 Pro",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1150000"
+    },
+    {
+      "brand": "Chery",
+      "model": "Tiggo 8 Pro Max",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1350000"
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Trial Blazer",
+      "year": "1992",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "180000"
+    },
+    {
+      "brand": "BMW",
+      "model": "X3",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3800000"
     }
   ]
 }
