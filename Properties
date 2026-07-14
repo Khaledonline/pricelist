@@ -43181,7 +43181,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "The Gate",
+      "geol4": "Alamein",
+      "geol5": "The Gate",
       "unit_type": "Studio",
       "lower_limit": "3000000"
     },
@@ -43189,7 +43190,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "The Gate",
+      "geol4": "Alamein",
+      "geol5": "The Gate",
       "unit_type": "Studio",
       "lower_limit": "3000000"
     },
@@ -43197,7 +43199,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "The Gate",
+      "geol4": "Alamein",
+      "geol5": "The Gate",
       "unit_type": "Chalet",
       "lower_limit": "6000000"
     },
@@ -43205,7 +43208,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "The Gate",
+      "geol4": "Alamein",
+      "geol5": "The Gate",
       "unit_type": "Apartment",
       "lower_limit": "4500000"
     },
@@ -43213,7 +43217,8 @@
       "cat": "Vacation Homes for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "The Gate",
+      "geol4": "Alamein",
+      "geol5": "The Gate",
       "unit_type": "Duplex",
       "lower_limit": "10000000"
     },
@@ -43221,7 +43226,8 @@
       "cat": "Villas For Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "The Gate",
+      "geol4": "Alamein",
+      "geol5": "The Gate",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "15000000"
     },
@@ -106840,7 +106846,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Matruh",
       "geol3": "North Coast",
-      "geol4": "The Gate",
+      "geol4": "Alamein",
+      "geol5": "The Gate",
       "unit_type": "Hotel Apartment",
       "lower_limit": "11757000"
     },
@@ -130261,7 +130268,7 @@
       "geol2": "Alexandria",
       "geol3": "Mandara",
       "geol4": "Nabawy Al Mohandes St.",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1200000"
     },
     {
@@ -130277,7 +130284,7 @@
       "geol2": "Cairo",
       "geol3": "Heliopolis",
       "geol4": "Mansheya El Bakry",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5650000"
     },
     {
@@ -130333,7 +130340,7 @@
       "geol2": "Alexandria",
       "geol3": "Mandara",
       "geol4": "Al Eshreeni St.",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1900000"
     },
     {
@@ -130732,7 +130739,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "La Vista City",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3500000"
     },
     {
@@ -130765,7 +130772,7 @@
       "geol2": "Cairo",
       "geol3": "Shorouk City",
       "geol4": "El Shorouk Resort",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3150000"
     },
     {
@@ -130774,7 +130781,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "It Business Hub",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "7150000"
     },
     {
@@ -130809,7 +130816,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Midlane 2",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "15200000"
     },
     {
@@ -130826,7 +130833,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Mindhaus New Katameya",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "16500000"
     },
     {
@@ -130876,7 +130883,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "8th District",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4200000"
     },
     {
@@ -131552,7 +131559,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Azad",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "40500000"
     },
     {
@@ -131561,7 +131568,7 @@
       "geol3": "New Cairo",
       "geol4": "1st Settlement",
       "geol5": "Yellow Lane",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "38000000"
     },
     {
@@ -131569,7 +131576,7 @@
       "geol2": "Cairo",
       "geol3": "Zawya al-Hamra",
       "geol4": "6 October St.",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2400000"
     },
     {
@@ -131585,7 +131592,7 @@
       "geol2": "Alexandria",
       "geol3": "Roushdy",
       "geol4": "Syria St.",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "7800000"
     },
     {
@@ -131635,7 +131642,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Point 90 Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "13500000"
     },
     {
@@ -131653,7 +131660,7 @@
       "geol3": "North Coast",
       "geol4": "Ras Al Hekma",
       "geol5": "El Masyaf",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "13050000"
     },
     {
@@ -131782,7 +131789,7 @@
       "geol3": "New Nozha",
       "geol4": "Saint Fatima Square",
       "geol5": "Othman Ibn Affan St.",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "7750000"
     },
     {
@@ -131800,7 +131807,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Podium Cairo Festival City Admin Buildings",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "21600000"
     },
     {
@@ -131827,7 +131834,7 @@
       "geol3": "New Cairo",
       "geol4": "1st Settlement",
       "geol5": "Park View Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "7600000"
     },
     {
@@ -132037,6 +132044,453 @@
       "geol4": "La Vista 5",
       "unit_type": "Town House",
       "lower_limit": "12500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Mountain Park",
+      "unit_type": "Duplex",
+      "lower_limit": "11700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "Coronado Beach Resort",
+      "unit_type": "Apartment",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Ras Al Hekma",
+      "geol5": "Naia Bay",
+      "unit_type": "Hotel Apartment",
+      "lower_limit": "9450000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Club Side Towers - Zed East",
+      "unit_type": "Duplex",
+      "lower_limit": "14500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "The Gate",
+      "unit_type": "Apartment",
+      "lower_limit": "15500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Dahya",
+      "unit_type": "Studio",
+      "lower_limit": "1900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R5",
+      "geol5": "New Garden City",
+      "unit_type": "Studio",
+      "lower_limit": "3150000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "EDNC",
+      "unit_type": "Penthouse",
+      "lower_limit": "15000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "EDNC",
+      "unit_type": "Duplex",
+      "lower_limit": "8000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Ras Al Hekma",
+      "geol5": "Azha",
+      "unit_type": "Studio",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Hammam",
+      "geol5": "Porto Marina Residence",
+      "unit_type": "Duplex",
+      "lower_limit": "10800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R7",
+      "geol5": "De Joya 3",
+      "unit_type": "Studio",
+      "lower_limit": "1800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Hurghada",
+      "geol4": "Lavaya",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Marina Marassi",
+      "unit_type": "Apartment",
+      "lower_limit": "13650000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Al Maqsad",
+      "unit_type": "Studio",
+      "lower_limit": "2950000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Smoha",
+      "geol4": "Ismail Serry St.",
+      "unit_type": "Apartment",
+      "lower_limit": "4200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Hammam",
+      "geol5": "Nice 4",
+      "unit_type": "Apartment",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R8",
+      "geol5": "Layal Residence",
+      "unit_type": "Duplex",
+      "lower_limit": "6200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "The Gate",
+      "unit_type": "Studio",
+      "lower_limit": "6450000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Park St. Edition",
+      "unit_type": "Clinic",
+      "lower_limit": "13500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Mansuriyya",
+      "geol4": "Unknown",
+      "unit_type": "Retail",
+      "lower_limit": "6500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Maadi",
+      "geol4": "Saqr Quraish",
+      "geol5": "OXagon",
+      "unit_type": "Medical Facility",
+      "lower_limit": "5700000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Atom Mall",
+      "unit_type": "Office",
+      "lower_limit": "18000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "Marina 2",
+      "unit_type": "Showroom",
+      "lower_limit": "20700000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Hyde Park Business District",
+      "unit_type": "Retail",
+      "lower_limit": "21600000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Al Manial",
+      "geol4": "Unknown",
+      "unit_type": "Restaurant & Cafe",
+      "lower_limit": "19500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Shades",
+      "unit_type": "Office",
+      "lower_limit": "15200000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Centrada Plaza",
+      "unit_type": "Restaurant & Cafe",
+      "lower_limit": "5350000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "7th District",
+      "unit_type": "Showroom",
+      "lower_limit": "18000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "The Address",
+      "unit_type": "Retail",
+      "lower_limit": "14300000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Park St. Edition",
+      "unit_type": "Full Commercial Building",
+      "lower_limit": "90000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "The Address",
+      "unit_type": "Pharmacy",
+      "lower_limit": "20300000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Nozha",
+      "geol4": "Al Nazaha St.",
+      "unit_type": "Office",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Asafra",
+      "geol4": "Souk Al Asafra St.",
+      "unit_type": "Full Commercial Building",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "The Island",
+      "unit_type": "Chalet",
+      "lower_limit": "15700000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "The Gate",
+      "unit_type": "Chalet",
+      "lower_limit": "9500000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Unknown",
+      "unit_type": "Cabin",
+      "lower_limit": "9900000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Ras Al Hekma",
+      "geol5": "Ayla",
+      "unit_type": "Chalet",
+      "lower_limit": "7800000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Maadi",
+      "geol4": "Unknown",
+      "unit_type": "iVilla",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "East of Academy",
+      "unit_type": "Twin House",
+      "lower_limit": "18000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Marina Marassi",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "36000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Red Sea",
+      "geol3": "Makadi Bay",
+      "geol4": "Jewel Makadi Resort",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "24000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Hava",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "21600000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Marina Marassi",
+      "unit_type": "Town House",
+      "lower_limit": "24750000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Zizinia Compound",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "28800000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Red Sea",
+      "geol3": "Safaga",
+      "geol4": "Amwaj Blue Beach Resort",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "21500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Red Sea",
+      "geol3": "Gouna",
+      "geol4": "Encore",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "64200000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek al-Ahram",
+      "geol4": "Gate 4 - Mena",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "5850000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo University Compound",
+      "unit_type": "iVilla",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Hammam",
+      "geol5": "Ain Shams University",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "5400000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Garden Residence Hyde Park",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "42300000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Hammam",
+      "geol5": "Marina Flowers",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "13950000"
     }
   ]
 }
