@@ -138055,6 +138055,40 @@
       "geol4": "Lasirena Mini Egypt",
       "unit_type": "Twin House",
       "lower_limit": "6500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Agami",
+      "geol4": "Unknown",
+      "unit_type": "Factory",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Blue Valley",
+      "unit_type": "Retail",
+      "lower_limit": "5000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "El Khalifa",
+      "geol4": "El Imam El Shafei",
+      "geol5": "Al Imam El Shafei St.",
+      "unit_type": "Retail",
+      "lower_limit": "4000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "3rd Settlement",
+      "geol5": "West Arabella Compound",
+      "unit_type": "Apartment",
+      "lower_limit": "6000000"
     }
   ]
 }
