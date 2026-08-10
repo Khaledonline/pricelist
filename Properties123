@@ -606,7 +606,7 @@
       "geol5": "Taj City Compound",
       "unit_type": "Apartment",
       "lower_limit": "6000000",
-      "Price_Per_Meter": "53000"
+      "Price_Per_Meter": "73000"
     },
     {
       "cat": "Apartments for Sale",
@@ -15931,7 +15931,7 @@
       "geol4": "Arkan Palm 205",
       "unit_type": "Retail",
       "lower_limit": "5000000",
-      "Price_Per_Meter": "215600"
+      "Price_Per_Meter": "180600"
     },
     {
       "cat": "Commercial for Sale",
@@ -19156,7 +19156,7 @@
       "geol5": "Cali Coast",
       "unit_type": "Chalet",
       "lower_limit": "6000000",
-      "Price_Per_Meter": "69880"
+      "Price_Per_Meter": "72880"
     },
     {
       "cat": "Apartments for Sale",
@@ -35230,7 +35230,7 @@
       "geol5": "Mazarine",
       "unit_type": "Chalet",
       "lower_limit": "6500000",
-      "Price_Per_Meter": "75880"
+      "Price_Per_Meter": "70880"
     },
     {
       "cat": "Apartments for Sale",
@@ -48033,7 +48033,7 @@
       "geol4": "The Butterfly",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "8000000",
-      "Price_Per_Meter": "94560"
+      "Price_Per_Meter": "65560"
     },
     {
       "cat": "Apartments for Sale",
@@ -49579,7 +49579,7 @@
       "geol4": "Unknown",
       "unit_type": "Retail",
       "lower_limit": "2000000",
-      "Price_Per_Meter": "133760"
+      "Price_Per_Meter": "63760"
     },
     {
       "cat": "Commercial for Sale",
@@ -55951,7 +55951,7 @@
       "geol4": "Unknown",
       "unit_type": "Chalet",
       "lower_limit": "4000000",
-      "Price_Per_Meter": "13800"
+      "Price_Per_Meter": "138000"
     },
     {
       "cat": "Commercial for Sale",
@@ -60271,7 +60271,7 @@
       "geol4": "Unknown",
       "unit_type": "Apartment",
       "lower_limit": "4000000",
-      "Price_Per_Meter": "45000"
+      "Price_Per_Meter": "50520"
     },
     {
       "cat": "Apartments for Sale",
@@ -60343,7 +60343,7 @@
       "geol4": "Unknown",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "8000000",
-      "Price_Per_Meter": "60000"
+      "Price_Per_Meter": "50000"
     },
     {
       "cat": "Commercial for Sale",
@@ -70869,7 +70869,7 @@
       "geol4": "Gate 3 - Menkaure",
       "unit_type": "Apartment",
       "lower_limit": "1000000",
-      "Price_Per_Meter": "13640"
+      "Price_Per_Meter": "13700"
     },
     {
       "cat": "Apartments for Sale",
@@ -72722,7 +72722,7 @@
       "geol4": "Alam Al- Rum",
       "unit_type": "Chalet",
       "lower_limit": "1700000",
-      "Price_Per_Meter": "21370"
+      "Price_Per_Meter": "121370"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -144086,7 +144086,7 @@
       "geol4": "Alam Al- Rum",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "1950000",
-      "Price_Per_Meter": "6500"
+      "Price_Per_Meter": "65000"
     },
     {
       "cat": "Commercial for Sale",
@@ -147585,7 +147585,7 @@
       "geol5": "Blue Views Residences Mivida",
       "unit_type": "Apartment",
       "lower_limit": "18900000",
-      "Price_Per_Meter": "189000"
+      "Price_Per_Meter": "119000"
     },
     {
       "cat": "Commercial for Sale",
@@ -149321,7 +149321,7 @@
       "geol2": "Cairo",
       "geol3": "Nozha",
       "geol4": "Cairo International Airport",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5850000",
       "Price_Per_Meter": "117000"
     },
@@ -149376,7 +149376,7 @@
       "geol2": "Alexandria",
       "geol3": "Sidi Beshr",
       "geol4": "Cairo St.",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1550000",
       "Price_Per_Meter": "31000"
     },
@@ -150443,7 +150443,7 @@
       "geol2": "Alexandria",
       "geol3": "Victoria",
       "geol4": "Momtaz Basha St.",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "600000",
       "Price_Per_Meter": "12000"
     },
@@ -150961,7 +150961,7 @@
       "geol2": "Alexandria",
       "geol3": "Smoha",
       "geol4": "Green Towers",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "7650000",
       "Price_Per_Meter": "51000"
     },
@@ -151121,7 +151121,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Urban Business Lane",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "12750000",
       "Price_Per_Meter": "95000"
     },
@@ -151131,7 +151131,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Trevi Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "13100000",
       "Price_Per_Meter": "100000"
     },
@@ -151168,7 +151168,7 @@
       "geol2": "Gharbia",
       "geol3": "Tanta",
       "geol4": "Al Gaish St",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "12500000",
       "Price_Per_Meter": "50000"
     },
@@ -151226,7 +151226,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Central New Cairo",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "20250000",
       "Price_Per_Meter": "110000"
     },
@@ -151883,7 +151883,7 @@
       "geol3": "North Coast",
       "geol4": "Alamein",
       "geol5": "North Code",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5400000",
       "Price_Per_Meter": "72000"
     },
@@ -151960,7 +151960,7 @@
       "geol2": "Giza",
       "geol3": "Hadayek October",
       "geol4": "Seven Complex",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3800000",
       "Price_Per_Meter": "42000"
     },
@@ -153395,7 +153395,7 @@
       "geol2": "Alexandria",
       "geol3": "Mandara",
       "geol4": "Nabawy Al Mohandes St.",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1200000",
       "Price_Per_Meter": "22000"
     },
@@ -153413,7 +153413,7 @@
       "geol2": "Cairo",
       "geol3": "Heliopolis",
       "geol4": "Mansheya El Bakry",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5650000",
       "Price_Per_Meter": "51500"
     },
@@ -153476,7 +153476,7 @@
       "geol2": "Alexandria",
       "geol3": "Mandara",
       "geol4": "Al Eshreeni St.",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "1900000",
       "Price_Per_Meter": "21000"
     },
@@ -153922,7 +153922,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "La Vista City",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3500000",
       "Price_Per_Meter": "58000"
     },
@@ -153959,7 +153959,7 @@
       "geol2": "Cairo",
       "geol3": "Shorouk City",
       "geol4": "El Shorouk Resort",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3150000",
       "Price_Per_Meter": "45000"
     },
@@ -153969,7 +153969,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "It Business Hub",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "7150000",
       "Price_Per_Meter": "71500"
     },
@@ -154008,7 +154008,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Midlane 2",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "15200000",
       "Price_Per_Meter": "76000"
     },
@@ -154027,7 +154027,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Mindhaus New Katameya",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "16500000",
       "Price_Per_Meter": "82500"
     },
@@ -154083,7 +154083,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "8th District",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4200000",
       "Price_Per_Meter": "56000"
     },
@@ -154840,7 +154840,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Azad",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "40500000",
       "Price_Per_Meter": "90000"
     },
@@ -154850,7 +154850,7 @@
       "geol3": "New Cairo",
       "geol4": "1st Settlement",
       "geol5": "Yellow Lane",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "38000000",
       "Price_Per_Meter": "95000"
     },
@@ -154859,7 +154859,7 @@
       "geol2": "Cairo",
       "geol3": "Zawya al-Hamra",
       "geol4": "6 October St.",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2400000",
       "Price_Per_Meter": "32000"
     },
@@ -154877,7 +154877,7 @@
       "geol2": "Alexandria",
       "geol3": "Roushdy",
       "geol4": "Syria St.",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "7800000",
       "Price_Per_Meter": "52000"
     },
@@ -154933,7 +154933,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Point 90 Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "13500000",
       "Price_Per_Meter": "90000"
     },
@@ -154953,7 +154953,7 @@
       "geol3": "North Coast",
       "geol4": "Ras Al Hekma",
       "geol5": "El Masyaf",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "13050000",
       "Price_Per_Meter": "72500"
     },
@@ -155097,7 +155097,7 @@
       "geol3": "New Nozha",
       "geol4": "Saint Fatima Square",
       "geol5": "Othman Ibn Affan St.",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "7750000",
       "Price_Per_Meter": "51500"
     },
@@ -155117,7 +155117,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Podium Cairo Festival City Admin Buildings",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "21600000",
       "Price_Per_Meter": "108000"
     },
@@ -155147,7 +155147,7 @@
       "geol3": "New Cairo",
       "geol4": "1st Settlement",
       "geol5": "Park View Compound",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "7600000",
       "Price_Per_Meter": "76000"
     },
@@ -160381,7 +160381,7 @@
       "geol3": "New Capital City",
       "geol4": "MU23",
       "geol5": "Zaha Park Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4600000",
       "Price_Per_Meter": "65000"
     },
@@ -160390,7 +160390,7 @@
       "geol2": "Giza",
       "geol3": "Sheikh Zayed",
       "geol4": "T Square Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3780000",
       "Price_Per_Meter": "63000"
     },
@@ -160409,7 +160409,7 @@
       "geol2": "Cairo",
       "geol3": "Mostakbal City",
       "geol4": "The 101",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "7100000",
       "Price_Per_Meter": "71000"
     },
@@ -160437,7 +160437,7 @@
       "geol2": "Cairo",
       "geol3": "Nasr City",
       "geol4": "Tag Sultan",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "11150000",
       "Price_Per_Meter": "74500"
     },
@@ -160457,7 +160457,7 @@
       "geol3": "New Capital City",
       "geol4": "Downtown",
       "geol5": "Pyramids Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "6800000",
       "Price_Per_Meter": "68000"
     },
@@ -160760,7 +160760,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Mountain Park",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "8550000",
       "Price_Per_Meter": "85500"
     },
@@ -160779,7 +160779,7 @@
       "geol2": "Qalyubia",
       "geol3": "Banha",
       "geol4": "Unknown",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "450000",
       "Price_Per_Meter": "15000"
     },
@@ -160788,7 +160788,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "AQMAR",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3050000",
       "Price_Per_Meter": "61000"
     },
@@ -160825,7 +160825,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "Mercury Business Complex",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3350000",
       "Price_Per_Meter": "67000"
     },
@@ -160852,7 +160852,7 @@
       "geol2": "Giza",
       "geol3": "Hadayek October",
       "geol4": "Mukhabarat Land",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "950000",
       "Price_Per_Meter": "27000"
     },
@@ -160901,7 +160901,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Elev8 Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5850000",
       "Price_Per_Meter": "83500"
     },
@@ -160920,7 +160920,7 @@
       "geol2": "Cairo",
       "geol3": "Abasiya",
       "geol4": "Ramsis St.",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2200000",
       "Price_Per_Meter": "44000"
     },
@@ -160950,7 +160950,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Revolve Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "14500000",
       "Price_Per_Meter": "85000"
     },
@@ -161199,7 +161199,7 @@
       "geol2": "Cairo",
       "geol3": "New Heliopolis",
       "geol4": "Korba Heights",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5150000",
       "Price_Per_Meter": "51500"
     },
@@ -161208,7 +161208,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "The Loft",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2350000",
       "Price_Per_Meter": "58500"
     },
@@ -161217,7 +161217,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "Val Plaza Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3650000",
       "Price_Per_Meter": "52000"
     },
@@ -161263,7 +161263,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "4th District",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2700000",
       "Price_Per_Meter": "60000"
     },
@@ -161976,7 +161976,7 @@
       "geol2": "Giza",
       "geol3": "Ard El Lewa",
       "geol4": "Ring Road",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3800000",
       "Price_Per_Meter": "38000"
     },
@@ -161985,7 +161985,7 @@
       "geol2": "Cairo",
       "geol3": "Downtown Cairo",
       "geol4": "Maspero",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "11500000",
       "Price_Per_Meter": "115000"
     },
@@ -162004,7 +162004,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "Paragon 1",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5450000",
       "Price_Per_Meter": "68000"
     },
@@ -162160,7 +162160,7 @@
       "geol2": "Alexandria",
       "geol3": "Sidi Gaber",
       "geol4": "Abd Al Aziz Fahmy St.",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2850000",
       "Price_Per_Meter": "38000"
     },
@@ -163538,7 +163538,7 @@
       "geol3": "El Khalifa",
       "geol4": "Al Abageyah",
       "geol5": "Al Mokhtar St.",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5350000",
       "Price_Per_Meter": "46000"
     },
@@ -163565,7 +163565,7 @@
       "geol2": "Cairo",
       "geol3": "Shorouk City",
       "geol4": "Terrace Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5100000",
       "Price_Per_Meter": "51000"
     },
@@ -163575,7 +163575,7 @@
       "geol3": "New Capital City",
       "geol4": "Downtown",
       "geol5": "Vida Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2250000",
       "Price_Per_Meter": "56000"
     },
@@ -163603,7 +163603,7 @@
       "geol2": "Cairo",
       "geol3": "El Zaher",
       "geol4": "Passage 46",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3950000",
       "Price_Per_Meter": "43500"
     },
@@ -164824,7 +164824,7 @@
       "geol2": "Alexandria",
       "geol3": "Asafra",
       "geol4": "Street 6",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "800000",
       "Price_Per_Meter": "16000"
     },
@@ -164861,7 +164861,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Urbn K",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "8400000",
       "Price_Per_Meter": "70000"
     },
@@ -164915,7 +164915,7 @@
       "geol2": "Cairo",
       "geol3": "Mokattam",
       "geol4": "9 View Mokattam",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4500000",
       "Price_Per_Meter": "45000"
     },
@@ -164970,7 +164970,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "VX 90",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "11400000",
       "Price_Per_Meter": "76000"
     },
@@ -164980,7 +164980,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Plus Plus",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "14150000",
       "Price_Per_Meter": "83000"
     },
@@ -165058,6 +165058,295 @@
       "unit_type": "Town House",
       "lower_limit": "7200000",
       "Price_Per_Meter": "36000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "New October",
+      "geol5": "West Courts",
+      "unit_type": "Duplex",
+      "lower_limit": "2700000",
+      "Price_Per_Meter": "13500"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Gharbia",
+      "geol3": "Tanta",
+      "geol4": "1st District",
+      "unit_type": "Duplex",
+      "lower_limit": "5400000",
+      "Price_Per_Meter": "21600"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Dakahlia",
+      "geol3": "Mansura",
+      "geol4": "Al Gamaa District",
+      "unit_type": "Duplex",
+      "lower_limit": "8100000",
+      "Price_Per_Meter": "32400"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Al Ibrahimiyyah",
+      "geol4": "Ramadan Youssef St.",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000",
+      "Price_Per_Meter": "22500"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Nozha",
+      "geol4": "Mohamed El Tabei St.",
+      "unit_type": "Apartment",
+      "lower_limit": "4400000",
+      "Price_Per_Meter": "22000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Sayeda Zeinab",
+      "geol4": "Al Eini",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000",
+      "Price_Per_Meter": "25000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Together",
+      "unit_type": "Studio",
+      "lower_limit": "9450000",
+      "Price_Per_Meter": "135000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Ras Al Hekma",
+      "geol5": "Azha",
+      "unit_type": "Hotel Apartment",
+      "lower_limit": "12600000",
+      "Price_Per_Meter": "126000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "El Khalifa",
+      "geol4": "Al Abageyah",
+      "geol5": "Al Obour St.",
+      "unit_type": "Duplex",
+      "lower_limit": "9900000",
+      "Price_Per_Meter": "39600"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Mohamed Bin Zayed South Axis",
+      "unit_type": "Studio",
+      "lower_limit": "4950000",
+      "Price_Per_Meter": "82500"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Palm hills golf extension Compound",
+      "unit_type": "Hotel Apartment",
+      "lower_limit": "7000000",
+      "Price_Per_Meter": "70000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "6th Settlement",
+      "geol5": "Crescent Walk East",
+      "unit_type": "Duplex",
+      "lower_limit": "19800000",
+      "Price_Per_Meter": "66000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Amreya",
+      "geol4": "Mirghim Industrial Area",
+      "geol5": "Alexandria Desert Road",
+      "unit_type": "Apartment",
+      "lower_limit": "8600000",
+      "Price_Per_Meter": "43000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Solay",
+      "unit_type": "Penthouse",
+      "lower_limit": "3200000",
+      "Price_Per_Meter": "25600"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "ZED West Compound",
+      "unit_type": "Roof",
+      "lower_limit": "5700000",
+      "Price_Per_Meter": "57000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R8",
+      "geol5": "Ravie Compound",
+      "unit_type": "Apartment",
+      "lower_limit": "4550000",
+      "Price_Per_Meter": "32500"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Degla Gardens",
+      "unit_type": "Office",
+      "lower_limit": "2950000",
+      "Price_Per_Meter": "42000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Haram",
+      "geol4": "Mashal",
+      "unit_type": "Full Commercial Building",
+      "lower_limit": "11700000",
+      "Price_Per_Meter": "23400"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Asyut",
+      "geol3": "Asyut City",
+      "geol4": "Al-Azhar District",
+      "unit_type": "Retail",
+      "lower_limit": "250000",
+      "Price_Per_Meter": "12500"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Palmet - New Cairo",
+      "unit_type": "Clinic",
+      "lower_limit": "5150000",
+      "Price_Per_Meter": "85800"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Laurent",
+      "geol4": "Al Ekbal St.",
+      "unit_type": "Retail",
+      "lower_limit": "95000",
+      "Price_Per_Meter": "19000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "The Polygon",
+      "unit_type": "Clinic",
+      "lower_limit": "11700000",
+      "Price_Per_Meter": "117000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "The Polygon",
+      "unit_type": "Retail",
+      "lower_limit": "11700000",
+      "Price_Per_Meter": "156000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Uptown",
+      "unit_type": "Retail",
+      "lower_limit": "4500000",
+      "Price_Per_Meter": "90000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Heliopolis",
+      "geol4": "Heliopolis Square",
+      "unit_type": "Office",
+      "lower_limit": "21600000",
+      "Price_Per_Meter": "108000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Town Center 2",
+      "unit_type": "Office",
+      "lower_limit": "2450000",
+      "Price_Per_Meter": "49000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Smoha",
+      "geol4": "Ademon Fremon St.",
+      "unit_type": "Office",
+      "lower_limit": "16600000",
+      "Price_Per_Meter": "83000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Sinai",
+      "geol3": "Dahab",
+      "geol4": "Unknown",
+      "unit_type": "Standalone Villa",
+      "lower_limit": "1750000",
+      "Price_Per_Meter": "11600"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Zamalek",
+      "geol4": "Unknown",
+      "unit_type": "iVilla",
+      "lower_limit": "12100000",
+      "Price_Per_Meter": "48400"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Alamein",
+      "geol5": "SeaShell Playa",
+      "unit_type": "Town House",
+      "lower_limit": "20250000",
+      "Price_Per_Meter": "81000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Red Sea",
+      "geol3": "Hurghada",
+      "geol4": "Aqua Fun Residence",
+      "unit_type": "Town House",
+      "lower_limit": "15300000",
+      "Price_Per_Meter": "61200"
     }
   ]
 }
