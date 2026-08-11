@@ -138304,7 +138304,7 @@
       "geol2": "Alexandria",
       "geol3": "Asafra",
       "geol4": "Street 6",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3150000"
     },
     {
@@ -138337,7 +138337,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Urbn K",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "71100000"
     },
     {
@@ -138385,7 +138385,7 @@
       "geol2": "Cairo",
       "geol3": "Mokattam",
       "geol4": "9 View Mokattam",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "3400000"
     },
     {
@@ -138434,7 +138434,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "VX 90",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "14150000"
     },
     {
@@ -138443,7 +138443,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Plus Plus",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "14400000"
     },
     {
@@ -138654,7 +138654,7 @@
       "geol2": "Giza",
       "geol3": "Hadayek October",
       "geol4": "Degla Gardens",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2950000"
     },
     {
@@ -138719,7 +138719,7 @@
       "geol2": "Cairo",
       "geol3": "Heliopolis",
       "geol4": "Heliopolis Square",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "21600000"
     },
     {
@@ -138727,7 +138727,7 @@
       "geol2": "Cairo",
       "geol3": "Shorouk City",
       "geol4": "Town Center 2",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2450000"
     },
     {
@@ -138735,7 +138735,7 @@
       "geol2": "Alexandria",
       "geol3": "Smoha",
       "geol4": "Ademon Fremon St.",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "16600000"
     },
     {
@@ -138770,6 +138770,225 @@
       "geol4": "Aqua Fun Residence",
       "unit_type": "Town House",
       "lower_limit": "15300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Opera City Compound",
+      "unit_type": "Studio",
+      "lower_limit": "2250000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Al Jazi Gardens",
+      "unit_type": "Apartment",
+      "lower_limit": "13500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "3rd Settlement",
+      "geol5": "Tajaly Residence",
+      "unit_type": "Apartment",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "S2-Croons",
+      "unit_type": "Studio",
+      "lower_limit": "2700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Ras Al Hekma",
+      "geol5": "Paros",
+      "unit_type": "Penthouse",
+      "lower_limit": "8550000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Ras Al Hekma",
+      "geol5": "The C",
+      "unit_type": "Apartment",
+      "lower_limit": "7900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Hurghada",
+      "geol4": "Marine Sports Club",
+      "unit_type": "Apartment",
+      "lower_limit": "6150000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Rich Mont Compound",
+      "unit_type": "Apartment",
+      "lower_limit": "5950000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Seazen",
+      "unit_type": "Studio",
+      "lower_limit": "6400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Bacchus",
+      "geol4": "Al Ezaaa St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2550000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Masaya",
+      "unit_type": "Studio",
+      "lower_limit": "6300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Giza District",
+      "geol4": "Cairo University",
+      "unit_type": "Hotel Apartment",
+      "lower_limit": "6480000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Taj Tower",
+      "unit_type": "Studio",
+      "lower_limit": "7000000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Masaya",
+      "unit_type": "Roof",
+      "lower_limit": "17100000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Val Plaza Mall",
+      "unit_type": "Restaurant & Cafe",
+      "lower_limit": "18200000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "The Core",
+      "unit_type": "Office",
+      "lower_limit": "9250000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "IV Business Park",
+      "unit_type": "Restaurant & Cafe",
+      "lower_limit": "21900000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Ikon Mall",
+      "unit_type": "Office",
+      "lower_limit": "2550000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Upville Compound",
+      "unit_type": "Office",
+      "lower_limit": "20250000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Verona Compound",
+      "unit_type": "Office",
+      "lower_limit": "3150000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "Marsa Matrouh",
+      "geol4": "Unknown",
+      "unit_type": "Cabin",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "The Islands",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "19500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "AQMAR",
+      "unit_type": "iVilla",
+      "lower_limit": "13900000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Hyde Park Business District",
+      "unit_type": "Town House",
+      "lower_limit": "18900000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Mayan",
+      "unit_type": "Town House",
+      "lower_limit": "4950000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Hyde Park Business District",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "22500000"
     }
   ]
 }
