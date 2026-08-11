@@ -81628,7 +81628,7 @@
       "median_price": "0",
       "avg_price": "0",
       "upper_bound_ci_99": "0",
-      "lower_bound_ci_99": "1600000"
+      "lower_bound_ci_99": "1400000"
     },
     {
       "brand": "MG",
@@ -94679,6 +94679,326 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "4000000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "200",
+      "year": "2001",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "630000"
+    },
+    {
+      "brand": "MG",
+      "model": "350",
+      "year": "2014",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "450000"
+    },
+    {
+      "brand": "Peugeot",
+      "model": "407",
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "400000"
+    },
+    {
+      "brand": "Abarth",
+      "model": "695",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "200000"
+    },
+    {
+      "brand": "BMW",
+      "model": "730",
+      "year": "1993",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "288000"
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Caprice",
+      "year": "1982",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "252000"
+    },
+    {
+      "brand": "Porsche",
+      "model": "Cayenne",
+      "year": "2006",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1242000"
+    },
+    {
+      "brand": "Seat",
+      "model": "Cordoba",
+      "year": "1995",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "157500"
+    },
+    {
+      "brand": "Mazda",
+      "model": "Cx 3",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1000000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "EQB",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1750000"
+    },
+    {
+      "brand": "Subaru",
+      "model": "Forester",
+      "year": "2009",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "720000"
+    },
+    {
+      "brand": "MG",
+      "model": "HS",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1400000"
+    },
+    {
+      "brand": "MINI",
+      "model": "John Cooper Works",
+      "year": "2005",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "495000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Kodiaq",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2500000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "L 200",
+      "year": "2000",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "90000"
+    },
+    {
+      "brand": "MG",
+      "model": "MG 7",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1500000"
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "Mito",
+      "year": "2013",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "500000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Octavia",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1600000"
+    },
+    {
+      "brand": "MG",
+      "model": "One",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1250000"
+    },
+    {
+      "brand": "Karry",
+      "model": "Q22",
+      "year": "2005",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "45000"
+    },
+    {
+      "brand": "Ford",
+      "model": "Ranger",
+      "year": "2008",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "405000"
+    },
+    {
+      "brand": "Ford",
+      "model": "Ranger",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3500000"
+    },
+    {
+      "brand": "MG",
+      "model": "RX9",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1700000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "S550",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "9400000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "S550",
+      "year": "2007",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1710000"
+    },
+    {
+      "brand": "Volkswagen",
+      "model": "Scirocco",
+      "year": "2009",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "832500"
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "ssr",
+      "year": "2002",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "230000"
+    },
+    {
+      "brand": "Renault",
+      "model": "Taliant",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "750000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "V 250",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3600000"
+    },
+    {
+      "brand": "Jeep",
+      "model": "Wrangler Sahara",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1150000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Z",
+      "year": "1993",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "117000"
+    },
+    {
+      "brand": "BMW",
+      "model": "Z4",
+      "year": "2006",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1395000"
     }
   ]
 }
