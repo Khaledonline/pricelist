@@ -8115,7 +8115,7 @@
       "geol5": "Hyde Park New Cairo Compound",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "23500000",
-      "Price_Per_Meter": "81600"
+      "Price_Per_Meter": "91600"
     },
     {
       "cat": "Apartments for Sale",
@@ -14945,7 +14945,7 @@
       "geol5": "Alamein Towers",
       "unit_type": "Apartment",
       "lower_limit": "12000000",
-      "Price_Per_Meter": "71080"
+      "Price_Per_Meter": "95400"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -14955,7 +14955,7 @@
       "geol5": "Alamein Towers",
       "unit_type": "Chalet",
       "lower_limit": "8000000",
-      "Price_Per_Meter": "50960"
+      "Price_Per_Meter": "80960"
     },
     {
       "cat": "Apartments for Sale",
@@ -24780,7 +24780,7 @@
       "geol4": "GCR Golf City",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "12000000",
-      "Price_Per_Meter": "41800"
+      "Price_Per_Meter": "31300"
     },
     {
       "cat": "Apartments for Sale",
@@ -25297,7 +25297,7 @@
       "geol5": "Golf Porto Marina",
       "unit_type": "Chalet",
       "lower_limit": "1200000",
-      "Price_Per_Meter": "30720"
+      "Price_Per_Meter": "50720"
     },
     {
       "cat": "Villas For Sale",
@@ -28021,7 +28021,7 @@
       "geol4": "IL Monte Galala",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "8000000",
-      "Price_Per_Meter": "54120"
+      "Price_Per_Meter": "75120"
     },
     {
       "cat": "Commercial for Sale",
@@ -28950,7 +28950,7 @@
       "geol4": "Jirian",
       "unit_type": "Apartment",
       "lower_limit": "9000000",
-      "Price_Per_Meter": "73480"
+      "Price_Per_Meter": "75480"
     },
     {
       "cat": "Apartments for Sale",
@@ -31028,7 +31028,7 @@
       "geol4": "La Vista 6",
       "unit_type": "Chalet",
       "lower_limit": "6000000",
-      "Price_Per_Meter": "70720"
+      "Price_Per_Meter": "90720"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -34290,7 +34290,7 @@
       "geol5": "Marina 8",
       "unit_type": "Chalet",
       "lower_limit": "4000000",
-      "Price_Per_Meter": "50600"
+      "Price_Per_Meter": "60600"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -35230,7 +35230,7 @@
       "geol5": "Mazarine",
       "unit_type": "Chalet",
       "lower_limit": "6500000",
-      "Price_Per_Meter": "60880"
+      "Price_Per_Meter": "80880"
     },
     {
       "cat": "Apartments for Sale",
@@ -35240,7 +35240,7 @@
       "geol5": "Mazarine",
       "unit_type": "Apartment",
       "lower_limit": "6500000",
-      "Price_Per_Meter": "55000"
+      "Price_Per_Meter": "85000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -61702,7 +61702,7 @@
       "geol4": "Unknown",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "4000000",
-      "Price_Per_Meter": "11732"
+      "Price_Per_Meter": "45000"
     },
     {
       "cat": "Commercial for Sale",
@@ -64014,7 +64014,7 @@
       "geol4": "ZED West Compound",
       "unit_type": "Apartment",
       "lower_limit": "6000000",
-      "Price_Per_Meter": "86900"
+      "Price_Per_Meter": "70900"
     },
     {
       "cat": "Apartments for Sale",
@@ -70716,7 +70716,7 @@
       "geol4": "Maryotaya",
       "unit_type": "Retail",
       "lower_limit": "2600000",
-      "Price_Per_Meter": "45760"
+      "Price_Per_Meter": "15760"
     },
     {
       "cat": "Apartments for Sale",
@@ -86959,7 +86959,7 @@
       "geol4": "Corniche El Maadi",
       "unit_type": "Hotel Apartment",
       "lower_limit": "8000000",
-      "Price_Per_Meter": "111560"
+      "Price_Per_Meter": "180560"
     },
     {
       "cat": "Villas For Sale",
@@ -99994,7 +99994,7 @@
       "geol4": "8th District",
       "unit_type": "Office",
       "lower_limit": "7000000",
-      "Price_Per_Meter": "123200"
+      "Price_Per_Meter": "43200"
     },
     {
       "cat": "Commercial for Sale",
@@ -128755,7 +128755,7 @@
       "geol5": "1st Neighborhood",
       "unit_type": "Apartment",
       "lower_limit": "5000000",
-      "Price_Per_Meter": "55000"
+      "Price_Per_Meter": "30000"
     },
     {
       "cat": "Apartments for Sale",
@@ -144264,7 +144264,7 @@
       "geol4": "El Rawan",
       "unit_type": "Chalet",
       "lower_limit": "4000000",
-      "Price_Per_Meter": "57143"
+      "Price_Per_Meter": "45143"
     },
     {
       "cat": "Commercial for Sale",
@@ -165592,6 +165592,45 @@
       "unit_type": "Stand Alone Villa",
       "lower_limit": "22500000",
       "Price_Per_Meter": "90000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Montro Residence",
+      "unit_type": "Studio",
+      "lower_limit": "3400000",
+      "Price_Per_Meter": "68000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol6": "Shababeek",
+      "unit_type": "Duplex",
+      "lower_limit": "11150000",
+      "Price_Per_Meter": "50500"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol6": "Isola Centra",
+      "unit_type": "Clinic",
+      "lower_limit": "16100000",
+      "Price_Per_Meter": "161000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol6": "Isola Centra",
+      "unit_type": "Retail",
+      "lower_limit": "21400000",
+      "Price_Per_Meter": "214000"
     }
   ]
 }
