@@ -140287,7 +140287,7 @@
       "geol2": "Cairo",
       "geol3": "New Capital City",
       "geol4": "Financial HUB mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "12690000"
     },
     {
@@ -140296,7 +140296,7 @@
       "geol3": "6th of October",
       "geol4": "26th of July Corridor",
       "geol5": "Al Guezira plaza",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "103500"
     },
     {
@@ -140372,7 +140372,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "The Big Business District",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "4380000"
     },
     {
@@ -140405,7 +140405,7 @@
       "geol2": "Giza",
       "geol3": "6th of October",
       "geol4": "O Nine",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "71310000"
     },
     {
@@ -140527,6 +140527,154 @@
       "geol4": "Aljar",
       "unit_type": "Town House",
       "lower_limit": "10800000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "North House Compound",
+      "unit_type": "Penthouse",
+      "lower_limit": "5220000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Ebaad El Rahman City",
+      "unit_type": "Apartment",
+      "lower_limit": "1485000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Rhodes North Coast",
+      "unit_type": "Penthouse",
+      "lower_limit": "9720000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Nakheel",
+      "geol4": "Unknown",
+      "unit_type": "Pharmacy",
+      "lower_limit": "700000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Nakheel",
+      "geol4": "Unknown",
+      "unit_type": "Restaurant & Cafe",
+      "lower_limit": "756000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Alamat Town Mall",
+      "unit_type": "Full Commercial Building",
+      "lower_limit": "9207000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "VYE Sodic Compound",
+      "unit_type": "Restaurant & Cafe",
+      "lower_limit": "3150000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Schutz",
+      "geol4": "Unknown",
+      "unit_type": "Clinic",
+      "lower_limit": "4500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Shades",
+      "unit_type": "Retail",
+      "lower_limit": "13500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Entrada",
+      "unit_type": "Clinic",
+      "lower_limit": "5466600"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Selina SwanLake Residences",
+      "unit_type": "Clinic",
+      "lower_limit": "7560000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "Swan Lake Residences",
+      "unit_type": "Clinic",
+      "lower_limit": "14402250"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Mukhabarat Land",
+      "unit_type": "Restaurant & Cafe",
+      "lower_limit": "1620000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Sidi Beshr",
+      "geol4": "Sidi Beshr Mosque St.",
+      "unit_type": "Showroom",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Roushdy",
+      "geol4": "Roshdy St.",
+      "unit_type": "Full Commercial Building",
+      "lower_limit": "6750000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Venus 2 Resort",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "16200000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Heliopolis",
+      "geol4": "Ard El Golf",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "10800000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Cairo Gate",
+      "unit_type": "iVilla",
+      "lower_limit": "8100000"
     }
   ]
 }
