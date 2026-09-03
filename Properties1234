@@ -35240,7 +35240,7 @@
       "geol5": "Mazarine",
       "unit_type": "Apartment",
       "lower_limit": "6500000",
-      "Price_Per_Meter": "50000"
+      "Price_Per_Meter": "45000"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -169694,6 +169694,167 @@
       "unit_type": "Stand Alone Villa",
       "lower_limit": "13500000",
       "Price_Per_Meter": "48210"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "El Zaher",
+      "geol4": "Al Qbeisi",
+      "geol5": "Morad St.",
+      "unit_type": "Apartment",
+      "lower_limit": "6300000",
+      "Price_Per_Meter": "42000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Montania Compound",
+      "unit_type": "Apartment",
+      "lower_limit": "9850000",
+      "Price_Per_Meter": "51840"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Sheraton",
+      "geol4": "Al Amal St.",
+      "unit_type": "Apartment",
+      "lower_limit": "5850000",
+      "Price_Per_Meter": "36560"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "6th Settlement",
+      "geol5": "N Line - Nest Residence",
+      "unit_type": "Hotel Apartment",
+      "lower_limit": "3800000",
+      "Price_Per_Meter": "50670"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Ain Shams",
+      "geol4": "Zahraa Ain Shams",
+      "unit_type": "Full Commercial Building",
+      "lower_limit": "42300000",
+      "Price_Per_Meter": "70500"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Park Mall",
+      "unit_type": "Retail",
+      "lower_limit": "12600000",
+      "Price_Per_Meter": "157500"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": true,
+      "unit_type": "Office",
+      "lower_limit": "2500000",
+      "Price_Per_Meter": "41670"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Nasa Mall",
+      "unit_type": "Showroom",
+      "lower_limit": "49500000",
+      "Price_Per_Meter": "165000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Nasa Mall",
+      "unit_type": "Pharmacy",
+      "lower_limit": "27000000",
+      "Price_Per_Meter": "270000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Azad",
+      "unit_type": "Pharmacy",
+      "lower_limit": "21000000",
+      "Price_Per_Meter": "233330"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mokattam",
+      "geol4": "Canan Capital",
+      "unit_type": "Clinic",
+      "lower_limit": "10600000",
+      "Price_Per_Meter": "96360"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Hammam",
+      "geol5": "Misr El-Gedida ( Aida Beach )",
+      "unit_type": "Chalet",
+      "lower_limit": "2850000",
+      "Price_Per_Meter": "35630"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Ras Al Hekma",
+      "geol5": "Celebration West Beach",
+      "unit_type": "Town House",
+      "lower_limit": "20200000",
+      "Price_Per_Meter": "91820"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Ras Al Hekma",
+      "geol5": "Celebration West Beach",
+      "unit_type": "Twin House",
+      "lower_limit": "31500000",
+      "Price_Per_Meter": "112500"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Red Sea",
+      "geol3": "Sahl Hasheesh",
+      "geol4": "Veranda Resort",
+      "unit_type": "Town House",
+      "lower_limit": "16600000",
+      "Price_Per_Meter": "79050"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Red Sea",
+      "geol3": "Safaga",
+      "geol4": "Unknown",
+      "unit_type": "Town House",
+      "lower_limit": "16600000",
+      "Price_Per_Meter": "79050"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Hammam",
+      "geol5": "Misr El-Gedida ( Aida Beach )",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "9900000",
+      "Price_Per_Meter": "35360"
     }
   ]
 }
