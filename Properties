@@ -9045,7 +9045,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
-      "geol5": "Patio Town Compound",
+      "geol5": "Patio Town",
       "unit_type": "Penthouse",
       "lower_limit": "12000000"
     },
@@ -9054,7 +9054,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
-      "geol5": "Patio Town Compound",
+      "geol5": "Patio Town",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "10500000"
     },
@@ -9063,7 +9063,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
-      "geol5": "Patio Town Compound",
+      "geol5": "Patio Town",
       "unit_type": "Apartment",
       "lower_limit": "8000000"
     },
@@ -9072,7 +9072,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
-      "geol5": "Patio Town Compound",
+      "geol5": "Patio Town",
       "unit_type": "Town House",
       "lower_limit": "12000000"
     },
@@ -11843,7 +11843,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
-      "geol5": "Patio Town Compound",
+      "geol5": "Patio Town",
       "unit_type": "Twin House",
       "lower_limit": "12000000"
     },
@@ -119437,7 +119437,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
-      "geol5": "Patio Town Compound",
+      "geol5": "Patio Town",
       "unit_type": "Retail",
       "lower_limit": "4500000"
     },
@@ -119454,7 +119454,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
-      "geol5": "Patio Town Compound",
+      "geol5": "Patio Town",
       "unit_type": "Office",
       "lower_limit": "4500000"
     },
@@ -120523,7 +120523,7 @@
       "geol2": "Cairo",
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
-      "geol5": "Patio Town Compound",
+      "geol5": "Patio Town",
       "unit_type": "Clinic",
       "lower_limit": "5000000"
     },
@@ -142709,7 +142709,7 @@
       "geol2": "Cairo",
       "geol3": "Nasr City",
       "geol4": true,
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "2500000"
     },
     {
@@ -143087,7 +143087,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "H:RS Mall",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "18700000"
     },
     {
@@ -143162,7 +143162,7 @@
       "geol3": "New Cairo",
       "geol4": "5th Settlement",
       "geol5": "Solay",
-      "unit_type": "Office Space",
+      "unit_type": "Office",
       "lower_limit": "5150000"
     },
     {
@@ -143277,6 +143277,181 @@
       "geol5": "De Joya 1",
       "unit_type": "iVilla",
       "lower_limit": "9900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Sira",
+      "unit_type": "Duplex",
+      "lower_limit": "8650000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R7",
+      "geol5": "La Capitale",
+      "unit_type": "Studio",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "West Clay",
+      "unit_type": "Studio",
+      "lower_limit": "3400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "Coronado Beach Resort",
+      "unit_type": "Duplex",
+      "lower_limit": "3150000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "One District",
+      "unit_type": "Apartment",
+      "lower_limit": "5500000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R7",
+      "geol5": "La Capitale",
+      "unit_type": "Apartment",
+      "lower_limit": "6850000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "One District",
+      "unit_type": "Duplex",
+      "lower_limit": "8100000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Il Mondo Mall",
+      "unit_type": "Medical Facility",
+      "lower_limit": "16100000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Unknown",
+      "unit_type": "Showroom",
+      "lower_limit": "192000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Smoha",
+      "geol4": "Al Hilton St.",
+      "unit_type": "Full Commercial Building",
+      "lower_limit": "29400000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Nozha",
+      "geol4": "Triumph Square",
+      "unit_type": "Retail",
+      "lower_limit": "63000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Sheraton",
+      "geol4": "Saqr Quraish St.",
+      "unit_type": "Retail",
+      "lower_limit": "27000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Netflat Kinda",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "70200000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Obour City",
+      "geol4": "New Sheraton",
+      "geol5": "Murtaqa",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "20700000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "One District",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "17300000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Club Side Towers - Zed East",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "44100000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Villagio Gray",
+      "unit_type": "Twin House",
+      "lower_limit": "16100000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Villagio Gray",
+      "unit_type": "Town House",
+      "lower_limit": "12500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Mostakbal City",
+      "geol4": "Bloomfields",
+      "unit_type": "iVilla",
+      "lower_limit": "28700000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Villagio Gray",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "8700000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Hammam",
+      "geol5": "Bungalows",
+      "unit_type": "Town House",
+      "lower_limit": "16200000"
     }
   ]
 }
