@@ -143452,6 +143452,293 @@
       "geol5": "Bungalows",
       "unit_type": "Town House",
       "lower_limit": "16200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Prime Plaza Mall",
+      "unit_type": "Hotel Apartment",
+      "lower_limit": "2250000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Giza District",
+      "geol4": "Giza Downtown",
+      "unit_type": "Apartment",
+      "lower_limit": "17100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Sia",
+      "unit_type": "Hotel Apartment",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Prime Plaza Mall",
+      "unit_type": "Apartment",
+      "lower_limit": "200000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Hacienda Red",
+      "unit_type": "Hotel Apartment",
+      "lower_limit": "26700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Al Motamayez District",
+      "unit_type": "Roof",
+      "lower_limit": "1350000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Hurghada",
+      "geol4": "Three Pyramids",
+      "unit_type": "Apartment",
+      "lower_limit": "4050000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Hadayek El Asema",
+      "geol5": "Capital Gardens",
+      "unit_type": "Apartment",
+      "lower_limit": "7650000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Beit Al Watan",
+      "unit_type": "Roof",
+      "lower_limit": "1900000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Stay'n residence",
+      "unit_type": "Studio",
+      "lower_limit": "2400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Giza District",
+      "geol4": "Giza Downtown",
+      "unit_type": "Hotel Apartment",
+      "lower_limit": "17100000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Prime Plaza Mall",
+      "unit_type": "Office",
+      "lower_limit": "2250000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Bridges Mall",
+      "unit_type": "Retail",
+      "lower_limit": "8100000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "River Walk Compound",
+      "unit_type": "Full Commercial Building",
+      "lower_limit": "250100000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Downtown",
+      "geol5": "Capital Diamond Tower",
+      "unit_type": "Office",
+      "lower_limit": "8800000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Katameya",
+      "geol4": "Palm City",
+      "unit_type": "Office",
+      "lower_limit": "5400000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Sia",
+      "unit_type": "Restaurant & Cafe",
+      "lower_limit": "8400000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Sia",
+      "unit_type": "Office",
+      "lower_limit": "3400000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Prime Plaza Mall",
+      "unit_type": "Clinic",
+      "lower_limit": "3350000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Prime Plaza Mall",
+      "unit_type": "Retail",
+      "lower_limit": "4750000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Zahraa Al Maadi",
+      "geol4": "7Spot Mall",
+      "unit_type": "Pharmacy",
+      "lower_limit": "36000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "Mirage City Compound",
+      "unit_type": "Pharmacy",
+      "lower_limit": "54000000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "MarVille New Zayed",
+      "unit_type": "Retail",
+      "lower_limit": "10200000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Sia",
+      "unit_type": "Retail",
+      "lower_limit": "8400000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Nozha",
+      "geol4": "Al Saada St.",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "12000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Westview",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "23900000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Origami Golf",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "17100000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Alexandria",
+      "geol3": "Smoha",
+      "geol4": "New Smouha",
+      "unit_type": "iVilla",
+      "lower_limit": "3200000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Alexandria",
+      "geol3": "Waboor Elmayah",
+      "geol4": "Unknown",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "15300000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Montania park",
+      "unit_type": "Town House",
+      "lower_limit": "13600000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Ibni Baitak 7",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "6700000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Tamr Henna",
+      "unit_type": "iVilla",
+      "lower_limit": "13500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Al Motamayez District",
+      "geol5": "Royal Hills",
+      "unit_type": "Twin House",
+      "lower_limit": "40500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Gardenia Al Shams",
+      "unit_type": "Town House",
+      "lower_limit": "12500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Red Sea",
+      "geol3": "Makadi Bay",
+      "geol4": "Cleopatra Luxury Resort Makadi Bay",
+      "unit_type": "Twin House",
+      "lower_limit": "16600000"
     }
   ]
 }
