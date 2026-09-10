@@ -97639,6 +97639,216 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "340000"
+    },
+    {
+      "brand": "Mazda",
+      "model": "Cx 3",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "750000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "Petra",
+      "year": "2001",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "189000"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Crown",
+      "year": "1982",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "103500"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Previa",
+      "year": "2012",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "850000"
+    },
+    {
+      "brand": "BMW",
+      "model": "320",
+      "year": "2001",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "360000"
+    },
+    {
+      "brand": "BMW",
+      "model": "730",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "7500000"
+    },
+    {
+      "brand": "Cupra",
+      "model": "Leon",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1600000"
+    },
+    {
+      "brand": "Jac",
+      "model": "J6",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1150000"
+    },
+    {
+      "brand": "BYD",
+      "model": "L3",
+      "year": "2019",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "350000"
+    },
+    {
+      "brand": "M-Hero",
+      "model": "MHERO 1",
+      "year": "1999",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "243000"
+    },
+    {
+      "brand": "Lotus",
+      "model": "Emira",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "6000000"
+    },
+    {
+      "brand": "Chery",
+      "model": "Arrizo 5 pro",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "550000"
+    },
+    {
+      "brand": "KGM",
+      "model": "Torres",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1700000"
+    },
+    {
+      "brand": "ROX",
+      "model": "Rox 01",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3000000"
+    },
+    {
+      "brand": "BYD",
+      "model": "Seal",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1100000"
+    },
+    {
+      "brand": "DFSK",
+      "model": "E5",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1150000"
+    },
+    {
+      "brand": "Land Rover",
+      "model": "Discovery",
+      "year": "2006",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "720000"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Pickup",
+      "year": "2004",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "225000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "Ritmo",
+      "year": "1998",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "63000"
+    },
+    {
+      "brand": "Hyundai",
+      "model": "Santa Fe",
+      "year": "2003",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "450000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "128 Nova",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "100000"
     }
   ]
 }
