@@ -44363,7 +44363,7 @@
       "geol4": "Scenes",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "20000000",
-      "Price_Per_Meter": "88440"
+      "Price_Per_Meter": "75440"
     },
     {
       "cat": "Apartments for Sale",
@@ -47396,7 +47396,8 @@
       "cat": "Commercial for Sale",
       "geol2": "Cairo",
       "geol3": "New Capital City",
-      "geol4": "Taj Tower",
+      "geol4": "Central Business District",
+      "geol5": "Taj Tower",
       "unit_type": "Office",
       "lower_limit": "3000000",
       "Price_Per_Meter": "113520"
@@ -47405,7 +47406,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Capital City",
-      "geol4": "Taj Tower",
+      "geol4": "Central Business District",
+      "geol5": "Taj Tower",
       "unit_type": "Apartment",
       "lower_limit": "8000000",
       "Price_Per_Meter": "70400"
@@ -165473,7 +165475,8 @@
       "cat": "Apartments for Sale",
       "geol2": "Cairo",
       "geol3": "New Capital City",
-      "geol4": "Taj Tower",
+      "geol4": "Central Business District",
+      "geol5": "Taj Tower",
       "unit_type": "Studio",
       "lower_limit": "7000000",
       "Price_Per_Meter": "116500"
@@ -171942,6 +171945,664 @@
       "unit_type": "Town House",
       "lower_limit": "6750000",
       "Price_Per_Meter": "35530"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "El Yasmeen 2",
+      "unit_type": "Penthouse",
+      "lower_limit": "9900000",
+      "Price_Per_Meter": "45000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "Mirage City Compound",
+      "unit_type": "Clinic",
+      "lower_limit": "13600000",
+      "Price_Per_Meter": "113330"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "EL Patio ORO Compound",
+      "unit_type": "Hotel Apartment",
+      "lower_limit": "5900000",
+      "Price_Per_Meter": "62110"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Atom Mall",
+      "unit_type": "Factory",
+      "lower_limit": "7350000",
+      "Price_Per_Meter": "36750"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "La Nouva Vista Compound",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "21800000",
+      "Price_Per_Meter": "68130"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "La Nouva Vista Compound",
+      "unit_type": "Town House",
+      "lower_limit": "21600000",
+      "Price_Per_Meter": "83080"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "6th Settlement",
+      "geol5": "One Hyde Park",
+      "unit_type": "Apartment",
+      "lower_limit": "7100000",
+      "Price_Per_Meter": "44380"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "6th Settlement",
+      "geol5": "One Hyde Park",
+      "unit_type": "Studio",
+      "lower_limit": "3600000",
+      "Price_Per_Meter": "55380"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Agami",
+      "geol4": "Al Bitash",
+      "geol5": "Al Kawthar St.",
+      "unit_type": "Apartment",
+      "lower_limit": "3050000",
+      "Price_Per_Meter": "23460"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Abdeen",
+      "geol4": "Al Tahrir St.",
+      "unit_type": "Apartment",
+      "lower_limit": "4050000",
+      "Price_Per_Meter": "28930"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Central Business District",
+      "geol5": "Taj Tower",
+      "unit_type": "Hotel Apartment",
+      "lower_limit": "11700000",
+      "Price_Per_Meter": "106360"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Central Business District",
+      "geol5": "Capital Heights 2",
+      "unit_type": "Apartment",
+      "lower_limit": "3700000",
+      "Price_Per_Meter": "30830"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Central Business District",
+      "geol5": "Taj Tower",
+      "unit_type": "Pharmacy",
+      "lower_limit": "72000000",
+      "Price_Per_Meter": "480000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Central Business District",
+      "geol5": "Taj Tower",
+      "unit_type": "Retail",
+      "lower_limit": "9550000",
+      "Price_Per_Meter": "191000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Central Business District",
+      "geol5": "Taj Tower",
+      "unit_type": "Office",
+      "lower_limit": "2350000",
+      "Price_Per_Meter": "52220"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Hay Wasat",
+      "geol4": "El Shatby",
+      "geol5": "Mohamed Fouad Helmy St.",
+      "unit_type": "Apartment",
+      "lower_limit": "10800000",
+      "Price_Per_Meter": "51430"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Ever west Compound",
+      "unit_type": "Retail",
+      "lower_limit": "7000000",
+      "Price_Per_Meter": "127270"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Green 5 Compound",
+      "unit_type": "Twin House",
+      "lower_limit": "7700000",
+      "Price_Per_Meter": "35000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Smoha",
+      "geol4": "Green Towers",
+      "unit_type": "Retail",
+      "lower_limit": "6200000",
+      "Price_Per_Meter": "103330"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Hammam",
+      "geol5": "Soly Lagoons",
+      "unit_type": "Chalet",
+      "lower_limit": "2600000",
+      "Price_Per_Meter": "32500"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Haram Life",
+      "unit_type": "Office",
+      "lower_limit": "1250000",
+      "Price_Per_Meter": "27780"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Kortoba City",
+      "unit_type": "Office",
+      "lower_limit": "2300000",
+      "Price_Per_Meter": "35380"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "La Vida",
+      "unit_type": "Duplex",
+      "lower_limit": "7200000",
+      "Price_Per_Meter": "36000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Red Sea",
+      "geol3": "Hurghada",
+      "geol4": "Lavaya",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "16600000",
+      "Price_Per_Meter": "59290"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Marbella",
+      "unit_type": "Town House",
+      "lower_limit": "15900000",
+      "Price_Per_Meter": "75710"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Nakheel",
+      "unit_type": "Town House",
+      "lower_limit": "18000000",
+      "Price_Per_Meter": "75000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R3",
+      "geol5": "Al Maqsad",
+      "unit_type": "Duplex",
+      "lower_limit": "11700000",
+      "Price_Per_Meter": "48750"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R3",
+      "geol5": "Mamsha Al Maqsed",
+      "unit_type": "Apartment",
+      "lower_limit": "5250000",
+      "Price_Per_Meter": "37500"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R3",
+      "geol5": "Al Maqsad",
+      "unit_type": "Apartment",
+      "lower_limit": "4300000",
+      "Price_Per_Meter": "33080"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R3",
+      "geol5": "Al Maqsad",
+      "unit_type": "Retail",
+      "lower_limit": "8750000",
+      "Price_Per_Meter": "134620"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R3",
+      "geol5": "Al Maqsad",
+      "unit_type": "Full Commercial Building",
+      "lower_limit": "8100000",
+      "Price_Per_Meter": "45000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R3",
+      "geol5": "Mamsha Al Maqsed",
+      "unit_type": "Retail",
+      "lower_limit": "6100000",
+      "Price_Per_Meter": "122000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R3",
+      "geol5": "Al Maqsad",
+      "unit_type": "Office",
+      "lower_limit": "1050000",
+      "Price_Per_Meter": "26250"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R3",
+      "geol5": "Mamsha Al Maqsed",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "36000000",
+      "Price_Per_Meter": "90000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R3",
+      "geol5": "Al Maqsad",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "22500000",
+      "Price_Per_Meter": "70310"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R3",
+      "geol5": "Al Maqsad",
+      "unit_type": "Twin House",
+      "lower_limit": "18400000",
+      "Price_Per_Meter": "68150"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R3",
+      "geol5": "Al Maqsad",
+      "unit_type": "Town House",
+      "lower_limit": "15300000",
+      "Price_Per_Meter": "69550"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R7",
+      "geol5": "Midtown Solo",
+      "unit_type": "Apartment",
+      "lower_limit": "21600000",
+      "Price_Per_Meter": "83080"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R7",
+      "geol5": "Scenario",
+      "unit_type": "Duplex",
+      "lower_limit": "11300000",
+      "Price_Per_Meter": "41130"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R7",
+      "geol5": "Park Lane",
+      "unit_type": "Duplex",
+      "lower_limit": "14700000",
+      "Price_Per_Meter": "48800"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R7",
+      "geol5": "Vinci",
+      "unit_type": "Duplex",
+      "lower_limit": "8950000",
+      "Price_Per_Meter": "42620"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R7",
+      "geol5": "IL Bosco",
+      "unit_type": "Duplex",
+      "lower_limit": "8050000",
+      "Price_Per_Meter": "40250"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R7",
+      "geol5": "Vinci",
+      "unit_type": "Apartment",
+      "lower_limit": "7550000",
+      "Price_Per_Meter": "47190"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R7",
+      "geol5": "Midtown Sky",
+      "unit_type": "Apartment",
+      "lower_limit": "5000000",
+      "Price_Per_Meter": "35710"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R7",
+      "geol5": "IL Bosco",
+      "unit_type": "Apartment",
+      "lower_limit": "4850000",
+      "Price_Per_Meter": "35930"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R7",
+      "geol5": "Entrada",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000",
+      "Price_Per_Meter": "34620"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R7",
+      "geol5": "Midtown Condo",
+      "unit_type": "Apartment",
+      "lower_limit": "4300000",
+      "Price_Per_Meter": "34400"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R7",
+      "geol5": "Scenario",
+      "unit_type": "Apartment",
+      "lower_limit": "2700000",
+      "Price_Per_Meter": "24550"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R7",
+      "geol5": "OIA",
+      "unit_type": "Apartment",
+      "lower_limit": "3450000",
+      "Price_Per_Meter": "28750"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R7",
+      "geol5": "Park Lane",
+      "unit_type": "Apartment",
+      "lower_limit": "3150000",
+      "Price_Per_Meter": "27390"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R7",
+      "geol5": "Midtown Condo",
+      "unit_type": "Penthouse",
+      "lower_limit": "2600000",
+      "Price_Per_Meter": "20000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R7",
+      "geol5": "Midtown Solo",
+      "unit_type": "Retail",
+      "lower_limit": "36000000",
+      "Price_Per_Meter": "240000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R7",
+      "geol5": "Midtown Sky",
+      "unit_type": "Retail",
+      "lower_limit": "10800000",
+      "Price_Per_Meter": "154290"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R7",
+      "geol5": "Midtown Solo",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "26100000",
+      "Price_Per_Meter": "74570"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R7",
+      "geol5": "IL Bosco",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "24300000",
+      "Price_Per_Meter": "75940"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R7",
+      "geol5": "Midtown Sky",
+      "unit_type": "Twin House",
+      "lower_limit": "21800000",
+      "Price_Per_Meter": "77860"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R7",
+      "geol5": "IL Bosco",
+      "unit_type": "Twin House",
+      "lower_limit": "18000000",
+      "Price_Per_Meter": "69230"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R7",
+      "geol5": "Vinci",
+      "unit_type": "Twin House",
+      "lower_limit": "13900000",
+      "Price_Per_Meter": "60430"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R7",
+      "geol5": "Midtown Sky",
+      "unit_type": "Town House",
+      "lower_limit": "12600000",
+      "Price_Per_Meter": "60000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R7",
+      "geol5": "Vinci",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "11700000",
+      "Price_Per_Meter": "41790"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R7",
+      "geol5": "Vinci",
+      "unit_type": "Town House",
+      "lower_limit": "10700000",
+      "Price_Per_Meter": "53500"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R7",
+      "geol5": "IL Bosco",
+      "unit_type": "Town House",
+      "lower_limit": "8450000",
+      "Price_Per_Meter": "44470"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R8",
+      "geol5": "The Curve",
+      "unit_type": "Apartment",
+      "lower_limit": "6850000",
+      "Price_Per_Meter": "45670"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R8",
+      "geol5": "Ion Compound",
+      "unit_type": "Apartment",
+      "lower_limit": "6550000",
+      "Price_Per_Meter": "45170"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R8",
+      "geol5": "Yaru",
+      "unit_type": "Apartment",
+      "lower_limit": "4900000",
+      "Price_Per_Meter": "37690"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Rich Mont Compound",
+      "unit_type": "Penthouse",
+      "lower_limit": "4500000",
+      "Price_Per_Meter": "28130"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "El Fostat",
+      "geol4": "Unknown",
+      "unit_type": "Full Commercial Building",
+      "lower_limit": "30500000",
+      "Price_Per_Meter": "67780"
     }
   ]
 }
