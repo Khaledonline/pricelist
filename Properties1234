@@ -9275,7 +9275,7 @@
       "geol5": "Mountain View 3 Compound",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "14000000",
-      "Price_Per_Meter": "95040"
+      "Price_Per_Meter": "85040"
     },
     {
       "cat": "Villas For Sale",
@@ -28028,7 +28028,7 @@
       "geol4": "IL Monte Galala",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "8000000",
-      "Price_Per_Meter": "75120"
+      "Price_Per_Meter": "45120"
     },
     {
       "cat": "Commercial for Sale",
@@ -39143,7 +39143,7 @@
       "geol4": "Orlando",
       "unit_type": "Duplex",
       "lower_limit": "2500000",
-      "Price_Per_Meter": "13750"
+      "Price_Per_Meter": "33750"
     },
     {
       "cat": "Vacation Homes for Sale",
@@ -60316,7 +60316,7 @@
       "geol4": "Unknown",
       "unit_type": "Town House",
       "lower_limit": "8000000",
-      "Price_Per_Meter": "42000"
+      "Price_Per_Meter": "62000"
     },
     {
       "cat": "Commercial for Sale",
@@ -73687,7 +73687,7 @@
       "geol4": "Corniche El Maadi",
       "unit_type": "Apartment",
       "lower_limit": "1800000",
-      "Price_Per_Meter": "40040"
+      "Price_Per_Meter": "30040"
     },
     {
       "cat": "Villas For Sale",
@@ -107215,7 +107215,7 @@
       "geol4": "Grand Heights",
       "unit_type": "Apartment",
       "lower_limit": "4300000",
-      "Price_Per_Meter": "50600"
+      "Price_Per_Meter": "45600"
     },
     {
       "cat": "Apartments for Sale",
@@ -146289,7 +146289,7 @@
       "geol4": "Citystars Park Street",
       "unit_type": "Office",
       "lower_limit": "27100000",
-      "Price_Per_Meter": "542000"
+      "Price_Per_Meter": "223000"
     },
     {
       "cat": "Commercial for Sale",
@@ -176604,6 +176604,350 @@
       "unit_type": "Stand Alone Villa",
       "lower_limit": "9000000",
       "Price_Per_Meter": "36000"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "6th Settlement",
+      "geol5": "One Hyde Park",
+      "geol6": "Chalet",
+      "unit_type": "Chalet",
+      "lower_limit": "8550000",
+      "Price_Per_Meter": "38860"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Agami",
+      "geol4": "Al Hanouvel",
+      "geol5": "Trablos St.",
+      "geol6": "Apartment",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000",
+      "Price_Per_Meter": "40910"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Easy Life Compound",
+      "geol6": "Hotel Apartment",
+      "unit_type": "Hotel Apartment",
+      "lower_limit": "1850000",
+      "Price_Per_Meter": "16820"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Obour City",
+      "geol4": "New Obour City",
+      "geol5": "Canary",
+      "geol6": "Apartment",
+      "unit_type": "Apartment",
+      "lower_limit": "8100000",
+      "Price_Per_Meter": "73640"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Ismailia",
+      "geol3": "Ismailia City",
+      "geol4": "Al Taawon",
+      "geol5": "Al Taawon Al Sweis Road",
+      "geol6": "Stand Alone Villa",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "6750000",
+      "Price_Per_Meter": "42190"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Alexandria",
+      "geol3": "Hay Wasat",
+      "geol4": "Abis",
+      "geol5": "No. 3 Hay Al Villat St.",
+      "geol6": "Stand Alone Villa",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "12600000",
+      "Price_Per_Meter": "42000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Laurent",
+      "geol4": "Shaarawy St.",
+      "geol6": "Restaurant & Cafe",
+      "unit_type": "Restaurant & Cafe",
+      "lower_limit": "2250000",
+      "Price_Per_Meter": "10230"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Obour City",
+      "geol4": "9th District",
+      "geol6": "Duplex",
+      "unit_type": "Duplex",
+      "lower_limit": "4650000",
+      "Price_Per_Meter": "77500"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "PALM GATE Compound",
+      "geol6": "Twin House",
+      "unit_type": "Twin House",
+      "lower_limit": "3600000",
+      "Price_Per_Meter": "18000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Hay Sharq",
+      "geol4": "Abo Soliman",
+      "geol5": "Port Said St.",
+      "geol6": "Apartment",
+      "unit_type": "Apartment",
+      "lower_limit": "10800000",
+      "Price_Per_Meter": "46960"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Ain Shams",
+      "geol4": "Ahmed Esmat",
+      "geol5": "Sedeek Lane",
+      "geol6": "Apartment",
+      "unit_type": "Apartment",
+      "lower_limit": "950000",
+      "Price_Per_Meter": "10560"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Obour City",
+      "geol4": "5th District",
+      "geol6": "Stand Alone Villa",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "850000",
+      "Price_Per_Meter": "10000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Heliopolis",
+      "geol4": "Heliopolis Square",
+      "geol5": "Shehab El Deen St.",
+      "geol6": "Apartment",
+      "unit_type": "Apartment",
+      "lower_limit": "15300000",
+      "Price_Per_Meter": "47810"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Sayeda Zeinab",
+      "geol4": "Al Inshaa Wa Al Munirah",
+      "geol5": "Amin Samy St.",
+      "geol6": "Apartment",
+      "unit_type": "Apartment",
+      "lower_limit": "13900000",
+      "Price_Per_Meter": "69500"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Obour City",
+      "geol4": "El Shabab District",
+      "geol6": "Apartment",
+      "unit_type": "Apartment",
+      "lower_limit": "4150000",
+      "Price_Per_Meter": "29640"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Bamboo Palm Hills Compound",
+      "geol6": "iVilla",
+      "unit_type": "iVilla",
+      "lower_limit": "1450000",
+      "Price_Per_Meter": "14500"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Soma Bay",
+      "geol4": "Wadi Jebal",
+      "geol6": "Cabin",
+      "unit_type": "Cabin",
+      "lower_limit": "23400000",
+      "Price_Per_Meter": "86670"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Obour City",
+      "geol4": "6th District",
+      "geol6": "Town House",
+      "unit_type": "Town House",
+      "lower_limit": "24700000",
+      "Price_Per_Meter": "224550"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Obour City",
+      "geol4": "7th District",
+      "geol6": "Apartment",
+      "unit_type": "Apartment",
+      "lower_limit": "13000000",
+      "Price_Per_Meter": "61900"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Obour City",
+      "geol4": "Sakan Masr",
+      "geol6": "Retail",
+      "unit_type": "Retail",
+      "lower_limit": "6500000",
+      "Price_Per_Meter": "36110"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Voke Mall",
+      "geol6": "Retail",
+      "unit_type": "Retail",
+      "lower_limit": "5400000",
+      "Price_Per_Meter": "90000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Heliopolis",
+      "geol4": "Roxy",
+      "geol6": "Apartment",
+      "unit_type": "Apartment",
+      "lower_limit": "24800000",
+      "Price_Per_Meter": "206670"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Makram Ebeid",
+      "geol6": "Studio",
+      "unit_type": "Studio",
+      "lower_limit": "13500000",
+      "Price_Per_Meter": "71050"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Obour City",
+      "geol4": "4th District",
+      "geol6": "Duplex",
+      "unit_type": "Duplex",
+      "lower_limit": "8900000",
+      "Price_Per_Meter": "118670"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Obour City",
+      "geol4": "3rd District",
+      "geol6": "Retail",
+      "unit_type": "Retail",
+      "lower_limit": "5850000",
+      "Price_Per_Meter": "26590"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Hurghada",
+      "geol4": "Hilton Hurghada Resort",
+      "geol6": "Retail",
+      "unit_type": "Retail",
+      "lower_limit": "5150000",
+      "Price_Per_Meter": "93640"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Obour City",
+      "geol4": "New Obour City",
+      "geol5": "El Karama District",
+      "geol6": "Office",
+      "unit_type": "Office",
+      "lower_limit": "7900000",
+      "Price_Per_Meter": "131670"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Hurghada",
+      "geol4": "Grand Gate",
+      "geol6": "Apartment",
+      "unit_type": "Apartment",
+      "lower_limit": "2250000",
+      "Price_Per_Meter": "45000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Green Valley",
+      "geol6": "Stand Alone Villa",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "3350000",
+      "Price_Per_Meter": "30450"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Sharqia",
+      "geol3": "10th of Ramadan",
+      "geol4": "15th District",
+      "geol5": "Area 3",
+      "geol6": "Factory",
+      "unit_type": "Factory",
+      "lower_limit": "17500000",
+      "Price_Per_Meter": "54690"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Calista Gardens",
+      "geol6": "Penthouse",
+      "unit_type": "Penthouse",
+      "lower_limit": "63000000",
+      "Price_Per_Meter": "70000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Heliopolis",
+      "geol4": "Heliopolis Square",
+      "geol5": "Heliopolis Square",
+      "geol6": "Roof",
+      "unit_type": "Roof",
+      "lower_limit": "5700000",
+      "Price_Per_Meter": "31670"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Damietta",
+      "geol3": "Damietta City",
+      "geol4": "Unknown",
+      "geol6": "Restaurant & Cafe",
+      "unit_type": "Restaurant & Cafe",
+      "lower_limit": "7650000",
+      "Price_Per_Meter": "42500"
     }
   ]
 }
