@@ -100549,6 +100549,396 @@
       "avg_price": "0",
       "upper_bound_ci_99": "0",
       "lower_bound_ci_99": "650000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "Nova",
+      "year": "1982",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "81000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "S280",
+      "year": "1985",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "252000"
+    },
+    {
+      "brand": "Jeep",
+      "model": "Wrangler",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3900000"
+    },
+    {
+      "brand": "Baic",
+      "model": "A1",
+      "year": "2018",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "250000"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Juke",
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "500000"
+    },
+    {
+      "brand": "Chery",
+      "model": "A5",
+      "year": "2011",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "150000"
+    },
+    {
+      "brand": "Land Rover",
+      "model": "Range Rover Vogue",
+      "year": "2008",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "945000"
+    },
+    {
+      "brand": "Jeep",
+      "model": "Grand Cherokee",
+      "year": "1992",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "225000"
+    },
+    {
+      "brand": "Suzuki",
+      "model": "Alto",
+      "year": "2003",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "180000"
+    },
+    {
+      "brand": "Jeep",
+      "model": "Grand Cherokee",
+      "year": "1994",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "252000"
+    },
+    {
+      "brand": "Daewoo",
+      "model": "Matiz",
+      "year": "2004",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "180000"
+    },
+    {
+      "brand": "BMW",
+      "model": "730",
+      "year": "1979",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "153000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Octavia",
+      "year": "1990",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "180000"
+    },
+    {
+      "brand": "BMW",
+      "model": "X4M",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2900000"
+    },
+    {
+      "brand": "Lada",
+      "model": "Tavria",
+      "year": "1994",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "49500"
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Pickup",
+      "year": "1994",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "243000"
+    },
+    {
+      "brand": "Changan",
+      "model": "X5 Plus",
+      "year": "2026",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1100000"
+    },
+    {
+      "brand": "BMW",
+      "model": "X5",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "5600000"
+    },
+    {
+      "brand": "BMW",
+      "model": "X5 M",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "5600000"
+    },
+    {
+      "brand": "BMW",
+      "model": "IX3",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "4200000"
+    },
+    {
+      "brand": "Kia",
+      "model": "Ceed",
+      "year": "2024",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1250000"
+    },
+    {
+      "brand": "Skoda",
+      "model": "Yeti",
+      "year": "2016",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "700000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "C43 AMG",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "3900000"
+    },
+    {
+      "brand": "Ford",
+      "model": "Aerostar",
+      "year": "1995",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "288000"
+    },
+    {
+      "brand": "Land Rover",
+      "model": "Discovery",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2700000"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Tercel",
+      "year": "1980",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "81000"
+    },
+    {
+      "brand": "BMW",
+      "model": "X4M",
+      "year": "2020",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2400000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "C200",
+      "year": "1970",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "90000"
+    },
+    {
+      "brand": "Volkswagen",
+      "model": "E Golf",
+      "year": "2009",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "450000"
+    },
+    {
+      "brand": "Peugeot",
+      "model": "208",
+      "year": "2021",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "800000"
+    },
+    {
+      "brand": "Hyundai",
+      "model": "Ioniq 6",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2300000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "230",
+      "year": "2006",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "621000"
+    },
+    {
+      "brand": "Fiat",
+      "model": "1200",
+      "year": "1994",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "94500"
+    },
+    {
+      "brand": "Arcfox",
+      "model": "AS",
+      "year": "2022",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "1500000"
+    },
+    {
+      "brand": "Hyundai",
+      "model": "Ioniq 5",
+      "year": "2025",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "2500000"
+    },
+    {
+      "brand": "Shineray",
+      "model": "X30",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "550000"
+    },
+    {
+      "brand": "Lamborghini",
+      "model": "Huracan",
+      "year": "2027",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "12500000"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "C180",
+      "year": "1981",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "153000"
+    },
+    {
+      "brand": "Hyundai",
+      "model": "Galloper",
+      "year": "1992",
+      "listings_count": "0",
+      "median_price": "0",
+      "avg_price": "0",
+      "upper_bound_ci_99": "0",
+      "lower_bound_ci_99": "306000"
     }
   ]
 }
