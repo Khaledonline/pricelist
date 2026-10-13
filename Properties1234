@@ -65048,7 +65048,7 @@
       "geol4": "Talala",
       "unit_type": "Stand Alone Villa",
       "lower_limit": "9000000",
-      "Price_Per_Meter": "100760"
+      "Price_Per_Meter": "40000"
     },
     {
       "cat": "Apartments for Sale",
@@ -180924,6 +180924,490 @@
       "unit_type": "Stand Alone Villa",
       "lower_limit": "12100000",
       "Price_Per_Meter": "39030"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Darb al-Ahmar",
+      "geol4": "Al Refaey St.",
+      "unit_type": "Apartment",
+      "lower_limit": "1500000",
+      "Price_Per_Meter": "14000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "Livyn",
+      "unit_type": "Clinic",
+      "lower_limit": "3000000",
+      "Price_Per_Meter": "60000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "R7",
+      "geol5": "Venia",
+      "unit_type": "Apartment",
+      "lower_limit": "5550000",
+      "Price_Per_Meter": "39640"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Obour City",
+      "geol4": "9th District",
+      "geol5": "O Cort Mall",
+      "unit_type": "Apartment",
+      "lower_limit": "3400000",
+      "Price_Per_Meter": "30910"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "Rehab Mall 1",
+      "unit_type": "Penthouse",
+      "lower_limit": "6750000",
+      "Price_Per_Meter": "42190"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Madinaty",
+      "geol4": "B8",
+      "unit_type": "Studio",
+      "lower_limit": "4050000",
+      "Price_Per_Meter": "67500"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Tura",
+      "geol4": "Tora Corniche",
+      "unit_type": "Apartment",
+      "lower_limit": "5600000",
+      "Price_Per_Meter": "37330"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Italian Square",
+      "unit_type": "Showroom",
+      "lower_limit": "10300000",
+      "Price_Per_Meter": "85830"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Heliopolis",
+      "geol4": "Roxy",
+      "unit_type": "Office",
+      "lower_limit": "10800000",
+      "Price_Per_Meter": "83080"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Northern Expansions",
+      "geol5": "Gamal Abdel Nasser St.",
+      "unit_type": "Pharmacy",
+      "lower_limit": "2900000",
+      "Price_Per_Meter": "64440"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "3rd District",
+      "unit_type": "Hotel Apartment",
+      "lower_limit": "2350000",
+      "Price_Per_Meter": "36150"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "5th Zone",
+      "geol5": "1st Neighborhood",
+      "unit_type": "Duplex",
+      "lower_limit": "5550000",
+      "Price_Per_Meter": "27750"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Serrano",
+      "unit_type": "Office",
+      "lower_limit": "12200000",
+      "Price_Per_Meter": "110910"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Damietta",
+      "geol3": "New Damietta",
+      "geol4": "6th District",
+      "unit_type": "Restaurant & Cafe",
+      "lower_limit": "6350000",
+      "Price_Per_Meter": "105830"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Hurghada",
+      "geol4": "Titanic Aqua Park Resort",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000",
+      "Price_Per_Meter": "40910"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Hurghada",
+      "geol4": "Hurghada International Airport",
+      "geol5": "Terminal 1 \\Departure\\",
+      "unit_type": "Studio",
+      "lower_limit": "1600000",
+      "Price_Per_Meter": "35560"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Sheraton",
+      "geol4": "Axis Mall",
+      "unit_type": "Office",
+      "lower_limit": "8100000",
+      "Price_Per_Meter": "95290"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Waboor Elmayah",
+      "geol4": "Abo Qir St.",
+      "unit_type": "Apartment",
+      "lower_limit": "4500000",
+      "Price_Per_Meter": "34620"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Madinaty",
+      "geol4": "B7",
+      "unit_type": "Studio",
+      "lower_limit": "2950000",
+      "Price_Per_Meter": "53640"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Capital City",
+      "geol4": "Atika",
+      "unit_type": "Duplex",
+      "lower_limit": "12000000",
+      "Price_Per_Meter": "57140"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Montania park",
+      "unit_type": "Twin House",
+      "lower_limit": "13600000",
+      "Price_Per_Meter": "61820"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Madinaty",
+      "geol4": "B12",
+      "unit_type": "Studio",
+      "lower_limit": "2900000",
+      "Price_Per_Meter": "52730"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Damietta",
+      "geol3": "New Damietta",
+      "geol4": "4rd District",
+      "unit_type": "Retail",
+      "lower_limit": "2000000",
+      "Price_Per_Meter": "50000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Al Motamayez District",
+      "unit_type": "Clinic",
+      "lower_limit": "3300000",
+      "Price_Per_Meter": "55000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Mostakbal City",
+      "geol4": "Sarai",
+      "geol5": "Day2Night",
+      "unit_type": "Studio",
+      "lower_limit": "3250000",
+      "Price_Per_Meter": "50000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Mostakbal City",
+      "geol4": "Sarai",
+      "geol5": "Day2Night",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "6300000",
+      "Price_Per_Meter": "25200"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Red Sea",
+      "geol3": "Hurghada",
+      "geol4": "El Mamsha",
+      "geol5": "Al Dau heights",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "8100000",
+      "Price_Per_Meter": "28930"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Damietta",
+      "geol3": "New Damietta",
+      "geol4": "3rd District",
+      "unit_type": "Duplex",
+      "lower_limit": "4500000",
+      "Price_Per_Meter": "22500"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Suez",
+      "geol3": "Ain Sukhna",
+      "geol4": "Lasirena Palm Beach",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "10800000",
+      "Price_Per_Meter": "43200"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Marsa Alam",
+      "geol4": "Port Ghalib",
+      "unit_type": "Studio",
+      "lower_limit": "2250000",
+      "Price_Per_Meter": "45000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Lake Dream",
+      "unit_type": "Hotel Apartment",
+      "lower_limit": "6100000",
+      "Price_Per_Meter": "71760"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Mivida Compound",
+      "unit_type": "Hotel Apartment",
+      "lower_limit": "12600000",
+      "Price_Per_Meter": "114550"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "3rd Settlement",
+      "geol5": "Queen Valley",
+      "unit_type": "Duplex",
+      "lower_limit": "8900000",
+      "Price_Per_Meter": "42380"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Red Sea",
+      "geol3": "Marsa Alam",
+      "geol4": "Port Ghalib",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "6800000",
+      "Price_Per_Meter": "28330"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Noble",
+      "unit_type": "Twin House",
+      "lower_limit": "26100000",
+      "Price_Per_Meter": "100380"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Laurent",
+      "geol4": "Shaarawy St.",
+      "unit_type": "Office",
+      "lower_limit": "3600000",
+      "Price_Per_Meter": "55380"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Marsa Alam",
+      "geol4": "Marsa Naqari",
+      "geol5": "Oriental Coast",
+      "unit_type": "Apartment",
+      "lower_limit": "5200000",
+      "Price_Per_Meter": "40000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Obour City",
+      "geol4": "1st District",
+      "unit_type": "Retail",
+      "lower_limit": "11800000",
+      "Price_Per_Meter": "147500"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Sky Ramp",
+      "unit_type": "Full Commercial Building",
+      "lower_limit": "10800000",
+      "Price_Per_Meter": "54000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Helmeya al-Gadeda",
+      "geol4": "Seket Rateb Basha Al Kabeer St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2250000",
+      "Price_Per_Meter": "20450"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "1st District",
+      "unit_type": "Retail",
+      "lower_limit": "1650000",
+      "Price_Per_Meter": "47140"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Smoha",
+      "geol4": "Doctor Sayed Fahmy St.",
+      "unit_type": "Apartment",
+      "lower_limit": "4350000",
+      "Price_Per_Meter": "33460"
+    },
+    {
+      "cat": "Vacation Homes for Sale",
+      "geol2": "Matruh",
+      "geol3": "North Coast",
+      "geol4": "Sidi Abdel Rahman",
+      "geol5": "Bianchi",
+      "unit_type": "Duplex",
+      "lower_limit": "13100000",
+      "Price_Per_Meter": "59550"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Obour City",
+      "geol4": "6th District",
+      "unit_type": "Duplex",
+      "lower_limit": "5100000",
+      "Price_Per_Meter": "25500"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Smoha",
+      "geol4": "Green Towers",
+      "unit_type": "Roof",
+      "lower_limit": "6100000",
+      "Price_Per_Meter": "33890"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Minya",
+      "geol3": "Minya City",
+      "geol4": "City Downtown",
+      "unit_type": "Office",
+      "lower_limit": "1200000",
+      "Price_Per_Meter": "26670"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shubra",
+      "geol4": "Al Khalafawy",
+      "unit_type": "Showroom",
+      "lower_limit": "7700000",
+      "Price_Per_Meter": "77000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Salam City",
+      "geol4": "El-Salam Sharkeya",
+      "geol5": "Gesr Al Suez St.",
+      "unit_type": "Retail",
+      "lower_limit": "2350000",
+      "Price_Per_Meter": "52220"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Monufia",
+      "geol3": "Ashmon",
+      "geol4": "Unknown",
+      "unit_type": "Apartment",
+      "lower_limit": "3600000",
+      "Price_Per_Meter": "25710"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Moharam Bik",
+      "geol4": "Al Dawly Al Gadid Road",
+      "unit_type": "Apartment",
+      "lower_limit": "2750000",
+      "Price_Per_Meter": "25000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Darb al-Ahmar",
+      "geol4": "Al Refaey St.",
+      "unit_type": "Warehouse",
+      "lower_limit": "5400000",
+      "Price_Per_Meter": "36000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "3rd Settlement",
+      "geol5": "Arabella Compound",
+      "unit_type": "Retail",
+      "lower_limit": "2500000",
+      "Price_Per_Meter": "62500"
     }
   ]
 }
