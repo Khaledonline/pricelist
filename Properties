@@ -157249,6 +157249,240 @@
       "geol4": "One7 Residence",
       "unit_type": "Town House",
       "lower_limit": "26560000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Heliopolis",
+      "geol4": "El Nozha St.",
+      "unit_type": "Apartment",
+      "lower_limit": "5700000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Hurghada",
+      "geol4": "El Mamsha",
+      "geol5": "Al Dau heights",
+      "unit_type": "Penthouse",
+      "lower_limit": "11400000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Damietta",
+      "geol3": "Damietta City",
+      "geol4": "Unknown",
+      "unit_type": "Duplex",
+      "lower_limit": "3650000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Heliopolis",
+      "geol4": "Ard El Golf",
+      "geol5": "Asmaa Fahmy st",
+      "unit_type": "Apartment",
+      "lower_limit": "3750000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Al Ibrahimiyyah",
+      "geol4": "Adonis St.",
+      "unit_type": "Apartment",
+      "lower_limit": "2750000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "1st Settlement",
+      "geol5": "2nd Neighborhood",
+      "unit_type": "Apartment",
+      "lower_limit": "6300000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Red Sea",
+      "geol3": "Hurghada",
+      "geol4": "Sheraton Rd",
+      "geol5": "El Mafarek St.",
+      "unit_type": "Studio",
+      "lower_limit": "3100000"
+    },
+    {
+      "cat": "Apartments for Sale",
+      "geol2": "Cairo",
+      "geol3": "Heliopolis",
+      "geol4": "El Hegaz Square",
+      "geol5": "Mostafa Al Maghraby St.",
+      "unit_type": "Apartment",
+      "lower_limit": "5400000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Sheikh Zayed",
+      "geol4": "Eden",
+      "unit_type": "Pharmacy",
+      "lower_limit": "15600000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Heliopolis",
+      "geol4": "Ard El Golf",
+      "geol5": "Asmaa Fahmy st",
+      "unit_type": "Full Commercial Building",
+      "lower_limit": "17800000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "Central New Cairo",
+      "unit_type": "Pharmacy",
+      "lower_limit": "53400000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Shorouk City",
+      "geol4": "2nd District",
+      "geol5": "Mercado Mall",
+      "unit_type": "Pharmacy",
+      "lower_limit": "22600000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Cairo University Compound",
+      "unit_type": "Clinic",
+      "lower_limit": "6750000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Nasr City",
+      "geol4": "Mostafa Al Nahas St.",
+      "unit_type": "Clinic",
+      "lower_limit": "4350000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Heliopolis",
+      "geol4": "Beirut Street",
+      "unit_type": "Office",
+      "lower_limit": "21600000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Triumph Pyramids Hotel",
+      "unit_type": "Pharmacy",
+      "lower_limit": "14100000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "New Cairo",
+      "geol4": "5th Settlement",
+      "geol5": "2nd District",
+      "unit_type": "Pharmacy",
+      "lower_limit": "17500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Giza",
+      "geol3": "Hadayek October",
+      "geol4": "Triumph Pyramids Hotel",
+      "unit_type": "Retail",
+      "lower_limit": "1500000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Cairo",
+      "geol3": "Heliopolis",
+      "geol4": "Ahmed Taysir St.",
+      "unit_type": "Retail",
+      "lower_limit": "900000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Waboor Elmayah",
+      "geol4": "Al Shaheed Galal El Desouky St.",
+      "unit_type": "Garage",
+      "lower_limit": "400000"
+    },
+    {
+      "cat": "Commercial for Sale",
+      "geol2": "Alexandria",
+      "geol3": "Moharam Bik",
+      "geol4": "Al Mansheya El Gadeeda St.",
+      "unit_type": "Full Commercial Building",
+      "lower_limit": "3600000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Damietta",
+      "geol3": "New Damietta",
+      "geol4": "Beit Al Watan",
+      "unit_type": "iVilla",
+      "lower_limit": "23500000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Green Belt",
+      "geol5": "Moon Hills 6",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "5200000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Cairo",
+      "geol3": "Obour City",
+      "geol4": "Rawdet El Obour",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "27000000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Red Sea",
+      "geol3": "Hurghada",
+      "geol4": "Intercontinental District",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "6750000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Garana Compound",
+      "unit_type": "Twin House",
+      "lower_limit": "27900000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Giza",
+      "geol3": "6th of October",
+      "geol4": "Bayti",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "2250000"
+    },
+    {
+      "cat": "Villas For Sale",
+      "geol2": "Sinai",
+      "geol3": "Nuweiba",
+      "geol4": "Unknown",
+      "unit_type": "Stand Alone Villa",
+      "lower_limit": "36000000"
     }
   ]
 }
